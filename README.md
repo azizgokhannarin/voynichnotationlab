@@ -45,6 +45,6 @@ See [`experiments/`](experiments/).
 
 ## Research status
 
-**Stage 0 — framework and data preparation.**
+**Stage 1 — first-two-pages baseline and notation-evolution probes.**
 
 No decipherment claim is made.

@@ -1,24 +1,20 @@
-# Data
+# Data provenance
 
-Do not commit manuscript scans or third-party transcriptions without checking their license and attribution requirements.
+Large third-party manuscript images and transliteration corpora are not vendored into this repository by default.
 
-For each imported dataset record:
+## Primary source
 
-- source URL
-- author/maintainer
-- version/date
-- transcription system (EVA, STA, etc.)
-- license/usage terms
-- checksum
-- preprocessing performed
+René Zandbergen, RF1b reference transliteration:
+https://www.voynich.nu/data/sta/RF1b.txt
 
-Suggested layout:
+Documentation:
+https://www.voynich.nu/transcr.html
 
-```
-data/
-  raw/
-  derived/
-  metadata/
-```
+STA1:
+https://www.voynich.nu/data/sta/STA1_def.pdf
 
-Raw third-party data should remain unmodified. Derived data should be reproducible from scripts.
+Analytical alignment alphabet:
+https://www.voynich.nu/extra/sta-aaa.html
+
+Always record source, version, retrieval date, and checksum where possible.
+Never silently substitute another transcription.

@@ -1,41 +1,37 @@
 # Roadmap
 
 ## Phase 0 — Research hygiene
-
 - [x] Define working hypotheses
 - [x] Define falsification-first methodology
-- [x] Define initial experiments
-- [ ] Select primary transcription dataset
-- [ ] Record data licensing and provenance
+- [x] Select RF1b / reduced STA1
+- [x] Record primary data provenance
 
 ## Phase 1 — First two pages
-
-- [ ] Parse f1r/f1v transcription
-- [ ] Build glyph inventory
-- [ ] Build block inventory
+- [x] Parse f1r/f1v
+- [x] Build initial STA inventory
+- [ ] Build analytical-stroke (aaa) inventory
+- [ ] Build recurring block inventory
 - [ ] Measure position preferences
-- [ ] Identify first post-f1v glyph/block appearances
+- [x] Identify first post-f1v STA-code appearances
+- [ ] Normalize innovation rate by text length
 
 ## Phase 2 — Notation evolution
-
-- [ ] Select 3–5 candidate later-appearing glyphs/blocks
-- [ ] Extract early/middle/late samples
-- [ ] Add control glyphs
+- [x] Select first candidate: B4 / EVA-g
+- [ ] Extract early/middle/late same-hand samples
+- [ ] Select control glyphs
 - [ ] Quantify morphology variance
+- [ ] Repeat with additional candidates
 
 ## Phase 3 — Persona/context motifs
-
 - [ ] Define target human-figure contexts
 - [ ] Define matched controls
 - [ ] Measure motif enrichment
 - [ ] Test near-variant motif families
 
 ## Phase 4 — Sound-unit hypotheses
-
 - [ ] Compare single-glyph versus block segmentation
-- [ ] Run conditional entropy / mutual information tests
-- [ ] Test MDL-style segmentation
+- [ ] Conditional entropy / mutual information
+- [ ] MDL-style segmentation
 
 ## Phase 5 — Integrated model
-
-Only after earlier phases produce reproducible results should candidate phonetic values or semantic interpretations be proposed.
+Candidate phonetic values or semantic interpretations only after reproducible earlier results.
