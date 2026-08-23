@@ -13,7 +13,9 @@
 - [ ] Build recurring block inventory
 - [ ] Measure position preferences
 - [x] Identify first post-f1v STA-code appearances
-- [ ] Normalize innovation rate by text length
+- [x] Normalize B4 first-appearance delay under stationary-frequency null
+- [x] Detect D1 / EVA-q gradient across Quire 1 bifolio layers
+- [ ] Replicate D1 bifolio analysis across other standard quires
 
 ## Phase 2 — Notation evolution
 - [x] Select first candidate: B4 / EVA-g
