@@ -1,5 +1,15 @@
 # Changelog
 
+## v0.7 — 2026-08-24
+
+- tested the proposed f78r "şarap otu" reading as a falsifiable semantic anchor;
+- found transcription-boundary ambiguity (`dar` + `al...`) and a critical `darall` astronomical-star-label counterexample;
+- strongly weakened `daral = şarap` without discarding the local phonetic idea;
+- quantified EVA `d`, `da`, and `dy` on the complete RF1b-EVA corpus;
+- found `da` strongly onset-associated and `dy` overwhelmingly token-final/standalone;
+- opened H05 (borrowed technical labels) and H06 (`da` as a sibilant+vowel candidate);
+- added `analyze_phonetic_block.py` and a blind second-opinion prompt.
+
 ## v0.6 — 2026-08-24
 
 - analyzed the complete uploaded RF1b-EVA corpus (5613 lines; SHA-256 recorded);

@@ -45,3 +45,13 @@
 
 ## Phase 5 — Integrated model
 Candidate phonetic values or semantic interpretations only after reproducible earlier results.
+
+## Phase 4B — Phonetic anchor / language loop
+
+- [x] Test f78r `daral...` as a semantic "wine" anchor
+- [x] Reject `daral = wine` as a reliable anchor for now
+- [x] Quantify EVA `da` and `dy` positional structure
+- [x] Open H06: `da` as sibilant+vowel candidate
+- [ ] Confirm the user's visual "8g" example against EVA `dy`
+- [ ] Build language-neutral block inventory by positional entropy / mutual information
+- [ ] Score candidate phoneme assignments against historical European-language phonotactics
