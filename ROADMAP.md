@@ -52,6 +52,8 @@ Candidate phonetic values or semantic interpretations only after reproducible ea
 - [x] Reject `daral = wine` as a reliable anchor for now
 - [x] Quantify EVA `da` and `dy` positional structure
 - [x] Open H06: `da` as sibilant+vowel candidate
-- [ ] Confirm the user's visual "8g" example against EVA `dy`
+- [x] Confirm the user's visual "8g" example against EVA `dy`
+- [x] Test standalone `dy` for line-position confounding
+- [ ] Compare standalone `dy` predecessor/successor contexts against terminal `-dy`
 - [ ] Build language-neutral block inventory by positional entropy / mutual information
 - [ ] Score candidate phoneme assignments against historical European-language phonotactics

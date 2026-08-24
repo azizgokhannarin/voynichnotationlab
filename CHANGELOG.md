@@ -1,5 +1,14 @@
 # Changelog
 
+## v0.8 — 2026-08-24
+
+- visually confirmed the user-highlighted f78r two-glyph token as standalone EVA `dy`;
+- linked the image location to RF1b-EVA locus f78r.13;
+- quantified standalone `dy` line position;
+- found strong line-final enrichment specific to standalone `dy`, while most uses remain line-medial;
+- showed that general `-dy` suffix tokens are not line-final enriched;
+- opened H07 for `dy` as a terminal/short-word block.
+
 ## v0.7 — 2026-08-24
 
 - tested the proposed f78r "şarap otu" reading as a falsifiable semantic anchor;
