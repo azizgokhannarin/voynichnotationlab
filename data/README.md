@@ -18,3 +18,11 @@ https://www.voynich.nu/extra/sta-aaa.html
 
 Always record source, version, retrieval date, and checksum where possible.
 Never silently substitute another transcription.
+
+
+## RF1b full EVA mirror used in v0.4
+
+https://github.com/Workwrite-Niidome/voynich-manuscript-analysis/blob/master/archive/data/RF1b-e.txt
+
+Official transliteration resource index:
+https://www.voynich.nu/transcr.html

@@ -15,7 +15,9 @@
 - [x] Identify first post-f1v STA-code appearances
 - [x] Normalize B4 first-appearance delay under stationary-frequency null
 - [x] Detect D1 / EVA-q gradient across Quire 1 bifolio layers
-- [ ] Replicate D1 bifolio analysis across other standard quires
+- [x] Replicate q/D1 bifolio analysis on Quire 2
+- [ ] Replicate qo bifolio analysis on additional quires
+- [ ] Test whether odd/even bifolio alternation repeats
 
 ## Phase 2 — Notation evolution
 - [x] Select first candidate: B4 / EVA-g
@@ -32,6 +34,7 @@
 
 ## Phase 4 — Sound-unit hypotheses
 - [ ] Compare single-glyph versus block segmentation
+- [x] Promote EVA `qo` to first explicit block candidate
 - [ ] Conditional entropy / mutual information
 - [ ] MDL-style segmentation
 
