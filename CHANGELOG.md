@@ -1,5 +1,21 @@
 # Changelog
 
+## v1.1 — 2026-08-24
+
+- compared atomic EVA, gallows-factor, unique-split and analytical-stroke representations
+  with whole-page five-fold held-out prediction;
+- found no robust global compression winner: best atomic and full analytical models are
+  effectively tied;
+- showed shared gallows components outperform a trivial unique-split control at matched
+  context order;
+- tested all distinct 2x2 gallows factorisations and found the published graphic pairing
+  best/tied-best;
+- found the `p/f` component strongly enriched at token/line starts while the other
+  gallows component is more Currier-state sensitive;
+- upgraded H09 to moderate functional-compositional support while leaving phonetic
+  decomposition open;
+- added H10: a hybrid latent-unit inventory as the primary representation model.
+
 ## v1.0 — 2026-08-24
 
 - incorporated the user-observed clef-like/gallows composite-glyph hypothesis;

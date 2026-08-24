@@ -29,3 +29,22 @@ atomic category, linguistic decomposition is weakened even if graphic decomposit
 
 Graphic compositionality: supported.
 Linguistic/phonetic compositionality: open.
+
+
+## v1.1 quantitative update
+
+A whole-page-held-out prediction test does **not** show a global win for full stroke
+decomposition: best atomic and analytical-stroke compression are effectively tied.
+
+A gallows-specific factor model is more encouraging:
+
+- the graphic 2x2 pairing is best/tied-best among possible pairings;
+- it preserves nearly all contextual predictability with about half the classifier
+  output coefficients;
+- its two component axes correlate differently with position and Currier state.
+
+**Updated status**
+
+- graphic compositionality: supported
+- functional compositionality: moderately supported
+- phonetic compositionality: open

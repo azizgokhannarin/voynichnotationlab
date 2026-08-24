@@ -1,0 +1,7 @@
+first_partition,second_partition,bits_per_occurrence
+"A:{k,f}|{t,p}","B:{k,t}|{f,p}",1.299676
+"B:{k,t}|{f,p}","A:{k,f}|{t,p}",1.299676
+"B:{k,t}|{f,p}","C:{k,p}|{t,f}",1.303962
+"C:{k,p}|{t,f}","B:{k,t}|{f,p}",1.303962
+"A:{k,f}|{t,p}","C:{k,p}|{t,f}",1.819962
+"C:{k,p}|{t,f}","A:{k,f}|{t,p}",1.819962

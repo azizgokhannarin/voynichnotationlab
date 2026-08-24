@@ -76,3 +76,15 @@ Candidate phonetic values or semantic interpretations only after reproducible ea
 - [x] Confirm parallel pedestalled ckh/cth/cph/cfh families
 - [ ] Build atomic-EVA vs decomposed-stroke predictive comparison
 - [ ] Infer latent units before historical-language scoring
+
+## Phase 4E — Hybrid unit inference
+
+- [x] Compare atomic EVA vs full analytical-stroke prediction
+- [x] Add unique-split control for gallows
+- [x] Test all distinct 2x2 gallows factorisations
+- [x] Test contextual prediction of gallows components
+- [x] Reject a global "all strokes are linguistic units" conclusion
+- [x] Promote hybrid latent-unit model (H10)
+- [ ] Score each candidate block independently: qo/ch/sh/da/dy/gallows
+- [ ] Freeze latent-unit inventory
+- [ ] Resume historical-language family scoring
