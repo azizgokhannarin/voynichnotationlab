@@ -166,3 +166,13 @@ Candidate phonetic values or semantic interpretations only after reproducible ea
 - [x] Open H17: residual terminal classes
 - [ ] Gate B2: phonographic-core predictors vs external syntactic-context predictors
 - [ ] Gate C: unsupervised validation of visible spaces
+
+## Phase 4N — Gate B2: phonographic core vs syntax
+- [x] Remove physical line-final occurrences
+- [x] Compare internal-core vs external-context vs manuscript-state prediction
+- [x] Whole-page held-out evaluation
+- [x] Whole-stem held-out evaluation
+- [x] Test residual external information after core-final shape
+- [x] Open H18: core-conditioned terminal phonography
+- [ ] Gate C: validate visible spaces as linguistic boundaries
+- [ ] Freeze structural representation after Gate C

@@ -1,5 +1,14 @@
 # Changelog
 
+## v2.0 — 2026-08-24
+
+- implemented Gate B2 with transparent held-out categorical likelihood models;
+- compared core-internal, external-context and manuscript-state predictors;
+- added whole-stem holdout to require transfer to previously unseen stems;
+- found stronger transferable terminal information in core/rime shape than in local external context;
+- retained smaller residual context/state effects;
+- opened H18 and made Gate C the final structural gate before freezing the representation.
+
 ## v1.9 — 2026-08-24
 
 - implemented Gate B using only non-line-final token occurrences;
