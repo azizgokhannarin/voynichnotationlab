@@ -123,3 +123,13 @@ Candidate phonetic values or semantic interpretations only after reproducible ea
 - [x] Recompute ending-agreement recurrence
 - [ ] Perform one-unit-at-a-time ablation
 - [ ] Freeze only units that improve independent metrics
+
+## Phase 4J — Terminal-y simplification
+- [x] Compare y final-position bias with control glyphs
+- [x] Measure X/Xy productivity and alternate endings
+- [x] Compare X vs Xy predecessor/successor distributions
+- [x] Control line-final and Currier-state effects
+- [x] Demote indivisible DY
+- [x] Open H14: Y_final terminal feature
+- [ ] Strip Y_final and rebuild latent stem families
+- [ ] Re-run or/s/r and agreement probes on stripped stems

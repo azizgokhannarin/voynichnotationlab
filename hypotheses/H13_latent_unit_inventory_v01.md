@@ -44,3 +44,12 @@ unit removals.
 Therefore the inventory remains experimental. QO/DA/DY must be justified mainly by their
 own local association/positional evidence and by later grammatical predictive gains, not
 by a claim of global compression.
+
+
+## v1.6 update
+
+`DY` is demoted as an indivisible latent unit. The stronger working representation is
+`d + Y_final`, because final `y` has its own broad terminal behaviour and removing the
+DY merge improved the v1.5 global metric.
+
+`Y_final` is now carried as a terminal feature for the next stem-family simplification.

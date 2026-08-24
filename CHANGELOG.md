@@ -1,5 +1,13 @@
 # Changelog
 
+## v1.6 — 2026-08-24
+
+- tested EVA `y` as a productive terminal feature against multiple final-glyph controls;
+- measured X/Xy base recurrence, alternate endings and contextual similarity;
+- added line-final and Currier-state controls;
+- demoted `DY` as an indivisible unit and promoted `Y_final` as a terminal feature;
+- opened H14 and defined y-stripped stem-family reconstruction as the next test.
+
 ## v1.5 — 2026-08-24
 
 - applied the first conservative latent-unit segmentation (`QO`, `CH`, `SH`, `DA`, `DY`);
