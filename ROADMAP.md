@@ -214,3 +214,19 @@ Candidate phonetic values or semantic interpretations only after reproducible ea
 - [ ] Hash frozen historical corpus files
 - [ ] Validate normalizer coverage on historical corpora
 - [ ] Implement null generators and mapping search
+
+## Phase 5B — Historical corpus acquisition checkpoint
+- [x] Create authoritative `CORPUS_MANIFEST_SHA256.csv`
+- [x] Separate repository-published checksums from locally computed SHA-256
+- [x] Record ReN v1.1 TEI repository MD5
+- [x] Freeze LatinISE v6 before mapping search
+- [x] Add deterministic local hashing/freezing utility
+- [x] Mark Old Czech bulk acquisition explicitly blocked
+- [ ] Materialize ReF payload and compute local SHA-256
+- [ ] Materialize ReN payload, verify MD5, compute SHA-256
+- [ ] Materialize BFM2022 TEI collection and compute payload manifest hash
+- [ ] Materialize DanteSearch TEI payload and compute SHA-256
+- [ ] Materialize LatinISE v6 payload and compute SHA-256
+- [ ] Resolve Old Czech stable export or retain blocked status
+- [ ] Record 1300–1500 filtered token counts
+- [ ] Unlock null generator / mapping search

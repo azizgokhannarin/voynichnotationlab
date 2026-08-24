@@ -233,3 +233,20 @@ with:
 - license/access note.
 
 Until this manifest exists, Phase 5 remains in PREPARATION state.
+
+# Acquisition clarification — v2.4
+
+This checkpoint was created before any Voynich-to-language mapping search.
+
+Two rules are now explicit:
+
+1. A `local_sha256` is valid only after the actual corpus payload has been acquired locally.
+2. Repository-published checksums are recorded separately and are never relabeled as SHA-256.
+
+For LatinISE, Campaign 1 freezes the current repository release available before search
+execution: **LatinISE corpus version 6 (2026-04-29)**. Earlier v5 references remain provenance
+history only; no mapping score has yet been run.
+
+For ReF, the authoritative project/ISLRN provenance identifies the 2021 Version 1.x release
+family; the acquisition manifest records the exact payload/version once the Zenodo file is
+materialized. No language score may be run before that field is complete.

@@ -1,5 +1,15 @@
 # Changelog
 
+## v2.4 — 2026-08-25
+
+- created the authoritative Campaign-1 historical corpus acquisition manifest;
+- separated published repository checksums from local SHA-256 provenance;
+- recorded the official ReN v1.1 TEI MD5 and source payload;
+- froze LatinISE version 6 as the pre-search Latin release;
+- added local corpus hashing/freezing and checksum-verification utilities;
+- explicitly marked Old Czech bulk acquisition blocked rather than substituting modern data;
+- kept Campaign 1 mapping search locked until exact local payload hashes and filtered token counts exist.
+
 ## v2.3 — 2026-08-25
 
 - froze concrete Campaign-1 historical corpora before language mapping search;
