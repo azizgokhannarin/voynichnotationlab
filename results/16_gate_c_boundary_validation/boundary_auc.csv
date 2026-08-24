@@ -1,0 +1,5 @@
+metric,AUC_true_space_vs_internal
+branch2,0.8332548792073522
+branch1,0.8326885225717313
+branch3,0.8054808809822462
+cross_surprisal,0.7368045345233204

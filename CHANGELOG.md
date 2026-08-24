@@ -1,5 +1,14 @@
 # Changelog
 
+## v2.1 — 2026-08-24
+
+- implemented Gate C with visible spaces hidden from the statistical model;
+- treated each line as a continuous glyph stream and scored all possible cuts;
+- used whole-page holdout plus page-level AUC bootstrap;
+- found above-chance recovery of visible manuscript spaces from glyph statistics alone;
+- opened H19 and retained visible spaces as meaningful generative boundaries;
+- froze structural representation v1 before constrained historical-language search.
+
 ## v2.0 — 2026-08-24
 
 - implemented Gate B2 with transparent held-out categorical likelihood models;

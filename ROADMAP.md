@@ -176,3 +176,13 @@ Candidate phonetic values or semantic interpretations only after reproducible ea
 - [x] Open H18: core-conditioned terminal phonography
 - [ ] Gate C: validate visible spaces as linguistic boundaries
 - [ ] Freeze structural representation after Gate C
+
+## Phase 4O — Gate C: visible-boundary validation
+- [x] Remove spaces from glyph-stream training representation
+- [x] Score every possible inter-glyph cut
+- [x] Use forward/backward branching entropy and cross-transition surprisal
+- [x] Whole-page held-out evaluation
+- [x] Page-level AUC bootstrap
+- [x] Open H19: visible spaces are meaningful generative boundaries
+- [x] Freeze structural representation v1
+- [ ] Phase 5: preregister constrained historical-language campaign 1
