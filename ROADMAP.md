@@ -133,3 +133,14 @@ Candidate phonetic values or semantic interpretations only after reproducible ea
 - [x] Open H14: Y_final terminal feature
 - [ ] Strip Y_final and rebuild latent stem families
 - [ ] Re-run or/s/r and agreement probes on stripped stems
+
+## Phase 4K — Terminal-class decomposition
+- [x] Strip one terminal from provisional n/m/y/r/l/s class
+- [x] Measure surface-vocabulary collapse
+- [x] Count recurrent 2+/3+/4+ ending stem families
+- [x] Add non-terminal suffix-stripping control
+- [x] Re-run or/s/r stem overlap
+- [x] Probe subject-candidate × terminal dependencies
+- [x] Run one-terminal-at-a-time ablation
+- [ ] Build stem × terminal × functional-class matrix
+- [ ] Test recurrent agreement templates across independent stems

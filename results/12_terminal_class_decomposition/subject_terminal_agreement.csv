@@ -1,0 +1,7 @@
+a,b,differential_stems,median_TV,top_ending_contrast_patterns
+or,s,2,0.25371360665478315,r->l:1; n->r:1
+s,r,1,0.5168067226890757,r->n:1
+s,ar,1,0.17647058823529413,r->n:1
+or,r,0,,
+or,ar,0,,
+r,ar,0,,

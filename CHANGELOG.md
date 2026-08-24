@@ -1,5 +1,14 @@
 # Changelog
 
+## v1.7 — 2026-08-24
+
+- decomposed tokens into stem + provisional terminal feature (`n/m/y/r/l/s/Ø`);
+- quantified vocabulary collapse and productive multi-ending stem families;
+- added a non-terminal suffix-stripping control and one-terminal ablations;
+- showed the `or/s/r` functional paradigm survives stem normalization;
+- added direct subject-candidate × terminal-distribution tests;
+- opened H15 and defined the stem × terminal × functional-class matrix as the next step.
+
 ## v1.6 — 2026-08-24
 
 - tested EVA `y` as a productive terminal feature against multiple final-glyph controls;
