@@ -1,5 +1,14 @@
 # Changelog
 
+## v1.9 — 2026-08-24
+
+- implemented Gate B using only non-line-final token occurrences;
+- tested stem-terminal dependence against a Currier and local-context conditioned permutation null;
+- found strong residual stem-specific terminal structure after layout normalization;
+- quantified low-dimensional terminal-profile classes;
+- reran subject/ending analysis with line-final successors excluded and found no clean person agreement;
+- opened H17 and split the next question into phonographic-vs-syntactic terminal prediction.
+
 ## v1.8 — 2026-08-24
 
 - implemented Gate A inspired by a blind external second opinion: ask what predicts terminal choice;

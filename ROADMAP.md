@@ -155,3 +155,14 @@ Candidate phonetic values or semantic interpretations only after reproducible ea
 - [x] Revise terminal model from homogeneous suffix class to mixed linguistic + notation features
 - [ ] Gate B: remove/condition layout-driven terminal effects before paradigm clustering
 - [ ] Gate C: independently validate visible spaces with unsupervised boundary inference
+
+## Phase 4M — Gate B: residual terminal structure
+- [x] Remove all physical line-final occurrences
+- [x] Build non-line-final stem × terminal matrix
+- [x] Test I(stem;terminal) against Currier/context-conditioned permutation null
+- [x] Measure residual terminal-profile block structure
+- [x] Cluster terminal profiles transparently
+- [x] Re-run or/s/r ending probe without line-final successors
+- [x] Open H17: residual terminal classes
+- [ ] Gate B2: phonographic-core predictors vs external syntactic-context predictors
+- [ ] Gate C: unsupervised validation of visible spaces
