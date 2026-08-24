@@ -114,3 +114,12 @@ Candidate phonetic values or semantic interpretations only after reproducible ea
 - [x] Reject any claim of person agreement until recurrence across many stem families
 - [ ] Repeat with latent-unit endings instead of raw EVA endings
 - [ ] Estimate overt-subject coverage of clause-like sequences
+
+## Phase 4I — Latent-unit segmentation v0.1
+- [x] Freeze conservative units QO/CH/SH/DA/DY
+- [x] Retokenize complete RF1b-EVA corpus
+- [x] Recompute short-token length/classes
+- [x] Recompute subject-family similarity
+- [x] Recompute ending-agreement recurrence
+- [ ] Perform one-unit-at-a-time ablation
+- [ ] Freeze only units that improve independent metrics

@@ -1,5 +1,14 @@
 # Changelog
 
+## v1.5 — 2026-08-24
+
+- applied the first conservative latent-unit segmentation (`QO`, `CH`, `SH`, `DA`, `DY`);
+- kept gallows atomic at token level while retaining modifier interpretation separately;
+- recomputed short-token repertoire and functional classes in latent units;
+- reran `or/s/r` predicate-family similarity using latent endings;
+- reran repeated subject-candidate × ending contrasts;
+- added H13 and a required one-unit-at-a-time ablation plan.
+
 ## v1.4 — 2026-08-24
 
 - inferred conservative suffixal predicate/morphological stem families from EVA alone;
