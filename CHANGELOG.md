@@ -1,5 +1,15 @@
 # Changelog
 
+## v2.3 — 2026-08-25
+
+- froze concrete Campaign-1 historical corpora before language mapping search;
+- selected ReF + ReN for West Germanic, BFM2022 + DanteSearch for Romance,
+  Old Czech Text Bank 1.1.27 for West Slavic, and LatinISE for Latin;
+- designated Corpus Corporum as a Latin robustness resource only;
+- froze family aggregation rules to prevent dialect cherry-picking;
+- froze coarse historical phonographic normalizers PHONO-*-v1;
+- generated the deterministic page-level 60/20/20 Voynich split manifest.
+
 ## v2.2 — 2026-08-25
 
 - preregistered Phase 5 constrained historical-language Campaign 1 before language search;

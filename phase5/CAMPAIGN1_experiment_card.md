@@ -41,3 +41,14 @@ Must beat:
 - manual test-set adjustment
 - post-hoc representation changes
 - isolated word resemblance as evidence
+
+## Frozen concrete resources
+See `CORPUS_FREEZE_campaign1.md`.
+
+## Frozen target normalizers
+See `PHONOGRAPHIC_NORMALIZATION_v1.md`.
+
+## Frozen Voynich split
+See `voynich_page_split_manifest.csv` and `VOYNICH_SPLIT_FREEZE.md`.
+
+Search remains blocked until historical corpus exports/files are locally frozen and hashed.

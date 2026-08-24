@@ -201,3 +201,16 @@ Candidate phonetic values or semantic interpretations only after reproducible ea
 - [ ] Implement null generators
 - [ ] Implement mapping search / beam search
 - [ ] Run Campaign 1
+
+## Phase 5A — Corpus and phonographic freeze
+- [x] Freeze ReF + ReN for West Germanic
+- [x] Freeze BFM2022 + DanteSearch for Romance
+- [x] Freeze Old Czech Text Bank v1.1.27 for West Slavic
+- [x] Freeze LatinISE for Latin; Corpus Corporum as robustness only
+- [x] Freeze family-level aggregation rules
+- [x] Freeze coarse historical phonographic normalizers v1
+- [x] Generate deterministic 60/20/20 Voynich page split manifest
+- [ ] Acquire/export every primary historical corpus locally
+- [ ] Hash frozen historical corpus files
+- [ ] Validate normalizer coverage on historical corpora
+- [ ] Implement null generators and mapping search
