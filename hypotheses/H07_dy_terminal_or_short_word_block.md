@@ -23,3 +23,11 @@ line-medial. Therefore line geometry must be controlled before assigning linguis
 ## Status
 
 Structurally supported; phonetic value open.
+
+
+## v0.9 correction
+
+EVA `y` itself is 85.6% token-final, so `dy` terminality cannot be attributed solely to
+the pair. However, a positional control still gives an exploratory odds ratio of ~69.7
+for `d` immediately preceding final `y`. The pair therefore remains structurally
+over-associated, but `y` must be modeled as a terminal-class glyph in every phonetic test.

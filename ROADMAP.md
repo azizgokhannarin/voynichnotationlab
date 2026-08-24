@@ -57,3 +57,13 @@ Candidate phonetic values or semantic interpretations only after reproducible ea
 - [ ] Compare standalone `dy` predecessor/successor contexts against terminal `-dy`
 - [ ] Build language-neutral block inventory by positional entropy / mutual information
 - [ ] Score candidate phoneme assignments against historical European-language phonotactics
+
+## Phase 4C — Rime-family / language-family loop
+
+- [x] Control `dy` for EVA-y terminal bias
+- [x] Confirm `dy` remains over-associated after positional control
+- [x] Identify replaceable-onset `-aiin/-ain/-air/-ar/-al/-am` families
+- [x] Record a low-confidence West Germanic `ein/sein/mein/kein/dein` probe
+- [ ] Infer onset/rime classes without language assumptions
+- [ ] Score West Germanic against Romance, Slavic and other historical European controls
+- [ ] Reject any language model that requires ad-hoc remapping

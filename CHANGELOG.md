@@ -1,5 +1,15 @@
 # Changelog
 
+## v0.9 — 2026-08-24
+
+- corrected `dy` analysis for the strong independent terminal bias of EVA `y`;
+- showed `dy` remains highly over-associated at token ends after positional control;
+- quantified the strong token-onset `d+a` association;
+- identified replaceable-onset/common-rime families around `aiin`, `ain`, `air`, `ar`, `al`, and `am`;
+- recorded a deliberately low-confidence West Germanic `ein/sein/mein/kein/dein` probe;
+- immediately subjected that probe to Currier-state, line-position, and extra-family controls;
+- added `probe_rime_family.py` and an `aiin` family CSV.
+
 ## v0.8 — 2026-08-24
 
 - visually confirmed the user-highlighted f78r two-glyph token as standalone EVA `dy`;
