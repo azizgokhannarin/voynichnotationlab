@@ -1,5 +1,16 @@
 # Changelog
 
+## v2.2 — 2026-08-25
+
+- preregistered Phase 5 constrained historical-language Campaign 1 before language search;
+- froze West Germanic, Romance, West Slavic, and Latin as primary candidate zones;
+- froze the 1300–1500 CE primary historical window;
+- defined whole-page 60/20/20 train-validation-test discipline;
+- defined mapping flexibility, complexity penalties, null models, stopping rules, and
+  advancement/rejection criteria;
+- explicitly prohibited post-hoc representation changes, per-word remapping, and held-out
+  manual adjustment.
+
 ## v2.1 — 2026-08-24
 
 - implemented Gate C with visible spaces hidden from the statistical model;

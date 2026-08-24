@@ -186,3 +186,18 @@ Candidate phonetic values or semantic interpretations only after reproducible ea
 - [x] Open H19: visible spaces are meaningful generative boundaries
 - [x] Freeze structural representation v1
 - [ ] Phase 5: preregister constrained historical-language campaign 1
+
+## Phase 5 — Constrained historical-language Campaign 1
+- [x] Freeze structural representation v1
+- [x] Preregister candidate language families
+- [x] Preregister historical time window
+- [x] Preregister mapping flexibility and complexity limits
+- [x] Preregister whole-page train/validation/test protocol
+- [x] Preregister matched null models
+- [x] Preregister advancement/rejection criteria
+- [x] Preregister anti-overfitting commitments
+- [ ] Freeze concrete historical corpora and phonological normalizers
+- [ ] Generate fixed page split manifest
+- [ ] Implement null generators
+- [ ] Implement mapping search / beam search
+- [ ] Run Campaign 1
