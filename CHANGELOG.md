@@ -1,5 +1,14 @@
 # Changelog
 
+## v1.0 — 2026-08-24
+
+- incorporated the user-observed clef-like/gallows composite-glyph hypothesis;
+- connected it to the independent analytical alignment alphabet;
+- demonstrated large k/t/p/f substitution families in RF1b-EVA;
+- demonstrated parallel pedestalled ckh/cth/cph/cfh substitution families;
+- opened H09 for graphic vs linguistic gallows compositionality;
+- changed the decipherment pipeline to infer latent units before language scoring.
+
 ## v0.9 — 2026-08-24
 
 - corrected `dy` analysis for the strong independent terminal bias of EVA `y`;

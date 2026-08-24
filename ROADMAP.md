@@ -67,3 +67,12 @@ Candidate phonetic values or semantic interpretations only after reproducible ea
 - [ ] Infer onset/rime classes without language assumptions
 - [ ] Score West Germanic against Romance, Slavic and other historical European controls
 - [ ] Reject any language model that requires ad-hoc remapping
+
+## Phase 4D — Composite gallows / latent-unit model
+
+- [x] Record user-supplied visual gallows hypothesis
+- [x] Verify independent analytical-stroke decomposition
+- [x] Identify k/t/p/f substitution families
+- [x] Confirm parallel pedestalled ckh/cth/cph/cfh families
+- [ ] Build atomic-EVA vs decomposed-stroke predictive comparison
+- [ ] Infer latent units before historical-language scoring
