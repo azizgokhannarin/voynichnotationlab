@@ -97,3 +97,12 @@ Candidate phonetic values or semantic interpretations only after reproducible ea
 - [x] Weaken current German-style separable-particle candidates
 - [x] Open H11
 - [ ] Repeat after hybrid latent-unit resegmentation
+
+## Phase 4G — Subject/pronoun paradigm
+- [x] Build short-token predecessor/successor distributions
+- [x] Search for non-trivial distributionally similar pairs
+- [x] Open H12: explicit-subject/pronoun paradigm
+- [ ] Infer predicate-like continuation classes
+- [ ] Search for 3–6-member pronoun-like closed paradigms
+- [ ] Test pro-drop vs non-pro-drop structural predictions
+- [ ] Only then test third-person gender/context effects

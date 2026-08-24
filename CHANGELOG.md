@@ -1,5 +1,13 @@
 # Changelog
 
+## v1.3 — 2026-08-24
+
+- added an explicit-subject / personal-pronoun distributional probe;
+- compared short-token predecessor and +1/+2 successor distributions;
+- searched for non-trivial short-token paradigms rather than spelling matches;
+- added H12 and a pro-drop vs non-pro-drop discrimination plan;
+- separated grammatical-gender testing from illustration-driven semantic guessing.
+
 ## v1.2 — 2026-08-24
 
 - reduced frequent 1–3 EVA-glyph tokens to behavioural edge/context classes;
