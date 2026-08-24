@@ -1,5 +1,14 @@
 # Changelog
 
+## v1.2 — 2026-08-24
+
+- reduced frequent 1–3 EVA-glyph tokens to behavioural edge/context classes;
+- quantified short-vocabulary concentration;
+- tested right-edge candidates for 1–6-token lexical selectivity;
+- tested joined/separated surface correspondences inspired by German separable particles;
+- weakened that explanation for the current high-frequency candidates;
+- opened H11 and made latent-unit resegmentation the next simplification test.
+
 ## v1.1 — 2026-08-24
 
 - compared atomic EVA, gallows-factor, unique-split and analytical-stroke representations

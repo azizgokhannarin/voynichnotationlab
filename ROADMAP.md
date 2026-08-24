@@ -88,3 +88,12 @@ Candidate phonetic values or semantic interpretations only after reproducible ea
 - [ ] Score each candidate block independently: qo/ch/sh/da/dy/gallows
 - [ ] Freeze latent-unit inventory
 - [ ] Resume historical-language family scoring
+
+## Phase 4F — Short-token simplification
+- [x] Quantify 1–3 EVA-glyph vocabulary concentration
+- [x] Build edge/context behavioural classes
+- [x] Test 1–6-token preceding-stem selectivity
+- [x] Test joined/separated surface-form correspondence
+- [x] Weaken current German-style separable-particle candidates
+- [x] Open H11
+- [ ] Repeat after hybrid latent-unit resegmentation
