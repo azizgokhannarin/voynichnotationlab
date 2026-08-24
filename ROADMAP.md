@@ -144,3 +144,14 @@ Candidate phonetic values or semantic interpretations only after reproducible ea
 - [x] Run one-terminal-at-a-time ablation
 - [ ] Build stem × terminal × functional-class matrix
 - [ ] Test recurrent agreement templates across independent stems
+
+## Phase 4L — Gate A: terminal cause (grammar vs layout/state)
+- [x] Hold stem identity fixed
+- [x] Compare page-held-out terminal prediction from layout, local functional context and Currier state
+- [x] Quantify residual line-position information after Currier state
+- [x] Run within-stem stratified line-final tests for each terminal
+- [x] Identify extreme line-final conditioning of EVA `m`
+- [x] Open H16: line-conditioned terminal layer
+- [x] Revise terminal model from homogeneous suffix class to mixed linguistic + notation features
+- [ ] Gate B: remove/condition layout-driven terminal effects before paradigm clustering
+- [ ] Gate C: independently validate visible spaces with unsupervised boundary inference

@@ -1,5 +1,15 @@
 # Changelog
 
+## v1.8 — 2026-08-24
+
+- implemented Gate A inspired by a blind external second opinion: ask what predicts terminal choice;
+- compared stem-conditioned layout, local functional-context and Currier-state predictors with whole-page holdout;
+- found strong residual line-position and manuscript-state information;
+- found EVA `m` extraordinarily enriched at line endings within the same stems;
+- showed `m` commonly alternates in families that also contain `r/l`, but with radically different line-final rates;
+- opened H16 and changed the terminal model from a homogeneous suffix class to a mixed linguistic/notational layer;
+- made layout-conditioned terminal normalization mandatory before Gate-B morphology clustering.
+
 ## v1.7 — 2026-08-24
 
 - decomposed tokens into stem + provisional terminal feature (`n/m/y/r/l/s/Ø`);
