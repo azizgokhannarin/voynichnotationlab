@@ -16,8 +16,13 @@
 - [x] Normalize B4 first-appearance delay under stationary-frequency null
 - [x] Detect D1 / EVA-q gradient across Quire 1 bifolio layers
 - [x] Replicate q/D1 bifolio analysis on Quire 2
-- [ ] Replicate qo bifolio analysis on additional quires
-- [ ] Test whether odd/even bifolio alternation repeats
+- [x] Replicate qo bifolio analysis on Quire 3 using complete RF1b-EVA
+- [x] Run full-corpus Q×B×L×H qo scan
+- [x] Select Quire 3 as clean next replication set
+- [x] Mark Quire 4 as hand/language-confounded and require stratification
+- [x] Test Q2 odd/even suggestion on Q3 (not replicated)
+- [ ] Compare qo followers on Q1/B1 vs matched A/hand-1 herbal pages
+- [ ] Compare alternative initial blocks (ok/ot/ch/sh) on Q1/B1
 
 ## Phase 2 — Notation evolution
 - [x] Select first candidate: B4 / EVA-g

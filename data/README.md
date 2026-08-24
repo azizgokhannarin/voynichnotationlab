@@ -26,3 +26,14 @@ https://github.com/Workwrite-Niidome/voynich-manuscript-analysis/blob/master/arc
 
 Official transliteration resource index:
 https://www.voynich.nu/transcr.html
+
+
+## Exact local input used for v0.6
+
+- filename: `RF1b-e.txt`
+- header: `#=IVTFF Eva- 2.0 D 9`
+- line count: 5613
+- SHA-256: `e7d3238e35743e06c63367a933909ec37b1e2de7ada3a1b449447eafa1918782`
+
+The corpus is intentionally not included in release ZIPs. Reproduce by placing the exact
+file locally and verifying the checksum above.

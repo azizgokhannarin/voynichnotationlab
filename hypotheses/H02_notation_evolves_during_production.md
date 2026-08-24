@@ -27,3 +27,17 @@ Bound folio order is not assumed to equal production chronology.
 ## Status
 
 Open. B4 / EVA-g selected as first candidate probe.
+
+
+## Update — v0.6
+
+The universal version of this hypothesis is weakened by cross-quire `qo` analysis.
+
+- Q1: monotonic outer->inner increase.
+- Q2: non-monotonic low/high pattern.
+- Q3: clean A/hand-1 replication is non-monotonic.
+- Q4: hand/language-confounded.
+
+The remaining interesting signal is **localized to Q1's outer bifolio**, not a generic
+bifolio-depth law. Future tests should ask whether Q1/B1 differs in multiple prefix/block
+families or specifically in `qo`.

@@ -57,3 +57,12 @@ Each quantitative experiment should document:
 ## Interpretation discipline
 
 A statistical association between a motif and a visual context does **not** by itself establish semantic meaning. It only establishes that the motif is context-sensitive.
+
+
+## Cross-quire confound rule
+
+Any frequency comparison by physical bifolio must report proposed hand and
+Currier/RZ language state. A physical-layer effect is not interpreted as
+notation evolution when the same layer contrast also changes hand or text state.
+
+Clean replication sets are preferred before mixed sets.
