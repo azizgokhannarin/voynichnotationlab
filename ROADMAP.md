@@ -106,3 +106,11 @@ Candidate phonetic values or semantic interpretations only after reproducible ea
 - [ ] Search for 3–6-member pronoun-like closed paradigms
 - [ ] Test pro-drop vs non-pro-drop structural predictions
 - [ ] Only then test third-person gender/context effects
+
+## Phase 4H — Subject/predicate agreement
+- [x] Infer suffixal stem families without a dictionary
+- [x] Compare short candidates in predicate-family space
+- [x] Search for subject-candidate × stem-family ending preferences
+- [x] Reject any claim of person agreement until recurrence across many stem families
+- [ ] Repeat with latent-unit endings instead of raw EVA endings
+- [ ] Estimate overt-subject coverage of clause-like sequences

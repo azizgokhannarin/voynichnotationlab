@@ -1,5 +1,14 @@
 # Changelog
 
+## v1.4 — 2026-08-24
+
+- inferred conservative suffixal predicate/morphological stem families from EVA alone;
+- compared short-token candidates by the stem families that immediately follow them;
+- added the first direct subject-candidate × predicate-ending agreement probe;
+- found meaningful predicate-family overlap and isolated ending preferences;
+- did not find a clean repeated person-agreement paradigm;
+- made latent-unit resegmentation the required next control before stronger grammatical claims.
+
 ## v1.3 — 2026-08-24
 
 - added an explicit-subject / personal-pronoun distributional probe;

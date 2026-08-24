@@ -29,3 +29,26 @@ most clause-like units systematically lack any overt short subject candidate.
 ## Status
 
 Open; distributional search started in v1.3.
+
+
+## v1.4 update
+
+A suffix-family probe was added to search directly for `subject candidate -> stem family
+-> ending variant` dependencies.
+
+Some short-token pairs share inferred stem families strongly, and isolated differential
+ending preferences exist. No clean repeated person-agreement paradigm has yet emerged.
+
+The hypothesis remains open; agreement is not claimed.
+
+
+### Priority candidate after v1.4 robustness check
+
+`or / s / r` is an unusually coherent distributional trio in inferred following-stem
+space (cosines ~0.95–0.96, above the global 99th-percentile threshold).
+
+This promotes the trio as a functional-paradigm candidate, but not specifically as
+`I/he/she` or any other pronoun set.
+
+Person/agreement requires repeated ending contrasts across many independent latent
+predicate families.
