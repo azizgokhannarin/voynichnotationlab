@@ -1,0 +1,32 @@
+{
+  "schema": "GENERATION_VS_LATENT_CONTENT_CHECKPOINT_v1",
+  "date": "2026-08-26",
+  "final_test_used": false,
+  "findings": {
+    "cross_line_context_gain_bits_per_line_start": -0.014013738237894856,
+    "cross_line_gain_ci95": [
+      -0.036220113254993476,
+      0.007548780031542085
+    ],
+    "distant_context_gain_bits_per_token": -0.016497283144410346,
+    "distant_context_gain_ci95": [
+      -0.028828542195026355,
+      -0.003483869626240935
+    ],
+    "procedural_vs_continuous_gain_bits_per_token": 0.05806170854913262,
+    "hybrid_vs_procedural_gain_bits_per_token": -0.0010193926052233238,
+    "simple_generator_metrics_inside_95pct": 4,
+    "simple_generator_metrics_compared": 18
+  },
+  "closures": [
+    "Surface-level continuous language-like dependency across Voynich line breaks is unsupported.",
+    "Distant class context at lags 2-4 provides no held-out predictive gain after local/positional features.",
+    "A simple line-reset first-order class/position procedural generator is insufficient to reproduce the full Voynich validation signature."
+  ],
+  "still_open": [
+    "Natural language behind a substantial surface transformation/representation layer.",
+    "A richer procedural generator with explicit copy-modify, line-final realization, vocabulary innovation, and/or latent line-state rules.",
+    "A hybrid mechanism in which content-bearing input is rendered through a strongly line-aware generative notation."
+  ],
+  "next_discriminator": "mechanism augmentation/ablation ladder with preregistered held-out metrics"
+}

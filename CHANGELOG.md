@@ -1,5 +1,21 @@
 # Changelog
 
+## v4.3 — 2026-08-26
+
+- tested line-reset behavior with TRAIN-learned, frozen distributional token classes;
+- found no held-out predictive gain from the previous line's final class at the next line start;
+- tested distant-context gain after local class, line-position and token-shape information;
+- found that lags 2–4 slightly worsen held-out prediction;
+- directly compared continuous language-like, line-local procedural and hybrid predictive models;
+- found the line-local procedural model best on VALIDATION;
+- fitted a TRAIN-only procedural generator and generated 200 validation-size surrogate corpora;
+- found that the simple generator reproduces immediate class behavior but only 4/18 broader
+  validation metrics;
+- rejected both a plain continuous surface-language model and a simple first-order line-local
+  generator as sufficient explanations;
+- retained transformed natural-language, richer procedural generation and hybrid mechanisms;
+- used no final-test manuscript pages.
+
 ## v4.2 — 2026-08-26
 
 - preregistered Latin as a confirmation test rather than an exploratory language search;

@@ -1,0 +1,175 @@
+{
+  "schema": "PROCEDURAL_GENERATOR_SURROGATE_v1",
+  "final_test_used": false,
+  "generator_fit_on": "TRAIN only",
+  "validation_layout_condition": "actual VALIDATION line lengths only; no validation token identities/order used",
+  "generator_state": "line reset + previous distributional class + position bucket + line-length bucket; token emission by class/position",
+  "explicitly_not_fit": "near-duplicate adjacency, exact-repeat rate, vocabulary size/growth, entropy, MI lags 2-5, repetition distance",
+  "n_surrogates": 200,
+  "real_vs_surrogates": {
+    "unique_types": {
+      "real": 2605,
+      "surrogate_mean": 2378.215,
+      "surrogate_sd": 28.379495305041,
+      "z": 7.991156909676136,
+      "surrogate_q025": 2325.975,
+      "surrogate_q975": 2438.025,
+      "inside_95pct": false
+    },
+    "hapax_fraction": {
+      "real": 0.7136276391554702,
+      "surrogate_mean": 0.6015364770145969,
+      "surrogate_sd": 0.008412315185903638,
+      "z": 13.324650784447833,
+      "surrogate_q025": 0.5844994940147629,
+      "surrogate_q975": 0.6174588849336962,
+      "inside_95pct": false
+    },
+    "token_entropy_bits": {
+      "real": 9.840664883524752,
+      "surrogate_mean": 9.823834686464991,
+      "surrogate_sd": 0.031364780749139086,
+      "z": 0.5365953996098964,
+      "surrogate_q025": 9.771834252872747,
+      "surrogate_q975": 9.887266361350632,
+      "inside_95pct": true
+    },
+    "mean_token_length": {
+      "real": 4.180753027909426,
+      "surrogate_mean": 4.191658767772512,
+      "surrogate_sd": 0.01890417493730223,
+      "z": -0.5768958391072718,
+      "surrogate_q025": 4.159067272248552,
+      "surrogate_q975": 4.229081095313322,
+      "inside_95pct": true
+    },
+    "token_length_JS_vs_train": {
+      "real": 0.0006886175474527589,
+      "surrogate_mean": 0.0002989129152961907,
+      "surrogate_sd": 0.00012263233719186377,
+      "z": 3.1778292828820334,
+      "surrogate_q025": 9.881589322070731e-05,
+      "surrogate_q975": 0.0005404666019988881,
+      "inside_95pct": false
+    },
+    "first_unit_JS_vs_train": {
+      "real": 0.0017778381824093774,
+      "surrogate_mean": 0.0007919261421577886,
+      "surrogate_sd": 0.00018585554163975886,
+      "z": 5.304722321180867,
+      "surrogate_q025": 0.00044904279864559484,
+      "surrogate_q975": 0.0011660159296053994,
+      "inside_95pct": false
+    },
+    "last_unit_JS_vs_train": {
+      "real": 0.0016981720336240176,
+      "surrogate_mean": 0.0008368847921950045,
+      "surrogate_sd": 0.0002069672587649917,
+      "z": 4.161466149614477,
+      "surrogate_q025": 0.0004595806518008918,
+      "surrogate_q975": 0.0013340253452904553,
+      "inside_95pct": false
+    },
+    "adjacent_exact_repeat_rate": {
+      "real": 0.009433962264150943,
+      "surrogate_mean": 0.00567711503347535,
+      "surrogate_sd": 0.0009945011632055975,
+      "z": 3.7776197451253495,
+      "surrogate_q025": 0.004108338405356056,
+      "surrogate_q975": 0.0074596774193548395,
+      "inside_95pct": false
+    },
+    "adjacent_edit_distance1_nonidentical_rate": {
+      "real": 0.04640900791235545,
+      "surrogate_mean": 0.027122641509433963,
+      "surrogate_sd": 0.002276348883267418,
+      "z": 8.472500215010227,
+      "surrogate_q025": 0.02328058429701765,
+      "surrogate_q975": 0.03150106512477176,
+      "inside_95pct": false
+    },
+    "line_final_m_rate": {
+      "real": 0.150390625,
+      "surrogate_mean": 0.0717529296875,
+      "surrogate_sd": 0.007743453658460861,
+      "z": 10.155377533198868,
+      "surrogate_q025": 0.056640625,
+      "surrogate_q975": 0.0879150390625,
+      "inside_95pct": false
+    },
+    "internal_m_final_rate": {
+      "real": 0.008216676810712111,
+      "surrogate_mean": 0.01932288496652465,
+      "surrogate_sd": 0.0017052718227980816,
+      "z": -6.51286675082041,
+      "surrogate_q025": 0.01628119293974437,
+      "surrogate_q975": 0.02267574558734023,
+      "inside_95pct": false
+    },
+    "line_final_m_ratio": {
+      "real": 18.303096064814817,
+      "surrogate_mean": 3.7430179870478497,
+      "surrogate_sd": 0.5288553648762004,
+      "z": 27.53130448279622,
+      "surrogate_q025": 2.815173778044872,
+      "surrogate_q975": 4.830011880179186,
+      "inside_95pct": false
+    },
+    "median_within_line_repeat_distance": {
+      "real": 3.0,
+      "surrogate_mean": 2.9925,
+      "surrogate_sd": 0.4296706112487265,
+      "z": 0.017455231527711494,
+      "surrogate_q025": 2.0,
+      "surrogate_q975": 4.0,
+      "inside_95pct": true
+    },
+    "class_mi_lag1": {
+      "real": 0.08420100455874074,
+      "surrogate_mean": 0.09468850957282798,
+      "surrogate_sd": 0.00634459896347943,
+      "z": -1.6529815476841119,
+      "surrogate_q025": 0.0826831054345594,
+      "surrogate_q975": 0.10699764995590709,
+      "inside_95pct": true
+    },
+    "class_mi_lag2": {
+      "real": 0.04907573241291576,
+      "surrogate_mean": 0.029062177420060804,
+      "surrogate_sd": 0.0029336388274550534,
+      "z": 6.822092346731318,
+      "surrogate_q025": 0.024040229199096614,
+      "surrogate_q975": 0.034703999562231,
+      "inside_95pct": false
+    },
+    "class_mi_lag3": {
+      "real": 0.045118917326594385,
+      "surrogate_mean": 0.03176065851999028,
+      "surrogate_sd": 0.0030340836754567595,
+      "z": 4.4027325003134985,
+      "surrogate_q025": 0.02605036287103437,
+      "surrogate_q975": 0.038097800532230344,
+      "inside_95pct": false
+    },
+    "class_mi_lag4": {
+      "real": 0.05652689548703992,
+      "surrogate_mean": 0.03785608792647518,
+      "surrogate_sd": 0.003570563149855218,
+      "z": 5.229093220581135,
+      "surrogate_q025": 0.03152217644468593,
+      "surrogate_q975": 0.04470243116866028,
+      "inside_95pct": false
+    },
+    "class_mi_lag5": {
+      "real": 0.06200351566005282,
+      "surrogate_mean": 0.04599471223557398,
+      "surrogate_sd": 0.0043191743921371095,
+      "z": 3.7064498839459348,
+      "surrogate_q025": 0.036707354093569206,
+      "surrogate_q975": 0.05492221068517045,
+      "inside_95pct": false
+    }
+  },
+  "metrics_inside_95pct": 4,
+  "metrics_compared": 18
+}

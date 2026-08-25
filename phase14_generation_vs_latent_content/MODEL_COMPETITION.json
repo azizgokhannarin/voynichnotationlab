@@ -1,0 +1,63 @@
+{
+  "schema": "MODEL_COMPETITION_v1",
+  "final_test_used": false,
+  "validation_tokens": 7596,
+  "models": {
+    "UNIGRAM_POSITION": {
+      "bits_per_token": 2.7610553014313437,
+      "accuracy": 0.4574776197998947,
+      "encoded_coefficient_count": 165,
+      "features": [
+        "line_start",
+        "pos_bucket",
+        "line_len_bucket"
+      ]
+    },
+    "N_CONTINUOUS_LANGUAGE_LIKE": {
+      "bits_per_token": 2.7487293697047024,
+      "accuracy": 0.4543180621379673,
+      "encoded_coefficient_count": 720,
+      "features": [
+        "cont_prev1",
+        "cont_prev2",
+        "cont_prev3"
+      ]
+    },
+    "G_LINE_LOCAL_PROCEDURAL": {
+      "bits_per_token": 2.6906676611555698,
+      "accuracy": 0.455897840968931,
+      "encoded_coefficient_count": 1440,
+      "features": [
+        "line_start",
+        "line_prev1",
+        "pos_bucket",
+        "line_len_bucket",
+        "prev_tok_len_bucket",
+        "prev_first",
+        "prev_last"
+      ]
+    },
+    "HYBRID_G_PLUS_DISTANT": {
+      "bits_per_token": 2.691687053760793,
+      "accuracy": 0.4557661927330174,
+      "encoded_coefficient_count": 2640,
+      "features": [
+        "line_start",
+        "line_prev1",
+        "line_prev2",
+        "line_prev3",
+        "pos_bucket",
+        "line_len_bucket",
+        "prev_tok_len_bucket",
+        "prev_first",
+        "prev_last",
+        "cont_prev1",
+        "cont_prev2",
+        "cont_prev3"
+      ]
+    }
+  },
+  "winner": "G_LINE_LOCAL_PROCEDURAL",
+  "procedural_vs_continuous_gain_bits_per_token": 0.05806170854913262,
+  "hybrid_vs_procedural_gain_bits_per_token": -0.0010193926052233238
+}

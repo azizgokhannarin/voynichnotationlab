@@ -430,3 +430,16 @@ Candidate phonetic values or semantic interpretations only after reproducible ea
 - [x] Stop direct language search at current representation level
 - [ ] Design discriminating test: transformed natural language vs procedural/template generation
 - [ ] Keep final-test manuscript pages sealed until a new representation model is frozen
+
+## Generation vs latent-content checkpoint
+- [x] Line-reset held-out test
+- [x] Distant-context predictive-gain test
+- [x] Continuous-language vs line-local-procedural model competition
+- [x] TRAIN-only procedural generator surrogate
+- [x] Freeze simple-generator failures on held-out metrics
+- [ ] Preregister mechanism augmentation/ablation ladder
+- [ ] Add line-final realization only
+- [ ] Add copy/modify adjacency only
+- [ ] Add productive vocabulary innovation only
+- [ ] Add one latent line-level state only
+- [ ] Compare marginal held-out gains before combining mechanisms

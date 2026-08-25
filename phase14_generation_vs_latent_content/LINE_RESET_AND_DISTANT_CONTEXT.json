@@ -1,0 +1,42 @@
+{
+  "schema": "LINE_RESET_AND_DISTANT_CONTEXT_v1",
+  "final_test_used": false,
+  "line_reset": {
+    "validation_line_starts": 979,
+    "reset_prior_bits_per_start": 2.1409231338562735,
+    "prev_line_conditioned_bits_per_start": 2.1549368720941677,
+    "cross_line_gain_bits_per_start": -0.014013738237894856,
+    "bootstrap_gain_ci95": [
+      -0.036220113254993476,
+      0.007548780031542085
+    ],
+    "matched_within_line_transition_gain_bits": 0.02415635981226421,
+    "matched_within_line_n": 893
+  },
+  "distant_context": {
+    "validation_samples": 4027,
+    "local_bits_per_token": 2.7830787818148375,
+    "distant_bits_per_token": 2.799576064959248,
+    "distant_gain_bits_per_token": -0.016497283144410346,
+    "bootstrap_gain_ci95": [
+      -0.028828542195026355,
+      -0.003483869626240935
+    ],
+    "local_accuracy": 0.433573379687112,
+    "distant_accuracy": 0.4291035510305438,
+    "accuracy_gain": -0.004469828656568198,
+    "local_features": [
+      "prev1",
+      "pos_bucket",
+      "line_len_bucket",
+      "prev_tok_len_bucket",
+      "prev_first",
+      "prev_last"
+    ],
+    "distant_extra": [
+      "prev2",
+      "prev3",
+      "prev4"
+    ]
+  }
+}
