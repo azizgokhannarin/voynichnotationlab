@@ -276,3 +276,18 @@ Candidate phonetic values or semantic interpretations only after reproducible ea
 - [ ] Implement fixed-complexity mapping optimizer / beam search
 - [ ] Run train/validation only
 - [ ] Freeze mapping before opening final test
+
+## Phase 5G — Frozen mapping engine
+- [x] Freeze structural serializer
+- [x] Freeze trigram target model / add-0.25 smoothing
+- [x] Freeze complexity function / lambda
+- [x] Freeze beam width 256 / max two NULL units
+- [x] Implement train-only partial-state pruning
+- [x] Implement validation-only complete-state selection
+- [x] Beam optimum equals exhaustive optimum on finite regression fixture
+- [x] Deterministic mapping SHA-256
+- [x] Final-test access/mutation guard
+- [x] Re-run all frozen null invariants
+- [ ] Serialize the real RF1b frozen structural representation
+- [ ] Run real TRAIN/VALIDATION branch searches
+- [ ] Freeze mappings before final-test access

@@ -1,5 +1,18 @@
 # Changelog
 
+## v2.9 — 2026-08-25
+
+- froze the Campaign-1 primary mapping-search hypothesis class before real language scoring;
+- implemented deterministic `C1-STRUCT-v1` serialization;
+- froze trigram/add-0.25 target phonotactics, beam width 256, max two NULL units,
+  and complexity lambda 0.015;
+- implemented train-only beam pruning and validation-only complete-mapping selection;
+- added exhaustive-search oracle regression on a small complete mapping space;
+- verified beam optimum equals exhaustive optimum and mapping hashes are deterministic;
+- implemented final-test freeze/mutation guard;
+- reran all matched-null regression tests successfully;
+- computed no real Voynich→historical-language score.
+
 ## v2.8 — 2026-08-25
 
 - froze Campaign-1 matched null specification before any language mapping score;
