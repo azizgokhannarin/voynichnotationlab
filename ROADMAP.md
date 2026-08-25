@@ -306,3 +306,17 @@ Candidate phonetic values or semantic interpretations only after reproducible ea
 - [x] Stop Campaign 1 before final test because primary null Z is undefined
 - [ ] Draft and preregister Campaign 2 corrected null/scoring design
 - [ ] Do not open final test until a new valid campaign explicitly permits it
+
+## Campaign 2 — Minimal decisive experiment
+- [x] Freeze Campaign-2 preregistration
+- [x] Freeze terminal failure / return-to-assumptions rule
+- [x] Entropy-budget diagnostic (non-gating)
+- [x] Weak surrogate N=500
+- [x] Slot surrogate N=500
+- [x] Positive/negative calibration requirement
+- [x] Holm family alpha=0.01
+- [ ] Implement deterministic surrogate/calibration generators
+- [ ] Pass fixture invariants
+- [ ] Run instrument calibration
+- [ ] Run validation experiment
+- [ ] Stop or hash-freeze and open final test once

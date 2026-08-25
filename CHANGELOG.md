@@ -1,5 +1,18 @@
 # Changelog
 
+## v3.1 — 2026-08-25
+
+- preregistered minimal Campaign 2 with one primary experiment and two controls;
+- froze selection-inclusive weak and slot-grammar surrogate tests at N=500 each;
+- froze positive/negative instrument calibration;
+- computed a non-gating entropy-budget diagnostic;
+- froze Holm family-level alpha=0.01 advancement criteria;
+- explicitly abandoned Campaign-1 Null B/D repairs, further structural gates, new corpora,
+  parameter sweeps, context rules and lexical exceptions;
+- froze terminal failure rule: failed validation ends this historical-language phonographic
+  test family and returns the project to pre-language assumptions;
+- final-test pages remain sealed.
+
 ## v3.0 — 2026-08-25
 
 - reproduced the frozen 38,462-token RF1b page manifest exactly and froze the real `C1-STRUCT-v1` stream hash;

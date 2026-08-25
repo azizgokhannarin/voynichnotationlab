@@ -1,0 +1,13 @@
+{
+  "train": {
+    "independent_slot_bits_per_unit": 3.255038608566936,
+    "first_order_bits_per_unit": 2.6685789522599626,
+    "budget_bits_per_unit": 0.5864596563069733
+  },
+  "validation": {
+    "independent_slot_bits_per_unit": 3.2326495422025197,
+    "first_order_bits_per_unit": 2.6685494588853778,
+    "budget_bits_per_unit": 0.5641000833171419
+  },
+  "status": "diagnostic_only_not_a_gate"
+}
