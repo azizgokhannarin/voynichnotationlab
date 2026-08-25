@@ -1,5 +1,15 @@
 # Changelog
 
+## v3.3 — 2026-08-25
+
+- aligned production positive calibration with the preregistered approximately-37-symbol source inventory by activating exactly 37 deterministic aliases;
+- froze a 1536-token per-branch production calibration protocol (1024 mapping-train / 512 validation), excluded from target-LM training;
+- completed 500 selection-inclusive weak-null draws for every positive calibration; all five positives had zero null hits and `p=1/501`;
+- matched negatives all reached the irreversible five-hit failure boundary and were not false positives;
+- declared ReF, ReN, BFM, Dante and Latin calibration instruments VALID;
+- froze raw calibration values SHA-256 `c18cf2e50527d8c49a50f8391a251c5596d72d6835180a1f32fbbd3647deb02e`;
+- kept Voynich final-test pages sealed.
+
 ## v3.2 — 2026-08-25
 
 - implemented deterministic Campaign-2 weak and independent-slot surrogate generators;

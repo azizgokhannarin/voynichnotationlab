@@ -333,3 +333,16 @@ Candidate phonetic values or semantic interpretations only after reproducible ea
 - [ ] Run real instrument calibration
 - [ ] If valid, run N=500 weak + N=500 slot validation
 - [ ] Stop or hash-freeze and open final test once
+
+## Campaign 2 production calibration
+- [x] Freeze 37-active-source production calibration protocol
+- [x] ReF positive PASS / negative rejected
+- [x] ReN positive PASS / negative rejected
+- [x] BFM positive PASS / negative rejected
+- [x] Dante positive PASS / negative rejected
+- [x] Latin positive PASS / negative rejected
+- [x] Instrument validity gate PASS
+- [ ] Run real Voynich weak-surrogate validation N=500/branch
+- [ ] Run real Voynich slot-surrogate validation N=500/branch
+- [ ] Apply family aggregation + Holm alpha=0.01
+- [ ] Stop or hash-freeze and open final test once
