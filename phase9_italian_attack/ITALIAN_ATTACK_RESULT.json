@@ -1,0 +1,117 @@
+{
+  "schema": "ITALIAN-CALIBRATED-ATTACK-v1",
+  "final_test_used": false,
+  "objective": "continuous explicit-word-boundary PHONO-OIT trigram",
+  "step0": {
+    "final_test_used": false,
+    "voynich_inventory": 37,
+    "italian_inventory": 19,
+    "strict_injective_full_key_possible": false,
+    "voynich_Hcond": 2.3856957607260134,
+    "italian_Hcond": 2.818222920258388
+  },
+  "positive_control": {
+    "mapping_accuracy": 0.918918918918919,
+    "heldout_exact_token_recovery": 0.9878,
+    "phrase": {
+      "metrics": {
+        "token_count": 5000,
+        "lexical_hits": 4955,
+        "lexical_hit_rate": 0.991,
+        "eligible_bigrams": 4413,
+        "attested_bigrams": 4388,
+        "bigram_rate": 0.9943349195558577,
+        "eligible_trigrams": 3880,
+        "attested_trigrams": 3846,
+        "trigram_rate": 0.9912371134020619,
+        "longest_lexical_run": 10,
+        "longest_attested_bigram_chain": 10
+      },
+      "bigram_z": 102.77180808485612,
+      "trigram_z": 303.17495335559744
+    }
+  },
+  "voynich": {
+    "validation_lm_loss": 3.9924006814134736,
+    "random_validation_mean": 7.117951652488423,
+    "random_validation_sd": 0.4508915300815547,
+    "lm_z_vs_random": 6.931935426929882,
+    "mapping": {
+      "CH": "T",
+      "DA": "T",
+      "QO": "I",
+      "SH": "M",
+      "a": "T",
+      "b": "M",
+      "c": "O",
+      "cfh": "R",
+      "cfhh": "U",
+      "ckh": "R",
+      "ckhh": "E",
+      "cph": "R",
+      "cphh": "K",
+      "cth": "S",
+      "cthh": "L",
+      "d": "S",
+      "e": "A",
+      "f": "L",
+      "g": "A",
+      "h": "K",
+      "i": "E",
+      "j": "U",
+      "k": "N",
+      "l": "O",
+      "m": "E",
+      "n": "N",
+      "o": "I",
+      "p": "S",
+      "q": "F",
+      "r": "O",
+      "s": "A",
+      "t": "N",
+      "u": "U",
+      "v": "M",
+      "x": "L",
+      "y": "I",
+      "z": "P"
+    },
+    "train_phrase": {
+      "metrics": {
+        "token_count": 22716,
+        "lexical_hits": 7082,
+        "lexical_hit_rate": 0.31176263426659623,
+        "eligible_bigrams": 2243,
+        "attested_bigrams": 367,
+        "bigram_rate": 0.16362015158270174,
+        "eligible_trigrams": 800,
+        "attested_trigrams": 10,
+        "trigram_rate": 0.0125,
+        "longest_lexical_run": 54,
+        "longest_attested_bigram_chain": 7
+      },
+      "bigram_z": 0.5901441495051171,
+      "trigram_z": 1.3330143099694611,
+      "null_bigram_mean": 0.16026145513204246,
+      "null_trigram_mean": 0.008176093944909034
+    },
+    "validation_phrase": {
+      "metrics": {
+        "token_count": 7596,
+        "lexical_hits": 2419,
+        "lexical_hit_rate": 0.31845708267509215,
+        "eligible_bigrams": 782,
+        "attested_bigrams": 113,
+        "bigram_rate": 0.1445012787723785,
+        "eligible_trigrams": 247,
+        "attested_trigrams": 0,
+        "trigram_rate": 0.0,
+        "longest_lexical_run": 7,
+        "longest_attested_bigram_chain": 5
+      },
+      "bigram_z": -0.05796062861699255,
+      "trigram_z": -0.6076514585149732,
+      "null_bigram_mean": 0.14525332259947596,
+      "null_trigram_mean": 0.0020622687744642917
+    }
+  }
+}

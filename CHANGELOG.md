@@ -1,5 +1,15 @@
 # Changelog
 
+## v3.8 — 2026-08-25
+
+- transferred the calibrated bounded-homophonic attack to historical Italian (DanteSearch);
+- discovered on the positive control that the previous token-reset trigram objective could fit within-token phonotactics without reliably recovering Italian;
+- corrected the objective before Voynich scoring to a continuous explicit-word-boundary PHONO-OIT trigram;
+- recovered 91.9% of the known Italian source key and 98.8% of held-out control tokens;
+- froze the Voynich TRAIN mapping and evaluated unchanged on VALIDATION;
+- added explicit cross-language convergence tracking;
+- used no final-test manuscript pages.
+
 ## v3.7 — 2026-08-25
 
 - incorporated five independent cryptanalytic reviews before closing the German hypothesis;

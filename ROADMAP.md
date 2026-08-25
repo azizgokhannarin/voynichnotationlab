@@ -388,3 +388,12 @@ Candidate phonetic values or semantic interpretations only after reproducible ea
 - [x] Full-coverage phrase-order challenge vs line-local shuffle
 - [x] Close simple/bounded-homophonic German at frozen-unit/fixed-boundary level
 - [ ] Return to hypothesis inventory before selecting the next language/model
+
+## Cross-language calibrated attacks
+- [x] Historical German (ReF/ReN)
+- [x] Historical Italian (DanteSearch)
+- [ ] Medieval French (BFM2022)
+- [ ] Medieval Latin (LatinISE)
+- [ ] Medieval Spanish / Castilian
+- [ ] Middle English
+- [ ] After three independently calibrated language targets, evaluate cross-language convergence

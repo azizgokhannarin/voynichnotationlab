@@ -1,0 +1,20 @@
+{
+  "German_ReF": {
+    "lm_z_vs_random": 5.068193244890912,
+    "phrase_bigram_z": -0.8444048099335845,
+    "phrase_trigram_z": 0.4921437179547058
+  },
+  "German_ReN": {
+    "lm_z_vs_random": 5.627739591040675,
+    "phrase_bigram_z": 0.7023555838344946,
+    "phrase_trigram_z": -0.15391009589363705
+  },
+  "Italian_Dante": {
+    "lm_z_vs_random": 6.931935426929882,
+    "phrase_bigram_z": -0.05796062861699255,
+    "phrase_trigram_z": -0.6076514585149732,
+    "lexical_hit_rate": 0.31845708267509215,
+    "longest_lexical_run": 7,
+    "longest_attested_bigram_chain": 5
+  }
+}

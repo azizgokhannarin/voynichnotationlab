@@ -1,0 +1,10 @@
+{
+  "decision": "CLOSE_SIMPLE_BOUNDED_HOMOPHONIC_ITALIAN_AT_FROZEN_UNIT_FIXED_BOUNDARY_LEVEL",
+  "final_test_used": false,
+  "validation": {
+    "lm_z_vs_random": 6.931935426929882,
+    "bigram_z": -0.05796062861699255,
+    "trigram_z": -0.6076514585149732,
+    "lexical_hit_rate": 0.31845708267509215
+  }
+}
