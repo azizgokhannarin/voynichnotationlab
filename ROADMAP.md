@@ -241,3 +241,14 @@ Candidate phonetic values or semantic interpretations only after reproducible ea
 - [ ] Acquire/freeze LatinISE v6 locally
 - [ ] Complete ReF/ReN historical-window token extraction
 - [ ] Resolve Old Czech acquisition or retain blocked status
+
+## Phase 5D — Latin corpus local freeze
+- [x] Freeze LatinISE v6 local payload and SHA-256
+- [x] Verify `latin14.txt` against published LINDAT MD5
+- [x] Parse historical date/century metadata
+- [x] Freeze 1300–1500-overlap subset (61 docs)
+- [x] Record LatinISE selected token count (667715)
+- [ ] Complete ReF/ReN historical-window extraction
+- [ ] Resolve Old Czech acquisition or retain blocked status
+- [ ] Validate all PHONO-*-v1 normalizers
+- [ ] Unlock null generators / mapping search

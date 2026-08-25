@@ -1,5 +1,14 @@
 # Changelog
 
+## v2.6 — 2026-08-25
+
+- locally froze the LatinISE v6 Campaign-1 payload;
+- verified `latin14.txt` against the published LINDAT MD5;
+- computed local ZIP and payload SHA-256 values;
+- parsed LatinISE `<doc>` metadata and applied the preregistered 1300–1500 date-overlap filter;
+- recorded 61 selected documents and 667715 vertical token lines;
+- added the frozen LatinISE historical-window manifest without running any Voynich-language search.
+
 ## v2.5 — 2026-08-25
 
 - locally froze BFM2022 and DanteSearch official Campaign-1 payloads;
