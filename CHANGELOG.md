@@ -1,5 +1,20 @@
 # Changelog
 
+## v3.7 — 2026-08-25
+
+- incorporated five independent cryptanalytic reviews before closing the German hypothesis;
+- demonstrated that strict 37-source injectivity is mathematically impossible against the
+  frozen 19-unit PHONO-WG target inventory;
+- added label-invariant Step-0 entropy/frequency diagnostics;
+- implemented full-key bounded-homophonic stochastic search with max multiplicity 3;
+- calibrated the solver on genuine ReF and ReN passages encoded into matched 37-symbol ciphers;
+- showed strong held-out phrase recovery on known German positive controls;
+- applied the calibrated search separately to ReF and ReN on Voynich TRAIN and held-out VALIDATION;
+- found thousands of German-looking lexical hits but no held-out German phrase-order lift above
+  line-local shuffle;
+- closed simple/bounded-homophonic German substitution at the frozen-unit/fixed-boundary level;
+- used no final-test manuscript pages.
+
 ## v3.6 — 2026-08-25
 
 - challenged the first attractive ReN anchor chains at phrase/context level;

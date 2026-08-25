@@ -374,3 +374,17 @@ Candidate phonetic values or semantic interpretations only after reproducible ea
 - [x] Reject isolated lexical hits without phrase propagation
 - [ ] Run phrase-coherence screen across strongest Round-0 anchors in all branches
 - [ ] Manually inspect only anchors surviving lexical + held-out + phrase criteria
+
+## German final attack
+- [x] Independent-review blind-spot synthesis
+- [x] Inventory pigeonhole check
+- [x] Unigram / conditional-entropy sanity check
+- [x] Replace strict injectivity with bounded homophony (max 3)
+- [x] Replace greedy completion as rejection instrument with full-key stochastic search
+- [x] ReF known-German positive calibration
+- [x] ReN known-German positive calibration
+- [x] ReF Voynich TRAIN search + frozen VALIDATION
+- [x] ReN Voynich TRAIN search + frozen VALIDATION
+- [x] Full-coverage phrase-order challenge vs line-local shuffle
+- [x] Close simple/bounded-homophonic German at frozen-unit/fixed-boundary level
+- [ ] Return to hypothesis inventory before selecting the next language/model

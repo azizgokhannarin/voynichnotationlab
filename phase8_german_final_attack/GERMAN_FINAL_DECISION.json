@@ -1,0 +1,30 @@
+{
+  "schema": "GERMAN-FINAL-DECISION-v1",
+  "date": "2026-08-25",
+  "final_test_used": false,
+  "scope": "frozen units + fixed boundaries + deterministic one-target-per-source + max3 homophony",
+  "strict_injective_full_key_possible": false,
+  "positive_controls": {
+    "ReF": {
+      "phrase_bigram_z": 11.711909448936538,
+      "phrase_trigram_z": 31.046530375806867
+    },
+    "ReN": {
+      "phrase_bigram_z": 37.72112325728345,
+      "phrase_trigram_z": 128.70556576650554
+    }
+  },
+  "voynich_validation": {
+    "ReF": {
+      "lm_z_vs_random": 5.068193244890912,
+      "phrase_bigram_z": -0.8444048099335845,
+      "phrase_trigram_z": 0.4921437179547058
+    },
+    "ReN": {
+      "lm_z_vs_random": 5.627739591040675,
+      "phrase_bigram_z": 0.7023555838344946,
+      "phrase_trigram_z": -0.15391009589363705
+    }
+  },
+  "decision": "CLOSE_SIMPLE_BOUNDED_HOMOPHONIC_GERMAN_AT_FROZEN_UNIT_FIXED_BOUNDARY_LEVEL"
+}

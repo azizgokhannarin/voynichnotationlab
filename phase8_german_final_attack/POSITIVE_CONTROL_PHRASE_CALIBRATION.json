@@ -1,0 +1,34 @@
+{
+  "ReN": {
+    "metrics": {
+      "lexical_hit_rate": 0.7584,
+      "eligible_bigrams": 2572,
+      "attested_bigrams": 1566,
+      "bigram_rate": 0.6088646967340591,
+      "eligible_trigrams": 1703,
+      "attested_trigrams": 683,
+      "trigram_rate": 0.40105695830886673,
+      "longest_lexical_run": 10
+    },
+    "bigram_z": 37.72112325728345,
+    "trigram_z": 128.70556576650554,
+    "null_bigram_mean": 0.3357120480864345,
+    "null_trigram_mean": 0.018125418516300076
+  },
+  "ReF": {
+    "metrics": {
+      "lexical_hit_rate": 0.6516,
+      "eligible_bigrams": 1934,
+      "attested_bigrams": 777,
+      "bigram_rate": 0.40175801447776627,
+      "eligible_trigrams": 1123,
+      "attested_trigrams": 179,
+      "trigram_rate": 0.15939447907390916,
+      "longest_lexical_run": 10
+    },
+    "bigram_z": 11.711909448936538,
+    "trigram_z": 31.046530375806867,
+    "null_bigram_mean": 0.3043784043218832,
+    "null_trigram_mean": 0.02021209598556323
+  }
+}
