@@ -1,0 +1,23 @@
+{
+  "mapping_accuracy": 0.8918918918918919,
+  "heldout_exact_token_recovery": 0.9648,
+  "validation_lm_loss": 2.5099135215747297,
+  "validation_lm_z_vs_random": 17.822215445192427,
+  "phrase": {
+    "metrics": {
+      "token_count": 5000,
+      "lexical_hits": 4895,
+      "lexical_hit_rate": 0.979,
+      "eligible_bigrams": 4313,
+      "attested_bigrams": 4233,
+      "bigram_rate": 0.9814514259216323,
+      "eligible_trigrams": 3750,
+      "attested_trigrams": 3589,
+      "trigram_rate": 0.9570666666666666,
+      "longest_lexical_run": 10,
+      "longest_attested_bigram_chain": 10
+    },
+    "bigram_z": 76.58890501861906,
+    "trigram_z": 203.56993764712342
+  }
+}

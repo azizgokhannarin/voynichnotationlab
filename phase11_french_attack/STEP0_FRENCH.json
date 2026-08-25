@@ -1,0 +1,10 @@
+{
+  "voynich_inventory": 37,
+  "french_inventory": 18,
+  "strict_injective_full_key_possible": false,
+  "voynich_H1": 3.9893108698221984,
+  "french_H1": 3.70187236309936,
+  "voynich_Hcond": 2.3856957607260134,
+  "french_Hcond": 2.860959773074116,
+  "delta_Hcond_target_minus_voynich": 0.47526401234810267
+}

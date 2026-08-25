@@ -1,5 +1,16 @@
 # Changelog
 
+## v4.0 — 2026-08-26
+
+- calibrated and executed the common bounded-homophonic attack on medieval French (BFM2022);
+- confirmed strong recovery and phrase coherence on a matched known-French positive control;
+- found strong French-LM / lexical fit for Voynich but no robust held-out French phrase-order lift;
+- closed French at the frozen-unit/fixed-boundary bounded-homophonic level;
+- compared German, Italian and French under the same calibrated objective;
+- recorded three-language-family convergence as evidence against the shared single-phonographic-unit
+  fixed-boundary model rather than as support for a particular language;
+- used no final-test manuscript pages.
+
 ## v3.9 — 2026-08-26
 
 - re-baselined ReF and ReN under the same continuous explicit-boundary objective used for Italian;

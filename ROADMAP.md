@@ -404,3 +404,10 @@ Candidate phonetic values or semantic interpretations only after reproducible ea
 - [x] Italian calibrated attack
 - [ ] French calibrated attack
 - [ ] After French, evaluate three-language convergence before selecting the next target
+
+## Three-language convergence checkpoint
+- [x] German common-objective attack
+- [x] Italian common-objective attack
+- [x] French common-objective attack
+- [x] Cross-language convergence analysis
+- [ ] Decide whether Latin is a confirmation control or return directly to notation-model assumptions
