@@ -1,0 +1,19 @@
+{
+  "voynich_inventory": 37,
+  "latin_inventory": 19,
+  "strict_injective_full_key_possible": false,
+  "voynich_H1": 3.9893108698221984,
+  "latin_H1": 3.857777000753958,
+  "voynich_Hcond": 2.3856957607260134,
+  "latin_Hcond": 3.070725259238203,
+  "delta_Hcond_target_minus_voynich": 0.6850294985121894,
+  "preregistered_lm_z_band": [
+    6.5,
+    9.0
+  ],
+  "preregistered_phrase_z_band": [
+    -1.0,
+    2.5
+  ],
+  "reopen_rule": "held-out bigram_z >=5 AND trigram_z >=5, supported by multiple distinct attested ngrams"
+}

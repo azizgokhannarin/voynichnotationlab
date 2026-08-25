@@ -421,3 +421,12 @@ Candidate phonetic values or semantic interpretations only after reproducible ea
 - [x] Frozen-class shuffle significance
 - [ ] Optional preregistered Latin confirmation
 - [ ] After confirmation, stop direct language search at this representation level
+
+## Direct language-search closure
+- [x] Preregister Latin confirmation prediction
+- [x] Calibrate on known Latin
+- [x] Run Voynich -> Latin with frozen TRAIN/VALIDATION protocol
+- [x] Confirm generic-fit / no-phrase-order prediction
+- [x] Stop direct language search at current representation level
+- [ ] Design discriminating test: transformed natural language vs procedural/template generation
+- [ ] Keep final-test manuscript pages sealed until a new representation model is frozen

@@ -1,0 +1,95 @@
+{
+  "schema": "FOUR_LANGUAGE_CONFIRMATION_v1",
+  "final_test_used": false,
+  "latin_prediction": {
+    "lm_z_expected": [
+      6.5,
+      9.0
+    ],
+    "phrase_z_expected": [
+      -1.0,
+      2.5
+    ],
+    "observed_lm_z": 7.716247854205592,
+    "observed_bigram_z": 0.1363974488366301,
+    "observed_trigram_z": 0.3006118560701461,
+    "prediction_confirmed": true
+  },
+  "rows": [
+    {
+      "language": "German",
+      "branch": "ReF",
+      "positive_bigram_z": 70.18326086280308,
+      "positive_trigram_z": 85.82786493467452,
+      "voynich_lm_z": 7.834905415591127,
+      "lexical_hit_rate": 0.6204581358609794,
+      "phrase_bigram_z": 1.5959663861499143,
+      "phrase_trigram_z": 1.2655929812396476,
+      "attested_trigrams": 4
+    },
+    {
+      "language": "German",
+      "branch": "ReN",
+      "positive_bigram_z": 94.2126396602628,
+      "positive_trigram_z": 140.56005420422957,
+      "voynich_lm_z": 8.541952743902343,
+      "lexical_hit_rate": 0.47406529752501314,
+      "phrase_bigram_z": 0.8598699279610641,
+      "phrase_trigram_z": -0.2572030164421362,
+      "attested_trigrams": 3
+    },
+    {
+      "language": "Italian",
+      "branch": "Dante",
+      "positive_bigram_z": 102.77180808485612,
+      "positive_trigram_z": 303.17495335559744,
+      "voynich_lm_z": 6.931935426929882,
+      "lexical_hit_rate": 0.31845708267509215,
+      "phrase_bigram_z": -0.05796062861699255,
+      "phrase_trigram_z": -0.6076514585149732,
+      "attested_trigrams": 0
+    },
+    {
+      "language": "French",
+      "branch": "BFM2022",
+      "positive_bigram_z": 76.58890501861906,
+      "positive_trigram_z": 203.56993764712342,
+      "voynich_lm_z": 7.44892736041617,
+      "lexical_hit_rate": 0.42364402317008953,
+      "phrase_bigram_z": 0.91677750516125,
+      "phrase_trigram_z": 1.9970936775226458,
+      "attested_trigrams": 2
+    },
+    {
+      "language": "Latin",
+      "branch": "LatinISE",
+      "positive_bigram_z": 120.46771046255633,
+      "positive_trigram_z": 384.94135114108275,
+      "voynich_lm_z": 7.716247854205592,
+      "lexical_hit_rate": 0.38875724065297523,
+      "phrase_bigram_z": 0.1363974488366301,
+      "phrase_trigram_z": 0.3006118560701461,
+      "attested_trigrams": 2
+    }
+  ],
+  "summary": {
+    "branches": 5,
+    "independent_language_targets": [
+      "German",
+      "Italian",
+      "French",
+      "Latin"
+    ],
+    "lm_z_mean": 7.694793760209023,
+    "lm_z_sd": 0.5874038263784024,
+    "lm_z_range": [
+      6.931935426929882,
+      8.541952743902343
+    ],
+    "phrase_bigram_z_mean": 0.6902101278983732,
+    "phrase_bigram_z_sd": 0.6646389222640446,
+    "phrase_trigram_z_mean": 0.539688807975066,
+    "phrase_trigram_z_sd": 1.079299527287084
+  },
+  "decision": "STOP_DIRECT_LANGUAGE_SEARCH_AT_FROZEN_UNIT_FIXED_BOUNDARY_LEVEL"
+}

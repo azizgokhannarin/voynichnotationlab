@@ -1,5 +1,18 @@
 # Changelog
 
+## v4.2 — 2026-08-26
+
+- preregistered Latin as a confirmation test rather than an exploratory language search;
+- predicted a generic Voynich Latin-LM fit in the 6.5–9 z band with phrase order near the null band;
+- calibrated the common attack on a matched known-Latin bounded-homophonic positive control;
+- observed Voynich Latin LM z 7.72 with validation phrase bigram z 0.14 and trigram z 0.30;
+- confirmed the cross-language convergence prediction;
+- extended the common comparison to German, Italian, French, and Latin;
+- closed direct language search at the frozen-unit / fixed-boundary / one-phonographic-unit level;
+- retained natural-language-with-transformation and procedural/template-generation as the primary
+  competing higher-level hypotheses;
+- used no final-test manuscript pages.
+
 ## v4.1 — 2026-08-26
 
 - tested whether mild wrong segmentation alone can reproduce the Voynich language-attack signature;
