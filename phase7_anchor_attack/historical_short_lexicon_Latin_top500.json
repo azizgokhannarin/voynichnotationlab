@@ -1,0 +1,6762 @@
+[
+  {
+    "seq": [
+      "E",
+      "T"
+    ],
+    "frequency": 13636,
+    "example": "et",
+    "examples": [
+      "et",
+      "Et",
+      "ET",
+      "ed"
+    ]
+  },
+  {
+    "seq": [
+      "I",
+      "N"
+    ],
+    "frequency": 9286,
+    "example": "in",
+    "examples": [
+      "in",
+      "In",
+      "IN"
+    ]
+  },
+  {
+    "seq": [
+      "N",
+      "O",
+      "N"
+    ],
+    "frequency": 5935,
+    "example": "non",
+    "examples": [
+      "non",
+      "Non",
+      "NON"
+    ]
+  },
+  {
+    "seq": [
+      "E",
+      "S",
+      "T"
+    ],
+    "frequency": 5700,
+    "example": "est",
+    "examples": [
+      "est",
+      "Est"
+    ]
+  },
+  {
+    "seq": [
+      "A",
+      "T"
+    ],
+    "frequency": 4963,
+    "example": "ad",
+    "examples": [
+      "ad",
+      "At",
+      "Ad",
+      "at",
+      "AD"
+    ]
+  },
+  {
+    "seq": [
+      "K",
+      "W",
+      "O",
+      "T"
+    ],
+    "frequency": 4527,
+    "example": "quod",
+    "examples": [
+      "quod",
+      "Quod",
+      "quot",
+      "Quot",
+      "QUOD"
+    ]
+  },
+  {
+    "seq": [
+      "U",
+      "T"
+    ],
+    "frequency": 4262,
+    "example": "ut",
+    "examples": [
+      "ut",
+      "Ut"
+    ]
+  },
+  {
+    "seq": [
+      "T",
+      "E"
+    ],
+    "frequency": 3852,
+    "example": "de",
+    "examples": [
+      "de",
+      "te",
+      "De",
+      "Te",
+      "DE"
+    ]
+  },
+  {
+    "seq": [
+      "K",
+      "U",
+      "M"
+    ],
+    "frequency": 3290,
+    "example": "cum",
+    "examples": [
+      "cum",
+      "Cum",
+      "CUM"
+    ]
+  },
+  {
+    "seq": [
+      "K",
+      "W",
+      "I"
+    ],
+    "frequency": 3274,
+    "example": "qui",
+    "examples": [
+      "qui",
+      "Qui"
+    ]
+  },
+  {
+    "seq": [
+      "S",
+      "I"
+    ],
+    "frequency": 3267,
+    "example": "si",
+    "examples": [
+      "si",
+      "Si",
+      "Sy",
+      "SI"
+    ]
+  },
+  {
+    "seq": [
+      "K",
+      "W",
+      "A",
+      "M"
+    ],
+    "frequency": 2655,
+    "example": "quam",
+    "examples": [
+      "quam",
+      "Quam"
+    ]
+  },
+  {
+    "seq": [
+      "S",
+      "E",
+      "T"
+    ],
+    "frequency": 2636,
+    "example": "sed",
+    "examples": [
+      "sed",
+      "Sed",
+      "SED",
+      "set"
+    ]
+  },
+  {
+    "seq": [
+      "E",
+      "S",
+      "S",
+      "E"
+    ],
+    "frequency": 1838,
+    "example": "esse",
+    "examples": [
+      "esse",
+      "Esse",
+      "ESSE"
+    ]
+  },
+  {
+    "seq": [
+      "H",
+      "O",
+      "C_FRONT"
+    ],
+    "frequency": 1778,
+    "example": "hoc",
+    "examples": [
+      "hoc",
+      "Hoc"
+    ]
+  },
+  {
+    "seq": [
+      "A"
+    ],
+    "frequency": 1752,
+    "example": "a",
+    "examples": [
+      "a",
+      "A"
+    ]
+  },
+  {
+    "seq": [
+      "K",
+      "W",
+      "I",
+      "T"
+    ],
+    "frequency": 1745,
+    "example": "quid",
+    "examples": [
+      "quid",
+      "Quid"
+    ]
+  },
+  {
+    "seq": [
+      "P",
+      "E",
+      "R"
+    ],
+    "frequency": 1683,
+    "example": "per",
+    "examples": [
+      "per",
+      "Per"
+    ]
+  },
+  {
+    "seq": [
+      "N",
+      "E",
+      "C_FRONT"
+    ],
+    "frequency": 1570,
+    "example": "nec",
+    "examples": [
+      "nec",
+      "Nec"
+    ]
+  },
+  {
+    "seq": [
+      "K",
+      "W",
+      "A",
+      "E"
+    ],
+    "frequency": 1536,
+    "example": "quae",
+    "examples": [
+      "quae",
+      "Quae",
+      "QUAE"
+    ]
+  },
+  {
+    "seq": [
+      "A",
+      "C_FRONT"
+    ],
+    "frequency": 1493,
+    "example": "ac",
+    "examples": [
+      "ac",
+      "Ac",
+      "AC"
+    ]
+  },
+  {
+    "seq": [
+      "S",
+      "E"
+    ],
+    "frequency": 1449,
+    "example": "se",
+    "examples": [
+      "se",
+      "Se"
+    ]
+  },
+  {
+    "seq": [
+      "A",
+      "U",
+      "T"
+    ],
+    "frequency": 1426,
+    "example": "aut",
+    "examples": [
+      "aut",
+      "Aut"
+    ]
+  },
+  {
+    "seq": [
+      "E",
+      "K",
+      "S"
+    ],
+    "frequency": 1344,
+    "example": "ex",
+    "examples": [
+      "ex",
+      "Ex"
+    ]
+  },
+  {
+    "seq": [
+      "S",
+      "U",
+      "N",
+      "T"
+    ],
+    "frequency": 1338,
+    "example": "sunt",
+    "examples": [
+      "sunt",
+      "Sunt"
+    ]
+  },
+  {
+    "seq": [
+      "S",
+      "I",
+      "T"
+    ],
+    "frequency": 1285,
+    "example": "sit",
+    "examples": [
+      "sit",
+      "Sit"
+    ]
+  },
+  {
+    "seq": [
+      "T",
+      "U",
+      "M"
+    ],
+    "frequency": 1150,
+    "example": "tum",
+    "examples": [
+      "tum",
+      "dum",
+      "Tum",
+      "Dum"
+    ]
+  },
+  {
+    "seq": [
+      "N",
+      "E"
+    ],
+    "frequency": 1145,
+    "example": "ne",
+    "examples": [
+      "ne",
+      "Ne"
+    ]
+  },
+  {
+    "seq": [
+      "A",
+      "P"
+    ],
+    "frequency": 1130,
+    "example": "ab",
+    "examples": [
+      "ab",
+      "Ab",
+      "AB",
+      "Ap"
+    ]
+  },
+  {
+    "seq": [
+      "E",
+      "N",
+      "I",
+      "M"
+    ],
+    "frequency": 1095,
+    "example": "enim",
+    "examples": [
+      "enim",
+      "Enim"
+    ]
+  },
+  {
+    "seq": [
+      "K",
+      "W",
+      "O"
+    ],
+    "frequency": 1090,
+    "example": "quo",
+    "examples": [
+      "quo",
+      "Quo"
+    ]
+  },
+  {
+    "seq": [
+      "M",
+      "E"
+    ],
+    "frequency": 1083,
+    "example": "me",
+    "examples": [
+      "me",
+      "Me",
+      "ME"
+    ]
+  },
+  {
+    "seq": [
+      "T",
+      "I",
+      "P",
+      "I"
+    ],
+    "frequency": 993,
+    "example": "tibi",
+    "examples": [
+      "tibi",
+      "Tibi"
+    ]
+  },
+  {
+    "seq": [
+      "S",
+      "I",
+      "C_FRONT"
+    ],
+    "frequency": 958,
+    "example": "sic",
+    "examples": [
+      "sic",
+      "Sic",
+      "SIC"
+    ]
+  },
+  {
+    "seq": [
+      "M",
+      "I",
+      "H",
+      "I"
+    ],
+    "frequency": 932,
+    "example": "mihi",
+    "examples": [
+      "mihi",
+      "Mihi"
+    ]
+  },
+  {
+    "seq": [
+      "F",
+      "E",
+      "L"
+    ],
+    "frequency": 915,
+    "example": "vel",
+    "examples": [
+      "vel",
+      "Vel",
+      "fel"
+    ]
+  },
+  {
+    "seq": [
+      "P",
+      "R",
+      "O"
+    ],
+    "frequency": 840,
+    "example": "pro",
+    "examples": [
+      "pro",
+      "Pro"
+    ]
+  },
+  {
+    "seq": [
+      "I",
+      "T",
+      "A"
+    ],
+    "frequency": 801,
+    "example": "ita",
+    "examples": [
+      "ita",
+      "Ita"
+    ]
+  },
+  {
+    "seq": [
+      "I",
+      "L",
+      "L",
+      "E"
+    ],
+    "frequency": 785,
+    "example": "ille",
+    "examples": [
+      "ille",
+      "Ille"
+    ]
+  },
+  {
+    "seq": [
+      "N",
+      "I",
+      "S",
+      "I"
+    ],
+    "frequency": 743,
+    "example": "nisi",
+    "examples": [
+      "nisi",
+      "Nisi",
+      "NISI"
+    ]
+  },
+  {
+    "seq": [
+      "T",
+      "U"
+    ],
+    "frequency": 722,
+    "example": "tu",
+    "examples": [
+      "tu",
+      "Tu"
+    ]
+  },
+  {
+    "seq": [
+      "N",
+      "O",
+      "S"
+    ],
+    "frequency": 722,
+    "example": "nos",
+    "examples": [
+      "nos",
+      "Nos",
+      "NOS"
+    ]
+  },
+  {
+    "seq": [
+      "S",
+      "I",
+      "P",
+      "I"
+    ],
+    "frequency": 714,
+    "example": "sibi",
+    "examples": [
+      "sibi",
+      "Sibi"
+    ]
+  },
+  {
+    "seq": [
+      "I",
+      "A",
+      "M"
+    ],
+    "frequency": 695,
+    "example": "iam",
+    "examples": [
+      "iam",
+      "Iam"
+    ]
+  },
+  {
+    "seq": [
+      "F",
+      "E",
+      "R",
+      "O"
+    ],
+    "frequency": 687,
+    "example": "vero",
+    "examples": [
+      "vero",
+      "fero",
+      "Vero"
+    ]
+  },
+  {
+    "seq": [
+      "N",
+      "A",
+      "M"
+    ],
+    "frequency": 664,
+    "example": "Nam",
+    "examples": [
+      "Nam",
+      "nam"
+    ]
+  },
+  {
+    "seq": [
+      "I",
+      "T"
+    ],
+    "frequency": 663,
+    "example": "id",
+    "examples": [
+      "id",
+      "Id",
+      "it"
+    ]
+  },
+  {
+    "seq": [
+      "N",
+      "U",
+      "N",
+      "C_FRONT"
+    ],
+    "frequency": 660,
+    "example": "nunc",
+    "examples": [
+      "nunc",
+      "Nunc",
+      "NUNC"
+    ]
+  },
+  {
+    "seq": [
+      "K",
+      "W",
+      "E"
+    ],
+    "frequency": 656,
+    "example": "que",
+    "examples": [
+      "que",
+      "Que"
+    ]
+  },
+  {
+    "seq": [
+      "H",
+      "A",
+      "E",
+      "C_FRONT"
+    ],
+    "frequency": 656,
+    "example": "haec",
+    "examples": [
+      "haec",
+      "Haec"
+    ]
+  },
+  {
+    "seq": [
+      "T",
+      "A",
+      "M"
+    ],
+    "frequency": 655,
+    "example": "tam",
+    "examples": [
+      "tam",
+      "Tam"
+    ]
+  },
+  {
+    "seq": [
+      "E",
+      "R",
+      "A",
+      "T"
+    ],
+    "frequency": 634,
+    "example": "erat",
+    "examples": [
+      "erat",
+      "Erat"
+    ]
+  },
+  {
+    "seq": [
+      "K",
+      "W",
+      "I",
+      "A"
+    ],
+    "frequency": 628,
+    "example": "quia",
+    "examples": [
+      "quia",
+      "Quia"
+    ]
+  },
+  {
+    "seq": [
+      "I",
+      "L",
+      "L",
+      "A"
+    ],
+    "frequency": 598,
+    "example": "illa",
+    "examples": [
+      "illa",
+      "Illa"
+    ]
+  },
+  {
+    "seq": [
+      "I",
+      "P",
+      "S",
+      "E"
+    ],
+    "frequency": 588,
+    "example": "ipse",
+    "examples": [
+      "ipse",
+      "Ipse"
+    ]
+  },
+  {
+    "seq": [
+      "E",
+      "K",
+      "O"
+    ],
+    "frequency": 585,
+    "example": "ego",
+    "examples": [
+      "ego",
+      "Ego",
+      "Echo",
+      "eco",
+      "echo"
+    ]
+  },
+  {
+    "seq": [
+      "A",
+      "N"
+    ],
+    "frequency": 569,
+    "example": "An",
+    "examples": [
+      "An",
+      "an"
+    ]
+  },
+  {
+    "seq": [
+      "U",
+      "P",
+      "I"
+    ],
+    "frequency": 543,
+    "example": "ubi",
+    "examples": [
+      "ubi",
+      "Ubi"
+    ]
+  },
+  {
+    "seq": [
+      "E",
+      "A"
+    ],
+    "frequency": 542,
+    "example": "ea",
+    "examples": [
+      "ea",
+      "Ea"
+    ]
+  },
+  {
+    "seq": [
+      "A",
+      "P",
+      "U",
+      "T"
+    ],
+    "frequency": 532,
+    "example": "apud",
+    "examples": [
+      "apud",
+      "Apud",
+      "aput"
+    ]
+  },
+  {
+    "seq": [
+      "K",
+      "W",
+      "A"
+    ],
+    "frequency": 497,
+    "example": "qua",
+    "examples": [
+      "qua",
+      "Qua"
+    ]
+  },
+  {
+    "seq": [
+      "H",
+      "I",
+      "C_FRONT"
+    ],
+    "frequency": 493,
+    "example": "hic",
+    "examples": [
+      "hic",
+      "Hic"
+    ]
+  },
+  {
+    "seq": [
+      "H",
+      "I",
+      "S"
+    ],
+    "frequency": 492,
+    "example": "his",
+    "examples": [
+      "his",
+      "His",
+      "hys"
+    ]
+  },
+  {
+    "seq": [
+      "K",
+      "W",
+      "I",
+      "S"
+    ],
+    "frequency": 490,
+    "example": "quis",
+    "examples": [
+      "quis",
+      "Quis"
+    ]
+  },
+  {
+    "seq": [
+      "K",
+      "W",
+      "E",
+      "M"
+    ],
+    "frequency": 488,
+    "example": "quem",
+    "examples": [
+      "quem",
+      "Quem"
+    ]
+  },
+  {
+    "seq": [
+      "M",
+      "O",
+      "T",
+      "O"
+    ],
+    "frequency": 458,
+    "example": "modo",
+    "examples": [
+      "modo",
+      "Modo"
+    ]
+  },
+  {
+    "seq": [
+      "E",
+      "I",
+      "U",
+      "S"
+    ],
+    "frequency": 441,
+    "example": "eius",
+    "examples": [
+      "eius",
+      "Eius"
+    ]
+  },
+  {
+    "seq": [
+      "E",
+      "R",
+      "K",
+      "O"
+    ],
+    "frequency": 440,
+    "example": "ergo",
+    "examples": [
+      "ergo",
+      "Ergo"
+    ]
+  },
+  {
+    "seq": [
+      "I",
+      "T",
+      "E",
+      "M"
+    ],
+    "frequency": 438,
+    "example": "idem",
+    "examples": [
+      "idem",
+      "Item",
+      "item",
+      "Idem",
+      "ydem"
+    ]
+  },
+  {
+    "seq": [
+      "E",
+      "O"
+    ],
+    "frequency": 431,
+    "example": "eo",
+    "examples": [
+      "eo",
+      "Eo"
+    ]
+  },
+  {
+    "seq": [
+      "R",
+      "E",
+      "S"
+    ],
+    "frequency": 431,
+    "example": "res",
+    "examples": [
+      "res",
+      "Res",
+      "RES"
+    ]
+  },
+  {
+    "seq": [
+      "F",
+      "U",
+      "I",
+      "T"
+    ],
+    "frequency": 427,
+    "example": "fuit",
+    "examples": [
+      "fuit",
+      "Fuit"
+    ]
+  },
+  {
+    "seq": [
+      "P",
+      "O",
+      "S",
+      "T"
+    ],
+    "frequency": 417,
+    "example": "post",
+    "examples": [
+      "post",
+      "Post"
+    ]
+  },
+  {
+    "seq": [
+      "K",
+      "W",
+      "O",
+      "S"
+    ],
+    "frequency": 415,
+    "example": "quos",
+    "examples": [
+      "quos",
+      "Quos"
+    ]
+  },
+  {
+    "seq": [
+      "P",
+      "E",
+      "N",
+      "E"
+    ],
+    "frequency": 413,
+    "example": "bene",
+    "examples": [
+      "bene",
+      "Bene",
+      "pene"
+    ]
+  },
+  {
+    "seq": [
+      "S",
+      "I",
+      "N",
+      "E"
+    ],
+    "frequency": 407,
+    "example": "sine",
+    "examples": [
+      "sine",
+      "Sine"
+    ]
+  },
+  {
+    "seq": [
+      "S",
+      "U",
+      "A"
+    ],
+    "frequency": 403,
+    "example": "sua",
+    "examples": [
+      "sua",
+      "Sua"
+    ]
+  },
+  {
+    "seq": [
+      "I",
+      "L",
+      "L",
+      "I"
+    ],
+    "frequency": 396,
+    "example": "illi",
+    "examples": [
+      "illi",
+      "Illi"
+    ]
+  },
+  {
+    "seq": [
+      "E",
+      "U",
+      "M"
+    ],
+    "frequency": 392,
+    "example": "eum",
+    "examples": [
+      "eum",
+      "Eum"
+    ]
+  },
+  {
+    "seq": [
+      "E"
+    ],
+    "frequency": 382,
+    "example": "e",
+    "examples": [
+      "e",
+      "E"
+    ]
+  },
+  {
+    "seq": [
+      "S",
+      "U",
+      "P"
+    ],
+    "frequency": 381,
+    "example": "sub",
+    "examples": [
+      "sub",
+      "Sub"
+    ]
+  },
+  {
+    "seq": [
+      "A",
+      "I",
+      "T"
+    ],
+    "frequency": 367,
+    "example": "ait",
+    "examples": [
+      "ait",
+      "Ait"
+    ]
+  },
+  {
+    "seq": [
+      "I",
+      "P",
+      "S",
+      "A"
+    ],
+    "frequency": 367,
+    "example": "ipsa",
+    "examples": [
+      "ipsa",
+      "Ipsa"
+    ]
+  },
+  {
+    "seq": [
+      "U",
+      "E",
+      "L"
+    ],
+    "frequency": 362,
+    "example": "uel",
+    "examples": [
+      "uel"
+    ]
+  },
+  {
+    "seq": [
+      "T",
+      "E",
+      "U",
+      "S"
+    ],
+    "frequency": 362,
+    "example": "Deus",
+    "examples": [
+      "Deus",
+      "deus"
+    ]
+  },
+  {
+    "seq": [
+      "K",
+      "U",
+      "I"
+    ],
+    "frequency": 347,
+    "example": "cui",
+    "examples": [
+      "cui",
+      "Cui",
+      "Gui"
+    ]
+  },
+  {
+    "seq": [
+      "S",
+      "U",
+      "O"
+    ],
+    "frequency": 345,
+    "example": "suo",
+    "examples": [
+      "suo",
+      "Suo"
+    ]
+  },
+  {
+    "seq": [
+      "E",
+      "R",
+      "I",
+      "T"
+    ],
+    "frequency": 339,
+    "example": "erit",
+    "examples": [
+      "erit",
+      "Erit"
+    ]
+  },
+  {
+    "seq": [
+      "U",
+      "N",
+      "U",
+      "M"
+    ],
+    "frequency": 338,
+    "example": "unum",
+    "examples": [
+      "unum",
+      "Unum"
+    ]
+  },
+  {
+    "seq": [
+      "T",
+      "E",
+      "I"
+    ],
+    "frequency": 337,
+    "example": "Dei",
+    "examples": [
+      "Dei",
+      "dei"
+    ]
+  },
+  {
+    "seq": [
+      "R",
+      "E",
+      "M"
+    ],
+    "frequency": 331,
+    "example": "rem",
+    "examples": [
+      "rem",
+      "Rem"
+    ]
+  },
+  {
+    "seq": [
+      "S",
+      "I",
+      "N",
+      "T"
+    ],
+    "frequency": 329,
+    "example": "sint",
+    "examples": [
+      "sint",
+      "Sint",
+      "SINT"
+    ]
+  },
+  {
+    "seq": [
+      "S",
+      "U",
+      "I",
+      "S"
+    ],
+    "frequency": 325,
+    "example": "suis",
+    "examples": [
+      "suis",
+      "Suis"
+    ]
+  },
+  {
+    "seq": [
+      "E",
+      "A",
+      "M"
+    ],
+    "frequency": 319,
+    "example": "eam",
+    "examples": [
+      "eam",
+      "Eam"
+    ]
+  },
+  {
+    "seq": [
+      "T",
+      "E",
+      "O"
+    ],
+    "frequency": 319,
+    "example": "Deo",
+    "examples": [
+      "Deo",
+      "deo"
+    ]
+  },
+  {
+    "seq": [
+      "H",
+      "A",
+      "C_FRONT"
+    ],
+    "frequency": 315,
+    "example": "hac",
+    "examples": [
+      "hac",
+      "Hac"
+    ]
+  },
+  {
+    "seq": [
+      "H",
+      "A",
+      "N",
+      "C_FRONT"
+    ],
+    "frequency": 315,
+    "example": "hanc",
+    "examples": [
+      "hanc",
+      "Hanc"
+    ]
+  },
+  {
+    "seq": [
+      "A",
+      "N",
+      "T",
+      "E"
+    ],
+    "frequency": 308,
+    "example": "ante",
+    "examples": [
+      "ante",
+      "Ante"
+    ]
+  },
+  {
+    "seq": [
+      "O"
+    ],
+    "frequency": 306,
+    "example": "O",
+    "examples": [
+      "O",
+      "o"
+    ]
+  },
+  {
+    "seq": [
+      "U",
+      "N",
+      "T",
+      "E"
+    ],
+    "frequency": 285,
+    "example": "unde",
+    "examples": [
+      "unde",
+      "Unde"
+    ]
+  },
+  {
+    "seq": [
+      "E",
+      "S"
+    ],
+    "frequency": 282,
+    "example": "es",
+    "examples": [
+      "es",
+      "Es"
+    ]
+  },
+  {
+    "seq": [
+      "R",
+      "E"
+    ],
+    "frequency": 274,
+    "example": "re",
+    "examples": [
+      "re",
+      "Re"
+    ]
+  },
+  {
+    "seq": [
+      "S",
+      "U",
+      "U",
+      "M"
+    ],
+    "frequency": 274,
+    "example": "suum",
+    "examples": [
+      "suum",
+      "Suum"
+    ]
+  },
+  {
+    "seq": [
+      "K",
+      "U",
+      "R"
+    ],
+    "frequency": 272,
+    "example": "cur",
+    "examples": [
+      "cur",
+      "Cur"
+    ]
+  },
+  {
+    "seq": [
+      "S",
+      "U",
+      "A",
+      "M"
+    ],
+    "frequency": 272,
+    "example": "suam",
+    "examples": [
+      "suam",
+      "Suam"
+    ]
+  },
+  {
+    "seq": [
+      "A",
+      "L",
+      "I",
+      "A"
+    ],
+    "frequency": 271,
+    "example": "alia",
+    "examples": [
+      "alia",
+      "Alia"
+    ]
+  },
+  {
+    "seq": [
+      "F",
+      "O",
+      "S"
+    ],
+    "frequency": 269,
+    "example": "vos",
+    "examples": [
+      "vos",
+      "Vos",
+      "fos"
+    ]
+  },
+  {
+    "seq": [
+      "E",
+      "O",
+      "S"
+    ],
+    "frequency": 268,
+    "example": "eos",
+    "examples": [
+      "eos",
+      "Eos"
+    ]
+  },
+  {
+    "seq": [
+      "P",
+      "A"
+    ],
+    "frequency": 267,
+    "example": "Pa",
+    "examples": [
+      "Pa",
+      "Ba"
+    ]
+  },
+  {
+    "seq": [
+      "T",
+      "U",
+      "O"
+    ],
+    "frequency": 267,
+    "example": "tuo",
+    "examples": [
+      "tuo",
+      "duo",
+      "Duo",
+      "Tuo"
+    ]
+  },
+  {
+    "seq": [
+      "O",
+      "M",
+      "N",
+      "I"
+    ],
+    "frequency": 266,
+    "example": "omni",
+    "examples": [
+      "omni",
+      "Omni",
+      "OMNI"
+    ]
+  },
+  {
+    "seq": [
+      "S",
+      "U",
+      "M"
+    ],
+    "frequency": 265,
+    "example": "sum",
+    "examples": [
+      "sum",
+      "Sum"
+    ]
+  },
+  {
+    "seq": [
+      "U",
+      "N",
+      "A"
+    ],
+    "frequency": 263,
+    "example": "una",
+    "examples": [
+      "una",
+      "Una"
+    ]
+  },
+  {
+    "seq": [
+      "I",
+      "P",
+      "S",
+      "I"
+    ],
+    "frequency": 260,
+    "example": "ipsi",
+    "examples": [
+      "ipsi",
+      "Ipsi"
+    ]
+  },
+  {
+    "seq": [
+      "T",
+      "U",
+      "N",
+      "C_FRONT"
+    ],
+    "frequency": 259,
+    "example": "tunc",
+    "examples": [
+      "tunc",
+      "Tunc"
+    ]
+  },
+  {
+    "seq": [
+      "T",
+      "O",
+      "T"
+    ],
+    "frequency": 256,
+    "example": "tot",
+    "examples": [
+      "tot",
+      "Tot"
+    ]
+  },
+  {
+    "seq": [
+      "E",
+      "U"
+    ],
+    "frequency": 249,
+    "example": "Eu",
+    "examples": [
+      "Eu"
+    ]
+  },
+  {
+    "seq": [
+      "I",
+      "M",
+      "O"
+    ],
+    "frequency": 248,
+    "example": "Imo",
+    "examples": [
+      "Imo",
+      "imo",
+      "ymo"
+    ]
+  },
+  {
+    "seq": [
+      "H",
+      "O",
+      "M",
+      "O"
+    ],
+    "frequency": 247,
+    "example": "homo",
+    "examples": [
+      "homo",
+      "Homo"
+    ]
+  },
+  {
+    "seq": [
+      "S",
+      "I",
+      "F",
+      "E"
+    ],
+    "frequency": 246,
+    "example": "sive",
+    "examples": [
+      "sive",
+      "Sive",
+      "SIVE"
+    ]
+  },
+  {
+    "seq": [
+      "T",
+      "U",
+      "A"
+    ],
+    "frequency": 245,
+    "example": "tua",
+    "examples": [
+      "tua",
+      "Tua"
+    ]
+  },
+  {
+    "seq": [
+      "I",
+      "S",
+      "T",
+      "A"
+    ],
+    "frequency": 242,
+    "example": "ista",
+    "examples": [
+      "ista",
+      "Ista"
+    ]
+  },
+  {
+    "seq": [
+      "K",
+      "A"
+    ],
+    "frequency": 234,
+    "example": "Ca",
+    "examples": [
+      "Ca",
+      "Ga"
+    ]
+  },
+  {
+    "seq": [
+      "O",
+      "P"
+    ],
+    "frequency": 233,
+    "example": "ob",
+    "examples": [
+      "ob",
+      "Ob",
+      "OB"
+    ]
+  },
+  {
+    "seq": [
+      "P",
+      "L",
+      "U",
+      "S"
+    ],
+    "frequency": 231,
+    "example": "plus",
+    "examples": [
+      "plus",
+      "Plus"
+    ]
+  },
+  {
+    "seq": [
+      "H",
+      "I"
+    ],
+    "frequency": 228,
+    "example": "Hi",
+    "examples": [
+      "Hi",
+      "hi",
+      "hy"
+    ]
+  },
+  {
+    "seq": [
+      "A",
+      "T",
+      "E",
+      "O"
+    ],
+    "frequency": 228,
+    "example": "adeo",
+    "examples": [
+      "adeo",
+      "Adeo",
+      "ateo"
+    ]
+  },
+  {
+    "seq": [
+      "I",
+      "P",
+      "I"
+    ],
+    "frequency": 225,
+    "example": "ibi",
+    "examples": [
+      "ibi",
+      "Ibi"
+    ]
+  },
+  {
+    "seq": [
+      "S",
+      "U",
+      "I"
+    ],
+    "frequency": 223,
+    "example": "sui",
+    "examples": [
+      "sui",
+      "Sui"
+    ]
+  },
+  {
+    "seq": [
+      "F",
+      "E",
+      "R",
+      "E"
+    ],
+    "frequency": 221,
+    "example": "fere",
+    "examples": [
+      "fere",
+      "vere",
+      "Vere"
+    ]
+  },
+  {
+    "seq": [
+      "K",
+      "W",
+      "I",
+      "N"
+    ],
+    "frequency": 221,
+    "example": "quin",
+    "examples": [
+      "quin",
+      "Quin"
+    ]
+  },
+  {
+    "seq": [
+      "H",
+      "I",
+      "N",
+      "C_FRONT"
+    ],
+    "frequency": 219,
+    "example": "hinc",
+    "examples": [
+      "hinc",
+      "Hinc"
+    ]
+  },
+  {
+    "seq": [
+      "T",
+      "E",
+      "U",
+      "M"
+    ],
+    "frequency": 217,
+    "example": "Deum",
+    "examples": [
+      "Deum",
+      "deum"
+    ]
+  },
+  {
+    "seq": [
+      "I",
+      "S"
+    ],
+    "frequency": 214,
+    "example": "is",
+    "examples": [
+      "is",
+      "Is",
+      "ys"
+    ]
+  },
+  {
+    "seq": [
+      "H",
+      "E",
+      "C_FRONT"
+    ],
+    "frequency": 214,
+    "example": "hec",
+    "examples": [
+      "hec",
+      "Hec"
+    ]
+  },
+  {
+    "seq": [
+      "E",
+      "I"
+    ],
+    "frequency": 211,
+    "example": "ei",
+    "examples": [
+      "ei",
+      "Ei"
+    ]
+  },
+  {
+    "seq": [
+      "R",
+      "E",
+      "K",
+      "S"
+    ],
+    "frequency": 210,
+    "example": "rex",
+    "examples": [
+      "rex",
+      "Rex"
+    ]
+  },
+  {
+    "seq": [
+      "L",
+      "O",
+      "K",
+      "O"
+    ],
+    "frequency": 208,
+    "example": "loco",
+    "examples": [
+      "loco"
+    ]
+  },
+  {
+    "seq": [
+      "M",
+      "E",
+      "A"
+    ],
+    "frequency": 206,
+    "example": "mea",
+    "examples": [
+      "mea",
+      "Mea"
+    ]
+  },
+  {
+    "seq": [
+      "K",
+      "U",
+      "R",
+      "A"
+    ],
+    "frequency": 206,
+    "example": "cura",
+    "examples": [
+      "cura",
+      "Cura"
+    ]
+  },
+  {
+    "seq": [
+      "S",
+      "E",
+      "U"
+    ],
+    "frequency": 202,
+    "example": "seu",
+    "examples": [
+      "seu",
+      "Seu"
+    ]
+  },
+  {
+    "seq": [
+      "H",
+      "U",
+      "N",
+      "C_FRONT"
+    ],
+    "frequency": 199,
+    "example": "hunc",
+    "examples": [
+      "hunc",
+      "Hunc"
+    ]
+  },
+  {
+    "seq": [
+      "O",
+      "P",
+      "U",
+      "S"
+    ],
+    "frequency": 197,
+    "example": "opus",
+    "examples": [
+      "opus",
+      "Opus"
+    ]
+  },
+  {
+    "seq": [
+      "M",
+      "A"
+    ],
+    "frequency": 196,
+    "example": "Ma",
+    "examples": [
+      "Ma",
+      "ma"
+    ]
+  },
+  {
+    "seq": [
+      "S",
+      "E",
+      "S",
+      "E"
+    ],
+    "frequency": 195,
+    "example": "sese",
+    "examples": [
+      "sese"
+    ]
+  },
+  {
+    "seq": [
+      "G_FRONT"
+    ],
+    "frequency": 194,
+    "example": "g",
+    "examples": [
+      "g",
+      "G"
+    ]
+  },
+  {
+    "seq": [
+      "R",
+      "E",
+      "I"
+    ],
+    "frequency": 192,
+    "example": "rei",
+    "examples": [
+      "rei",
+      "Rei"
+    ]
+  },
+  {
+    "seq": [
+      "P",
+      "O",
+      "N",
+      "A"
+    ],
+    "frequency": 190,
+    "example": "bona",
+    "examples": [
+      "bona",
+      "Bona"
+    ]
+  },
+  {
+    "seq": [
+      "I",
+      "L",
+      "L",
+      "O"
+    ],
+    "frequency": 186,
+    "example": "illo",
+    "examples": [
+      "illo",
+      "Illo"
+    ]
+  },
+  {
+    "seq": [
+      "T",
+      "I",
+      "E"
+    ],
+    "frequency": 185,
+    "example": "die",
+    "examples": [
+      "die",
+      "Die"
+    ]
+  },
+  {
+    "seq": [
+      "F",
+      "I",
+      "T"
+    ],
+    "frequency": 181,
+    "example": "fit",
+    "examples": [
+      "fit",
+      "Fit"
+    ]
+  },
+  {
+    "seq": [
+      "K",
+      "W",
+      "A",
+      "S"
+    ],
+    "frequency": 180,
+    "example": "quas",
+    "examples": [
+      "quas",
+      "Quas"
+    ]
+  },
+  {
+    "seq": [
+      "F",
+      "I",
+      "T",
+      "A"
+    ],
+    "frequency": 179,
+    "example": "vita",
+    "examples": [
+      "vita",
+      "Vita",
+      "fida",
+      "VITA",
+      "Fida"
+    ]
+  },
+  {
+    "seq": [
+      "N",
+      "E",
+      "M",
+      "O"
+    ],
+    "frequency": 176,
+    "example": "nemo",
+    "examples": [
+      "nemo",
+      "Nemo"
+    ]
+  },
+  {
+    "seq": [
+      "T",
+      "U",
+      "U",
+      "M"
+    ],
+    "frequency": 174,
+    "example": "tuum",
+    "examples": [
+      "tuum",
+      "Tuum"
+    ]
+  },
+  {
+    "seq": [
+      "H",
+      "A",
+      "U",
+      "T"
+    ],
+    "frequency": 169,
+    "example": "haud",
+    "examples": [
+      "haud",
+      "Haud"
+    ]
+  },
+  {
+    "seq": [
+      "I",
+      "P",
+      "S",
+      "O"
+    ],
+    "frequency": 169,
+    "example": "ipso",
+    "examples": [
+      "ipso",
+      "Ipso"
+    ]
+  },
+  {
+    "seq": [
+      "P",
+      "E"
+    ],
+    "frequency": 167,
+    "example": "Be",
+    "examples": [
+      "Be",
+      "Pe"
+    ]
+  },
+  {
+    "seq": [
+      "F",
+      "I",
+      "R"
+    ],
+    "frequency": 167,
+    "example": "vir",
+    "examples": [
+      "vir",
+      "Vir"
+    ]
+  },
+  {
+    "seq": [
+      "F",
+      "I",
+      "T",
+      "E"
+    ],
+    "frequency": 166,
+    "example": "fide",
+    "examples": [
+      "fide",
+      "vite",
+      "Vide",
+      "vide",
+      "Fide"
+    ]
+  },
+  {
+    "seq": [
+      "M",
+      "A",
+      "L",
+      "E"
+    ],
+    "frequency": 162,
+    "example": "male",
+    "examples": [
+      "male",
+      "Male"
+    ]
+  },
+  {
+    "seq": [
+      "M",
+      "O",
+      "K",
+      "S"
+    ],
+    "frequency": 161,
+    "example": "mox",
+    "examples": [
+      "mox",
+      "Mox"
+    ]
+  },
+  {
+    "seq": [
+      "S",
+      "U",
+      "O",
+      "S"
+    ],
+    "frequency": 161,
+    "example": "suos",
+    "examples": [
+      "suos",
+      "Suos"
+    ]
+  },
+  {
+    "seq": [
+      "M",
+      "E",
+      "U",
+      "M"
+    ],
+    "frequency": 158,
+    "example": "meum",
+    "examples": [
+      "meum",
+      "Meum"
+    ]
+  },
+  {
+    "seq": [
+      "I",
+      "T",
+      "E",
+      "O"
+    ],
+    "frequency": 153,
+    "example": "ideo",
+    "examples": [
+      "ideo",
+      "Ideo"
+    ]
+  },
+  {
+    "seq": [
+      "J",
+      "A",
+      "M"
+    ],
+    "frequency": 149,
+    "example": "jam",
+    "examples": [
+      "jam",
+      "Jam"
+    ]
+  },
+  {
+    "seq": [
+      "U",
+      "E",
+      "R",
+      "O"
+    ],
+    "frequency": 149,
+    "example": "uero",
+    "examples": [
+      "uero"
+    ]
+  },
+  {
+    "seq": [
+      "H",
+      "O",
+      "S"
+    ],
+    "frequency": 146,
+    "example": "hos",
+    "examples": [
+      "hos",
+      "Hos"
+    ]
+  },
+  {
+    "seq": [
+      "P",
+      "A",
+      "R",
+      "S"
+    ],
+    "frequency": 144,
+    "example": "pars",
+    "examples": [
+      "pars",
+      "Pars"
+    ]
+  },
+  {
+    "seq": [
+      "F"
+    ],
+    "frequency": 143,
+    "example": "Ph",
+    "examples": [
+      "Ph",
+      "v",
+      "f",
+      "V",
+      "F"
+    ]
+  },
+  {
+    "seq": [
+      "O",
+      "L",
+      "I",
+      "M"
+    ],
+    "frequency": 143,
+    "example": "olim",
+    "examples": [
+      "olim",
+      "Olim"
+    ]
+  },
+  {
+    "seq": [
+      "P",
+      "O"
+    ],
+    "frequency": 142,
+    "example": "Po",
+    "examples": [
+      "Po",
+      "Bo",
+      "bo"
+    ]
+  },
+  {
+    "seq": [
+      "S",
+      "I",
+      "S"
+    ],
+    "frequency": 139,
+    "example": "sis",
+    "examples": [
+      "sis"
+    ]
+  },
+  {
+    "seq": [
+      "A",
+      "L",
+      "I",
+      "I"
+    ],
+    "frequency": 139,
+    "example": "alii",
+    "examples": [
+      "alii",
+      "Alii"
+    ]
+  },
+  {
+    "seq": [
+      "F",
+      "I",
+      "K",
+      "S"
+    ],
+    "frequency": 138,
+    "example": "vix",
+    "examples": [
+      "vix",
+      "Vix"
+    ]
+  },
+  {
+    "seq": [
+      "E",
+      "I",
+      "S"
+    ],
+    "frequency": 137,
+    "example": "eis",
+    "examples": [
+      "eis",
+      "Eis"
+    ]
+  },
+  {
+    "seq": [
+      "I",
+      "N",
+      "T",
+      "E"
+    ],
+    "frequency": 137,
+    "example": "inde",
+    "examples": [
+      "inde",
+      "Inde",
+      "Inte"
+    ]
+  },
+  {
+    "seq": [
+      "M",
+      "E",
+      "O"
+    ],
+    "frequency": 133,
+    "example": "meo",
+    "examples": [
+      "meo",
+      "Meo"
+    ]
+  },
+  {
+    "seq": [
+      "T",
+      "I",
+      "E",
+      "S"
+    ],
+    "frequency": 133,
+    "example": "dies",
+    "examples": [
+      "dies",
+      "Dies"
+    ]
+  },
+  {
+    "seq": [
+      "T",
+      "O",
+      "M",
+      "I"
+    ],
+    "frequency": 132,
+    "example": "domi",
+    "examples": [
+      "domi",
+      "Domi"
+    ]
+  },
+  {
+    "seq": [
+      "T",
+      "U",
+      "I",
+      "S"
+    ],
+    "frequency": 132,
+    "example": "tuis",
+    "examples": [
+      "tuis",
+      "Tuis"
+    ]
+  },
+  {
+    "seq": [
+      "U",
+      "N",
+      "U",
+      "S"
+    ],
+    "frequency": 132,
+    "example": "unus",
+    "examples": [
+      "unus",
+      "Unus"
+    ]
+  },
+  {
+    "seq": [
+      "N",
+      "U",
+      "M"
+    ],
+    "frequency": 131,
+    "example": "num",
+    "examples": [
+      "num",
+      "Num"
+    ]
+  },
+  {
+    "seq": [
+      "T",
+      "U",
+      "A",
+      "M"
+    ],
+    "frequency": 131,
+    "example": "tuam",
+    "examples": [
+      "tuam",
+      "Tuam"
+    ]
+  },
+  {
+    "seq": [
+      "L",
+      "E"
+    ],
+    "frequency": 130,
+    "example": "Le",
+    "examples": [
+      "Le",
+      "le"
+    ]
+  },
+  {
+    "seq": [
+      "T",
+      "U",
+      "I"
+    ],
+    "frequency": 130,
+    "example": "tui",
+    "examples": [
+      "tui",
+      "Tui"
+    ]
+  },
+  {
+    "seq": [
+      "S",
+      "U",
+      "A",
+      "E"
+    ],
+    "frequency": 129,
+    "example": "suae",
+    "examples": [
+      "suae"
+    ]
+  },
+  {
+    "seq": [
+      "T",
+      "U",
+      "O",
+      "S"
+    ],
+    "frequency": 128,
+    "example": "duos",
+    "examples": [
+      "duos",
+      "tuos",
+      "Duos"
+    ]
+  },
+  {
+    "seq": [
+      "M",
+      "A",
+      "L",
+      "A"
+    ],
+    "frequency": 126,
+    "example": "mala",
+    "examples": [
+      "mala",
+      "Mala"
+    ]
+  },
+  {
+    "seq": [
+      "M",
+      "I",
+      "K",
+      "I"
+    ],
+    "frequency": 126,
+    "example": "michi",
+    "examples": [
+      "michi"
+    ]
+  },
+  {
+    "seq": [
+      "O",
+      "M",
+      "N",
+      "E"
+    ],
+    "frequency": 124,
+    "example": "omne",
+    "examples": [
+      "omne",
+      "Omne"
+    ]
+  },
+  {
+    "seq": [
+      "K",
+      "W",
+      "U",
+      "M"
+    ],
+    "frequency": 122,
+    "example": "quum",
+    "examples": [
+      "quum",
+      "Quum"
+    ]
+  },
+  {
+    "seq": [
+      "U",
+      "N",
+      "O"
+    ],
+    "frequency": 120,
+    "example": "uno",
+    "examples": [
+      "uno",
+      "Uno"
+    ]
+  },
+  {
+    "seq": [
+      "A",
+      "L",
+      "I",
+      "O"
+    ],
+    "frequency": 119,
+    "example": "alio",
+    "examples": [
+      "alio",
+      "Alio"
+    ]
+  },
+  {
+    "seq": [
+      "T",
+      "O",
+      "T",
+      "O"
+    ],
+    "frequency": 119,
+    "example": "toto",
+    "examples": [
+      "toto",
+      "Toto"
+    ]
+  },
+  {
+    "seq": [
+      "K",
+      "O"
+    ],
+    "frequency": 118,
+    "example": "Co",
+    "examples": [
+      "Co",
+      "co",
+      "go"
+    ]
+  },
+  {
+    "seq": [
+      "M",
+      "O",
+      "R",
+      "E"
+    ],
+    "frequency": 117,
+    "example": "more",
+    "examples": [
+      "more",
+      "More"
+    ]
+  },
+  {
+    "seq": [
+      "T"
+    ],
+    "frequency": 115,
+    "example": "Th",
+    "examples": [
+      "Th",
+      "t",
+      "D",
+      "d",
+      "th"
+    ]
+  },
+  {
+    "seq": [
+      "N",
+      "I"
+    ],
+    "frequency": 114,
+    "example": "ni",
+    "examples": [
+      "ni",
+      "Ni"
+    ]
+  },
+  {
+    "seq": [
+      "A",
+      "M",
+      "O",
+      "R"
+    ],
+    "frequency": 113,
+    "example": "amor",
+    "examples": [
+      "amor",
+      "Amor"
+    ]
+  },
+  {
+    "seq": [
+      "M",
+      "E",
+      "U",
+      "S"
+    ],
+    "frequency": 112,
+    "example": "meus",
+    "examples": [
+      "meus",
+      "Meus"
+    ]
+  },
+  {
+    "seq": [
+      "F",
+      "E",
+      "R",
+      "A"
+    ],
+    "frequency": 111,
+    "example": "vera",
+    "examples": [
+      "vera",
+      "Vera",
+      "fera"
+    ]
+  },
+  {
+    "seq": [
+      "I",
+      "U",
+      "R",
+      "E"
+    ],
+    "frequency": 110,
+    "example": "iure",
+    "examples": [
+      "iure",
+      "Iure"
+    ]
+  },
+  {
+    "seq": [
+      "H",
+      "U",
+      "C_FRONT"
+    ],
+    "frequency": 109,
+    "example": "huc",
+    "examples": [
+      "huc",
+      "Huc"
+    ]
+  },
+  {
+    "seq": [
+      "S",
+      "A",
+      "N",
+      "E"
+    ],
+    "frequency": 109,
+    "example": "sane",
+    "examples": [
+      "sane",
+      "Sane"
+    ]
+  },
+  {
+    "seq": [
+      "T",
+      "O",
+      "T",
+      "A"
+    ],
+    "frequency": 108,
+    "example": "tota",
+    "examples": [
+      "tota",
+      "Tota"
+    ]
+  },
+  {
+    "seq": [
+      "M",
+      "I"
+    ],
+    "frequency": 107,
+    "example": "mi",
+    "examples": [
+      "mi",
+      "Mi",
+      "my",
+      "My"
+    ]
+  },
+  {
+    "seq": [
+      "F",
+      "I",
+      "R",
+      "I"
+    ],
+    "frequency": 107,
+    "example": "viri",
+    "examples": [
+      "viri",
+      "Viri"
+    ]
+  },
+  {
+    "seq": [
+      "H",
+      "U",
+      "I",
+      "C_FRONT"
+    ],
+    "frequency": 107,
+    "example": "huic",
+    "examples": [
+      "huic",
+      "Huic"
+    ]
+  },
+  {
+    "seq": [
+      "A",
+      "L"
+    ],
+    "frequency": 106,
+    "example": "Al",
+    "examples": [
+      "Al",
+      "al"
+    ]
+  },
+  {
+    "seq": [
+      "O",
+      "R",
+      "E"
+    ],
+    "frequency": 105,
+    "example": "ore",
+    "examples": [
+      "ore",
+      "Ore"
+    ]
+  },
+  {
+    "seq": [
+      "S",
+      "O",
+      "L",
+      "A"
+    ],
+    "frequency": 105,
+    "example": "sola",
+    "examples": [
+      "sola",
+      "Sola"
+    ]
+  },
+  {
+    "seq": [
+      "F",
+      "I",
+      "S"
+    ],
+    "frequency": 101,
+    "example": "vis",
+    "examples": [
+      "vis",
+      "Vis"
+    ]
+  },
+  {
+    "seq": [
+      "U",
+      "T",
+      "I"
+    ],
+    "frequency": 101,
+    "example": "uti",
+    "examples": [
+      "uti",
+      "udi",
+      "Uti"
+    ]
+  },
+  {
+    "seq": [
+      "T",
+      "I",
+      "E",
+      "M"
+    ],
+    "frequency": 101,
+    "example": "diem",
+    "examples": [
+      "diem",
+      "Diem"
+    ]
+  },
+  {
+    "seq": [
+      "P",
+      "O",
+      "N",
+      "I"
+    ],
+    "frequency": 100,
+    "example": "boni",
+    "examples": [
+      "boni",
+      "poni",
+      "Boni"
+    ]
+  },
+  {
+    "seq": [
+      "E",
+      "R"
+    ],
+    "frequency": 99,
+    "example": "Er",
+    "examples": [
+      "Er"
+    ]
+  },
+  {
+    "seq": [
+      "K"
+    ],
+    "frequency": 97,
+    "example": "Ch",
+    "examples": [
+      "Ch",
+      "ch",
+      "K",
+      "k",
+      "Q"
+    ]
+  },
+  {
+    "seq": [
+      "I",
+      "U",
+      "S"
+    ],
+    "frequency": 97,
+    "example": "ius",
+    "examples": [
+      "ius",
+      "Ius"
+    ]
+  },
+  {
+    "seq": [
+      "T",
+      "I",
+      "C_FRONT",
+      "I"
+    ],
+    "frequency": 97,
+    "example": "dici",
+    "examples": [
+      "dici"
+    ]
+  },
+  {
+    "seq": [
+      "I",
+      "M",
+      "M",
+      "O"
+    ],
+    "frequency": 95,
+    "example": "immo",
+    "examples": [
+      "immo",
+      "Immo",
+      "ymmo"
+    ]
+  },
+  {
+    "seq": [
+      "M",
+      "A",
+      "L",
+      "O"
+    ],
+    "frequency": 95,
+    "example": "malo",
+    "examples": [
+      "malo",
+      "Malo"
+    ]
+  },
+  {
+    "seq": [
+      "M",
+      "A",
+      "N",
+      "U"
+    ],
+    "frequency": 95,
+    "example": "manu",
+    "examples": [
+      "manu",
+      "Manu"
+    ]
+  },
+  {
+    "seq": [
+      "K",
+      "U"
+    ],
+    "frequency": 94,
+    "example": "Cu",
+    "examples": [
+      "Cu",
+      "Gu"
+    ]
+  },
+  {
+    "seq": [
+      "I",
+      "I",
+      "S"
+    ],
+    "frequency": 93,
+    "example": "iis",
+    "examples": [
+      "iis",
+      "Iis"
+    ]
+  },
+  {
+    "seq": [
+      "M",
+      "E",
+      "I"
+    ],
+    "frequency": 92,
+    "example": "mei",
+    "examples": [
+      "mei"
+    ]
+  },
+  {
+    "seq": [
+      "A",
+      "K",
+      "W",
+      "A"
+    ],
+    "frequency": 92,
+    "example": "aqua",
+    "examples": [
+      "aqua",
+      "Aqua"
+    ]
+  },
+  {
+    "seq": [
+      "F",
+      "O",
+      "R",
+      "E"
+    ],
+    "frequency": 92,
+    "example": "fore",
+    "examples": [
+      "fore"
+    ]
+  },
+  {
+    "seq": [
+      "K",
+      "S",
+      "A"
+    ],
+    "frequency": 91,
+    "example": "Xa",
+    "examples": [
+      "Xa"
+    ]
+  },
+  {
+    "seq": [
+      "M",
+      "E",
+      "A",
+      "M"
+    ],
+    "frequency": 91,
+    "example": "meam",
+    "examples": [
+      "meam"
+    ]
+  },
+  {
+    "seq": [
+      "A",
+      "G_FRONT",
+      "E"
+    ],
+    "frequency": 89,
+    "example": "Age",
+    "examples": [
+      "Age",
+      "age"
+    ]
+  },
+  {
+    "seq": [
+      "S",
+      "U",
+      "E"
+    ],
+    "frequency": 88,
+    "example": "sue",
+    "examples": [
+      "sue"
+    ]
+  },
+  {
+    "seq": [
+      "M",
+      "E",
+      "I",
+      "S"
+    ],
+    "frequency": 88,
+    "example": "meis",
+    "examples": [
+      "meis",
+      "Meis"
+    ]
+  },
+  {
+    "seq": [
+      "T",
+      "U",
+      "A",
+      "E"
+    ],
+    "frequency": 88,
+    "example": "tuae",
+    "examples": [
+      "tuae",
+      "duae",
+      "Duae",
+      "Tuae"
+    ]
+  },
+  {
+    "seq": [
+      "T",
+      "I",
+      "U"
+    ],
+    "frequency": 87,
+    "example": "diu",
+    "examples": [
+      "diu",
+      "Diu"
+    ]
+  },
+  {
+    "seq": [
+      "I",
+      "S",
+      "T",
+      "I"
+    ],
+    "frequency": 87,
+    "example": "isti",
+    "examples": [
+      "isti",
+      "Isti"
+    ]
+  },
+  {
+    "seq": [
+      "U",
+      "N",
+      "A",
+      "M"
+    ],
+    "frequency": 87,
+    "example": "unam",
+    "examples": [
+      "unam",
+      "Unam"
+    ]
+  },
+  {
+    "seq": [
+      "U",
+      "S",
+      "U",
+      "M"
+    ],
+    "frequency": 87,
+    "example": "usum",
+    "examples": [
+      "usum"
+    ]
+  },
+  {
+    "seq": [
+      "U",
+      "S",
+      "U",
+      "S"
+    ],
+    "frequency": 87,
+    "example": "usus",
+    "examples": [
+      "usus",
+      "Usus"
+    ]
+  },
+  {
+    "seq": [
+      "F",
+      "I",
+      "A",
+      "T"
+    ],
+    "frequency": 83,
+    "example": "fiat",
+    "examples": [
+      "fiat",
+      "Fiat"
+    ]
+  },
+  {
+    "seq": [
+      "T",
+      "I",
+      "K",
+      "O"
+    ],
+    "frequency": 83,
+    "example": "dico",
+    "examples": [
+      "dico",
+      "Dico"
+    ]
+  },
+  {
+    "seq": [
+      "F",
+      "I",
+      "R",
+      "O"
+    ],
+    "frequency": 82,
+    "example": "viro",
+    "examples": [
+      "viro",
+      "Viro"
+    ]
+  },
+  {
+    "seq": [
+      "M",
+      "A",
+      "R",
+      "E"
+    ],
+    "frequency": 82,
+    "example": "mare",
+    "examples": [
+      "mare",
+      "Mare"
+    ]
+  },
+  {
+    "seq": [
+      "L",
+      "I"
+    ],
+    "frequency": 81,
+    "example": "Li",
+    "examples": [
+      "Li",
+      "li"
+    ]
+  },
+  {
+    "seq": [
+      "T",
+      "I",
+      "C_FRONT"
+    ],
+    "frequency": 81,
+    "example": "Dic",
+    "examples": [
+      "Dic",
+      "dic"
+    ]
+  },
+  {
+    "seq": [
+      "A",
+      "R",
+      "M",
+      "A"
+    ],
+    "frequency": 81,
+    "example": "arma",
+    "examples": [
+      "arma",
+      "Arma"
+    ]
+  },
+  {
+    "seq": [
+      "G_FRONT",
+      "E"
+    ],
+    "frequency": 79,
+    "example": "Ge",
+    "examples": [
+      "Ge"
+    ]
+  },
+  {
+    "seq": [
+      "S",
+      "U",
+      "A",
+      "S"
+    ],
+    "frequency": 79,
+    "example": "suas",
+    "examples": [
+      "suas"
+    ]
+  },
+  {
+    "seq": [
+      "H",
+      "E",
+      "U"
+    ],
+    "frequency": 77,
+    "example": "Heu",
+    "examples": [
+      "Heu",
+      "heu"
+    ]
+  },
+  {
+    "seq": [
+      "L",
+      "E",
+      "G_FRONT",
+      "E"
+    ],
+    "frequency": 76,
+    "example": "lege",
+    "examples": [
+      "lege",
+      "Lege"
+    ]
+  },
+  {
+    "seq": [
+      "S",
+      "P",
+      "E",
+      "S"
+    ],
+    "frequency": 73,
+    "example": "spes",
+    "examples": [
+      "spes",
+      "Spes"
+    ]
+  },
+  {
+    "seq": [
+      "T",
+      "R",
+      "E",
+      "S"
+    ],
+    "frequency": 73,
+    "example": "tres",
+    "examples": [
+      "tres",
+      "Tres"
+    ]
+  },
+  {
+    "seq": [
+      "E",
+      "K",
+      "C_FRONT",
+      "E"
+    ],
+    "frequency": 72,
+    "example": "Ecce",
+    "examples": [
+      "Ecce",
+      "ecce"
+    ]
+  },
+  {
+    "seq": [
+      "A",
+      "R",
+      "T",
+      "E"
+    ],
+    "frequency": 71,
+    "example": "arte",
+    "examples": [
+      "arte",
+      "Arte"
+    ]
+  },
+  {
+    "seq": [
+      "M",
+      "A",
+      "L",
+      "I"
+    ],
+    "frequency": 71,
+    "example": "mali",
+    "examples": [
+      "mali",
+      "Mali"
+    ]
+  },
+  {
+    "seq": [
+      "N",
+      "O",
+      "F",
+      "I"
+    ],
+    "frequency": 71,
+    "example": "novi",
+    "examples": [
+      "novi",
+      "Novi"
+    ]
+  },
+  {
+    "seq": [
+      "P",
+      "O",
+      "N",
+      "O"
+    ],
+    "frequency": 71,
+    "example": "bono",
+    "examples": [
+      "bono",
+      "Bono",
+      "pono"
+    ]
+  },
+  {
+    "seq": [
+      "K",
+      "L"
+    ],
+    "frequency": 70,
+    "example": "Gl",
+    "examples": [
+      "Gl",
+      "Cl"
+    ]
+  },
+  {
+    "seq": [
+      "F",
+      "I",
+      "A"
+    ],
+    "frequency": 70,
+    "example": "via",
+    "examples": [
+      "via",
+      "Via"
+    ]
+  },
+  {
+    "seq": [
+      "T",
+      "U",
+      "U",
+      "S"
+    ],
+    "frequency": 70,
+    "example": "tuus",
+    "examples": [
+      "tuus",
+      "Tuus"
+    ]
+  },
+  {
+    "seq": [
+      "N",
+      "I",
+      "L"
+    ],
+    "frequency": 69,
+    "example": "nil",
+    "examples": [
+      "nil",
+      "Nil"
+    ]
+  },
+  {
+    "seq": [
+      "F",
+      "U",
+      "L",
+      "T"
+    ],
+    "frequency": 68,
+    "example": "vult",
+    "examples": [
+      "vult"
+    ]
+  },
+  {
+    "seq": [
+      "T",
+      "U",
+      "K",
+      "S"
+    ],
+    "frequency": 68,
+    "example": "dux",
+    "examples": [
+      "dux",
+      "Dux"
+    ]
+  },
+  {
+    "seq": [
+      "F",
+      "I"
+    ],
+    "frequency": 67,
+    "example": "vi",
+    "examples": [
+      "vi",
+      "Vi",
+      "Phy",
+      "VI"
+    ]
+  },
+  {
+    "seq": [
+      "M",
+      "O",
+      "R",
+      "S"
+    ],
+    "frequency": 67,
+    "example": "mors",
+    "examples": [
+      "mors",
+      "Mors"
+    ]
+  },
+  {
+    "seq": [
+      "P",
+      "U",
+      "E",
+      "R"
+    ],
+    "frequency": 67,
+    "example": "puer",
+    "examples": [
+      "puer",
+      "Puer",
+      "PUER"
+    ]
+  },
+  {
+    "seq": [
+      "H",
+      "E",
+      "I",
+      "C_FRONT"
+    ],
+    "frequency": 66,
+    "example": "heic",
+    "examples": [
+      "heic",
+      "Heic"
+    ]
+  },
+  {
+    "seq": [
+      "N",
+      "O",
+      "F",
+      "A"
+    ],
+    "frequency": 66,
+    "example": "nova",
+    "examples": [
+      "nova",
+      "Nova"
+    ]
+  },
+  {
+    "seq": [
+      "U",
+      "L",
+      "L",
+      "A"
+    ],
+    "frequency": 65,
+    "example": "ulla",
+    "examples": [
+      "ulla"
+    ]
+  },
+  {
+    "seq": [
+      "I",
+      "T",
+      "E",
+      "R"
+    ],
+    "frequency": 64,
+    "example": "iter",
+    "examples": [
+      "iter"
+    ]
+  },
+  {
+    "seq": [
+      "S",
+      "C_FRONT",
+      "I",
+      "O"
+    ],
+    "frequency": 64,
+    "example": "scio",
+    "examples": [
+      "scio",
+      "Scio"
+    ]
+  },
+  {
+    "seq": [
+      "T",
+      "R",
+      "I",
+      "A"
+    ],
+    "frequency": 64,
+    "example": "tria",
+    "examples": [
+      "tria",
+      "Tria"
+    ]
+  },
+  {
+    "seq": [
+      "T",
+      "U",
+      "A",
+      "S"
+    ],
+    "frequency": 64,
+    "example": "tuas",
+    "examples": [
+      "tuas",
+      "duas",
+      "Tuas"
+    ]
+  },
+  {
+    "seq": [
+      "U",
+      "I",
+      "T",
+      "A"
+    ],
+    "frequency": 64,
+    "example": "uita",
+    "examples": [
+      "uita",
+      "Uita"
+    ]
+  },
+  {
+    "seq": [
+      "U",
+      "S",
+      "U"
+    ],
+    "frequency": 63,
+    "example": "usu",
+    "examples": [
+      "usu"
+    ]
+  },
+  {
+    "seq": [
+      "H",
+      "I",
+      "I",
+      "S"
+    ],
+    "frequency": 63,
+    "example": "hiis",
+    "examples": [
+      "hiis",
+      "Hiis"
+    ]
+  },
+  {
+    "seq": [
+      "E",
+      "A",
+      "S"
+    ],
+    "frequency": 62,
+    "example": "eas",
+    "examples": [
+      "eas",
+      "Eas"
+    ]
+  },
+  {
+    "seq": [
+      "H",
+      "A",
+      "S"
+    ],
+    "frequency": 62,
+    "example": "has",
+    "examples": [
+      "has",
+      "Has"
+    ]
+  },
+  {
+    "seq": [
+      "I",
+      "R",
+      "A"
+    ],
+    "frequency": 62,
+    "example": "ira",
+    "examples": [
+      "ira",
+      "Ira"
+    ]
+  },
+  {
+    "seq": [
+      "F",
+      "A",
+      "M",
+      "A"
+    ],
+    "frequency": 62,
+    "example": "fama",
+    "examples": [
+      "fama",
+      "Fama"
+    ]
+  },
+  {
+    "seq": [
+      "P",
+      "U",
+      "T",
+      "A"
+    ],
+    "frequency": 62,
+    "example": "puta",
+    "examples": [
+      "puta",
+      "Puta"
+    ]
+  },
+  {
+    "seq": [
+      "S",
+      "O",
+      "L",
+      "O"
+    ],
+    "frequency": 62,
+    "example": "solo",
+    "examples": [
+      "solo",
+      "Solo"
+    ]
+  },
+  {
+    "seq": [
+      "A",
+      "N",
+      "N",
+      "O"
+    ],
+    "frequency": 61,
+    "example": "anno",
+    "examples": [
+      "anno",
+      "Anno"
+    ]
+  },
+  {
+    "seq": [
+      "M",
+      "E",
+      "N",
+      "S"
+    ],
+    "frequency": 61,
+    "example": "mens",
+    "examples": [
+      "mens",
+      "Mens"
+    ]
+  },
+  {
+    "seq": [
+      "F",
+      "A",
+      "C_FRONT"
+    ],
+    "frequency": 60,
+    "example": "fac",
+    "examples": [
+      "fac",
+      "Fac"
+    ]
+  },
+  {
+    "seq": [
+      "S",
+      "I",
+      "N"
+    ],
+    "frequency": 60,
+    "example": "Sin",
+    "examples": [
+      "Sin",
+      "sin"
+    ]
+  },
+  {
+    "seq": [
+      "F",
+      "O",
+      "C_FRONT",
+      "E"
+    ],
+    "frequency": 60,
+    "example": "voce",
+    "examples": [
+      "voce"
+    ]
+  },
+  {
+    "seq": [
+      "I",
+      "U"
+    ],
+    "frequency": 59,
+    "example": "Iu",
+    "examples": [
+      "Iu"
+    ]
+  },
+  {
+    "seq": [
+      "F",
+      "A",
+      "S"
+    ],
+    "frequency": 57,
+    "example": "fas",
+    "examples": [
+      "fas",
+      "vas",
+      "Fas",
+      "phas"
+    ]
+  },
+  {
+    "seq": [
+      "F",
+      "I",
+      "A",
+      "M"
+    ],
+    "frequency": 57,
+    "example": "viam",
+    "examples": [
+      "viam",
+      "fiam",
+      "Viam"
+    ]
+  },
+  {
+    "seq": [
+      "I",
+      "S",
+      "T",
+      "E"
+    ],
+    "frequency": 57,
+    "example": "iste",
+    "examples": [
+      "iste",
+      "Iste"
+    ]
+  },
+  {
+    "seq": [
+      "L",
+      "A"
+    ],
+    "frequency": 56,
+    "example": "La",
+    "examples": [
+      "La",
+      "la"
+    ]
+  },
+  {
+    "seq": [
+      "O",
+      "T",
+      "I",
+      "O"
+    ],
+    "frequency": 56,
+    "example": "odio",
+    "examples": [
+      "odio",
+      "otio",
+      "Odio"
+    ]
+  },
+  {
+    "seq": [
+      "T",
+      "A",
+      "L",
+      "I"
+    ],
+    "frequency": 56,
+    "example": "tali",
+    "examples": [
+      "tali",
+      "Tali"
+    ]
+  },
+  {
+    "seq": [
+      "T",
+      "A",
+      "R",
+      "E"
+    ],
+    "frequency": 55,
+    "example": "dare",
+    "examples": [
+      "dare",
+      "Dare"
+    ]
+  },
+  {
+    "seq": [
+      "E",
+      "T",
+      "S",
+      "I"
+    ],
+    "frequency": 54,
+    "example": "etsi",
+    "examples": [
+      "etsi",
+      "Etsi"
+    ]
+  },
+  {
+    "seq": [
+      "P",
+      "A",
+      "K",
+      "S"
+    ],
+    "frequency": 54,
+    "example": "pax",
+    "examples": [
+      "pax",
+      "Pax"
+    ]
+  },
+  {
+    "seq": [
+      "K",
+      "O",
+      "R"
+    ],
+    "frequency": 53,
+    "example": "cor",
+    "examples": [
+      "cor",
+      "Cor"
+    ]
+  },
+  {
+    "seq": [
+      "E",
+      "C_FRONT"
+    ],
+    "frequency": 52,
+    "example": "Ec",
+    "examples": [
+      "Ec"
+    ]
+  },
+  {
+    "seq": [
+      "F",
+      "I",
+      "E",
+      "T"
+    ],
+    "frequency": 52,
+    "example": "fiet",
+    "examples": [
+      "fiet",
+      "Fiet"
+    ]
+  },
+  {
+    "seq": [
+      "P",
+      "R",
+      "A",
+      "E"
+    ],
+    "frequency": 52,
+    "example": "prae",
+    "examples": [
+      "prae"
+    ]
+  },
+  {
+    "seq": [
+      "S",
+      "O",
+      "L",
+      "I"
+    ],
+    "frequency": 52,
+    "example": "soli",
+    "examples": [
+      "soli",
+      "Soli"
+    ]
+  },
+  {
+    "seq": [
+      "P",
+      "A",
+      "C_FRONT",
+      "E"
+    ],
+    "frequency": 50,
+    "example": "pace",
+    "examples": [
+      "pace"
+    ]
+  },
+  {
+    "seq": [
+      "U",
+      "R",
+      "P",
+      "E"
+    ],
+    "frequency": 50,
+    "example": "urbe",
+    "examples": [
+      "urbe",
+      "Urbe"
+    ]
+  },
+  {
+    "seq": [
+      "M",
+      "A",
+      "N",
+      "E"
+    ],
+    "frequency": 49,
+    "example": "mane",
+    "examples": [
+      "mane",
+      "Mane"
+    ]
+  },
+  {
+    "seq": [
+      "F",
+      "I",
+      "M"
+    ],
+    "frequency": 48,
+    "example": "vim",
+    "examples": [
+      "vim",
+      "Vim"
+    ]
+  },
+  {
+    "seq": [
+      "A",
+      "G_FRONT",
+      "I",
+      "T"
+    ],
+    "frequency": 48,
+    "example": "agit",
+    "examples": [
+      "agit"
+    ]
+  },
+  {
+    "seq": [
+      "O",
+      "P",
+      "E",
+      "S"
+    ],
+    "frequency": 48,
+    "example": "opes",
+    "examples": [
+      "opes",
+      "Opes"
+    ]
+  },
+  {
+    "seq": [
+      "H",
+      "A"
+    ],
+    "frequency": 47,
+    "example": "Ha",
+    "examples": [
+      "Ha",
+      "ha"
+    ]
+  },
+  {
+    "seq": [
+      "I",
+      "R",
+      "E"
+    ],
+    "frequency": 47,
+    "example": "ire",
+    "examples": [
+      "ire",
+      "Ire"
+    ]
+  },
+  {
+    "seq": [
+      "U",
+      "N",
+      "I"
+    ],
+    "frequency": 47,
+    "example": "uni",
+    "examples": [
+      "uni",
+      "Uni"
+    ]
+  },
+  {
+    "seq": [
+      "L",
+      "E",
+      "K",
+      "S"
+    ],
+    "frequency": 47,
+    "example": "lex",
+    "examples": [
+      "lex",
+      "Lex"
+    ]
+  },
+  {
+    "seq": [
+      "S",
+      "P",
+      "E",
+      "M"
+    ],
+    "frequency": 47,
+    "example": "spem",
+    "examples": [
+      "spem",
+      "Spem"
+    ]
+  },
+  {
+    "seq": [
+      "P",
+      "A",
+      "R"
+    ],
+    "frequency": 46,
+    "example": "par",
+    "examples": [
+      "par",
+      "Par"
+    ]
+  },
+  {
+    "seq": [
+      "T",
+      "U",
+      "E"
+    ],
+    "frequency": 46,
+    "example": "tue",
+    "examples": [
+      "tue",
+      "due"
+    ]
+  },
+  {
+    "seq": [
+      "L",
+      "U",
+      "C_FRONT",
+      "E"
+    ],
+    "frequency": 46,
+    "example": "luce",
+    "examples": [
+      "luce",
+      "Luce"
+    ]
+  },
+  {
+    "seq": [
+      "M",
+      "E",
+      "T",
+      "U"
+    ],
+    "frequency": 46,
+    "example": "metu",
+    "examples": [
+      "metu"
+    ]
+  },
+  {
+    "seq": [
+      "R",
+      "E",
+      "G_FRONT",
+      "E"
+    ],
+    "frequency": 46,
+    "example": "rege",
+    "examples": [
+      "rege",
+      "Rege",
+      "REGE"
+    ]
+  },
+  {
+    "seq": [
+      "R",
+      "E",
+      "G_FRONT",
+      "I"
+    ],
+    "frequency": 46,
+    "example": "regi",
+    "examples": [
+      "regi",
+      "Regi"
+    ]
+  },
+  {
+    "seq": [
+      "T",
+      "U",
+      "R",
+      "A"
+    ],
+    "frequency": 46,
+    "example": "dura",
+    "examples": [
+      "dura",
+      "Dura",
+      "Tura",
+      "tura",
+      "thura"
+    ]
+  },
+  {
+    "seq": [
+      "E",
+      "J",
+      "U",
+      "S"
+    ],
+    "frequency": 45,
+    "example": "ejus",
+    "examples": [
+      "ejus"
+    ]
+  },
+  {
+    "seq": [
+      "F",
+      "I",
+      "N",
+      "O"
+    ],
+    "frequency": 45,
+    "example": "vino",
+    "examples": [
+      "vino",
+      "fino",
+      "Vino"
+    ]
+  },
+  {
+    "seq": [
+      "M",
+      "A",
+      "R",
+      "I"
+    ],
+    "frequency": 45,
+    "example": "mari",
+    "examples": [
+      "mari",
+      "Mari"
+    ]
+  },
+  {
+    "seq": [
+      "M",
+      "E",
+      "A",
+      "E"
+    ],
+    "frequency": 45,
+    "example": "meae",
+    "examples": [
+      "meae",
+      "Meae"
+    ]
+  },
+  {
+    "seq": [
+      "O",
+      "R",
+      "A"
+    ],
+    "frequency": 44,
+    "example": "ora",
+    "examples": [
+      "ora",
+      "Ora"
+    ]
+  },
+  {
+    "seq": [
+      "P",
+      "I",
+      "S"
+    ],
+    "frequency": 44,
+    "example": "bis",
+    "examples": [
+      "bis",
+      "Bis",
+      "pis"
+    ]
+  },
+  {
+    "seq": [
+      "S",
+      "I",
+      "M"
+    ],
+    "frequency": 44,
+    "example": "sim",
+    "examples": [
+      "sim",
+      "Sim"
+    ]
+  },
+  {
+    "seq": [
+      "A",
+      "U",
+      "R",
+      "O"
+    ],
+    "frequency": 44,
+    "example": "auro",
+    "examples": [
+      "auro",
+      "Auro"
+    ]
+  },
+  {
+    "seq": [
+      "E",
+      "R",
+      "K",
+      "A"
+    ],
+    "frequency": 44,
+    "example": "erga",
+    "examples": [
+      "erga"
+    ]
+  },
+  {
+    "seq": [
+      "F",
+      "I",
+      "T",
+      "I"
+    ],
+    "frequency": 44,
+    "example": "vidi",
+    "examples": [
+      "vidi",
+      "Vidi",
+      "fidi"
+    ]
+  },
+  {
+    "seq": [
+      "S",
+      "I",
+      "U",
+      "E"
+    ],
+    "frequency": 44,
+    "example": "siue",
+    "examples": [
+      "siue",
+      "Siue"
+    ]
+  },
+  {
+    "seq": [
+      "T",
+      "A",
+      "L",
+      "E"
+    ],
+    "frequency": 44,
+    "example": "tale",
+    "examples": [
+      "tale",
+      "Tale"
+    ]
+  },
+  {
+    "seq": [
+      "K",
+      "A",
+      "R",
+      "O"
+    ],
+    "frequency": 43,
+    "example": "caro",
+    "examples": [
+      "caro",
+      "Caro"
+    ]
+  },
+  {
+    "seq": [
+      "P",
+      "O",
+      "N",
+      "E"
+    ],
+    "frequency": 43,
+    "example": "bone",
+    "examples": [
+      "bone",
+      "Pone",
+      "pone",
+      "Bone"
+    ]
+  },
+  {
+    "seq": [
+      "O",
+      "S"
+    ],
+    "frequency": 42,
+    "example": "os",
+    "examples": [
+      "os",
+      "Os"
+    ]
+  },
+  {
+    "seq": [
+      "P",
+      "S"
+    ],
+    "frequency": 42,
+    "example": "Ps",
+    "examples": [
+      "Ps"
+    ]
+  },
+  {
+    "seq": [
+      "S",
+      "O"
+    ],
+    "frequency": 42,
+    "example": "So",
+    "examples": [
+      "So",
+      "so"
+    ]
+  },
+  {
+    "seq": [
+      "A",
+      "M",
+      "A",
+      "T"
+    ],
+    "frequency": 42,
+    "example": "amat",
+    "examples": [
+      "amat",
+      "Amat"
+    ]
+  },
+  {
+    "seq": [
+      "H",
+      "O",
+      "R",
+      "A"
+    ],
+    "frequency": 42,
+    "example": "hora",
+    "examples": [
+      "hora",
+      "Hora"
+    ]
+  },
+  {
+    "seq": [
+      "P",
+      "A",
+      "R",
+      "I"
+    ],
+    "frequency": 42,
+    "example": "pari",
+    "examples": [
+      "pari",
+      "Pari"
+    ]
+  },
+  {
+    "seq": [
+      "U",
+      "E",
+      "R",
+      "E"
+    ],
+    "frequency": 42,
+    "example": "uere",
+    "examples": [
+      "uere"
+    ]
+  },
+  {
+    "seq": [
+      "P",
+      "R"
+    ],
+    "frequency": 41,
+    "example": "Br",
+    "examples": [
+      "Br"
+    ]
+  },
+  {
+    "seq": [
+      "S",
+      "O",
+      "L"
+    ],
+    "frequency": 41,
+    "example": "sol",
+    "examples": [
+      "sol",
+      "Sol"
+    ]
+  },
+  {
+    "seq": [
+      "F",
+      "A",
+      "M",
+      "E"
+    ],
+    "frequency": 41,
+    "example": "fame",
+    "examples": [
+      "fame",
+      "Fame"
+    ]
+  },
+  {
+    "seq": [
+      "L",
+      "A",
+      "T",
+      "E"
+    ],
+    "frequency": 41,
+    "example": "late",
+    "examples": [
+      "late",
+      "Late"
+    ]
+  },
+  {
+    "seq": [
+      "R"
+    ],
+    "frequency": 40,
+    "example": "r",
+    "examples": [
+      "r",
+      "R"
+    ]
+  },
+  {
+    "seq": [
+      "T",
+      "A",
+      "T"
+    ],
+    "frequency": 40,
+    "example": "dat",
+    "examples": [
+      "dat",
+      "Dat"
+    ]
+  },
+  {
+    "seq": [
+      "U",
+      "O",
+      "S"
+    ],
+    "frequency": 40,
+    "example": "uos",
+    "examples": [
+      "uos",
+      "Uos"
+    ]
+  },
+  {
+    "seq": [
+      "A",
+      "L",
+      "T",
+      "O"
+    ],
+    "frequency": 40,
+    "example": "alto",
+    "examples": [
+      "alto"
+    ]
+  },
+  {
+    "seq": [
+      "E",
+      "S",
+      "T",
+      "O"
+    ],
+    "frequency": 40,
+    "example": "esto",
+    "examples": [
+      "esto",
+      "Esto"
+    ]
+  },
+  {
+    "seq": [
+      "F",
+      "I",
+      "N",
+      "E"
+    ],
+    "frequency": 40,
+    "example": "fine",
+    "examples": [
+      "fine"
+    ]
+  },
+  {
+    "seq": [
+      "I",
+      "S",
+      "T",
+      "O"
+    ],
+    "frequency": 40,
+    "example": "isto",
+    "examples": [
+      "isto",
+      "Isto"
+    ]
+  },
+  {
+    "seq": [
+      "K",
+      "A",
+      "S",
+      "U"
+    ],
+    "frequency": 40,
+    "example": "casu",
+    "examples": [
+      "casu"
+    ]
+  },
+  {
+    "seq": [
+      "P",
+      "U",
+      "T",
+      "O"
+    ],
+    "frequency": 40,
+    "example": "puto",
+    "examples": [
+      "puto",
+      "Puto"
+    ]
+  },
+  {
+    "seq": [
+      "A",
+      "R",
+      "S"
+    ],
+    "frequency": 39,
+    "example": "ars",
+    "examples": [
+      "ars",
+      "Ars"
+    ]
+  },
+  {
+    "seq": [
+      "S",
+      "A",
+      "T"
+    ],
+    "frequency": 39,
+    "example": "sat",
+    "examples": [
+      "sat",
+      "Sat"
+    ]
+  },
+  {
+    "seq": [
+      "C_FRONT"
+    ],
+    "frequency": 38,
+    "example": "c",
+    "examples": [
+      "c",
+      "C"
+    ]
+  },
+  {
+    "seq": [
+      "I",
+      "O"
+    ],
+    "frequency": 38,
+    "example": "Io",
+    "examples": [
+      "Io",
+      "io"
+    ]
+  },
+  {
+    "seq": [
+      "C_FRONT",
+      "I",
+      "T",
+      "O"
+    ],
+    "frequency": 38,
+    "example": "cito",
+    "examples": [
+      "cito",
+      "Cito"
+    ]
+  },
+  {
+    "seq": [
+      "S",
+      "E",
+      "P",
+      "E"
+    ],
+    "frequency": 38,
+    "example": "sepe",
+    "examples": [
+      "sepe",
+      "Sepe"
+    ]
+  },
+  {
+    "seq": [
+      "T",
+      "O",
+      "M",
+      "O"
+    ],
+    "frequency": 38,
+    "example": "domo",
+    "examples": [
+      "domo"
+    ]
+  },
+  {
+    "seq": [
+      "L",
+      "U"
+    ],
+    "frequency": 37,
+    "example": "Lu",
+    "examples": [
+      "Lu"
+    ]
+  },
+  {
+    "seq": [
+      "C_FRONT",
+      "E",
+      "U"
+    ],
+    "frequency": 37,
+    "example": "ceu",
+    "examples": [
+      "ceu",
+      "Ceu"
+    ]
+  },
+  {
+    "seq": [
+      "A",
+      "L",
+      "T",
+      "A"
+    ],
+    "frequency": 37,
+    "example": "alta",
+    "examples": [
+      "alta",
+      "Alta"
+    ]
+  },
+  {
+    "seq": [
+      "F",
+      "A",
+      "T",
+      "A"
+    ],
+    "frequency": 37,
+    "example": "fata",
+    "examples": [
+      "fata",
+      "Fata",
+      "vada"
+    ]
+  },
+  {
+    "seq": [
+      "I",
+      "E",
+      "S",
+      "U"
+    ],
+    "frequency": 37,
+    "example": "Iesu",
+    "examples": [
+      "Iesu"
+    ]
+  },
+  {
+    "seq": [
+      "M",
+      "E",
+      "O",
+      "S"
+    ],
+    "frequency": 37,
+    "example": "meos",
+    "examples": [
+      "meos",
+      "Meos"
+    ]
+  },
+  {
+    "seq": [
+      "O",
+      "R",
+      "T",
+      "O"
+    ],
+    "frequency": 37,
+    "example": "ordo",
+    "examples": [
+      "ordo",
+      "orto"
+    ]
+  },
+  {
+    "seq": [
+      "F",
+      "O",
+      "L",
+      "O"
+    ],
+    "frequency": 36,
+    "example": "volo",
+    "examples": [
+      "volo",
+      "Volo"
+    ]
+  },
+  {
+    "seq": [
+      "L",
+      "O",
+      "C_FRONT",
+      "I"
+    ],
+    "frequency": 36,
+    "example": "loci",
+    "examples": [
+      "loci"
+    ]
+  },
+  {
+    "seq": [
+      "E",
+      "R",
+      "I",
+      "S"
+    ],
+    "frequency": 35,
+    "example": "eris",
+    "examples": [
+      "eris",
+      "Eris"
+    ]
+  },
+  {
+    "seq": [
+      "T",
+      "U",
+      "C_FRONT",
+      "E"
+    ],
+    "frequency": 35,
+    "example": "duce",
+    "examples": [
+      "duce",
+      "Duce"
+    ]
+  },
+  {
+    "seq": [
+      "E",
+      "N"
+    ],
+    "frequency": 34,
+    "example": "En",
+    "examples": [
+      "En",
+      "en"
+    ]
+  },
+  {
+    "seq": [
+      "A",
+      "U",
+      "R",
+      "I"
+    ],
+    "frequency": 34,
+    "example": "auri",
+    "examples": [
+      "auri"
+    ]
+  },
+  {
+    "seq": [
+      "F",
+      "A",
+      "L",
+      "E"
+    ],
+    "frequency": 34,
+    "example": "vale",
+    "examples": [
+      "vale",
+      "Vale"
+    ]
+  },
+  {
+    "seq": [
+      "F",
+      "O",
+      "K",
+      "S"
+    ],
+    "frequency": 34,
+    "example": "vox",
+    "examples": [
+      "vox",
+      "Vox"
+    ]
+  },
+  {
+    "seq": [
+      "M",
+      "I",
+      "R",
+      "A"
+    ],
+    "frequency": 34,
+    "example": "mira",
+    "examples": [
+      "mira",
+      "Mira"
+    ]
+  },
+  {
+    "seq": [
+      "S",
+      "C_FRONT",
+      "I",
+      "S"
+    ],
+    "frequency": 34,
+    "example": "scis",
+    "examples": [
+      "scis",
+      "Scis"
+    ]
+  },
+  {
+    "seq": [
+      "T",
+      "E",
+      "O",
+      "S"
+    ],
+    "frequency": 34,
+    "example": "deos",
+    "examples": [
+      "deos",
+      "Deos"
+    ]
+  },
+  {
+    "seq": [
+      "U",
+      "I",
+      "K",
+      "S"
+    ],
+    "frequency": 34,
+    "example": "uix",
+    "examples": [
+      "uix"
+    ]
+  },
+  {
+    "seq": [
+      "P"
+    ],
+    "frequency": 33,
+    "example": "B",
+    "examples": [
+      "B",
+      "p",
+      "b"
+    ]
+  },
+  {
+    "seq": [
+      "E",
+      "T",
+      "C_FRONT"
+    ],
+    "frequency": 33,
+    "example": "etc",
+    "examples": [
+      "etc"
+    ]
+  },
+  {
+    "seq": [
+      "A",
+      "U",
+      "T",
+      "I"
+    ],
+    "frequency": 33,
+    "example": "audi",
+    "examples": [
+      "audi",
+      "Audi"
+    ]
+  },
+  {
+    "seq": [
+      "F",
+      "I",
+      "S",
+      "A"
+    ],
+    "frequency": 33,
+    "example": "visa",
+    "examples": [
+      "visa",
+      "Visa"
+    ]
+  },
+  {
+    "seq": [
+      "L",
+      "O",
+      "K",
+      "A"
+    ],
+    "frequency": 33,
+    "example": "loca",
+    "examples": [
+      "loca",
+      "Loca"
+    ]
+  },
+  {
+    "seq": [
+      "L",
+      "U",
+      "K",
+      "S"
+    ],
+    "frequency": 33,
+    "example": "lux",
+    "examples": [
+      "lux",
+      "Lux"
+    ]
+  },
+  {
+    "seq": [
+      "L",
+      "U",
+      "T",
+      "O"
+    ],
+    "frequency": 33,
+    "example": "ludo",
+    "examples": [
+      "ludo",
+      "luto",
+      "Luto"
+    ]
+  },
+  {
+    "seq": [
+      "T",
+      "A",
+      "T",
+      "A"
+    ],
+    "frequency": 33,
+    "example": "data",
+    "examples": [
+      "data",
+      "Data"
+    ]
+  },
+  {
+    "seq": [
+      "R",
+      "A"
+    ],
+    "frequency": 32,
+    "example": "Ra",
+    "examples": [
+      "Ra"
+    ]
+  },
+  {
+    "seq": [
+      "U",
+      "I",
+      "R"
+    ],
+    "frequency": 32,
+    "example": "uir",
+    "examples": [
+      "uir"
+    ]
+  },
+  {
+    "seq": [
+      "F",
+      "E",
+      "R",
+      "I"
+    ],
+    "frequency": 32,
+    "example": "veri",
+    "examples": [
+      "veri",
+      "feri",
+      "Feri"
+    ]
+  },
+  {
+    "seq": [
+      "N",
+      "A",
+      "T",
+      "I"
+    ],
+    "frequency": 32,
+    "example": "nati",
+    "examples": [
+      "nati",
+      "Nati"
+    ]
+  },
+  {
+    "seq": [
+      "N",
+      "O",
+      "T",
+      "A"
+    ],
+    "frequency": 32,
+    "example": "nota",
+    "examples": [
+      "nota",
+      "Nota"
+    ]
+  },
+  {
+    "seq": [
+      "S",
+      "E",
+      "K",
+      "S"
+    ],
+    "frequency": 32,
+    "example": "sex",
+    "examples": [
+      "sex",
+      "Sex"
+    ]
+  },
+  {
+    "seq": [
+      "I",
+      "I"
+    ],
+    "frequency": 31,
+    "example": "ii",
+    "examples": [
+      "ii",
+      "II",
+      "Ii"
+    ]
+  },
+  {
+    "seq": [
+      "P",
+      "O",
+      "S"
+    ],
+    "frequency": 31,
+    "example": "bos",
+    "examples": [
+      "bos",
+      "Bos"
+    ]
+  },
+  {
+    "seq": [
+      "S",
+      "P",
+      "E"
+    ],
+    "frequency": 31,
+    "example": "spe",
+    "examples": [
+      "spe"
+    ]
+  },
+  {
+    "seq": [
+      "U",
+      "I",
+      "A"
+    ],
+    "frequency": 31,
+    "example": "uia",
+    "examples": [
+      "uia"
+    ]
+  },
+  {
+    "seq": [
+      "C_FRONT",
+      "E",
+      "L",
+      "O"
+    ],
+    "frequency": 31,
+    "example": "celo",
+    "examples": [
+      "celo",
+      "Celo"
+    ]
+  },
+  {
+    "seq": [
+      "F",
+      "I",
+      "A",
+      "S"
+    ],
+    "frequency": 31,
+    "example": "vias",
+    "examples": [
+      "vias",
+      "fias",
+      "Vias"
+    ]
+  },
+  {
+    "seq": [
+      "M",
+      "O",
+      "T",
+      "U"
+    ],
+    "frequency": 31,
+    "example": "motu",
+    "examples": [
+      "motu"
+    ]
+  },
+  {
+    "seq": [
+      "P",
+      "A",
+      "P",
+      "A"
+    ],
+    "frequency": 31,
+    "example": "Papa",
+    "examples": [
+      "Papa",
+      "papa"
+    ]
+  },
+  {
+    "seq": [
+      "U",
+      "U",
+      "L",
+      "T"
+    ],
+    "frequency": 31,
+    "example": "uult",
+    "examples": [
+      "uult"
+    ]
+  },
+  {
+    "seq": [
+      "P",
+      "R",
+      "E"
+    ],
+    "frequency": 30,
+    "example": "pre",
+    "examples": [
+      "pre"
+    ]
+  },
+  {
+    "seq": [
+      "F",
+      "E",
+      "R",
+      "T"
+    ],
+    "frequency": 30,
+    "example": "fert",
+    "examples": [
+      "fert",
+      "vert",
+      "Fert"
+    ]
+  },
+  {
+    "seq": [
+      "M",
+      "O",
+      "R",
+      "I"
+    ],
+    "frequency": 30,
+    "example": "mori",
+    "examples": [
+      "mori",
+      "Mori"
+    ]
+  },
+  {
+    "seq": [
+      "O",
+      "N",
+      "U",
+      "S"
+    ],
+    "frequency": 30,
+    "example": "onus",
+    "examples": [
+      "onus",
+      "Onus"
+    ]
+  },
+  {
+    "seq": [
+      "O",
+      "R",
+      "P",
+      "E"
+    ],
+    "frequency": 30,
+    "example": "orbe",
+    "examples": [
+      "orbe"
+    ]
+  },
+  {
+    "seq": [
+      "R",
+      "O",
+      "M",
+      "A"
+    ],
+    "frequency": 30,
+    "example": "Roma",
+    "examples": [
+      "Roma"
+    ]
+  },
+  {
+    "seq": [
+      "S",
+      "O",
+      "L",
+      "E"
+    ],
+    "frequency": 30,
+    "example": "sole",
+    "examples": [
+      "sole",
+      "Sole"
+    ]
+  },
+  {
+    "seq": [
+      "U",
+      "E",
+      "R",
+      "A"
+    ],
+    "frequency": 30,
+    "example": "uera",
+    "examples": [
+      "uera"
+    ]
+  },
+  {
+    "seq": [
+      "I",
+      "T",
+      "E"
+    ],
+    "frequency": 29,
+    "example": "ite",
+    "examples": [
+      "ite",
+      "Ite"
+    ]
+  },
+  {
+    "seq": [
+      "M",
+      "O",
+      "S"
+    ],
+    "frequency": 29,
+    "example": "mos",
+    "examples": [
+      "mos",
+      "Mos"
+    ]
+  },
+  {
+    "seq": [
+      "F",
+      "O",
+      "T",
+      "A"
+    ],
+    "frequency": 29,
+    "example": "vota",
+    "examples": [
+      "vota",
+      "Vota"
+    ]
+  },
+  {
+    "seq": [
+      "M",
+      "O",
+      "R",
+      "A"
+    ],
+    "frequency": 29,
+    "example": "mora",
+    "examples": [
+      "mora",
+      "Mora"
+    ]
+  },
+  {
+    "seq": [
+      "N",
+      "A",
+      "T",
+      "A"
+    ],
+    "frequency": 29,
+    "example": "nata",
+    "examples": [
+      "nata",
+      "Nata"
+    ]
+  },
+  {
+    "seq": [
+      "N",
+      "A",
+      "T",
+      "E"
+    ],
+    "frequency": 29,
+    "example": "nate",
+    "examples": [
+      "nate",
+      "Nate"
+    ]
+  },
+  {
+    "seq": [
+      "N",
+      "O",
+      "K",
+      "S"
+    ],
+    "frequency": 29,
+    "example": "nox",
+    "examples": [
+      "nox",
+      "Nox"
+    ]
+  },
+  {
+    "seq": [
+      "P",
+      "E",
+      "T",
+      "E"
+    ],
+    "frequency": 29,
+    "example": "pede",
+    "examples": [
+      "pede",
+      "pete"
+    ]
+  },
+  {
+    "seq": [
+      "P",
+      "I",
+      "U",
+      "S"
+    ],
+    "frequency": 29,
+    "example": "pius",
+    "examples": [
+      "pius",
+      "Pius"
+    ]
+  },
+  {
+    "seq": [
+      "S",
+      "E",
+      "R",
+      "O"
+    ],
+    "frequency": 29,
+    "example": "sero",
+    "examples": [
+      "sero",
+      "Sero"
+    ]
+  },
+  {
+    "seq": [
+      "T",
+      "E",
+      "L",
+      "A"
+    ],
+    "frequency": 29,
+    "example": "tela",
+    "examples": [
+      "tela"
+    ]
+  },
+  {
+    "seq": [
+      "A",
+      "I",
+      "S"
+    ],
+    "frequency": 28,
+    "example": "ais",
+    "examples": [
+      "ais",
+      "Ais"
+    ]
+  },
+  {
+    "seq": [
+      "A",
+      "K",
+      "A",
+      "T"
+    ],
+    "frequency": 28,
+    "example": "agat",
+    "examples": [
+      "agat"
+    ]
+  },
+  {
+    "seq": [
+      "M",
+      "E",
+      "A",
+      "S"
+    ],
+    "frequency": 28,
+    "example": "meas",
+    "examples": [
+      "meas"
+    ]
+  },
+  {
+    "seq": [
+      "N",
+      "O",
+      "L",
+      "I"
+    ],
+    "frequency": 28,
+    "example": "Noli",
+    "examples": [
+      "Noli",
+      "noli"
+    ]
+  },
+  {
+    "seq": [
+      "P",
+      "I",
+      "U",
+      "M"
+    ],
+    "frequency": 28,
+    "example": "pium",
+    "examples": [
+      "pium",
+      "Pium"
+    ]
+  },
+  {
+    "seq": [
+      "T",
+      "E",
+      "R"
+    ],
+    "frequency": 27,
+    "example": "ter",
+    "examples": [
+      "ter",
+      "Ter"
+    ]
+  },
+  {
+    "seq": [
+      "E",
+      "R",
+      "A",
+      "M"
+    ],
+    "frequency": 27,
+    "example": "eram",
+    "examples": [
+      "eram",
+      "Eram"
+    ]
+  },
+  {
+    "seq": [
+      "F",
+      "I",
+      "L",
+      "I"
+    ],
+    "frequency": 27,
+    "example": "fili",
+    "examples": [
+      "fili",
+      "vili",
+      "Fili"
+    ]
+  },
+  {
+    "seq": [
+      "L",
+      "A",
+      "U",
+      "S"
+    ],
+    "frequency": 27,
+    "example": "laus",
+    "examples": [
+      "laus"
+    ]
+  },
+  {
+    "seq": [
+      "R",
+      "O",
+      "K",
+      "O"
+    ],
+    "frequency": 27,
+    "example": "rogo",
+    "examples": [
+      "rogo",
+      "Rogo",
+      "Rocho"
+    ]
+  },
+  {
+    "seq": [
+      "T",
+      "A"
+    ],
+    "frequency": 26,
+    "example": "da",
+    "examples": [
+      "da",
+      "Da"
+    ]
+  },
+  {
+    "seq": [
+      "A",
+      "G_FRONT",
+      "I",
+      "S"
+    ],
+    "frequency": 26,
+    "example": "agis",
+    "examples": [
+      "agis"
+    ]
+  },
+  {
+    "seq": [
+      "A",
+      "T",
+      "T",
+      "E"
+    ],
+    "frequency": 26,
+    "example": "Adde",
+    "examples": [
+      "Adde",
+      "adde"
+    ]
+  },
+  {
+    "seq": [
+      "I",
+      "K",
+      "N",
+      "E"
+    ],
+    "frequency": 26,
+    "example": "igne",
+    "examples": [
+      "igne"
+    ]
+  },
+  {
+    "seq": [
+      "T",
+      "A",
+      "P",
+      "O"
+    ],
+    "frequency": 26,
+    "example": "dabo",
+    "examples": [
+      "dabo",
+      "Dabo",
+      "tabo"
+    ]
+  },
+  {
+    "seq": [
+      "P",
+      "I",
+      "A"
+    ],
+    "frequency": 25,
+    "example": "pia",
+    "examples": [
+      "pia"
+    ]
+  },
+  {
+    "seq": [
+      "E",
+      "K",
+      "W",
+      "I"
+    ],
+    "frequency": 25,
+    "example": "equi",
+    "examples": [
+      "equi",
+      "Equi"
+    ]
+  },
+  {
+    "seq": [
+      "G_FRONT",
+      "E",
+      "N",
+      "S"
+    ],
+    "frequency": 25,
+    "example": "gens",
+    "examples": [
+      "gens",
+      "Gens"
+    ]
+  },
+  {
+    "seq": [
+      "I",
+      "R",
+      "A",
+      "M"
+    ],
+    "frequency": 25,
+    "example": "iram",
+    "examples": [
+      "iram",
+      "Iram"
+    ]
+  },
+  {
+    "seq": [
+      "S",
+      "T",
+      "A",
+      "T"
+    ],
+    "frequency": 25,
+    "example": "stat",
+    "examples": [
+      "stat",
+      "Stat"
+    ]
+  },
+  {
+    "seq": [
+      "U",
+      "L",
+      "L",
+      "O"
+    ],
+    "frequency": 25,
+    "example": "ullo",
+    "examples": [
+      "ullo"
+    ]
+  },
+  {
+    "seq": [
+      "I"
+    ],
+    "frequency": 24,
+    "example": "i",
+    "examples": [
+      "i",
+      "I"
+    ]
+  },
+  {
+    "seq": [
+      "N"
+    ],
+    "frequency": 24,
+    "example": "n",
+    "examples": [
+      "n",
+      "N"
+    ]
+  },
+  {
+    "seq": [
+      "A",
+      "K",
+      "W",
+      "E"
+    ],
+    "frequency": 24,
+    "example": "aque",
+    "examples": [
+      "aque"
+    ]
+  },
+  {
+    "seq": [
+      "C_FRONT",
+      "I",
+      "P",
+      "O"
+    ],
+    "frequency": 24,
+    "example": "cibo",
+    "examples": [
+      "cibo",
+      "Cibo"
+    ]
+  },
+  {
+    "seq": [
+      "F",
+      "E",
+      "N",
+      "I"
+    ],
+    "frequency": 24,
+    "example": "veni",
+    "examples": [
+      "veni",
+      "Veni"
+    ]
+  },
+  {
+    "seq": [
+      "F",
+      "I",
+      "C_FRONT",
+      "E"
+    ],
+    "frequency": 24,
+    "example": "vice",
+    "examples": [
+      "vice"
+    ]
+  },
+  {
+    "seq": [
+      "F",
+      "O",
+      "R",
+      "O"
+    ],
+    "frequency": 24,
+    "example": "foro",
+    "examples": [
+      "foro",
+      "Foro"
+    ]
+  },
+  {
+    "seq": [
+      "P",
+      "I",
+      "I",
+      "S"
+    ],
+    "frequency": 24,
+    "example": "piis",
+    "examples": [
+      "piis",
+      "Piis"
+    ]
+  },
+  {
+    "seq": [
+      "R",
+      "A",
+      "R",
+      "O"
+    ],
+    "frequency": 24,
+    "example": "raro",
+    "examples": [
+      "raro",
+      "Raro"
+    ]
+  },
+  {
+    "seq": [
+      "S",
+      "I",
+      "N",
+      "U"
+    ],
+    "frequency": 24,
+    "example": "sinu",
+    "examples": [
+      "sinu"
+    ]
+  },
+  {
+    "seq": [
+      "T",
+      "U",
+      "C_FRONT",
+      "I"
+    ],
+    "frequency": 24,
+    "example": "duci",
+    "examples": [
+      "duci"
+    ]
+  },
+  {
+    "seq": [
+      "U",
+      "I",
+      "S"
+    ],
+    "frequency": 23,
+    "example": "uis",
+    "examples": [
+      "uis"
+    ]
+  },
+  {
+    "seq": [
+      "A",
+      "E",
+      "R",
+      "E"
+    ],
+    "frequency": 23,
+    "example": "aere",
+    "examples": [
+      "aere"
+    ]
+  },
+  {
+    "seq": [
+      "N",
+      "A",
+      "T",
+      "U"
+    ],
+    "frequency": 23,
+    "example": "natu",
+    "examples": [
+      "natu",
+      "Natu"
+    ]
+  },
+  {
+    "seq": [
+      "M",
+      "E",
+      "E"
+    ],
+    "frequency": 22,
+    "example": "mee",
+    "examples": [
+      "mee"
+    ]
+  },
+  {
+    "seq": [
+      "U",
+      "I",
+      "M"
+    ],
+    "frequency": 22,
+    "example": "uim",
+    "examples": [
+      "uim"
+    ]
+  },
+  {
+    "seq": [
+      "A",
+      "K",
+      "R",
+      "I"
+    ],
+    "frequency": 22,
+    "example": "acri",
+    "examples": [
+      "acri",
+      "agri"
+    ]
+  },
+  {
+    "seq": [
+      "C_FRONT",
+      "E",
+      "L",
+      "I"
+    ],
+    "frequency": 22,
+    "example": "celi",
+    "examples": [
+      "celi"
+    ]
+  },
+  {
+    "seq": [
+      "E",
+      "K",
+      "W",
+      "O"
+    ],
+    "frequency": 22,
+    "example": "equo",
+    "examples": [
+      "equo",
+      "Equo"
+    ]
+  },
+  {
+    "seq": [
+      "K",
+      "L",
+      "A",
+      "M"
+    ],
+    "frequency": 22,
+    "example": "clam",
+    "examples": [
+      "clam"
+    ]
+  },
+  {
+    "seq": [
+      "P",
+      "A",
+      "T",
+      "I"
+    ],
+    "frequency": 22,
+    "example": "pati",
+    "examples": [
+      "pati",
+      "Padi"
+    ]
+  },
+  {
+    "seq": [
+      "A",
+      "E"
+    ],
+    "frequency": 21,
+    "example": "Ae",
+    "examples": [
+      "Ae",
+      "ae"
+    ]
+  },
+  {
+    "seq": [
+      "K",
+      "E"
+    ],
+    "frequency": 21,
+    "example": "che",
+    "examples": [
+      "che",
+      "ke"
+    ]
+  },
+  {
+    "seq": [
+      "A",
+      "P",
+      "S"
+    ],
+    "frequency": 21,
+    "example": "abs",
+    "examples": [
+      "abs"
+    ]
+  },
+  {
+    "seq": [
+      "H",
+      "A",
+      "E"
+    ],
+    "frequency": 21,
+    "example": "hae",
+    "examples": [
+      "hae",
+      "Hae"
+    ]
+  },
+  {
+    "seq": [
+      "T",
+      "I",
+      "I"
+    ],
+    "frequency": 21,
+    "example": "Dii",
+    "examples": [
+      "Dii",
+      "dii"
+    ]
+  },
+  {
+    "seq": [
+      "A",
+      "M",
+      "P",
+      "O"
+    ],
+    "frequency": 21,
+    "example": "ambo",
+    "examples": [
+      "ambo",
+      "Ambo"
+    ]
+  },
+  {
+    "seq": [
+      "A",
+      "U",
+      "L",
+      "A"
+    ],
+    "frequency": 21,
+    "example": "aula",
+    "examples": [
+      "aula",
+      "Aula"
+    ]
+  },
+  {
+    "seq": [
+      "F",
+      "I",
+      "N",
+      "I"
+    ],
+    "frequency": 21,
+    "example": "vini",
+    "examples": [
+      "vini",
+      "fini"
+    ]
+  },
+  {
+    "seq": [
+      "N",
+      "A",
+      "F",
+      "I"
+    ],
+    "frequency": 21,
+    "example": "navi",
+    "examples": [
+      "navi",
+      "Navi"
+    ]
+  },
+  {
+    "seq": [
+      "N",
+      "O",
+      "L",
+      "O"
+    ],
+    "frequency": 21,
+    "example": "Nolo",
+    "examples": [
+      "Nolo",
+      "nolo"
+    ]
+  },
+  {
+    "seq": [
+      "O",
+      "R",
+      "A",
+      "S"
+    ],
+    "frequency": 21,
+    "example": "oras",
+    "examples": [
+      "oras",
+      "Oras"
+    ]
+  },
+  {
+    "seq": [
+      "T",
+      "U",
+      "T",
+      "O"
+    ],
+    "frequency": 21,
+    "example": "tuto",
+    "examples": [
+      "tuto",
+      "Tuto"
+    ]
+  },
+  {
+    "seq": [
+      "U",
+      "I",
+      "A",
+      "M"
+    ],
+    "frequency": 21,
+    "example": "uiam",
+    "examples": [
+      "uiam"
+    ]
+  },
+  {
+    "seq": [
+      "T",
+      "O"
+    ],
+    "frequency": 20,
+    "example": "do",
+    "examples": [
+      "do",
+      "to",
+      "Do"
+    ]
+  },
+  {
+    "seq": [
+      "A",
+      "L",
+      "E",
+      "A"
+    ],
+    "frequency": 20,
+    "example": "alea",
+    "examples": [
+      "alea"
+    ]
+  },
+  {
+    "seq": [
+      "A",
+      "L",
+      "I",
+      "S"
+    ],
+    "frequency": 20,
+    "example": "alis",
+    "examples": [
+      "alis"
+    ]
+  },
+  {
+    "seq": [
+      "A",
+      "N",
+      "N",
+      "I"
+    ],
+    "frequency": 20,
+    "example": "anni",
+    "examples": [
+      "anni"
+    ]
+  },
+  {
+    "seq": [
+      "H",
+      "E",
+      "U",
+      "S"
+    ],
+    "frequency": 20,
+    "example": "Heus",
+    "examples": [
+      "Heus",
+      "heus"
+    ]
+  },
+  {
+    "seq": [
+      "L",
+      "U",
+      "N",
+      "A"
+    ],
+    "frequency": 20,
+    "example": "luna",
+    "examples": [
+      "luna",
+      "Luna"
+    ]
+  },
+  {
+    "seq": [
+      "S",
+      "C_FRONT",
+      "I",
+      "T"
+    ],
+    "frequency": 20,
+    "example": "scit",
+    "examples": [
+      "scit",
+      "Scit"
+    ]
+  },
+  {
+    "seq": [
+      "T",
+      "A",
+      "R",
+      "I"
+    ],
+    "frequency": 20,
+    "example": "dari",
+    "examples": [
+      "dari"
+    ]
+  },
+  {
+    "seq": [
+      "T",
+      "I",
+      "I",
+      "S"
+    ],
+    "frequency": 20,
+    "example": "diis",
+    "examples": [
+      "diis",
+      "Diis"
+    ]
+  },
+  {
+    "seq": [
+      "E",
+      "R",
+      "O"
+    ],
+    "frequency": 19,
+    "example": "ero",
+    "examples": [
+      "ero"
+    ]
+  },
+  {
+    "seq": [
+      "F",
+      "U",
+      "I"
+    ],
+    "frequency": 19,
+    "example": "fui",
+    "examples": [
+      "fui",
+      "vui",
+      "Fui"
+    ]
+  },
+  {
+    "seq": [
+      "O",
+      "R",
+      "O"
+    ],
+    "frequency": 19,
+    "example": "oro",
+    "examples": [
+      "oro",
+      "Oro"
+    ]
+  },
+  {
+    "seq": [
+      "A",
+      "K",
+      "A",
+      "M"
+    ],
+    "frequency": 19,
+    "example": "agam",
+    "examples": [
+      "agam"
+    ]
+  },
+  {
+    "seq": [
+      "A",
+      "K",
+      "T",
+      "A"
+    ],
+    "frequency": 19,
+    "example": "acta",
+    "examples": [
+      "acta"
+    ]
+  },
+  {
+    "seq": [
+      "A",
+      "L",
+      "I",
+      "T"
+    ],
+    "frequency": 19,
+    "example": "alit",
+    "examples": [
+      "alit",
+      "alid"
+    ]
+  },
+  {
+    "seq": [
+      "A",
+      "N",
+      "U",
+      "S"
+    ],
+    "frequency": 19,
+    "example": "anus",
+    "examples": [
+      "anus",
+      "Anus"
+    ]
+  },
+  {
+    "seq": [
+      "E",
+      "T",
+      "A",
+      "S"
+    ],
+    "frequency": 19,
+    "example": "etas",
+    "examples": [
+      "etas",
+      "edas"
+    ]
+  },
+  {
+    "seq": [
+      "F",
+      "A",
+      "N",
+      "A"
+    ],
+    "frequency": 19,
+    "example": "vana",
+    "examples": [
+      "vana",
+      "fana"
+    ]
+  },
+  {
+    "seq": [
+      "F",
+      "E",
+      "C_FRONT",
+      "I"
+    ],
+    "frequency": 19,
+    "example": "feci",
+    "examples": [
+      "feci"
+    ]
+  },
+  {
+    "seq": [
+      "F",
+      "U",
+      "K",
+      "A"
+    ],
+    "frequency": 19,
+    "example": "fuga",
+    "examples": [
+      "fuga",
+      "Fuga"
+    ]
+  },
+  {
+    "seq": [
+      "K",
+      "A",
+      "R",
+      "A"
+    ],
+    "frequency": 19,
+    "example": "cara",
+    "examples": [
+      "cara",
+      "chara"
+    ]
+  },
+  {
+    "seq": [
+      "K",
+      "A",
+      "U",
+      "E"
+    ],
+    "frequency": 19,
+    "example": "caue",
+    "examples": [
+      "caue",
+      "Caue"
+    ]
+  },
+  {
+    "seq": [
+      "K",
+      "R",
+      "A",
+      "S"
+    ],
+    "frequency": 19,
+    "example": "cras",
+    "examples": [
+      "cras",
+      "Cras"
+    ]
+  }
+]

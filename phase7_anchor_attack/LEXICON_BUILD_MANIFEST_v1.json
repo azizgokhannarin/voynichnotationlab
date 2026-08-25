@@ -1,0 +1,27 @@
+{
+  "ReF": {
+    "token_count": 1567372,
+    "type_count": 99549,
+    "sha256": "e66c152618ae6fb99efa1de023fa03f30188ac45597f49aa98c99119e7c76045"
+  },
+  "ReN": {
+    "token_count": 552104,
+    "type_count": 35825,
+    "sha256": "ab67256c0d8abb3b41bcc4ab160838b5947443885a1106271f05c98bca8cbdcc"
+  },
+  "BFM": {
+    "token_count": 1324648,
+    "type_count": 45819,
+    "sha256": "099f6fe294a1261258177d609a9df6750ea9ed0d8d139b9d71e373c903a427da"
+  },
+  "Dante": {
+    "token_count": 232778,
+    "type_count": 18983,
+    "sha256": "379e59615c2c9d89a1e179357f9ebd1af87e2d4d4a9dab62d5459c0db0d6515e"
+  },
+  "Latin": {
+    "token_count": 451216,
+    "type_count": 71311,
+    "sha256": "a5811259ff43f08c31c3a2dd6b7c52f016bef90fd3f02dc8f2b5a2323380aef8"
+  }
+}

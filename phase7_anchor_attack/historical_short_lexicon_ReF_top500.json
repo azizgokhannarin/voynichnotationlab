@@ -1,0 +1,8086 @@
+[
+  {
+    "seq": [
+      "F",
+      "N",
+      "T"
+    ],
+    "frequency": 56331,
+    "example": "vnd",
+    "examples": [
+      "vnd",
+      "Vnd",
+      "vn̄d",
+      "vnd̄",
+      "vnnd"
+    ]
+  },
+  {
+    "seq": [
+      "T",
+      "E",
+      "R"
+    ],
+    "frequency": 35739,
+    "example": "der",
+    "examples": [
+      "der",
+      "Der",
+      "dᵉr",
+      "DEr",
+      "D‍er"
+    ]
+  },
+  {
+    "seq": [
+      "T",
+      "I",
+      "E"
+    ],
+    "frequency": 28608,
+    "example": "die",
+    "examples": [
+      "die",
+      "díe",
+      "Die",
+      "dye",
+      "dýe"
+    ]
+  },
+  {
+    "seq": [
+      "T",
+      "A",
+      "S"
+    ],
+    "frequency": 27714,
+    "example": "das",
+    "examples": [
+      "das",
+      "Das",
+      "d‍as",
+      "daß",
+      "daſ"
+    ]
+  },
+  {
+    "seq": [
+      "I",
+      "N"
+    ],
+    "frequency": 25955,
+    "example": "in",
+    "examples": [
+      "in",
+      "ín",
+      "yn",
+      "In",
+      "ýn"
+    ]
+  },
+  {
+    "seq": [
+      "T",
+      "E",
+      "N"
+    ],
+    "frequency": 17546,
+    "example": "den",
+    "examples": [
+      "den",
+      "Den",
+      "denn",
+      "den̄",
+      "dᵉn"
+    ]
+  },
+  {
+    "seq": [
+      "E",
+      "R"
+    ],
+    "frequency": 16996,
+    "example": "er",
+    "examples": [
+      "er",
+      "Er",
+      "[...]Er",
+      "1er",
+      "ER"
+    ]
+  },
+  {
+    "seq": [
+      "M",
+      "I",
+      "T"
+    ],
+    "frequency": 15741,
+    "example": "mit",
+    "examples": [
+      "mit",
+      "mít",
+      "Mit",
+      "myt",
+      "Mít"
+    ]
+  },
+  {
+    "seq": [
+      "I",
+      "S",
+      "T"
+    ],
+    "frequency": 15261,
+    "example": "iſt",
+    "examples": [
+      "iſt",
+      "íſt",
+      "iſ‍t",
+      "Iſt",
+      "ist"
+    ]
+  },
+  {
+    "seq": [
+      "T",
+      "E",
+      "M"
+    ],
+    "frequency": 14517,
+    "example": "dem",
+    "examples": [
+      "dem",
+      "dᵉm",
+      "Dem",
+      "dem̄",
+      "dem①"
+    ]
+  },
+  {
+    "seq": [
+      "T",
+      "S",
+      "U"
+    ],
+    "frequency": 13926,
+    "example": "zu",
+    "examples": [
+      "zu",
+      "zuͦ",
+      "zü",
+      "zu͗",
+      "tzu"
+    ]
+  },
+  {
+    "seq": [
+      "S",
+      "O"
+    ],
+    "frequency": 13134,
+    "example": "ſo",
+    "examples": [
+      "ſo",
+      "So",
+      "so",
+      "S‍o",
+      "SO"
+    ]
+  },
+  {
+    "seq": [
+      "F",
+      "O",
+      "N"
+    ],
+    "frequency": 13030,
+    "example": "von",
+    "examples": [
+      "von",
+      "Von",
+      "vonn",
+      "v‍on",
+      "von̄"
+    ]
+  },
+  {
+    "seq": [
+      "F",
+      "N"
+    ],
+    "frequency": 12520,
+    "example": "vn̄",
+    "examples": [
+      "vn̄",
+      "Vn̄",
+      "vn",
+      "Vn",
+      "vn①"
+    ]
+  },
+  {
+    "seq": [
+      "A",
+      "N"
+    ],
+    "frequency": 11520,
+    "example": "an",
+    "examples": [
+      "an",
+      "An",
+      "ann",
+      "an⑩",
+      "a͗n"
+    ]
+  },
+  {
+    "seq": [
+      "S",
+      "I"
+    ],
+    "frequency": 11316,
+    "example": "ſy",
+    "examples": [
+      "ſy",
+      "ſi",
+      "ſý",
+      "Sy",
+      "ſí"
+    ]
+  },
+  {
+    "seq": [
+      "E",
+      "I",
+      "N"
+    ],
+    "frequency": 11097,
+    "example": "ein",
+    "examples": [
+      "ein",
+      "eyn",
+      "eín",
+      "Eyn",
+      "Ein"
+    ]
+  },
+  {
+    "seq": [
+      "I",
+      "X"
+    ],
+    "frequency": 10394,
+    "example": "ich",
+    "examples": [
+      "ich",
+      "Ich",
+      "ích",
+      "ICh",
+      "ych"
+    ]
+  },
+  {
+    "seq": [
+      "T",
+      "A",
+      "T",
+      "S"
+    ],
+    "frequency": 9592,
+    "example": "daz",
+    "examples": [
+      "daz",
+      "Daz",
+      "d‍az",
+      "datz",
+      "dazz"
+    ]
+  },
+  {
+    "seq": [
+      "T",
+      "O"
+    ],
+    "frequency": 9373,
+    "example": "do",
+    "examples": [
+      "do",
+      "Do",
+      "to",
+      "DO",
+      "D‍o"
+    ]
+  },
+  {
+    "seq": [
+      "T",
+      "E",
+      "S"
+    ],
+    "frequency": 8873,
+    "example": "des",
+    "examples": [
+      "des",
+      "Des",
+      "deß",
+      "dᵉs",
+      "deˢ"
+    ]
+  },
+  {
+    "seq": [
+      "T",
+      "S"
+    ],
+    "frequency": 8295,
+    "example": "dˢ",
+    "examples": [
+      "dˢ",
+      "dz",
+      "Dz",
+      "Dˢ",
+      "z"
+    ]
+  },
+  {
+    "seq": [
+      "T",
+      "I"
+    ],
+    "frequency": 8100,
+    "example": "dy",
+    "examples": [
+      "dy",
+      "di",
+      "dý",
+      "Dy",
+      "dyͤ"
+    ]
+  },
+  {
+    "seq": [
+      "M",
+      "A",
+      "N"
+    ],
+    "frequency": 7806,
+    "example": "man",
+    "examples": [
+      "man",
+      "Man",
+      "mann",
+      "man̄",
+      "mAn"
+    ]
+  },
+  {
+    "seq": [
+      "T",
+      "U"
+    ],
+    "frequency": 7311,
+    "example": "du",
+    "examples": [
+      "du",
+      "Du",
+      "tu",
+      "du͗",
+      "duͦ"
+    ]
+  },
+  {
+    "seq": [
+      "A",
+      "L",
+      "S"
+    ],
+    "frequency": 7276,
+    "example": "als",
+    "examples": [
+      "als",
+      "Als",
+      "alſ",
+      "alß",
+      "alls"
+    ]
+  },
+  {
+    "seq": [
+      "E",
+      "S"
+    ],
+    "frequency": 7253,
+    "example": "es",
+    "examples": [
+      "es",
+      "Es",
+      "eß",
+      "ES",
+      "Eß"
+    ]
+  },
+  {
+    "seq": [
+      "I",
+      "R"
+    ],
+    "frequency": 7022,
+    "example": "ir",
+    "examples": [
+      "ir",
+      "Ir",
+      "ír",
+      "yr",
+      "ïr"
+    ]
+  },
+  {
+    "seq": [
+      "N",
+      "I",
+      "T"
+    ],
+    "frequency": 6798,
+    "example": "nit",
+    "examples": [
+      "nit",
+      "nít",
+      "nitt",
+      "Nit",
+      "nyd"
+    ]
+  },
+  {
+    "seq": [
+      "W",
+      "A",
+      "S"
+    ],
+    "frequency": 6601,
+    "example": "was",
+    "examples": [
+      "was",
+      "Was",
+      "waſ",
+      "waß",
+      "w‍as"
+    ]
+  },
+  {
+    "seq": [
+      "S",
+      "I",
+      "X"
+    ],
+    "frequency": 6488,
+    "example": "ſich",
+    "examples": [
+      "ſich",
+      "ſích",
+      "Sich",
+      "ſych",
+      "sich"
+    ]
+  },
+  {
+    "seq": [
+      "A",
+      "L",
+      "S",
+      "O"
+    ],
+    "frequency": 5575,
+    "example": "alſo",
+    "examples": [
+      "alſo",
+      "Alſo",
+      "allſo",
+      "a͗lſo",
+      "alßo"
+    ]
+  },
+  {
+    "seq": [
+      "S",
+      "I",
+      "E"
+    ],
+    "frequency": 5366,
+    "example": "ſie",
+    "examples": [
+      "ſie",
+      "ſye",
+      "Sie",
+      "ſíe",
+      "Síe"
+    ]
+  },
+  {
+    "seq": [
+      "H",
+      "A",
+      "T"
+    ],
+    "frequency": 5343,
+    "example": "hat",
+    "examples": [
+      "hat",
+      "hatt",
+      "ha͗t",
+      "had",
+      "hAt"
+    ]
+  },
+  {
+    "seq": [
+      "J",
+      "N"
+    ],
+    "frequency": 5311,
+    "example": "Jn",
+    "examples": [
+      "Jn",
+      "jn",
+      "jnn",
+      "jn̄",
+      "Jnn"
+    ]
+  },
+  {
+    "seq": [
+      "S",
+      "I",
+      "N"
+    ],
+    "frequency": 5300,
+    "example": "ſin",
+    "examples": [
+      "ſin",
+      "ſyn",
+      "ſín",
+      "ſýn",
+      "Sin"
+    ]
+  },
+  {
+    "seq": [
+      "T",
+      "E"
+    ],
+    "frequency": 5251,
+    "example": "dē",
+    "examples": [
+      "dē",
+      "de",
+      "De",
+      "Dē",
+      "te"
+    ]
+  },
+  {
+    "seq": [
+      "T",
+      "A"
+    ],
+    "frequency": 5215,
+    "example": "da",
+    "examples": [
+      "da",
+      "Da",
+      "dā",
+      "dA",
+      "D‍a"
+    ]
+  },
+  {
+    "seq": [
+      "N",
+      "I",
+      "X",
+      "T"
+    ],
+    "frequency": 4926,
+    "example": "nicht",
+    "examples": [
+      "nicht",
+      "nícht",
+      "Nicht",
+      "nichtt",
+      "nycht"
+    ]
+  },
+  {
+    "seq": [
+      "A",
+      "I",
+      "N"
+    ],
+    "frequency": 4899,
+    "example": "ain",
+    "examples": [
+      "ain",
+      "aín",
+      "Ain",
+      "Aín",
+      "ayn"
+    ]
+  },
+  {
+    "seq": [
+      "I",
+      "M"
+    ],
+    "frequency": 4896,
+    "example": "im",
+    "examples": [
+      "im",
+      "ym",
+      "ím",
+      "Im",
+      "ým"
+    ]
+  },
+  {
+    "seq": [
+      "K",
+      "O",
+      "T"
+    ],
+    "frequency": 4721,
+    "example": "got",
+    "examples": [
+      "got",
+      "gott",
+      "Got",
+      "god",
+      "Gott"
+    ]
+  },
+  {
+    "seq": [
+      "A",
+      "U",
+      "X"
+    ],
+    "frequency": 4694,
+    "example": "auch",
+    "examples": [
+      "auch",
+      "Auch",
+      "au͗ch",
+      "auch⑩",
+      "Au͗ch"
+    ]
+  },
+  {
+    "seq": [
+      "O",
+      "T",
+      "E",
+      "R"
+    ],
+    "frequency": 4575,
+    "example": "oder",
+    "examples": [
+      "oder",
+      "Oder",
+      "odᵉr",
+      "ode‍r",
+      "oDer"
+    ]
+  },
+  {
+    "seq": [
+      "T",
+      "A",
+      "T"
+    ],
+    "frequency": 4489,
+    "example": "dat",
+    "examples": [
+      "dat",
+      "Dat",
+      "tat",
+      "taͤt",
+      "dāt"
+    ]
+  },
+  {
+    "seq": [
+      "A",
+      "L",
+      "E"
+    ],
+    "frequency": 4352,
+    "example": "alle",
+    "examples": [
+      "alle",
+      "allē",
+      "Alle",
+      "al‍le",
+      "Allē"
+    ]
+  },
+  {
+    "seq": [
+      "S",
+      "E",
+      "I",
+      "N"
+    ],
+    "frequency": 4294,
+    "example": "ſein",
+    "examples": [
+      "ſein",
+      "ſeín",
+      "ſeyn",
+      "Sein",
+      "ſeýn"
+    ]
+  },
+  {
+    "seq": [
+      "F"
+    ],
+    "frequency": 4281,
+    "example": "vff",
+    "examples": [
+      "vff",
+      "vf",
+      "v",
+      "f③",
+      "Vff"
+    ]
+  },
+  {
+    "seq": [
+      "W",
+      "I",
+      "R"
+    ],
+    "frequency": 4262,
+    "example": "wir",
+    "examples": [
+      "wir",
+      "wír",
+      "Wir",
+      "wïr",
+      "wiͤr"
+    ]
+  },
+  {
+    "seq": [
+      "W",
+      "O",
+      "L"
+    ],
+    "frequency": 4140,
+    "example": "wol",
+    "examples": [
+      "wol",
+      "woll",
+      "woͤl",
+      "Wol",
+      "w‍ol"
+    ]
+  },
+  {
+    "seq": [
+      "F",
+      "I",
+      "L"
+    ],
+    "frequency": 4128,
+    "example": "vil",
+    "examples": [
+      "vil",
+      "víl",
+      "vill",
+      "Vil",
+      "vyll"
+    ]
+  },
+  {
+    "seq": [
+      "T",
+      "S",
+      "E"
+    ],
+    "frequency": 4095,
+    "example": "ze",
+    "examples": [
+      "ze",
+      "Ze",
+      "tze",
+      "zē",
+      "Zē"
+    ]
+  },
+  {
+    "seq": [
+      "W",
+      "A",
+      "N"
+    ],
+    "frequency": 4049,
+    "example": "wann",
+    "examples": [
+      "wann",
+      "wan",
+      "wan̄",
+      "Wann",
+      "Wan"
+    ]
+  },
+  {
+    "seq": [
+      "N",
+      "O",
+      "X"
+    ],
+    "frequency": 3974,
+    "example": "noch",
+    "examples": [
+      "noch",
+      "Noch",
+      "NOch",
+      "noch⑩",
+      "nOch"
+    ]
+  },
+  {
+    "seq": [
+      "M",
+      "I",
+      "R"
+    ],
+    "frequency": 3886,
+    "example": "mir",
+    "examples": [
+      "mir",
+      "mír",
+      "myr",
+      "mïr",
+      "miͤr"
+    ]
+  },
+  {
+    "seq": [
+      "W",
+      "I",
+      "E"
+    ],
+    "frequency": 3837,
+    "example": "wie",
+    "examples": [
+      "wie",
+      "wíe",
+      "Wie",
+      "wye",
+      "Wíe"
+    ]
+  },
+  {
+    "seq": [
+      "F",
+      "O",
+      "R"
+    ],
+    "frequency": 3824,
+    "example": "vor",
+    "examples": [
+      "vor",
+      "vo‍r",
+      "Vor",
+      "v‍or",
+      "Vo‍r"
+    ]
+  },
+  {
+    "seq": [
+      "H",
+      "E",
+      "R"
+    ],
+    "frequency": 3785,
+    "example": "her",
+    "examples": [
+      "her",
+      "herr",
+      "Her",
+      "Herr",
+      "her‍r"
+    ]
+  },
+  {
+    "seq": [
+      "S",
+      "I",
+      "N",
+      "T"
+    ],
+    "frequency": 3694,
+    "example": "ſint",
+    "examples": [
+      "ſint",
+      "ſind",
+      "ſynt",
+      "ſínd",
+      "ſínt"
+    ]
+  },
+  {
+    "seq": [
+      "W",
+      "A",
+      "R",
+      "T"
+    ],
+    "frequency": 3563,
+    "example": "wart",
+    "examples": [
+      "wart",
+      "ward",
+      "wardt",
+      "Wart",
+      "wArt"
+    ]
+  },
+  {
+    "seq": [
+      "T",
+      "A",
+      "N"
+    ],
+    "frequency": 3547,
+    "example": "dan",
+    "examples": [
+      "dan",
+      "dann",
+      "dan̄",
+      "Dann",
+      "Dan"
+    ]
+  },
+  {
+    "seq": [
+      "S",
+      "O",
+      "L"
+    ],
+    "frequency": 3490,
+    "example": "ſol",
+    "examples": [
+      "ſol",
+      "ſoll",
+      "Sol",
+      "ſoͤll",
+      "sol"
+    ]
+  },
+  {
+    "seq": [
+      "F",
+      "O"
+    ],
+    "frequency": 3459,
+    "example": "vō",
+    "examples": [
+      "vō",
+      "Vō",
+      "vo",
+      "fo",
+      "vo[...]"
+    ]
+  },
+  {
+    "seq": [
+      "T",
+      "I",
+      "R"
+    ],
+    "frequency": 3369,
+    "example": "dir",
+    "examples": [
+      "dir",
+      "dír",
+      "dïr",
+      "dyr",
+      "Dir"
+    ]
+  },
+  {
+    "seq": [
+      "F",
+      "U",
+      "R"
+    ],
+    "frequency": 3335,
+    "example": "für",
+    "examples": [
+      "für",
+      "fur",
+      "fu͗r",
+      "vur",
+      "fûr"
+    ]
+  },
+  {
+    "seq": [
+      "N",
+      "A",
+      "X"
+    ],
+    "frequency": 3288,
+    "example": "nach",
+    "examples": [
+      "nach",
+      "Nach",
+      "nâch",
+      "nAch",
+      "naͮch"
+    ]
+  },
+  {
+    "seq": [
+      "F",
+      "N",
+      "S"
+    ],
+    "frequency": 3216,
+    "example": "vns",
+    "examples": [
+      "vns",
+      "vnß",
+      "v̂ns",
+      "vnns",
+      "vnſˢs"
+    ]
+  },
+  {
+    "seq": [
+      "W",
+      "I",
+      "R",
+      "T"
+    ],
+    "frequency": 3072,
+    "example": "wirt",
+    "examples": [
+      "wirt",
+      "wírt",
+      "wi͗rt",
+      "wïrt",
+      "wirdt"
+    ]
+  },
+  {
+    "seq": [
+      "A",
+      "P",
+      "E",
+      "R"
+    ],
+    "frequency": 2963,
+    "example": "aber",
+    "examples": [
+      "aber",
+      "Aber",
+      "Ab‍er",
+      "a͗ber",
+      "ABer"
+    ]
+  },
+  {
+    "seq": [
+      "W",
+      "I",
+      "L"
+    ],
+    "frequency": 2960,
+    "example": "wil",
+    "examples": [
+      "wil",
+      "will",
+      "wíl",
+      "wyl",
+      "wíll"
+    ]
+  },
+  {
+    "seq": [
+      "K",
+      "A",
+      "R"
+    ],
+    "frequency": 2906,
+    "example": "gar",
+    "examples": [
+      "gar",
+      "Gar",
+      "kar③",
+      "ga‍r",
+      "kar"
+    ]
+  },
+  {
+    "seq": [
+      "S",
+      "T",
+      "A",
+      "T"
+    ],
+    "frequency": 2895,
+    "example": "ſtat",
+    "examples": [
+      "ſtat",
+      "ſtatt",
+      "ſtad",
+      "Stat",
+      "Statt"
+    ]
+  },
+  {
+    "seq": [
+      "I",
+      "N",
+      "T"
+    ],
+    "frequency": 2889,
+    "example": "ind",
+    "examples": [
+      "ind",
+      "Ind",
+      "índ",
+      "int",
+      "ynd"
+    ]
+  },
+  {
+    "seq": [
+      "W",
+      "E",
+      "R"
+    ],
+    "frequency": 2832,
+    "example": "wer",
+    "examples": [
+      "wer",
+      "Wer",
+      "wër",
+      "we͗r",
+      "WEr"
+    ]
+  },
+  {
+    "seq": [
+      "T",
+      "U",
+      "R",
+      "X"
+    ],
+    "frequency": 2747,
+    "example": "durch",
+    "examples": [
+      "durch",
+      "Durch",
+      "du͗rch",
+      "duͦrch",
+      "du‍rch"
+    ]
+  },
+  {
+    "seq": [
+      "M",
+      "I",
+      "X"
+    ],
+    "frequency": 2721,
+    "example": "mich",
+    "examples": [
+      "mich",
+      "mích",
+      "Mich",
+      "mych",
+      "mich⑩"
+    ]
+  },
+  {
+    "seq": [
+      "O",
+      "U",
+      "X"
+    ],
+    "frequency": 2684,
+    "example": "ouch",
+    "examples": [
+      "ouch",
+      "Ouch",
+      "ouͦch",
+      "ouch⑩",
+      "ou͗ch"
+    ]
+  },
+  {
+    "seq": [
+      "T",
+      "I",
+      "X"
+    ],
+    "frequency": 2536,
+    "example": "dich",
+    "examples": [
+      "dich",
+      "dích",
+      "Dich",
+      "dych",
+      "dÿch"
+    ]
+  },
+  {
+    "seq": [
+      "F",
+      "N",
+      "T",
+      "E"
+    ],
+    "frequency": 2476,
+    "example": "vnde",
+    "examples": [
+      "vnde",
+      "Vnde",
+      "vndē",
+      "fv͗nde",
+      "vn̄de"
+    ]
+  },
+  {
+    "seq": [
+      "A",
+      "U",
+      "F"
+    ],
+    "frequency": 2466,
+    "example": "auf",
+    "examples": [
+      "auf",
+      "auff",
+      "Auf",
+      "au͗ff",
+      "Auff"
+    ]
+  },
+  {
+    "seq": [
+      "K",
+      "U",
+      "T"
+    ],
+    "frequency": 2466,
+    "example": "guͦt",
+    "examples": [
+      "guͦt",
+      "gut",
+      "güt",
+      "gu͗t",
+      "güt"
+    ]
+  },
+  {
+    "seq": [
+      "N",
+      "U"
+    ],
+    "frequency": 2344,
+    "example": "nu",
+    "examples": [
+      "nu",
+      "Nu",
+      "nü",
+      "nū",
+      "nuͦ"
+    ]
+  },
+  {
+    "seq": [
+      "O",
+      "P"
+    ],
+    "frequency": 2338,
+    "example": "ob",
+    "examples": [
+      "ob",
+      "Ob",
+      "op",
+      "Op",
+      "OB"
+    ]
+  },
+  {
+    "seq": [
+      "T",
+      "O",
+      "X"
+    ],
+    "frequency": 2334,
+    "example": "doch",
+    "examples": [
+      "doch",
+      "Doch",
+      "d‍och",
+      "D‍och",
+      "toch"
+    ]
+  },
+  {
+    "seq": [
+      "F",
+      "M",
+      "P"
+    ],
+    "frequency": 2331,
+    "example": "vmb",
+    "examples": [
+      "vmb",
+      "Vmb",
+      "vmb̄",
+      "vm̄b",
+      "v͗mb"
+    ]
+  },
+  {
+    "seq": [
+      "F",
+      "A",
+      "N"
+    ],
+    "frequency": 2166,
+    "example": "van",
+    "examples": [
+      "van",
+      "Van",
+      "fan",
+      "vann",
+      "vān"
+    ]
+  },
+  {
+    "seq": [
+      "J",
+      "M"
+    ],
+    "frequency": 2140,
+    "example": "jm",
+    "examples": [
+      "jm",
+      "Jm",
+      "j́m",
+      "Jm̄",
+      "jm̄"
+    ]
+  },
+  {
+    "seq": [
+      "A",
+      "L"
+    ],
+    "frequency": 2124,
+    "example": "all",
+    "examples": [
+      "all",
+      "al",
+      "All",
+      "al[...]",
+      "Al"
+    ]
+  },
+  {
+    "seq": [
+      "T",
+      "A",
+      "K"
+    ],
+    "frequency": 2040,
+    "example": "tag",
+    "examples": [
+      "tag",
+      "dag",
+      "tak",
+      "tac",
+      "tAg"
+    ]
+  },
+  {
+    "seq": [
+      "K"
+    ],
+    "frequency": 1994,
+    "example": "ć",
+    "examples": [
+      "ć",
+      "g③",
+      "7ć",
+      "C",
+      "c"
+    ]
+  },
+  {
+    "seq": [
+      "W",
+      "E",
+      "N"
+    ],
+    "frequency": 1994,
+    "example": "wenn",
+    "examples": [
+      "wenn",
+      "wen",
+      "wen̄",
+      "Wen",
+      "Wenn"
+    ]
+  },
+  {
+    "seq": [
+      "E",
+      "N"
+    ],
+    "frequency": 1949,
+    "example": "en",
+    "examples": [
+      "en",
+      "en̄",
+      "En",
+      "En̄",
+      "[...]en"
+    ]
+  },
+  {
+    "seq": [
+      "T",
+      "S",
+      "O"
+    ],
+    "frequency": 1871,
+    "example": "zo",
+    "examples": [
+      "zo",
+      "tzo",
+      "Zo",
+      "Tzo",
+      "zō"
+    ]
+  },
+  {
+    "seq": [
+      "M",
+      "A",
+      "K"
+    ],
+    "frequency": 1846,
+    "example": "mag",
+    "examples": [
+      "mag",
+      "mak",
+      "magk",
+      "mac",
+      "Mag"
+    ]
+  },
+  {
+    "seq": [
+      "S",
+      "O",
+      "L",
+      "T"
+    ],
+    "frequency": 1841,
+    "example": "ſolt",
+    "examples": [
+      "ſolt",
+      "ſo͗lt",
+      "Solt",
+      "ſollt",
+      "ſölt"
+    ]
+  },
+  {
+    "seq": [
+      "M",
+      "I",
+      "N"
+    ],
+    "frequency": 1835,
+    "example": "min",
+    "examples": [
+      "min",
+      "myn",
+      "mín",
+      "Min",
+      "mýn"
+    ]
+  },
+  {
+    "seq": [
+      "H",
+      "I",
+      "E"
+    ],
+    "frequency": 1825,
+    "example": "hie",
+    "examples": [
+      "hie",
+      "híe",
+      "hye",
+      "Hie",
+      "hýe"
+    ]
+  },
+  {
+    "seq": [
+      "S",
+      "A",
+      "L"
+    ],
+    "frequency": 1779,
+    "example": "ſal",
+    "examples": [
+      "ſal",
+      "ſall",
+      "Sal",
+      "Sall",
+      "sal"
+    ]
+  },
+  {
+    "seq": [
+      "S"
+    ],
+    "frequency": 1773,
+    "example": "s",
+    "examples": [
+      "s",
+      "ß",
+      "ſ",
+      "ſ①",
+      "ſ[...]"
+    ]
+  },
+  {
+    "seq": [
+      "J"
+    ],
+    "frequency": 1729,
+    "example": "j",
+    "examples": [
+      "j",
+      "j̲",
+      "j́",
+      "J",
+      "j̄"
+    ]
+  },
+  {
+    "seq": [
+      "H",
+      "E",
+      "T"
+    ],
+    "frequency": 1728,
+    "example": "het",
+    "examples": [
+      "het",
+      "hett",
+      "Hett",
+      "hedt",
+      "Het"
+    ]
+  },
+  {
+    "seq": [
+      "E",
+      "I",
+      "N",
+      "E"
+    ],
+    "frequency": 1700,
+    "example": "eyne",
+    "examples": [
+      "eyne",
+      "einē",
+      "eynē",
+      "eine",
+      "eíne"
+    ]
+  },
+  {
+    "seq": [
+      "H",
+      "A",
+      "N",
+      "T"
+    ],
+    "frequency": 1699,
+    "example": "hant",
+    "examples": [
+      "hant",
+      "hand",
+      "handt",
+      "händ",
+      "hAnt"
+    ]
+  },
+  {
+    "seq": [
+      "S",
+      "I",
+      "N",
+      "E"
+    ],
+    "frequency": 1642,
+    "example": "ſyne",
+    "examples": [
+      "ſyne",
+      "ſinē",
+      "ſine",
+      "ſynē",
+      "ſynne"
+    ]
+  },
+  {
+    "seq": [
+      "A",
+      "L",
+      "E",
+      "R"
+    ],
+    "frequency": 1609,
+    "example": "aller",
+    "examples": [
+      "aller",
+      "al‍ler",
+      "Aller",
+      "allêr",
+      "aler"
+    ]
+  },
+  {
+    "seq": [
+      "A",
+      "P"
+    ],
+    "frequency": 1584,
+    "example": "ab",
+    "examples": [
+      "ab",
+      "Ab",
+      "ap",
+      "a͗b",
+      "ab[...]"
+    ]
+  },
+  {
+    "seq": [
+      "J",
+      "N",
+      "T"
+    ],
+    "frequency": 1582,
+    "example": "Jnd",
+    "examples": [
+      "Jnd",
+      "jnd",
+      "j́nd",
+      "Jnt",
+      "()Jnd"
+    ]
+  },
+  {
+    "seq": [
+      "A",
+      "L",
+      "E",
+      "N"
+    ],
+    "frequency": 1562,
+    "example": "allen",
+    "examples": [
+      "allen",
+      "Allen",
+      "al‍len",
+      "allenn",
+      "allen̄"
+    ]
+  },
+  {
+    "seq": [
+      "T",
+      "E",
+      "T",
+      "S"
+    ],
+    "frequency": 1540,
+    "example": "dez",
+    "examples": [
+      "dez",
+      "Dez",
+      "dëz",
+      "d-ez",
+      "tetz"
+    ]
+  },
+  {
+    "seq": [
+      "H",
+      "E"
+    ],
+    "frequency": 1528,
+    "example": "he",
+    "examples": [
+      "he",
+      "He",
+      "&quot;he",
+      "hē",
+      "he᷑"
+    ]
+  },
+  {
+    "seq": [
+      "J",
+      "T"
+    ],
+    "frequency": 1512,
+    "example": "Jt̄",
+    "examples": [
+      "Jt̄",
+      "Jt",
+      "Jt①",
+      "Jdt",
+      "Jd"
+    ]
+  },
+  {
+    "seq": [
+      "F",
+      "S"
+    ],
+    "frequency": 1504,
+    "example": "vß",
+    "examples": [
+      "vß",
+      "vs",
+      "vſſ",
+      "vſ",
+      "Vß"
+    ]
+  },
+  {
+    "seq": [
+      "I",
+      "S"
+    ],
+    "frequency": 1472,
+    "example": "is",
+    "examples": [
+      "is",
+      "ís",
+      "Is",
+      "ys",
+      "yß"
+    ]
+  },
+  {
+    "seq": [
+      "E",
+      "T",
+      "S"
+    ],
+    "frequency": 1445,
+    "example": "ez",
+    "examples": [
+      "ez",
+      "Ez",
+      "edˢ",
+      "[...]Ez",
+      "etz"
+    ]
+  },
+  {
+    "seq": [
+      "K",
+      "T",
+      "S",
+      "U"
+    ],
+    "frequency": 1414,
+    "example": "czu",
+    "examples": [
+      "czu",
+      "Czu",
+      "c‍zu",
+      "czü",
+      "czuͦ"
+    ]
+  },
+  {
+    "seq": [
+      "P",
+      "I"
+    ],
+    "frequency": 1407,
+    "example": "by",
+    "examples": [
+      "by",
+      "bi",
+      "bý",
+      "By",
+      "bí"
+    ]
+  },
+  {
+    "seq": [
+      "M",
+      "E",
+      "R"
+    ],
+    "frequency": 1386,
+    "example": "mer",
+    "examples": [
+      "mer",
+      "Mer",
+      "mër",
+      "merr",
+      "me͗r"
+    ]
+  },
+  {
+    "seq": [
+      "M",
+      "E",
+      "I",
+      "N"
+    ],
+    "frequency": 1346,
+    "example": "mein",
+    "examples": [
+      "mein",
+      "meín",
+      "meyn",
+      "Mein",
+      "Meín"
+    ]
+  },
+  {
+    "seq": [
+      "W",
+      "A",
+      "R"
+    ],
+    "frequency": 1334,
+    "example": "war",
+    "examples": [
+      "war",
+      "waͤr",
+      "wär",
+      "wa͗r",
+      "wär"
+    ]
+  },
+  {
+    "seq": [
+      "S",
+      "E",
+      "I"
+    ],
+    "frequency": 1331,
+    "example": "ſey",
+    "examples": [
+      "ſey",
+      "ſeý",
+      "ſei",
+      "ſeÿ",
+      "ſeí"
+    ]
+  },
+  {
+    "seq": [
+      "J",
+      "X"
+    ],
+    "frequency": 1330,
+    "example": "Jch",
+    "examples": [
+      "Jch",
+      "jch",
+      "&quot;Jch",
+      "(&quot;)Jch",
+      "J͗ch"
+    ]
+  },
+  {
+    "seq": [
+      "T",
+      "I",
+      "N"
+    ],
+    "frequency": 1329,
+    "example": "din",
+    "examples": [
+      "din",
+      "dín",
+      "dyn",
+      "Din",
+      "dýn"
+    ]
+  },
+  {
+    "seq": [
+      "R",
+      "E",
+      "X",
+      "T"
+    ],
+    "frequency": 1315,
+    "example": "recht",
+    "examples": [
+      "recht",
+      "Recht",
+      "rechtt",
+      "recht①",
+      "rêcht"
+    ]
+  },
+  {
+    "seq": [
+      "J",
+      "R"
+    ],
+    "frequency": 1281,
+    "example": "Jr",
+    "examples": [
+      "Jr",
+      "jr",
+      "&quot;Jr",
+      "jrr",
+      "j́r"
+    ]
+  },
+  {
+    "seq": [
+      "T",
+      "E",
+      "M",
+      "E"
+    ],
+    "frequency": 1279,
+    "example": "deme",
+    "examples": [
+      "deme",
+      "Deme",
+      "dēme",
+      "dᵉme"
+    ]
+  },
+  {
+    "seq": [
+      "T",
+      "S",
+      "W"
+    ],
+    "frequency": 1270,
+    "example": "zw",
+    "examples": [
+      "zw",
+      "zẅ",
+      "Zw",
+      "zw͗",
+      "tˢw"
+    ]
+  },
+  {
+    "seq": [
+      "H",
+      "E",
+      "R",
+      "E"
+    ],
+    "frequency": 1268,
+    "example": "herre",
+    "examples": [
+      "herre",
+      "here",
+      "herrē",
+      "he‍rre",
+      "herē"
+    ]
+  },
+  {
+    "seq": [
+      "A",
+      "L",
+      "E",
+      "S"
+    ],
+    "frequency": 1265,
+    "example": "alles",
+    "examples": [
+      "alles",
+      "Alles",
+      "al‍les",
+      "alleˢ",
+      "alleß"
+    ]
+  },
+  {
+    "seq": [
+      "U",
+      "F"
+    ],
+    "frequency": 1256,
+    "example": "uff",
+    "examples": [
+      "uff",
+      "uf",
+      "uf‍f",
+      "u͗ff",
+      "Uf"
+    ]
+  },
+  {
+    "seq": [
+      "H",
+      "A",
+      "N"
+    ],
+    "frequency": 1256,
+    "example": "han",
+    "examples": [
+      "han",
+      "hann",
+      "haͮn",
+      "hân",
+      "ha͗n"
+    ]
+  },
+  {
+    "seq": [
+      "W",
+      "E",
+      "R",
+      "E"
+    ],
+    "frequency": 1251,
+    "example": "were",
+    "examples": [
+      "were",
+      "werē",
+      "Were",
+      "we͗re",
+      "werre"
+    ]
+  },
+  {
+    "seq": [
+      "W",
+      "O",
+      "L",
+      "T"
+    ],
+    "frequency": 1241,
+    "example": "wolt",
+    "examples": [
+      "wolt",
+      "woͤlt",
+      "wölt",
+      "wo͗lt",
+      "wollt"
+    ]
+  },
+  {
+    "seq": [
+      "I",
+      "T"
+    ],
+    "frequency": 1232,
+    "example": "It̄",
+    "examples": [
+      "It̄",
+      "it",
+      "id",
+      "It①",
+      "idt"
+    ]
+  },
+  {
+    "seq": [
+      "P",
+      "I",
+      "S"
+    ],
+    "frequency": 1216,
+    "example": "bis",
+    "examples": [
+      "bis",
+      "biß",
+      "pis",
+      "piß",
+      "bys"
+    ]
+  },
+  {
+    "seq": [
+      "T",
+      "I",
+      "S"
+    ],
+    "frequency": 1216,
+    "example": "dis",
+    "examples": [
+      "dis",
+      "diß",
+      "Diß",
+      "Dis",
+      "diſ"
+    ]
+  },
+  {
+    "seq": [
+      "S",
+      "A",
+      "N",
+      "T"
+    ],
+    "frequency": 1212,
+    "example": "ſant",
+    "examples": [
+      "ſant",
+      "ſand",
+      "Sant",
+      "Sand",
+      "ſandt"
+    ]
+  },
+  {
+    "seq": [
+      "S",
+      "A",
+      "X"
+    ],
+    "frequency": 1210,
+    "example": "ſach",
+    "examples": [
+      "ſach",
+      "Sach",
+      "ſAch",
+      "ſachh",
+      "ſ‍ach"
+    ]
+  },
+  {
+    "seq": [
+      "A",
+      "U",
+      "S"
+    ],
+    "frequency": 1209,
+    "example": "auß",
+    "examples": [
+      "auß",
+      "aus",
+      "auſ",
+      "au͗ß",
+      "auſs"
+    ]
+  },
+  {
+    "seq": [
+      "U"
+    ],
+    "frequency": 1199,
+    "example": "u",
+    "examples": [
+      "u",
+      "u͗",
+      "uͦ",
+      "[...]u",
+      "ü"
+    ]
+  },
+  {
+    "seq": [
+      "K",
+      "A",
+      "N"
+    ],
+    "frequency": 1195,
+    "example": "kan",
+    "examples": [
+      "kan",
+      "gan",
+      "gän",
+      "kann",
+      "gaͮn"
+    ]
+  },
+  {
+    "seq": [
+      "P",
+      "E",
+      "I"
+    ],
+    "frequency": 1181,
+    "example": "pey",
+    "examples": [
+      "pey",
+      "bey",
+      "bei",
+      "peý",
+      "beý"
+    ]
+  },
+  {
+    "seq": [
+      "K",
+      "E",
+      "I",
+      "N"
+    ],
+    "frequency": 1153,
+    "example": "kein",
+    "examples": [
+      "kein",
+      "keyn",
+      "keín",
+      "gein",
+      "geyn"
+    ]
+  },
+  {
+    "seq": [
+      "T",
+      "A",
+      "R"
+    ],
+    "frequency": 1147,
+    "example": "dar",
+    "examples": [
+      "dar",
+      "Dar",
+      "tar",
+      "d‍ar",
+      "dAr"
+    ]
+  },
+  {
+    "seq": [
+      "I",
+      "J"
+    ],
+    "frequency": 1138,
+    "example": "ij",
+    "examples": [
+      "ij",
+      "ij̲",
+      "íj",
+      "ííj",
+      "íííj"
+    ]
+  },
+  {
+    "seq": [
+      "H",
+      "A",
+      "P"
+    ],
+    "frequency": 1135,
+    "example": "hab",
+    "examples": [
+      "hab",
+      "Hab",
+      "hAb",
+      "hap",
+      "hab②"
+    ]
+  },
+  {
+    "seq": [
+      "H",
+      "W",
+      "P",
+      "E"
+    ],
+    "frequency": 1134,
+    "example": "hwͤbe",
+    "examples": [
+      "hwͤbe",
+      "hwbe",
+      "hwͤbē",
+      "hwbē",
+      "Hwͤbe"
+    ]
+  },
+  {
+    "seq": [
+      "F",
+      "P",
+      "E",
+      "R"
+    ],
+    "frequency": 1111,
+    "example": "vber",
+    "examples": [
+      "vber",
+      "v͗ber",
+      "v̂ber",
+      "v̈ber",
+      "vͥber"
+    ]
+  },
+  {
+    "seq": [
+      "T",
+      "I",
+      "N",
+      "K"
+    ],
+    "frequency": 1100,
+    "example": "ding",
+    "examples": [
+      "ding",
+      "díng",
+      "dinck",
+      "dingk",
+      "dínck"
+    ]
+  },
+  {
+    "seq": [
+      "L",
+      "A",
+      "N",
+      "T"
+    ],
+    "frequency": 1098,
+    "example": "land",
+    "examples": [
+      "land",
+      "lant",
+      "lannd",
+      "landt",
+      "Land"
+    ]
+  },
+  {
+    "seq": [
+      "N",
+      "I",
+      "M"
+    ],
+    "frequency": 1093,
+    "example": "Nym",
+    "examples": [
+      "Nym",
+      "nym",
+      "nim",
+      "ným",
+      "Ným"
+    ]
+  },
+  {
+    "seq": [
+      "I",
+      "E"
+    ],
+    "frequency": 1090,
+    "example": "ye",
+    "examples": [
+      "ye",
+      "ie",
+      "ýe",
+      "íe",
+      "Ie"
+    ]
+  },
+  {
+    "seq": [
+      "K",
+      "A",
+      "P"
+    ],
+    "frequency": 1088,
+    "example": "gab",
+    "examples": [
+      "gab",
+      "Cap̄",
+      "gap",
+      "Gab",
+      "cap"
+    ]
+  },
+  {
+    "seq": [
+      "O",
+      "N"
+    ],
+    "frequency": 1085,
+    "example": "on",
+    "examples": [
+      "on",
+      "ön",
+      "On",
+      "on͗",
+      "oͤn"
+    ]
+  },
+  {
+    "seq": [
+      "T",
+      "O",
+      "T"
+    ],
+    "frequency": 1082,
+    "example": "tod",
+    "examples": [
+      "tod",
+      "tot",
+      "dot",
+      "todt",
+      "dott"
+    ]
+  },
+  {
+    "seq": [
+      "O",
+      "X"
+    ],
+    "frequency": 1068,
+    "example": "och",
+    "examples": [
+      "och",
+      "oͮch",
+      "öch",
+      "ôch",
+      "o͗ch"
+    ]
+  },
+  {
+    "seq": [
+      "U",
+      "X"
+    ],
+    "frequency": 1052,
+    "example": "uch",
+    "examples": [
+      "uch",
+      "u͗ch",
+      "ûch",
+      "üch",
+      "úch"
+    ]
+  },
+  {
+    "seq": [
+      "J",
+      "T",
+      "E",
+      "M"
+    ],
+    "frequency": 1052,
+    "example": "Jtem",
+    "examples": [
+      "Jtem",
+      "jtem",
+      "Jdem",
+      "jTem",
+      "JTem"
+    ]
+  },
+  {
+    "seq": [
+      "W",
+      "A",
+      "T",
+      "S"
+    ],
+    "frequency": 1041,
+    "example": "waz",
+    "examples": [
+      "waz",
+      "Waz",
+      "wazzˢ",
+      "wazz",
+      "w‍az"
+    ]
+  },
+  {
+    "seq": [
+      "O",
+      "T",
+      "S"
+    ],
+    "frequency": 1032,
+    "example": "odˢ",
+    "examples": [
+      "odˢ",
+      "Odˢ",
+      "ōz",
+      "oDˢ",
+      "oz⑨"
+    ]
+  },
+  {
+    "seq": [
+      "S",
+      "U"
+    ],
+    "frequency": 1022,
+    "example": "ſu͗",
+    "examples": [
+      "ſu͗",
+      "ſu",
+      "ſú",
+      "ſuͤ",
+      "ſü"
+    ]
+  },
+  {
+    "seq": [
+      "K",
+      "R",
+      "O",
+      "S"
+    ],
+    "frequency": 997,
+    "example": "groß",
+    "examples": [
+      "groß",
+      "gros",
+      "groſs",
+      "groſß",
+      "groſſ"
+    ]
+  },
+  {
+    "seq": [
+      "M",
+      "E"
+    ],
+    "frequency": 972,
+    "example": "me",
+    "examples": [
+      "me",
+      "mē",
+      "Me",
+      "meͤ",
+      "mE"
+    ]
+  },
+  {
+    "seq": [
+      "T",
+      "E",
+      "I",
+      "N"
+    ],
+    "frequency": 968,
+    "example": "dein",
+    "examples": [
+      "dein",
+      "deín",
+      "Dein",
+      "deyn",
+      "Deín"
+    ]
+  },
+  {
+    "seq": [
+      "H",
+      "I",
+      "N"
+    ],
+    "frequency": 964,
+    "example": "hin",
+    "examples": [
+      "hin",
+      "hín",
+      "hyn",
+      "hýn",
+      "Hin"
+    ]
+  },
+  {
+    "seq": [
+      "E",
+      "I"
+    ],
+    "frequency": 954,
+    "example": "eȳ",
+    "examples": [
+      "eȳ",
+      "eī",
+      "ey",
+      "Ey",
+      "ei"
+    ]
+  },
+  {
+    "seq": [
+      "T",
+      "S",
+      "K",
+      "U"
+    ],
+    "frequency": 941,
+    "example": "zcu",
+    "examples": [
+      "zcu",
+      "Zcu",
+      "zcü",
+      "z‍cu",
+      "zcu͗"
+    ]
+  },
+  {
+    "seq": [
+      "W",
+      "I",
+      "L",
+      "T"
+    ],
+    "frequency": 902,
+    "example": "wilt",
+    "examples": [
+      "wilt",
+      "wild",
+      "Wilt",
+      "Wild",
+      "wílt"
+    ]
+  },
+  {
+    "seq": [
+      "T",
+      "E",
+      "N",
+      "E"
+    ],
+    "frequency": 899,
+    "example": "denne",
+    "examples": [
+      "denne",
+      "dēne",
+      "den̄e",
+      "Denne",
+      "denē"
+    ]
+  },
+  {
+    "seq": [
+      "M",
+      "A",
+      "X",
+      "T"
+    ],
+    "frequency": 895,
+    "example": "macht",
+    "examples": [
+      "macht",
+      "Macht",
+      "mächt",
+      "maͤcht",
+      "mächt"
+    ]
+  },
+  {
+    "seq": [
+      "E",
+      "R",
+      "E"
+    ],
+    "frequency": 892,
+    "example": "ere",
+    "examples": [
+      "ere",
+      "erē",
+      "Ere",
+      "erre",
+      "e‍re"
+    ]
+  },
+  {
+    "seq": [
+      "W",
+      "O",
+      "R",
+      "T"
+    ],
+    "frequency": 882,
+    "example": "wort",
+    "examples": [
+      "wort",
+      "wo‍rt",
+      "word②",
+      "wortt",
+      "w‍ort"
+    ]
+  },
+  {
+    "seq": [
+      "W",
+      "U",
+      "R",
+      "T"
+    ],
+    "frequency": 882,
+    "example": "würt",
+    "examples": [
+      "würt",
+      "wurt",
+      "wurd",
+      "würd",
+      "wurdt"
+    ]
+  },
+  {
+    "seq": [
+      "P",
+      "I",
+      "N"
+    ],
+    "frequency": 876,
+    "example": "bin",
+    "examples": [
+      "bin",
+      "pin",
+      "bín",
+      "byn",
+      "pín"
+    ]
+  },
+  {
+    "seq": [
+      "N",
+      "U",
+      "N"
+    ],
+    "frequency": 875,
+    "example": "nun",
+    "examples": [
+      "nun",
+      "Nun",
+      "Nün",
+      "nün",
+      "nuͦn"
+    ]
+  },
+  {
+    "seq": [
+      "N",
+      "A",
+      "M"
+    ],
+    "frequency": 872,
+    "example": "nam",
+    "examples": [
+      "nam",
+      "Nam",
+      "nam̄",
+      "naͤm",
+      "nAm"
+    ]
+  },
+  {
+    "seq": [
+      "R",
+      "A",
+      "T"
+    ],
+    "frequency": 863,
+    "example": "rat",
+    "examples": [
+      "rat",
+      "Rat",
+      "ratt",
+      "rad",
+      "Rät"
+    ]
+  },
+  {
+    "seq": [
+      "M",
+      "I",
+      "N",
+      "E"
+    ],
+    "frequency": 861,
+    "example": "minē",
+    "examples": [
+      "minē",
+      "mine",
+      "mīne",
+      "myne",
+      "míne"
+    ]
+  },
+  {
+    "seq": [
+      "H",
+      "A",
+      "T",
+      "E"
+    ],
+    "frequency": 855,
+    "example": "hatte",
+    "examples": [
+      "hatte",
+      "hadde",
+      "hattē",
+      "haddē",
+      "hate"
+    ]
+  },
+  {
+    "seq": [
+      "M",
+      "A"
+    ],
+    "frequency": 853,
+    "example": "mā",
+    "examples": [
+      "mā",
+      "Mā",
+      "ma",
+      "Ma",
+      "m‍a"
+    ]
+  },
+  {
+    "seq": [
+      "M",
+      "E",
+      "N",
+      "SH"
+    ],
+    "frequency": 852,
+    "example": "menſch",
+    "examples": [
+      "menſch",
+      "Menſch",
+      "menſch̄",
+      "mensch",
+      "menſchͤᷠ"
+    ]
+  },
+  {
+    "seq": [
+      "A",
+      "L",
+      "T",
+      "S"
+    ],
+    "frequency": 833,
+    "example": "alz",
+    "examples": [
+      "alz",
+      "Alz",
+      "altˢ",
+      "a͗lz",
+      "aldˢs"
+    ]
+  },
+  {
+    "seq": [
+      "L",
+      "I",
+      "E",
+      "P"
+    ],
+    "frequency": 831,
+    "example": "lieb",
+    "examples": [
+      "lieb",
+      "liep",
+      "líeb",
+      "lyeb",
+      "Lieb"
+    ]
+  },
+  {
+    "seq": [
+      "W",
+      "O"
+    ],
+    "frequency": 826,
+    "example": "wo",
+    "examples": [
+      "wo",
+      "Wo",
+      "w‍o",
+      "wō",
+      "wö"
+    ]
+  },
+  {
+    "seq": [
+      "I",
+      "R",
+      "E"
+    ],
+    "frequency": 818,
+    "example": "yre",
+    "examples": [
+      "yre",
+      "ire",
+      "irē",
+      "irre",
+      "yrē"
+    ]
+  },
+  {
+    "seq": [
+      "T",
+      "I",
+      "S",
+      "E"
+    ],
+    "frequency": 815,
+    "example": "diſe",
+    "examples": [
+      "diſe",
+      "diſſe",
+      "Diſe",
+      "diſē",
+      "dyſe"
+    ]
+  },
+  {
+    "seq": [
+      "K",
+      "E",
+      "N"
+    ],
+    "frequency": 807,
+    "example": "gen",
+    "examples": [
+      "gen",
+      "Gen",
+      "ken",
+      "kenn",
+      "genn"
+    ]
+  },
+  {
+    "seq": [
+      "F",
+      "P"
+    ],
+    "frequency": 802,
+    "example": "vp",
+    "examples": [
+      "vp",
+      "Vp",
+      "v̄b",
+      "vb",
+      "vͦp"
+    ]
+  },
+  {
+    "seq": [
+      "T",
+      "S",
+      "I",
+      "T"
+    ],
+    "frequency": 797,
+    "example": "zit",
+    "examples": [
+      "zit",
+      "zyt",
+      "zít",
+      "zÿt",
+      "zytt"
+    ]
+  },
+  {
+    "seq": [
+      "W",
+      "E",
+      "R",
+      "T"
+    ],
+    "frequency": 797,
+    "example": "werd",
+    "examples": [
+      "werd",
+      "wert",
+      "werd②",
+      "werdt",
+      "we‍rt"
+    ]
+  },
+  {
+    "seq": [
+      "K",
+      "U",
+      "N",
+      "K"
+    ],
+    "frequency": 784,
+    "example": "ku͗ng",
+    "examples": [
+      "ku͗ng",
+      "kung",
+      "küng",
+      "kûng",
+      "kuͤng"
+    ]
+  },
+  {
+    "seq": [
+      "I",
+      "M",
+      "E"
+    ],
+    "frequency": 783,
+    "example": "yme",
+    "examples": [
+      "yme",
+      "ýme",
+      "ime",
+      "íme",
+      "ȳme"
+    ]
+  },
+  {
+    "seq": [
+      "F",
+      "A",
+      "S",
+      "T"
+    ],
+    "frequency": 780,
+    "example": "vaſt",
+    "examples": [
+      "vaſt",
+      "faſt",
+      "Vaſt",
+      "v‍aſt",
+      "vast"
+    ]
+  },
+  {
+    "seq": [
+      "T",
+      "U",
+      "T"
+    ],
+    "frequency": 759,
+    "example": "tuͦt",
+    "examples": [
+      "tuͦt",
+      "tut",
+      "tüt",
+      "duͦt",
+      "dut"
+    ]
+  },
+  {
+    "seq": [
+      "S",
+      "U",
+      "N"
+    ],
+    "frequency": 755,
+    "example": "ſun",
+    "examples": [
+      "ſun",
+      "ſunn",
+      "ſu͗n",
+      "ſuͦn",
+      "ſün"
+    ]
+  },
+  {
+    "seq": [
+      "E",
+      "U",
+      "X"
+    ],
+    "frequency": 753,
+    "example": "euch",
+    "examples": [
+      "euch",
+      "eüch",
+      "eu͗ch",
+      "euͤch",
+      "Euch"
+    ]
+  },
+  {
+    "seq": [
+      "K",
+      "I",
+      "N",
+      "T"
+    ],
+    "frequency": 737,
+    "example": "kint",
+    "examples": [
+      "kint",
+      "kind",
+      "kindt",
+      "kínt",
+      "kynt"
+    ]
+  },
+  {
+    "seq": [
+      "A",
+      "M"
+    ],
+    "frequency": 736,
+    "example": "am",
+    "examples": [
+      "am",
+      "Am",
+      "am̄",
+      "a͗m",
+      "AM"
+    ]
+  },
+  {
+    "seq": [
+      "E",
+      "I",
+      "N",
+      "S"
+    ],
+    "frequency": 733,
+    "example": "eins",
+    "examples": [
+      "eins",
+      "eyns",
+      "einˢ",
+      "eíns",
+      "einß"
+    ]
+  },
+  {
+    "seq": [
+      "A",
+      "N",
+      "E"
+    ],
+    "frequency": 726,
+    "example": "ane",
+    "examples": [
+      "ane",
+      "Ane",
+      "a͗ne",
+      "anne",
+      "âne"
+    ]
+  },
+  {
+    "seq": [
+      "M",
+      "O",
+      "X",
+      "T"
+    ],
+    "frequency": 722,
+    "example": "mocht",
+    "examples": [
+      "mocht",
+      "moͤcht",
+      "möcht",
+      "mo͗cht",
+      "Mocht"
+    ]
+  },
+  {
+    "seq": [
+      "M",
+      "A",
+      "X"
+    ],
+    "frequency": 716,
+    "example": "mach",
+    "examples": [
+      "mach",
+      "Mach",
+      "mach̄",
+      "māch",
+      "ma͗ch"
+    ]
+  },
+  {
+    "seq": [
+      "I",
+      "A",
+      "R"
+    ],
+    "frequency": 715,
+    "example": "iar",
+    "examples": [
+      "iar",
+      "Iar",
+      "iaͮr",
+      "iâr",
+      "íar"
+    ]
+  },
+  {
+    "seq": [
+      "E",
+      "T"
+    ],
+    "frequency": 697,
+    "example": "et",
+    "examples": [
+      "et",
+      "Et",
+      "e⑦t",
+      "ed",
+      "ett"
+    ]
+  },
+  {
+    "seq": [
+      "H",
+      "A",
+      "S",
+      "T"
+    ],
+    "frequency": 688,
+    "example": "haſt",
+    "examples": [
+      "haſt",
+      "Haſt",
+      "ha͗ſt",
+      "hâſt",
+      "hAſt"
+    ]
+  },
+  {
+    "seq": [
+      "E",
+      "M",
+      "E"
+    ],
+    "frequency": 685,
+    "example": "eme",
+    "examples": [
+      "eme",
+      "Eme",
+      "emē"
+    ]
+  },
+  {
+    "seq": [
+      "H",
+      "E",
+      "T",
+      "E"
+    ],
+    "frequency": 684,
+    "example": "hette",
+    "examples": [
+      "hette",
+      "hedde",
+      "hettē",
+      "hetē",
+      "hete"
+    ]
+  },
+  {
+    "seq": [
+      "O"
+    ],
+    "frequency": 680,
+    "example": "O",
+    "examples": [
+      "O",
+      "o",
+      "&quot;O",
+      "[...]O",
+      "o[...]"
+    ]
+  },
+  {
+    "seq": [
+      "K",
+      "A",
+      "I",
+      "N"
+    ],
+    "frequency": 676,
+    "example": "kain",
+    "examples": [
+      "kain",
+      "kaín",
+      "gayn",
+      "gaín",
+      "gaýn"
+    ]
+  },
+  {
+    "seq": [
+      "I"
+    ],
+    "frequency": 675,
+    "example": "ī",
+    "examples": [
+      "ī",
+      "y",
+      "i",
+      "I",
+      "ý"
+    ]
+  },
+  {
+    "seq": [
+      "K",
+      "A",
+      "M"
+    ],
+    "frequency": 675,
+    "example": "kam",
+    "examples": [
+      "kam",
+      "käm",
+      "kAm",
+      "kaͤm",
+      "Kam"
+    ]
+  },
+  {
+    "seq": [
+      "L",
+      "P"
+    ],
+    "frequency": 666,
+    "example": "lb",
+    "examples": [
+      "lb",
+      "lb⑩",
+      "lb̄"
+    ]
+  },
+  {
+    "seq": [
+      "I",
+      "R",
+      "E",
+      "N"
+    ],
+    "frequency": 661,
+    "example": "iren",
+    "examples": [
+      "iren",
+      "yren",
+      "íren",
+      "ýren",
+      "y‍ren"
+    ]
+  },
+  {
+    "seq": [
+      "L",
+      "A",
+      "N",
+      "K"
+    ],
+    "frequency": 661,
+    "example": "lang",
+    "examples": [
+      "lang",
+      "lanck",
+      "langk",
+      "lanc",
+      "Lang"
+    ]
+  },
+  {
+    "seq": [
+      "A",
+      "T",
+      "E",
+      "R"
+    ],
+    "frequency": 658,
+    "example": "ader",
+    "examples": [
+      "ader",
+      "adder",
+      "Ader",
+      "āder",
+      "Adder"
+    ]
+  },
+  {
+    "seq": [
+      "T",
+      "W"
+    ],
+    "frequency": 657,
+    "example": "dw",
+    "examples": [
+      "dw",
+      "Dw",
+      "dẅ",
+      "dw⑥",
+      "twͦ"
+    ]
+  },
+  {
+    "seq": [
+      "T",
+      "U",
+      "N"
+    ],
+    "frequency": 657,
+    "example": "tuͦn",
+    "examples": [
+      "tuͦn",
+      "tun",
+      "tu͗n",
+      "tün",
+      "duͦn"
+    ]
+  },
+  {
+    "seq": [
+      "S",
+      "E",
+      "R",
+      "E"
+    ],
+    "frequency": 654,
+    "example": "ſere",
+    "examples": [
+      "ſere",
+      "ſe‍re",
+      "Sere",
+      "ſêre",
+      "ſe‍rre"
+    ]
+  },
+  {
+    "seq": [
+      "T",
+      "H",
+      "U",
+      "N"
+    ],
+    "frequency": 647,
+    "example": "thun",
+    "examples": [
+      "thun",
+      "thuͦn",
+      "thu͗n",
+      "thün",
+      "thún"
+    ]
+  },
+  {
+    "seq": [
+      "N",
+      "I",
+      "E"
+    ],
+    "frequency": 643,
+    "example": "nie",
+    "examples": [
+      "nie",
+      "nye",
+      "níe",
+      "nýe",
+      "Nie"
+    ]
+  },
+  {
+    "seq": [
+      "O",
+      "F"
+    ],
+    "frequency": 638,
+    "example": "of",
+    "examples": [
+      "of",
+      "off",
+      "Off",
+      "Of",
+      "off40"
+    ]
+  },
+  {
+    "seq": [
+      "E",
+      "E"
+    ],
+    "frequency": 636,
+    "example": "ee",
+    "examples": [
+      "ee",
+      "Ee",
+      "Eē"
+    ]
+  },
+  {
+    "seq": [
+      "W",
+      "E"
+    ],
+    "frequency": 634,
+    "example": "we",
+    "examples": [
+      "we",
+      "We",
+      "wē",
+      "w‍ē",
+      "Wē"
+    ]
+  },
+  {
+    "seq": [
+      "I",
+      "N",
+      "E"
+    ],
+    "frequency": 632,
+    "example": "yne",
+    "examples": [
+      "yne",
+      "inne",
+      "ynne",
+      "inē",
+      "ínne"
+    ]
+  },
+  {
+    "seq": [
+      "H",
+      "A",
+      "P",
+      "E"
+    ],
+    "frequency": 631,
+    "example": "habe",
+    "examples": [
+      "habe",
+      "habē",
+      "hAbe",
+      "Habe",
+      "habē)"
+    ]
+  },
+  {
+    "seq": [
+      "S",
+      "I",
+      "J"
+    ],
+    "frequency": 625,
+    "example": "ſij",
+    "examples": [
+      "ſij",
+      "Sij",
+      "ſíj́",
+      "ſíj",
+      "ſij́"
+    ]
+  },
+  {
+    "seq": [
+      "P",
+      "I",
+      "S",
+      "T"
+    ],
+    "frequency": 623,
+    "example": "biſt",
+    "examples": [
+      "biſt",
+      "piſt",
+      "byſt",
+      "Biſt",
+      "píſt"
+    ]
+  },
+  {
+    "seq": [
+      "W",
+      "A",
+      "N",
+      "T"
+    ],
+    "frequency": 618,
+    "example": "want",
+    "examples": [
+      "want",
+      "Want",
+      "wand",
+      "WAnd",
+      "want̄"
+    ]
+  },
+  {
+    "seq": [
+      "M",
+      "U",
+      "S"
+    ],
+    "frequency": 617,
+    "example": "muͦß",
+    "examples": [
+      "muͦß",
+      "muß",
+      "mus",
+      "mu͗ß",
+      "muͦſſ"
+    ]
+  },
+  {
+    "seq": [
+      "E"
+    ],
+    "frequency": 609,
+    "example": "e",
+    "examples": [
+      "e",
+      "E",
+      "e⑩",
+      "ē",
+      "·e·"
+    ]
+  },
+  {
+    "seq": [
+      "N",
+      "O",
+      "T"
+    ],
+    "frequency": 606,
+    "example": "not",
+    "examples": [
+      "not",
+      "nott",
+      "nöt",
+      "nôt",
+      "no͗t"
+    ]
+  },
+  {
+    "seq": [
+      "K",
+      "O",
+      "T",
+      "E"
+    ],
+    "frequency": 602,
+    "example": "gote",
+    "examples": [
+      "gote",
+      "gotte",
+      "gode",
+      "got‍te",
+      "godde"
+    ]
+  },
+  {
+    "seq": [
+      "W",
+      "E",
+      "L",
+      "T"
+    ],
+    "frequency": 601,
+    "example": "welt",
+    "examples": [
+      "welt",
+      "wellt",
+      "weld",
+      "Welt",
+      "weͦlt"
+    ]
+  },
+  {
+    "seq": [
+      "K",
+      "S"
+    ],
+    "frequency": 587,
+    "example": "x",
+    "examples": [
+      "x",
+      "xx",
+      "xxx",
+      "C᷑ſ",
+      "x̲"
+    ]
+  },
+  {
+    "seq": [
+      "L",
+      "E",
+      "I",
+      "T"
+    ],
+    "frequency": 587,
+    "example": "leit",
+    "examples": [
+      "leit",
+      "leyt",
+      "leid",
+      "leít",
+      "leyd"
+    ]
+  },
+  {
+    "seq": [
+      "T",
+      "E",
+      "T"
+    ],
+    "frequency": 586,
+    "example": "tet",
+    "examples": [
+      "tet",
+      "det",
+      "tett",
+      "dett",
+      "ted"
+    ]
+  },
+  {
+    "seq": [
+      "H",
+      "S",
+      "R",
+      "E"
+    ],
+    "frequency": 585,
+    "example": "hˢre",
+    "examples": [
+      "hˢre",
+      "hˢrē",
+      "Hˢre",
+      "hˢrre",
+      "&quot;hˢre"
+    ]
+  },
+  {
+    "seq": [
+      "I",
+      "I",
+      "J"
+    ],
+    "frequency": 584,
+    "example": "iij",
+    "examples": [
+      "iij",
+      "iij̲",
+      "·iij·",
+      ".iij",
+      "iijͫ"
+    ]
+  },
+  {
+    "seq": [
+      "N",
+      "E",
+      "I",
+      "T"
+    ],
+    "frequency": 583,
+    "example": "neit",
+    "examples": [
+      "neit",
+      "neyt",
+      "neít",
+      "neid",
+      "neyd"
+    ]
+  },
+  {
+    "seq": [
+      "S",
+      "E",
+      "L",
+      "E"
+    ],
+    "frequency": 579,
+    "example": "ſele",
+    "examples": [
+      "ſele",
+      "ſelē",
+      "Sele",
+      "ſelle",
+      "Selle"
+    ]
+  },
+  {
+    "seq": [
+      "F",
+      "O",
+      "L",
+      "K"
+    ],
+    "frequency": 569,
+    "example": "volck",
+    "examples": [
+      "volck",
+      "volk",
+      "folk",
+      "volg",
+      "folck"
+    ]
+  },
+  {
+    "seq": [
+      "K",
+      "E",
+      "R",
+      "N"
+    ],
+    "frequency": 563,
+    "example": "gern",
+    "examples": [
+      "gern",
+      "gern̄",
+      "kern",
+      "ge‍rn",
+      "kern̄"
+    ]
+  },
+  {
+    "seq": [
+      "N",
+      "A",
+      "X",
+      "T"
+    ],
+    "frequency": 562,
+    "example": "nacht",
+    "examples": [
+      "nacht",
+      "nAcht",
+      "Nacht",
+      "naͤcht",
+      "nacht③"
+    ]
+  },
+  {
+    "seq": [
+      "E",
+      "R",
+      "E",
+      "N"
+    ],
+    "frequency": 560,
+    "example": "eren",
+    "examples": [
+      "eren",
+      "Eren",
+      "erren",
+      "e‍ren",
+      "êren"
+    ]
+  },
+  {
+    "seq": [
+      "S",
+      "A",
+      "K"
+    ],
+    "frequency": 554,
+    "example": "ſag",
+    "examples": [
+      "ſag",
+      "Sag",
+      "ſack",
+      "ſAg",
+      "sag"
+    ]
+  },
+  {
+    "seq": [
+      "T",
+      "A",
+      "K",
+      "E"
+    ],
+    "frequency": 547,
+    "example": "tage",
+    "examples": [
+      "tage",
+      "dage",
+      "tagē",
+      "dagē",
+      "tAge"
+    ]
+  },
+  {
+    "seq": [
+      "R",
+      "E",
+      "T"
+    ],
+    "frequency": 537,
+    "example": "red",
+    "examples": [
+      "red",
+      "redt",
+      "ret",
+      "rett",
+      "Red"
+    ]
+  },
+  {
+    "seq": [
+      "H",
+      "A",
+      "I",
+      "T"
+    ],
+    "frequency": 536,
+    "example": "hait",
+    "examples": [
+      "hait",
+      "haít",
+      "hayt",
+      "Hayt",
+      "haid"
+    ]
+  },
+  {
+    "seq": [
+      "K",
+      "U",
+      "T",
+      "E"
+    ],
+    "frequency": 534,
+    "example": "gute",
+    "examples": [
+      "gute",
+      "guͦte",
+      "gutē",
+      "gude",
+      "guͦtē"
+    ]
+  },
+  {
+    "seq": [
+      "N",
+      "I",
+      "H",
+      "T"
+    ],
+    "frequency": 522,
+    "example": "niht",
+    "examples": [
+      "niht",
+      "níht",
+      "nîht",
+      "Niht"
+    ]
+  },
+  {
+    "seq": [
+      "M",
+      "U",
+      "T"
+    ],
+    "frequency": 520,
+    "example": "mut",
+    "examples": [
+      "mut",
+      "muͦt",
+      "müt",
+      "müt",
+      "mu͗t"
+    ]
+  },
+  {
+    "seq": [
+      "A",
+      "I",
+      "N",
+      "E"
+    ],
+    "frequency": 520,
+    "example": "aínē",
+    "examples": [
+      "aínē",
+      "ainē",
+      "aine",
+      "aynē",
+      "aíne"
+    ]
+  },
+  {
+    "seq": [
+      "E",
+      "R",
+      "S",
+      "T"
+    ],
+    "frequency": 519,
+    "example": "erſt",
+    "examples": [
+      "erſt",
+      "Erſt",
+      "erst",
+      "e‍rſt",
+      "erſ‍t"
+    ]
+  },
+  {
+    "seq": [
+      "S",
+      "T",
+      "E",
+      "T"
+    ],
+    "frequency": 518,
+    "example": "ſtet",
+    "examples": [
+      "ſtet",
+      "ſtett",
+      "ſ‍tet",
+      "Stet",
+      "ſtët"
+    ]
+  },
+  {
+    "seq": [
+      "W",
+      "I",
+      "L",
+      "E"
+    ],
+    "frequency": 515,
+    "example": "wille",
+    "examples": [
+      "wille",
+      "willē",
+      "wile",
+      "wílle",
+      "wyle"
+    ]
+  },
+  {
+    "seq": [
+      "M",
+      "U",
+      "S",
+      "T"
+    ],
+    "frequency": 513,
+    "example": "muſt",
+    "examples": [
+      "muſt",
+      "mu͗ſt",
+      "muͦſt",
+      "müſt",
+      "muͤſt"
+    ]
+  },
+  {
+    "seq": [
+      "A",
+      "S"
+    ],
+    "frequency": 512,
+    "example": "as",
+    "examples": [
+      "as",
+      "As",
+      "aſ",
+      "aß",
+      "Aſ"
+    ]
+  },
+  {
+    "seq": [
+      "F",
+      "N",
+      "T",
+      "S"
+    ],
+    "frequency": 512,
+    "example": "vndˢ",
+    "examples": [
+      "vndˢ",
+      "vntz",
+      "vnt‍z",
+      "vndtˢ",
+      "vnz"
+    ]
+  },
+  {
+    "seq": [
+      "U",
+      "N",
+      "T"
+    ],
+    "frequency": 511,
+    "example": "Und",
+    "examples": [
+      "Und",
+      "und",
+      "UNd",
+      "UND",
+      "unnd"
+    ]
+  },
+  {
+    "seq": [
+      "T",
+      "E",
+      "I",
+      "L"
+    ],
+    "frequency": 510,
+    "example": "teil",
+    "examples": [
+      "teil",
+      "teyl",
+      "deil",
+      "deyll",
+      "deill"
+    ]
+  },
+  {
+    "seq": [
+      "K",
+      "I",
+      "P",
+      "T"
+    ],
+    "frequency": 506,
+    "example": "gibt",
+    "examples": [
+      "gibt",
+      "gíbt",
+      "gipt",
+      "Gibt",
+      "gybt"
+    ]
+  },
+  {
+    "seq": [
+      "N",
+      "U",
+      "T"
+    ],
+    "frequency": 498,
+    "example": "nu͗t",
+    "examples": [
+      "nu͗t",
+      "nût",
+      "nüt",
+      "Nüt",
+      "nút"
+    ]
+  },
+  {
+    "seq": [
+      "J",
+      "A",
+      "R"
+    ],
+    "frequency": 488,
+    "example": "jar",
+    "examples": [
+      "jar",
+      "Jar",
+      "Jâr",
+      "jâr",
+      "ja‍r"
+    ]
+  },
+  {
+    "seq": [
+      "P",
+      "U",
+      "X"
+    ],
+    "frequency": 488,
+    "example": "buͦch",
+    "examples": [
+      "buͦch",
+      "buch",
+      "puͦch",
+      "puch",
+      "pu͗ch"
+    ]
+  },
+  {
+    "seq": [
+      "W",
+      "E",
+      "K"
+    ],
+    "frequency": 488,
+    "example": "weg",
+    "examples": [
+      "weg",
+      "weck",
+      "wegk",
+      "w‍ec",
+      "w‍eg"
+    ]
+  },
+  {
+    "seq": [
+      "S",
+      "E",
+      "I",
+      "T"
+    ],
+    "frequency": 487,
+    "example": "ſeit",
+    "examples": [
+      "ſeit",
+      "ſeyt",
+      "ſeít",
+      "ſeyd",
+      "Seit"
+    ]
+  },
+  {
+    "seq": [
+      "F",
+      "A"
+    ],
+    "frequency": 486,
+    "example": "vā",
+    "examples": [
+      "vā",
+      "va",
+      "Vā",
+      "fa⑦",
+      "fa"
+    ]
+  },
+  {
+    "seq": [
+      "E",
+      "I",
+      "M",
+      "E"
+    ],
+    "frequency": 484,
+    "example": "eyme",
+    "examples": [
+      "eyme",
+      "eime",
+      "eýme",
+      "eíme",
+      "Eyme"
+    ]
+  },
+  {
+    "seq": [
+      "W",
+      "E",
+      "I",
+      "S"
+    ],
+    "frequency": 484,
+    "example": "weis",
+    "examples": [
+      "weis",
+      "weiß",
+      "weys",
+      "weyß",
+      "weís"
+    ]
+  },
+  {
+    "seq": [
+      "E",
+      "I",
+      "M"
+    ],
+    "frequency": 483,
+    "example": "eym",
+    "examples": [
+      "eym",
+      "eim",
+      "eím",
+      "eÿm",
+      "Eym"
+    ]
+  },
+  {
+    "seq": [
+      "W",
+      "I",
+      "T",
+      "S"
+    ],
+    "frequency": 480,
+    "example": "widˢ",
+    "examples": [
+      "widˢ",
+      "wídˢ",
+      "widdˢ",
+      "wydˢ",
+      "wizz"
+    ]
+  },
+  {
+    "seq": [
+      "E",
+      "N",
+      "T",
+      "E"
+    ],
+    "frequency": 479,
+    "example": "ende",
+    "examples": [
+      "ende",
+      "endē",
+      "Ende",
+      "ennde",
+      "endᵉ"
+    ]
+  },
+  {
+    "seq": [
+      "T",
+      "I",
+      "K"
+    ],
+    "frequency": 476,
+    "example": "dick",
+    "examples": [
+      "dick",
+      "dik",
+      "dīg",
+      "díck",
+      "dic"
+    ]
+  },
+  {
+    "seq": [
+      "J",
+      "S",
+      "T"
+    ],
+    "frequency": 472,
+    "example": "Jſt",
+    "examples": [
+      "Jſt",
+      "jſt",
+      "Jſ‍t",
+      "jst",
+      "Jst"
+    ]
+  },
+  {
+    "seq": [
+      "F",
+      "X"
+    ],
+    "frequency": 470,
+    "example": "vch",
+    "examples": [
+      "vch",
+      "v́ch",
+      "v͗ch",
+      "vͥch",
+      "Vch"
+    ]
+  },
+  {
+    "seq": [
+      "W",
+      "A"
+    ],
+    "frequency": 463,
+    "example": "wa",
+    "examples": [
+      "wa",
+      "wā",
+      "Wā",
+      "Wa",
+      "WĀ"
+    ]
+  },
+  {
+    "seq": [
+      "L",
+      "A",
+      "S"
+    ],
+    "frequency": 462,
+    "example": "laß",
+    "examples": [
+      "laß",
+      "las",
+      "laſſ",
+      "laſs",
+      "Laß"
+    ]
+  },
+  {
+    "seq": [
+      "I",
+      "N",
+      "T",
+      "E"
+    ],
+    "frequency": 460,
+    "example": "índe",
+    "examples": [
+      "índe",
+      "inde",
+      "Inde",
+      "indē",
+      "índᵉ"
+    ]
+  },
+  {
+    "seq": [
+      "P",
+      "L",
+      "U",
+      "T"
+    ],
+    "frequency": 452,
+    "example": "bluͦt",
+    "examples": [
+      "bluͦt",
+      "plut",
+      "pluͦt",
+      "blut",
+      "blu͗t"
+    ]
+  },
+  {
+    "seq": [
+      "U",
+      "O"
+    ],
+    "frequency": 447,
+    "example": "uō",
+    "examples": [
+      "uō",
+      "Uō"
+    ]
+  },
+  {
+    "seq": [
+      "W",
+      "I",
+      "S",
+      "E"
+    ],
+    "frequency": 447,
+    "example": "wiſe",
+    "examples": [
+      "wiſe",
+      "wyſe",
+      "wiſſe",
+      "wýſe",
+      "wÿſe"
+    ]
+  },
+  {
+    "seq": [
+      "L",
+      "O",
+      "T"
+    ],
+    "frequency": 446,
+    "example": "lot",
+    "examples": [
+      "lot",
+      "Lot",
+      "lott",
+      "lod②",
+      "loͤt"
+    ]
+  },
+  {
+    "seq": [
+      "T"
+    ],
+    "frequency": 443,
+    "example": "d",
+    "examples": [
+      "d",
+      "t",
+      "d②",
+      "d[...]",
+      "dt"
+    ]
+  },
+  {
+    "seq": [
+      "S",
+      "O",
+      "N",
+      "E"
+    ],
+    "frequency": 441,
+    "example": "ſone",
+    "examples": [
+      "ſone",
+      "ſonne",
+      "Sonne",
+      "ſonnē",
+      "ſonē"
+    ]
+  },
+  {
+    "seq": [
+      "R",
+      "E",
+      "T",
+      "E"
+    ],
+    "frequency": 439,
+    "example": "rede",
+    "examples": [
+      "rede",
+      "redē",
+      "rette",
+      "redde",
+      "Rede"
+    ]
+  },
+  {
+    "seq": [
+      "S",
+      "A",
+      "K",
+      "T"
+    ],
+    "frequency": 438,
+    "example": "ſagt",
+    "examples": [
+      "ſagt",
+      "Sagt",
+      "sagt",
+      "ſagtt"
+    ]
+  },
+  {
+    "seq": [
+      "T",
+      "A",
+      "I",
+      "L"
+    ],
+    "frequency": 437,
+    "example": "tail",
+    "examples": [
+      "tail",
+      "tayl",
+      "taíl",
+      "taíll",
+      "taill"
+    ]
+  },
+  {
+    "seq": [
+      "W",
+      "E",
+      "N",
+      "E"
+    ],
+    "frequency": 437,
+    "example": "wenne",
+    "examples": [
+      "wenne",
+      "wēne",
+      "Wenne",
+      "Wēne",
+      "wen̄e"
+    ]
+  },
+  {
+    "seq": [
+      "A",
+      "I",
+      "N",
+      "S"
+    ],
+    "frequency": 436,
+    "example": "ains",
+    "examples": [
+      "ains",
+      "aíns",
+      "ainˢ",
+      "aínˢ",
+      "aynˢ"
+    ]
+  },
+  {
+    "seq": [
+      "A",
+      "R",
+      "M"
+    ],
+    "frequency": 435,
+    "example": "arm",
+    "examples": [
+      "arm",
+      "arm̄",
+      "Arm",
+      "a‍rm",
+      "arm①"
+    ]
+  },
+  {
+    "seq": [
+      "K",
+      "A",
+      "T"
+    ],
+    "frequency": 435,
+    "example": "gat",
+    "examples": [
+      "gat",
+      "gaͮt",
+      "ga͗t",
+      "gatt",
+      "gät"
+    ]
+  },
+  {
+    "seq": [
+      "S",
+      "E",
+      "L"
+    ],
+    "frequency": 429,
+    "example": "ſel",
+    "examples": [
+      "ſel",
+      "ſell",
+      "Sel",
+      "sel",
+      "Sell"
+    ]
+  },
+  {
+    "seq": [
+      "S",
+      "I",
+      "M",
+      "E"
+    ],
+    "frequency": 427,
+    "example": "ſyme",
+    "examples": [
+      "ſyme",
+      "ſime",
+      "ſýme",
+      "ſíme",
+      "ſÿme"
+    ]
+  },
+  {
+    "seq": [
+      "T",
+      "I",
+      "N",
+      "E"
+    ],
+    "frequency": 427,
+    "example": "dinē",
+    "examples": [
+      "dinē",
+      "dine",
+      "dyne",
+      "dynē",
+      "díne"
+    ]
+  },
+  {
+    "seq": [
+      "O",
+      "F",
+      "T"
+    ],
+    "frequency": 425,
+    "example": "offt",
+    "examples": [
+      "offt",
+      "oft",
+      "Offt",
+      "öfft",
+      "Oft"
+    ]
+  },
+  {
+    "seq": [
+      "L",
+      "E",
+      "R",
+      "E"
+    ],
+    "frequency": 425,
+    "example": "lere",
+    "examples": [
+      "lere",
+      "lerē",
+      "lêre",
+      "lerê",
+      "Lere"
+    ]
+  },
+  {
+    "seq": [
+      "P",
+      "A",
+      "L",
+      "T"
+    ],
+    "frequency": 421,
+    "example": "bald",
+    "examples": [
+      "bald",
+      "pald",
+      "palt",
+      "palld",
+      "Bald"
+    ]
+  },
+  {
+    "seq": [
+      "A",
+      "N",
+      "T",
+      "S"
+    ],
+    "frequency": 418,
+    "example": "andˢ",
+    "examples": [
+      "andˢ",
+      "andˢs",
+      "a͗ndˢ",
+      "Andˢ",
+      "Andˢs"
+    ]
+  },
+  {
+    "seq": [
+      "L",
+      "I",
+      "P"
+    ],
+    "frequency": 415,
+    "example": "lip",
+    "examples": [
+      "lip",
+      "lib",
+      "lyb",
+      "lyp",
+      "líp"
+    ]
+  },
+  {
+    "seq": [
+      "H",
+      "A",
+      "P",
+      "N"
+    ],
+    "frequency": 414,
+    "example": "habn̄",
+    "examples": [
+      "habn̄",
+      "habn①",
+      "habnn̄",
+      "habn",
+      "hab̄n"
+    ]
+  },
+  {
+    "seq": [
+      "T",
+      "S",
+      "U",
+      "M"
+    ],
+    "frequency": 413,
+    "example": "zum",
+    "examples": [
+      "zum",
+      "zuͦm",
+      "Zum",
+      "zu͗m",
+      "Zuͦm"
+    ]
+  },
+  {
+    "seq": [
+      "F",
+      "O",
+      "L"
+    ],
+    "frequency": 412,
+    "example": "vol",
+    "examples": [
+      "vol",
+      "voll",
+      "fol",
+      "foll",
+      "Vol"
+    ]
+  },
+  {
+    "seq": [
+      "K",
+      "L",
+      "I",
+      "X"
+    ],
+    "frequency": 409,
+    "example": "glich",
+    "examples": [
+      "glich",
+      "glych",
+      "glích",
+      "Glich",
+      "Glych"
+    ]
+  },
+  {
+    "seq": [
+      "F",
+      "M"
+    ],
+    "frequency": 407,
+    "example": "vm̄",
+    "examples": [
+      "vm̄",
+      "vm",
+      "Vm̄",
+      "vͤm",
+      "v%M"
+    ]
+  },
+  {
+    "seq": [
+      "N",
+      "A"
+    ],
+    "frequency": 403,
+    "example": "na",
+    "examples": [
+      "na",
+      "nā",
+      "Na",
+      "nA",
+      "na[...]"
+    ]
+  },
+  {
+    "seq": [
+      "L",
+      "E",
+      "I",
+      "P"
+    ],
+    "frequency": 402,
+    "example": "leib",
+    "examples": [
+      "leib",
+      "leyb",
+      "leip",
+      "leíb",
+      "leíp"
+    ]
+  },
+  {
+    "seq": [
+      "T",
+      "H",
+      "U"
+    ],
+    "frequency": 399,
+    "example": "thuͦ",
+    "examples": [
+      "thuͦ",
+      "thu",
+      "thu͗",
+      "thū",
+      "thü"
+    ]
+  },
+  {
+    "seq": [
+      "T",
+      "F"
+    ],
+    "frequency": 398,
+    "example": "dv",
+    "examples": [
+      "dv",
+      "Dv",
+      "dv͗",
+      "Dv͗",
+      "DV"
+    ]
+  },
+  {
+    "seq": [
+      "K",
+      "O",
+      "M",
+      "E"
+    ],
+    "frequency": 398,
+    "example": "komē",
+    "examples": [
+      "komē",
+      "kome",
+      "kommē",
+      "kom̄e",
+      "kōme"
+    ]
+  },
+  {
+    "seq": [
+      "R"
+    ],
+    "frequency": 394,
+    "example": "R③",
+    "examples": [
+      "R③",
+      "r",
+      "R",
+      "[...]r",
+      "R⑤"
+    ]
+  },
+  {
+    "seq": [
+      "A",
+      "L",
+      "T"
+    ],
+    "frequency": 394,
+    "example": "alt",
+    "examples": [
+      "alt",
+      "ald",
+      "Ald",
+      "allt",
+      "altt"
+    ]
+  },
+  {
+    "seq": [
+      "S",
+      "P",
+      "A",
+      "X"
+    ],
+    "frequency": 393,
+    "example": "ſpᵃch",
+    "examples": [
+      "ſpᵃch",
+      "Spᵃch",
+      "spᵃch",
+      "ſpach",
+      "ſpͬ%Ach"
+    ]
+  },
+  {
+    "seq": [
+      "L",
+      "U",
+      "T"
+    ],
+    "frequency": 391,
+    "example": "lu͗t",
+    "examples": [
+      "lu͗t",
+      "luͥt",
+      "lüt",
+      "lût",
+      "lut"
+    ]
+  },
+  {
+    "seq": [
+      "F",
+      "I",
+      "E",
+      "R"
+    ],
+    "frequency": 391,
+    "example": "vier",
+    "examples": [
+      "vier",
+      "fier",
+      "víer",
+      "Vier",
+      "vyer"
+    ]
+  },
+  {
+    "seq": [
+      "I",
+      "T",
+      "E",
+      "M"
+    ],
+    "frequency": 391,
+    "example": "Item",
+    "examples": [
+      "Item",
+      "ITem",
+      "íTem",
+      "iTem",
+      "ydem"
+    ]
+  },
+  {
+    "seq": [
+      "K",
+      "O",
+      "T",
+      "S"
+    ],
+    "frequency": 390,
+    "example": "gotz",
+    "examples": [
+      "gotz",
+      "gots",
+      "go͗ttˢ",
+      "gottz",
+      "gotts"
+    ]
+  },
+  {
+    "seq": [
+      "P",
+      "A",
+      "T"
+    ],
+    "frequency": 385,
+    "example": "bat",
+    "examples": [
+      "bat",
+      "pat",
+      "bad",
+      "batt",
+      "pad"
+    ]
+  },
+  {
+    "seq": [
+      "K",
+      "N",
+      "A",
+      "T"
+    ],
+    "frequency": 384,
+    "example": "gnad",
+    "examples": [
+      "gnad",
+      "gnad②",
+      "Gnad",
+      "gnâd",
+      "gnāt"
+    ]
+  },
+  {
+    "seq": [
+      "E",
+      "N",
+      "T"
+    ],
+    "frequency": 382,
+    "example": "end",
+    "examples": [
+      "end",
+      "Ent⑤",
+      "ent",
+      "endt",
+      "end②"
+    ]
+  },
+  {
+    "seq": [
+      "N",
+      "F"
+    ],
+    "frequency": 381,
+    "example": "nv",
+    "examples": [
+      "nv",
+      "Nv",
+      "NV",
+      "nv̈",
+      "nvͦ"
+    ]
+  },
+  {
+    "seq": [
+      "H",
+      "E",
+      "R",
+      "N"
+    ],
+    "frequency": 380,
+    "example": "hern",
+    "examples": [
+      "hern",
+      "herrn̄",
+      "herrn",
+      "hern̄",
+      "her‍rn"
+    ]
+  },
+  {
+    "seq": [
+      "L",
+      "U",
+      "T",
+      "E"
+    ],
+    "frequency": 378,
+    "example": "lute",
+    "examples": [
+      "lute",
+      "lude",
+      "lûte",
+      "lu͗te",
+      "luͥte"
+    ]
+  },
+  {
+    "seq": [
+      "F",
+      "R",
+      "A",
+      "W"
+    ],
+    "frequency": 375,
+    "example": "fraw",
+    "examples": [
+      "fraw",
+      "fra͗w",
+      "vraw̄",
+      "Fraw",
+      "vraw"
+    ]
+  },
+  {
+    "seq": [
+      "W",
+      "I"
+    ],
+    "frequency": 369,
+    "example": "wy",
+    "examples": [
+      "wy",
+      "wi",
+      "Wy",
+      "wý",
+      "Wi"
+    ]
+  },
+  {
+    "seq": [
+      "I",
+      "I",
+      "I",
+      "J"
+    ],
+    "frequency": 368,
+    "example": "iiij",
+    "examples": [
+      "iiij",
+      "iiij̲",
+      "·iiij·",
+      ".iiij",
+      "iiijͨ"
+    ]
+  },
+  {
+    "seq": [
+      "K",
+      "E",
+      "L",
+      "T"
+    ],
+    "frequency": 368,
+    "example": "gelt",
+    "examples": [
+      "gelt",
+      "kelt",
+      "gellt",
+      "Gelt",
+      "geltt"
+    ]
+  },
+  {
+    "seq": [
+      "K",
+      "W",
+      "A",
+      "M"
+    ],
+    "frequency": 365,
+    "example": "quam",
+    "examples": [
+      "quam",
+      "qwam",
+      "Quam",
+      "kwam",
+      "Qwam"
+    ]
+  },
+  {
+    "seq": [
+      "W",
+      "A",
+      "T"
+    ],
+    "frequency": 362,
+    "example": "wat",
+    "examples": [
+      "wat",
+      "wāt",
+      "Wat",
+      "Wāt",
+      "wād"
+    ]
+  },
+  {
+    "seq": [
+      "K",
+      "U",
+      "N",
+      "T"
+    ],
+    "frequency": 362,
+    "example": "kunt",
+    "examples": [
+      "kunt",
+      "kund",
+      "kundt",
+      "gund",
+      "künt"
+    ]
+  },
+  {
+    "seq": [
+      "S",
+      "E",
+      "L",
+      "P"
+    ],
+    "frequency": 361,
+    "example": "ſelb",
+    "examples": [
+      "ſelb",
+      "Selb",
+      "ſelp",
+      "ſel‍b",
+      "ſellb"
+    ]
+  },
+  {
+    "seq": [
+      "K",
+      "E",
+      "P",
+      "N"
+    ],
+    "frequency": 360,
+    "example": "gebn̄",
+    "examples": [
+      "gebn̄",
+      "gebn①",
+      "gebn",
+      "geb̄n",
+      "gebn[...]"
+    ]
+  },
+  {
+    "seq": [
+      "W",
+      "A",
+      "R",
+      "E"
+    ],
+    "frequency": 360,
+    "example": "ware",
+    "examples": [
+      "ware",
+      "warē",
+      "wäre",
+      "waͤre",
+      "Wäre"
+    ]
+  },
+  {
+    "seq": [
+      "SH",
+      "O",
+      "N"
+    ],
+    "frequency": 356,
+    "example": "ſchon",
+    "examples": [
+      "ſchon",
+      "ſchoͤn",
+      "ſchön",
+      "ſcho͗n",
+      "Schon"
+    ]
+  },
+  {
+    "seq": [
+      "S",
+      "A",
+      "X",
+      "E"
+    ],
+    "frequency": 354,
+    "example": "ſache",
+    "examples": [
+      "ſache",
+      "ſachē",
+      "ſa͗chē",
+      "ſach‍e",
+      "ſ‍ache"
+    ]
+  },
+  {
+    "seq": [
+      "W",
+      "E",
+      "R",
+      "K"
+    ],
+    "frequency": 350,
+    "example": "werck",
+    "examples": [
+      "werck",
+      "werk",
+      "werg",
+      "werc",
+      "w‍erg"
+    ]
+  },
+  {
+    "seq": [
+      "H",
+      "U",
+      "T"
+    ],
+    "frequency": 349,
+    "example": "hut",
+    "examples": [
+      "hut",
+      "hût",
+      "hüt",
+      "hu͗t",
+      "huͦt"
+    ]
+  },
+  {
+    "seq": [
+      "W",
+      "E",
+      "I",
+      "P"
+    ],
+    "frequency": 349,
+    "example": "weib",
+    "examples": [
+      "weib",
+      "weyb",
+      "weíb",
+      "weip",
+      "weíp"
+    ]
+  },
+  {
+    "seq": [
+      "U",
+      "I",
+      "L"
+    ],
+    "frequency": 348,
+    "example": "uíl",
+    "examples": [
+      "uíl",
+      "uil",
+      "Uyll",
+      "u͗il",
+      "Uil"
+    ]
+  },
+  {
+    "seq": [
+      "W",
+      "T",
+      "S"
+    ],
+    "frequency": 345,
+    "example": "wz",
+    "examples": [
+      "wz",
+      "Wz",
+      "wtˢ",
+      "wͤz"
+    ]
+  },
+  {
+    "seq": [
+      "N",
+      "I",
+      "E",
+      "T"
+    ],
+    "frequency": 345,
+    "example": "nyet",
+    "examples": [
+      "nyet",
+      "niet",
+      "Nyet",
+      "nýet",
+      "nÿet"
+    ]
+  },
+  {
+    "seq": [
+      "F",
+      "J"
+    ],
+    "frequency": 343,
+    "example": "vj",
+    "examples": [
+      "vj",
+      "vj̲",
+      "·vj·",
+      "vjͨ",
+      ".vj"
+    ]
+  },
+  {
+    "seq": [
+      "S",
+      "U",
+      "N",
+      "T"
+    ],
+    "frequency": 342,
+    "example": "ſund",
+    "examples": [
+      "ſund",
+      "ſünd",
+      "ſu͗nd",
+      "ſunt",
+      "ſuͥnd"
+    ]
+  },
+  {
+    "seq": [
+      "U",
+      "O",
+      "N"
+    ],
+    "frequency": 341,
+    "example": "uon",
+    "examples": [
+      "uon",
+      "Uon",
+      "UOn",
+      "uOn"
+    ]
+  },
+  {
+    "seq": [
+      "H",
+      "O",
+      "R",
+      "T"
+    ],
+    "frequency": 335,
+    "example": "hort",
+    "examples": [
+      "hort",
+      "hoͤrt",
+      "hört",
+      "ho‍rt",
+      "ho͗rt"
+    ]
+  },
+  {
+    "seq": [
+      "P"
+    ],
+    "frequency": 333,
+    "example": "b",
+    "examples": [
+      "b",
+      "p",
+      "p⑤",
+      "B",
+      ".b"
+    ]
+  },
+  {
+    "seq": [
+      "H",
+      "I",
+      "L",
+      "F"
+    ],
+    "frequency": 333,
+    "example": "hilff",
+    "examples": [
+      "hilff",
+      "hilf",
+      "hílff",
+      "Hilff",
+      "Hilf"
+    ]
+  },
+  {
+    "seq": [
+      "E",
+      "S",
+      "E",
+      "N"
+    ],
+    "frequency": 332,
+    "example": "eſſen",
+    "examples": [
+      "eſſen",
+      "Eſſen",
+      "eßſen",
+      "eßen",
+      "eſßen"
+    ]
+  },
+  {
+    "seq": [
+      "A",
+      "P",
+      "E"
+    ],
+    "frequency": 328,
+    "example": "abe",
+    "examples": [
+      "abe",
+      "Abe",
+      "ab‍e",
+      "abbe",
+      "aͤbe"
+    ]
+  },
+  {
+    "seq": [
+      "K",
+      "I",
+      "P"
+    ],
+    "frequency": 328,
+    "example": "gib",
+    "examples": [
+      "gib",
+      "gyb",
+      "Gib",
+      "gip",
+      "Gip"
+    ]
+  },
+  {
+    "seq": [
+      "E",
+      "T",
+      "E",
+      "L"
+    ],
+    "frequency": 328,
+    "example": "edel",
+    "examples": [
+      "edel",
+      "Edel",
+      "edell",
+      "eddel",
+      "Edell"
+    ]
+  },
+  {
+    "seq": [
+      "O",
+      "R"
+    ],
+    "frequency": 327,
+    "example": "or",
+    "examples": [
+      "or",
+      "ör",
+      "Or",
+      "Ör",
+      "O‍r"
+    ]
+  },
+  {
+    "seq": [
+      "I",
+      "T",
+      "M"
+    ],
+    "frequency": 325,
+    "example": "Itm̄",
+    "examples": [
+      "Itm̄",
+      "itm̄",
+      "Itm",
+      "ITm̄",
+      "iTm̄"
+    ]
+  },
+  {
+    "seq": [
+      "R",
+      "E",
+      "I",
+      "X"
+    ],
+    "frequency": 323,
+    "example": "reich",
+    "examples": [
+      "reich",
+      "reích",
+      "Reich",
+      "reych",
+      "Reích"
+    ]
+  },
+  {
+    "seq": [
+      "U",
+      "P",
+      "E",
+      "R"
+    ],
+    "frequency": 321,
+    "example": "über",
+    "examples": [
+      "über",
+      "uber",
+      "u͗ber",
+      "Uber",
+      "ûber"
+    ]
+  },
+  {
+    "seq": [
+      "A",
+      "X"
+    ],
+    "frequency": 319,
+    "example": "Ach",
+    "examples": [
+      "Ach",
+      "ach",
+      "ACh",
+      "&quot;Ach",
+      "aͮch"
+    ]
+  },
+  {
+    "seq": [
+      "U",
+      "S"
+    ],
+    "frequency": 318,
+    "example": "uß",
+    "examples": [
+      "uß",
+      "uſſ",
+      "uſß",
+      "uſ",
+      "us"
+    ]
+  },
+  {
+    "seq": [
+      "K",
+      "U",
+      "L",
+      "T"
+    ],
+    "frequency": 317,
+    "example": "guld̄",
+    "examples": [
+      "guld̄",
+      "guld②",
+      "gult",
+      "gu͗lt",
+      "gült"
+    ]
+  },
+  {
+    "seq": [
+      "K",
+      "I",
+      "N",
+      "K"
+    ],
+    "frequency": 316,
+    "example": "ging",
+    "examples": [
+      "ging",
+      "ginck",
+      "gíng",
+      "gyng",
+      "gýng"
+    ]
+  },
+  {
+    "seq": [
+      "N",
+      "A",
+      "M",
+      "E"
+    ],
+    "frequency": 315,
+    "example": "namē",
+    "examples": [
+      "namē",
+      "name",
+      "nāme",
+      "nAmē",
+      "naͤme"
+    ]
+  },
+  {
+    "seq": [
+      "A",
+      "T"
+    ],
+    "frequency": 314,
+    "example": "ad",
+    "examples": [
+      "ad",
+      "Ad",
+      "at",
+      "At",
+      "[...]ad"
+    ]
+  },
+  {
+    "seq": [
+      "P",
+      "A",
+      "S"
+    ],
+    "frequency": 314,
+    "example": "bas",
+    "examples": [
+      "bas",
+      "baß",
+      "pas",
+      "paß",
+      "baſſ"
+    ]
+  },
+  {
+    "seq": [
+      "S",
+      "I",
+      "T"
+    ],
+    "frequency": 314,
+    "example": "ſit",
+    "examples": [
+      "ſit",
+      "ſyt",
+      "ſitt",
+      "ſīt",
+      "ſít"
+    ]
+  },
+  {
+    "seq": [
+      "T",
+      "I",
+      "F"
+    ],
+    "frequency": 314,
+    "example": "dív",
+    "examples": [
+      "dív",
+      "div",
+      "tiff",
+      "Div",
+      "Dív"
+    ]
+  },
+  {
+    "seq": [
+      "T",
+      "I",
+      "T"
+    ],
+    "frequency": 314,
+    "example": "dyt",
+    "examples": [
+      "dyt",
+      "dit",
+      "Dyt",
+      "Dit",
+      "di⑦t"
+    ]
+  },
+  {
+    "seq": [
+      "A",
+      "L",
+      "E",
+      "M"
+    ],
+    "frequency": 314,
+    "example": "allem",
+    "examples": [
+      "allem",
+      "al‍lem",
+      "Allem",
+      "allem̄"
+    ]
+  },
+  {
+    "seq": [
+      "M"
+    ],
+    "frequency": 312,
+    "example": "M",
+    "examples": [
+      "M",
+      "m",
+      "M͗",
+      "m⑪",
+      "2⑦m"
+    ]
+  },
+  {
+    "seq": [
+      "T",
+      "A",
+      "I",
+      "R"
+    ],
+    "frequency": 311,
+    "example": "dayr",
+    "examples": [
+      "dayr",
+      "Dayr",
+      "dair",
+      "Dair",
+      "daír"
+    ]
+  },
+  {
+    "seq": [
+      "T",
+      "R",
+      "E",
+      "I"
+    ],
+    "frequency": 311,
+    "example": "drey",
+    "examples": [
+      "drey",
+      "dreý",
+      "drei",
+      "dreí",
+      "Drey"
+    ]
+  },
+  {
+    "seq": [
+      "T",
+      "K"
+    ],
+    "frequency": 310,
+    "example": "dc",
+    "examples": [
+      "dc",
+      "Dc",
+      "dcccc",
+      "d⑦c",
+      "dcc"
+    ]
+  },
+  {
+    "seq": [
+      "K",
+      "S",
+      "I",
+      "J"
+    ],
+    "frequency": 309,
+    "example": "xij",
+    "examples": [
+      "xij",
+      "xxij",
+      "xxxij",
+      "xij̲",
+      "xíj́"
+    ]
+  },
+  {
+    "seq": [
+      "R",
+      "O",
+      "S"
+    ],
+    "frequency": 307,
+    "example": "roß",
+    "examples": [
+      "roß",
+      "Roſſ",
+      "ros",
+      "Roß",
+      "roſſ"
+    ]
+  },
+  {
+    "seq": [
+      "H",
+      "O",
+      "X"
+    ],
+    "frequency": 306,
+    "example": "hoch",
+    "examples": [
+      "hoch",
+      "höch",
+      "Hoch",
+      "ho͗ch",
+      "hoͤch"
+    ]
+  },
+  {
+    "seq": [
+      "I",
+      "E",
+      "T",
+      "S"
+    ],
+    "frequency": 305,
+    "example": "yetz",
+    "examples": [
+      "yetz",
+      "Yetz",
+      "yedz",
+      "ietz",
+      "ýetz"
+    ]
+  },
+  {
+    "seq": [
+      "H",
+      "U",
+      "S"
+    ],
+    "frequency": 304,
+    "example": "huß",
+    "examples": [
+      "huß",
+      "hus",
+      "Hus",
+      "huſſ",
+      "hu͗s"
+    ]
+  },
+  {
+    "seq": [
+      "K",
+      "E",
+      "T"
+    ],
+    "frequency": 303,
+    "example": "get",
+    "examples": [
+      "get",
+      "gett",
+      "Get",
+      "gēt",
+      "ged"
+    ]
+  },
+  {
+    "seq": [
+      "L",
+      "A",
+      "K"
+    ],
+    "frequency": 302,
+    "example": "lag",
+    "examples": [
+      "lag",
+      "lāg",
+      "läg",
+      "laͮg",
+      "lack"
+    ]
+  },
+  {
+    "seq": [
+      "R",
+      "I",
+      "X"
+    ],
+    "frequency": 302,
+    "example": "rich",
+    "examples": [
+      "rich",
+      "rych",
+      "Rich",
+      "rích",
+      "Rych"
+    ]
+  },
+  {
+    "seq": [
+      "T",
+      "R",
+      "I"
+    ],
+    "frequency": 301,
+    "example": "dry",
+    "examples": [
+      "dry",
+      "drý",
+      "dryͤ",
+      "drÿ",
+      "try"
+    ]
+  },
+  {
+    "seq": [
+      "W",
+      "I",
+      "N"
+    ],
+    "frequency": 301,
+    "example": "wyn",
+    "examples": [
+      "wyn",
+      "win",
+      "wín",
+      "wýn",
+      "Win"
+    ]
+  },
+  {
+    "seq": [
+      "K",
+      "E",
+      "P",
+      "E"
+    ],
+    "frequency": 300,
+    "example": "gebe",
+    "examples": [
+      "gebe",
+      "gebē",
+      "Gebe",
+      "geb‍e",
+      "Cepe"
+    ]
+  },
+  {
+    "seq": [
+      "L",
+      "I",
+      "E",
+      "S"
+    ],
+    "frequency": 300,
+    "example": "ließ",
+    "examples": [
+      "ließ",
+      "lies",
+      "lieſſ",
+      "líes",
+      "Ließ"
+    ]
+  },
+  {
+    "seq": [
+      "P",
+      "E",
+      "I",
+      "N"
+    ],
+    "frequency": 300,
+    "example": "beyn",
+    "examples": [
+      "beyn",
+      "pein",
+      "bein",
+      "peín",
+      "peyn"
+    ]
+  },
+  {
+    "seq": [
+      "M",
+      "I"
+    ],
+    "frequency": 298,
+    "example": "mȳ",
+    "examples": [
+      "mȳ",
+      "my",
+      "mī",
+      "mi",
+      "mý"
+    ]
+  },
+  {
+    "seq": [
+      "N",
+      "U",
+      "T",
+      "S"
+    ],
+    "frequency": 296,
+    "example": "nutz",
+    "examples": [
+      "nutz",
+      "nu͗tz",
+      "nütz",
+      "nuͦtz",
+      "nútz"
+    ]
+  },
+  {
+    "seq": [
+      "S",
+      "A",
+      "K",
+      "E"
+    ],
+    "frequency": 295,
+    "example": "ſage",
+    "examples": [
+      "ſage",
+      "ſagē",
+      "Sage",
+      "ſake",
+      "ſAge"
+    ]
+  },
+  {
+    "seq": [
+      "S",
+      "A",
+      "M"
+    ],
+    "frequency": 292,
+    "example": "ſam",
+    "examples": [
+      "ſam",
+      "Sam",
+      "ſaͮm",
+      "ſam̄",
+      "ſa͗m"
+    ]
+  },
+  {
+    "seq": [
+      "SH",
+      "O",
+      "N",
+      "E"
+    ],
+    "frequency": 292,
+    "example": "ſchone",
+    "examples": [
+      "ſchone",
+      "ſchöne",
+      "ſchoͤne",
+      "ſchonē",
+      "Schone"
+    ]
+  },
+  {
+    "seq": [
+      "L",
+      "O",
+      "P"
+    ],
+    "frequency": 290,
+    "example": "lob",
+    "examples": [
+      "lob",
+      "lop",
+      "Lob",
+      "lopp",
+      "lob)"
+    ]
+  },
+  {
+    "seq": [
+      "M",
+      "U",
+      "T",
+      "S"
+    ],
+    "frequency": 289,
+    "example": "muͦz",
+    "examples": [
+      "muͦz",
+      "muͦzz",
+      "mutˢ",
+      "muz",
+      "mu͗z"
+    ]
+  },
+  {
+    "seq": [
+      "M",
+      "A",
+      "L"
+    ],
+    "frequency": 288,
+    "example": "mal",
+    "examples": [
+      "mal",
+      "ma͗l",
+      "mall",
+      "maͮl",
+      "mâl"
+    ]
+  },
+  {
+    "seq": [
+      "H",
+      "O",
+      "F"
+    ],
+    "frequency": 287,
+    "example": "hoff",
+    "examples": [
+      "hoff",
+      "hof",
+      "Hoff",
+      "ho͗ff",
+      "höf"
+    ]
+  },
+  {
+    "seq": [
+      "I",
+      "R",
+      "E",
+      "M"
+    ],
+    "frequency": 287,
+    "example": "irem",
+    "examples": [
+      "irem",
+      "yrem",
+      "Irem",
+      "írem",
+      "y‍rem"
+    ]
+  },
+  {
+    "seq": [
+      "P",
+      "E",
+      "T",
+      "E"
+    ],
+    "frequency": 287,
+    "example": "bette",
+    "examples": [
+      "bette",
+      "bete",
+      "bede",
+      "pette",
+      "bedde"
+    ]
+  },
+  {
+    "seq": [
+      "W",
+      "A",
+      "N",
+      "E"
+    ],
+    "frequency": 286,
+    "example": "wanne",
+    "examples": [
+      "wanne",
+      "wāne",
+      "Wāne",
+      "Wanne",
+      "wannē"
+    ]
+  },
+  {
+    "seq": [
+      "S",
+      "O",
+      "N"
+    ],
+    "frequency": 285,
+    "example": "ſon",
+    "examples": [
+      "ſon",
+      "ſön",
+      "Sonn",
+      "Sonn̄",
+      "ſoͤn"
+    ]
+  },
+  {
+    "seq": [
+      "S",
+      "I",
+      "N",
+      "S"
+    ],
+    "frequency": 285,
+    "example": "ſins",
+    "examples": [
+      "ſins",
+      "ſyns",
+      "ſinˢ",
+      "ſynˢ",
+      "ſíns"
+    ]
+  },
+  {
+    "seq": [
+      "A",
+      "T",
+      "I",
+      "R"
+    ],
+    "frequency": 284,
+    "example": "adir",
+    "examples": [
+      "adir",
+      "adír",
+      "Adir",
+      "addir",
+      "Adír"
+    ]
+  },
+  {
+    "seq": [
+      "N",
+      "E",
+      "M",
+      "E"
+    ],
+    "frequency": 284,
+    "example": "nemē",
+    "examples": [
+      "nemē",
+      "neme",
+      "nēme",
+      "nēmē",
+      "Neme"
+    ]
+  },
+  {
+    "seq": [
+      "A",
+      "R",
+      "M",
+      "E"
+    ],
+    "frequency": 283,
+    "example": "arme",
+    "examples": [
+      "arme",
+      "armē",
+      "arm̄e",
+      "Arm̄e",
+      "Armē"
+    ]
+  },
+  {
+    "seq": [
+      "H",
+      "S"
+    ],
+    "frequency": 282,
+    "example": "hˢ",
+    "examples": [
+      "hˢ",
+      "Hˢ",
+      "hß",
+      "h[...]s",
+      "hs"
+    ]
+  },
+  {
+    "seq": [
+      "K",
+      "O",
+      "M"
+    ],
+    "frequency": 282,
+    "example": "kom",
+    "examples": [
+      "kom",
+      "kom̄",
+      "ko͗m",
+      "komm",
+      "köm"
+    ]
+  },
+  {
+    "seq": [
+      "M",
+      "E",
+      "N"
+    ],
+    "frequency": 282,
+    "example": "men",
+    "examples": [
+      "men",
+      "Men",
+      "mEn"
+    ]
+  },
+  {
+    "seq": [
+      "S",
+      "E",
+      "N",
+      "T"
+    ],
+    "frequency": 282,
+    "example": "ſent",
+    "examples": [
+      "ſent",
+      "ſend",
+      "Sent",
+      "ſenndt",
+      "ſend‍t"
+    ]
+  },
+  {
+    "seq": [
+      "T",
+      "E",
+      "I"
+    ],
+    "frequency": 279,
+    "example": "dey",
+    "examples": [
+      "dey",
+      "deý",
+      "dei",
+      "deī",
+      "Deý"
+    ]
+  },
+  {
+    "seq": [
+      "O",
+      "M",
+      "E"
+    ],
+    "frequency": 277,
+    "example": "ome",
+    "examples": [
+      "ome",
+      "öme",
+      "Ome⑩",
+      "omē",
+      "om̄e"
+    ]
+  },
+  {
+    "seq": [
+      "S",
+      "E",
+      "R"
+    ],
+    "frequency": 274,
+    "example": "ſer",
+    "examples": [
+      "ſer",
+      "ser",
+      "[...]ſſer"
+    ]
+  },
+  {
+    "seq": [
+      "F",
+      "I",
+      "E",
+      "L"
+    ],
+    "frequency": 274,
+    "example": "viel",
+    "examples": [
+      "viel",
+      "fiel",
+      "víel",
+      "vyell",
+      "fíel"
+    ]
+  },
+  {
+    "seq": [
+      "M",
+      "U",
+      "N",
+      "T"
+    ],
+    "frequency": 274,
+    "example": "mund",
+    "examples": [
+      "mund",
+      "munt",
+      "mundt",
+      "mu͗nd",
+      "mun̄d"
+    ]
+  },
+  {
+    "seq": [
+      "I",
+      "K",
+      "S"
+    ],
+    "frequency": 272,
+    "example": "ix",
+    "examples": [
+      "ix",
+      "íx",
+      ".ix",
+      "ix̲",
+      "·ix·"
+    ]
+  },
+  {
+    "seq": [
+      "W",
+      "E",
+      "K",
+      "E"
+    ],
+    "frequency": 272,
+    "example": "wege",
+    "examples": [
+      "wege",
+      "wegē",
+      "w‍ege",
+      "wege[...]",
+      "wecke"
+    ]
+  },
+  {
+    "seq": [
+      "I",
+      "X",
+      "T"
+    ],
+    "frequency": 271,
+    "example": "icht",
+    "examples": [
+      "icht",
+      "ícht",
+      "ycht",
+      "ýcht",
+      "Icht"
+    ]
+  },
+  {
+    "seq": [
+      "K",
+      "S",
+      "P",
+      "I"
+    ],
+    "frequency": 270,
+    "example": "xpi⑩",
+    "examples": [
+      "xpi⑩",
+      "xp̄i",
+      "xpī",
+      "xpi",
+      "xpí̄"
+    ]
+  },
+  {
+    "seq": [
+      "A",
+      "X",
+      "T"
+    ],
+    "frequency": 267,
+    "example": "acht",
+    "examples": [
+      "acht",
+      "Acht",
+      "ächt",
+      "a͗cht",
+      "achtt"
+    ]
+  },
+  {
+    "seq": [
+      "F",
+      "O",
+      "M"
+    ],
+    "frequency": 267,
+    "example": "vom",
+    "examples": [
+      "vom",
+      "Vom",
+      "vom̄",
+      "vomm"
+    ]
+  },
+  {
+    "seq": [
+      "L",
+      "O",
+      "N"
+    ],
+    "frequency": 267,
+    "example": "lon",
+    "examples": [
+      "lon",
+      "lôn",
+      "lön",
+      "lonn",
+      "lo͗n"
+    ]
+  },
+  {
+    "seq": [
+      "F",
+      "N",
+      "S",
+      "E"
+    ],
+    "frequency": 267,
+    "example": "vnſe",
+    "examples": [
+      "vnſe",
+      "vnſē",
+      "Vnſe",
+      "vnße",
+      "vnse"
+    ]
+  },
+  {
+    "seq": [
+      "F",
+      "A",
+      "N",
+      "T"
+    ],
+    "frequency": 265,
+    "example": "vant",
+    "examples": [
+      "vant",
+      "vand",
+      "fand",
+      "fant",
+      "phand"
+    ]
+  },
+  {
+    "seq": [
+      "T",
+      "I",
+      "K",
+      "E"
+    ],
+    "frequency": 265,
+    "example": "dicke",
+    "examples": [
+      "dicke",
+      "digke",
+      "dygke",
+      "dike",
+      "dícke"
+    ]
+  },
+  {
+    "seq": [
+      "E",
+      "W",
+      "I",
+      "K"
+    ],
+    "frequency": 264,
+    "example": "ewig",
+    "examples": [
+      "ewig",
+      "Ewig",
+      "ewíg",
+      "Ewiḡ",
+      "eẅig"
+    ]
+  },
+  {
+    "seq": [
+      "W",
+      "A",
+      "R",
+      "N"
+    ],
+    "frequency": 264,
+    "example": "warn",
+    "examples": [
+      "warn",
+      "warn̄",
+      "warnn",
+      "warnn̄",
+      "wa͗rn̄"
+    ]
+  },
+  {
+    "seq": [
+      "U",
+      "T"
+    ],
+    "frequency": 263,
+    "example": "ut",
+    "examples": [
+      "ut",
+      "üt",
+      "u͗t",
+      "Ut"
+    ]
+  },
+  {
+    "seq": [
+      "R",
+      "O",
+      "T"
+    ],
+    "frequency": 263,
+    "example": "rot",
+    "examples": [
+      "rot",
+      "rott",
+      "Rot",
+      "Rott",
+      "rodt"
+    ]
+  },
+  {
+    "seq": [
+      "I",
+      "R",
+      "E",
+      "R"
+    ],
+    "frequency": 261,
+    "example": "irer",
+    "examples": [
+      "irer",
+      "yrer",
+      "írer",
+      "Irer",
+      "irrer"
+    ]
+  },
+  {
+    "seq": [
+      "P",
+      "I",
+      "T"
+    ],
+    "frequency": 260,
+    "example": "bitt",
+    "examples": [
+      "bitt",
+      "bit",
+      "pit",
+      "pitt",
+      "bid"
+    ]
+  },
+  {
+    "seq": [
+      "W",
+      "I",
+      "S"
+    ],
+    "frequency": 259,
+    "example": "wiß",
+    "examples": [
+      "wiß",
+      "wyß",
+      "wis",
+      "wíß",
+      "wiſſ"
+    ]
+  },
+  {
+    "seq": [
+      "F",
+      "U",
+      "N",
+      "F"
+    ],
+    "frequency": 259,
+    "example": "funff",
+    "examples": [
+      "funff",
+      "fünff",
+      "fu͗nff",
+      "fu͗nf",
+      "vunf"
+    ]
+  },
+  {
+    "seq": [
+      "H",
+      "I",
+      "E",
+      "T"
+    ],
+    "frequency": 257,
+    "example": "hiet",
+    "examples": [
+      "hiet",
+      "hiett",
+      "híett",
+      "hyet",
+      "hýet"
+    ]
+  },
+  {
+    "seq": [
+      "R",
+      "A",
+      "I",
+      "T"
+    ],
+    "frequency": 257,
+    "example": "Rait",
+    "examples": [
+      "Rait",
+      "rait",
+      "rayt",
+      "raid",
+      "raítt"
+    ]
+  },
+  {
+    "seq": [
+      "L",
+      "A",
+      "I",
+      "T"
+    ],
+    "frequency": 256,
+    "example": "laid",
+    "examples": [
+      "laid",
+      "lait",
+      "laíd",
+      "laiͤd",
+      "laitt"
+    ]
+  },
+  {
+    "seq": [
+      "T",
+      "O",
+      "T",
+      "E"
+    ],
+    "frequency": 256,
+    "example": "tode",
+    "examples": [
+      "tode",
+      "dode",
+      "totē",
+      "tote",
+      "dodē"
+    ]
+  },
+  {
+    "seq": [
+      "S",
+      "E"
+    ],
+    "frequency": 255,
+    "example": "ſe",
+    "examples": [
+      "ſe",
+      "Se",
+      "ſſe",
+      "ſ[...]e"
+    ]
+  },
+  {
+    "seq": [
+      "T",
+      "O",
+      "R",
+      "X"
+    ],
+    "frequency": 254,
+    "example": "dorch",
+    "examples": [
+      "dorch",
+      "do‍rch",
+      "Dorch",
+      "Do‍rch",
+      "dorrch"
+    ]
+  },
+  {
+    "seq": [
+      "F",
+      "M",
+      "E"
+    ],
+    "frequency": 253,
+    "example": "v̄me",
+    "examples": [
+      "v̄me",
+      "vmme",
+      "vm̄e",
+      "Vmme",
+      "V̄me"
+    ]
+  },
+  {
+    "seq": [
+      "T",
+      "A",
+      "R",
+      "F"
+    ],
+    "frequency": 251,
+    "example": "darvff",
+    "examples": [
+      "darvff",
+      "Darvff",
+      "darff",
+      "darf",
+      "darvf"
+    ]
+  },
+  {
+    "seq": [
+      "T",
+      "H",
+      "U",
+      "T"
+    ],
+    "frequency": 251,
+    "example": "thut",
+    "examples": [
+      "thut",
+      "thuͦt",
+      "thu͗t",
+      "thüt",
+      "thud"
+    ]
+  },
+  {
+    "seq": [
+      "A",
+      "L",
+      "T",
+      "E"
+    ],
+    "frequency": 250,
+    "example": "alde",
+    "examples": [
+      "alde",
+      "alte",
+      "altē",
+      "aldē",
+      "Alde"
+    ]
+  },
+  {
+    "seq": [
+      "M",
+      "E",
+      "SH",
+      "E"
+    ],
+    "frequency": 249,
+    "example": "mēſche",
+    "examples": [
+      "mēſche",
+      "mēſchē",
+      "mēsche",
+      "Mēſche",
+      "meſche"
+    ]
+  },
+  {
+    "seq": [
+      "A"
+    ],
+    "frequency": 248,
+    "example": "a",
+    "examples": [
+      "a",
+      "A",
+      "a͗",
+      "ā",
+      "&quot;A"
+    ]
+  },
+  {
+    "seq": [
+      "L"
+    ],
+    "frequency": 248,
+    "example": "l",
+    "examples": [
+      "l",
+      "L",
+      "l[...]",
+      ".l",
+      "[...]ll"
+    ]
+  },
+  {
+    "seq": [
+      "S",
+      "U",
+      "S"
+    ],
+    "frequency": 248,
+    "example": "Sus",
+    "examples": [
+      "Sus",
+      "ſus",
+      "ſuß",
+      "ſüß",
+      "ſüſſ"
+    ]
+  },
+  {
+    "seq": [
+      "H",
+      "I",
+      "E",
+      "S"
+    ],
+    "frequency": 248,
+    "example": "hieß",
+    "examples": [
+      "hieß",
+      "hies",
+      "hieſſ",
+      "híes",
+      "hieſ"
+    ]
+  },
+  {
+    "seq": [
+      "F",
+      "I",
+      "N",
+      "T"
+    ],
+    "frequency": 246,
+    "example": "vint",
+    "examples": [
+      "vint",
+      "fyndt",
+      "findt",
+      "vind",
+      "vindt"
+    ]
+  },
+  {
+    "seq": [
+      "R",
+      "A",
+      "T",
+      "H"
+    ],
+    "frequency": 246,
+    "example": "Rath",
+    "examples": [
+      "Rath",
+      "rath",
+      "Radth"
+    ]
+  },
+  {
+    "seq": [
+      "H",
+      "E",
+      "I"
+    ],
+    "frequency": 245,
+    "example": "heý",
+    "examples": [
+      "heý",
+      "hey",
+      "heÿ",
+      "heȳ",
+      "Hey"
+    ]
+  },
+  {
+    "seq": [
+      "F",
+      "I",
+      "J"
+    ],
+    "frequency": 243,
+    "example": "vij",
+    "examples": [
+      "vij",
+      "vij̲",
+      "vííj́",
+      "vííj",
+      "víííj"
+    ]
+  },
+  {
+    "seq": [
+      "L",
+      "E",
+      "K"
+    ],
+    "frequency": 242,
+    "example": "leg",
+    "examples": [
+      "leg",
+      "Leg",
+      "le͗g",
+      "leḡ",
+      "lek"
+    ]
+  },
+  {
+    "seq": [
+      "L",
+      "E",
+      "R"
+    ],
+    "frequency": 242,
+    "example": "ler",
+    "examples": [
+      "ler",
+      "Ler",
+      "le͗r",
+      "lër",
+      "leͣr"
+    ]
+  },
+  {
+    "seq": [
+      "E",
+      "R",
+      "T"
+    ],
+    "frequency": 240,
+    "example": "erd",
+    "examples": [
+      "erd",
+      "ert",
+      "erd②",
+      "erdt",
+      "Erd"
+    ]
+  },
+  {
+    "seq": [
+      "O",
+      "W",
+      "E"
+    ],
+    "frequency": 240,
+    "example": "Owe",
+    "examples": [
+      "Owe",
+      "owe",
+      "OWe",
+      "oͮwe"
+    ]
+  },
+  {
+    "seq": [
+      "E",
+      "R",
+      "T",
+      "E"
+    ],
+    "frequency": 239,
+    "example": "erde",
+    "examples": [
+      "erde",
+      "erdē",
+      "e‍rde",
+      "Erdē",
+      "erde."
+    ]
+  },
+  {
+    "seq": [
+      "F",
+      "P",
+      "E",
+      "L"
+    ],
+    "frequency": 239,
+    "example": "vbel",
+    "examples": [
+      "vbel",
+      "v͗bel",
+      "v̈bel",
+      "v́bel",
+      "vͥbel"
+    ]
+  },
+  {
+    "seq": [
+      "S",
+      "I",
+      "K"
+    ],
+    "frequency": 238,
+    "example": "ſig",
+    "examples": [
+      "ſig",
+      "ſic",
+      "Sic",
+      "ſick",
+      "ſik"
+    ]
+  },
+  {
+    "seq": [
+      "H",
+      "E",
+      "L",
+      "E"
+    ],
+    "frequency": 238,
+    "example": "helle",
+    "examples": [
+      "helle",
+      "hel‍le",
+      "hellē"
+    ]
+  },
+  {
+    "seq": [
+      "H",
+      "E",
+      "L",
+      "P"
+    ],
+    "frequency": 237,
+    "example": "helb",
+    "examples": [
+      "helb",
+      "Help"
+    ]
+  },
+  {
+    "seq": [
+      "J",
+      "N",
+      "E"
+    ],
+    "frequency": 236,
+    "example": "jnnē",
+    "examples": [
+      "jnnē",
+      "jnne",
+      "Jnne",
+      "j́nnē",
+      "jnē"
+    ]
+  },
+  {
+    "seq": [
+      "L",
+      "I",
+      "T"
+    ],
+    "frequency": 236,
+    "example": "lit",
+    "examples": [
+      "lit",
+      "lyt",
+      "lid",
+      "lít",
+      "lýt"
+    ]
+  },
+  {
+    "seq": [
+      "T",
+      "A",
+      "N",
+      "E"
+    ],
+    "frequency": 236,
+    "example": "danne",
+    "examples": [
+      "danne",
+      "dāne",
+      "dannē",
+      "Danne",
+      "tane"
+    ]
+  },
+  {
+    "seq": [
+      "K",
+      "O",
+      "N"
+    ],
+    "frequency": 234,
+    "example": "gon",
+    "examples": [
+      "gon",
+      "goͤn",
+      "kon",
+      "go͗n",
+      "gonn"
+    ]
+  },
+  {
+    "seq": [
+      "H",
+      "A",
+      "S"
+    ],
+    "frequency": 233,
+    "example": "haſ",
+    "examples": [
+      "haſ",
+      "has",
+      "haß",
+      "haſſ",
+      "hās"
+    ]
+  },
+  {
+    "seq": [
+      "K",
+      "S",
+      "F"
+    ],
+    "frequency": 233,
+    "example": "xv",
+    "examples": [
+      "xv",
+      "xxv",
+      "xxxv",
+      "xvͨ",
+      "cxv"
+    ]
+  },
+  {
+    "seq": [
+      "J",
+      "N",
+      "E",
+      "N"
+    ],
+    "frequency": 232,
+    "example": "jnen",
+    "examples": [
+      "jnen",
+      "Jnen",
+      "Jnnen",
+      "jnnen",
+      "j́nnen"
+    ]
+  },
+  {
+    "seq": [
+      "M",
+      "A",
+      "N",
+      "E"
+    ],
+    "frequency": 232,
+    "example": "manne",
+    "examples": [
+      "manne",
+      "māne",
+      "mane",
+      "mannē",
+      "manē"
+    ]
+  },
+  {
+    "seq": [
+      "F",
+      "I",
+      "I",
+      "J"
+    ],
+    "frequency": 231,
+    "example": "viij",
+    "examples": [
+      "viij",
+      "viij̲",
+      "Viij",
+      ".viij",
+      "·viij·"
+    ]
+  },
+  {
+    "seq": [
+      "K",
+      "A",
+      "L",
+      "T"
+    ],
+    "frequency": 230,
+    "example": "kalt",
+    "examples": [
+      "kalt",
+      "galt",
+      "kallt",
+      "kald",
+      "gallt"
+    ]
+  },
+  {
+    "seq": [
+      "T",
+      "S",
+      "F"
+    ],
+    "frequency": 229,
+    "example": "zvͦ",
+    "examples": [
+      "zvͦ",
+      "zv",
+      "ZV",
+      "Zvͦ",
+      "zvͤ"
+    ]
+  },
+  {
+    "seq": [
+      "H",
+      "U",
+      "T",
+      "E"
+    ],
+    "frequency": 229,
+    "example": "hute",
+    "examples": [
+      "hute",
+      "hude",
+      "hu͗te",
+      "hûtte",
+      "hûte"
+    ]
+  },
+  {
+    "seq": [
+      "L",
+      "I",
+      "P",
+      "E"
+    ],
+    "frequency": 229,
+    "example": "libe",
+    "examples": [
+      "libe",
+      "lybe",
+      "líbe",
+      "libē",
+      "lÿbe"
+    ]
+  },
+  {
+    "seq": [
+      "L",
+      "I",
+      "S",
+      "T"
+    ],
+    "frequency": 228,
+    "example": "liſt",
+    "examples": [
+      "liſt",
+      "lißt",
+      "líſt",
+      "liſ‍t",
+      "lyſt"
+    ]
+  },
+  {
+    "seq": [
+      "F",
+      "T"
+    ],
+    "frequency": 227,
+    "example": "v̄d",
+    "examples": [
+      "v̄d",
+      "vt",
+      "Vt",
+      "v͗t",
+      "V̄d"
+    ]
+  },
+  {
+    "seq": [
+      "F",
+      "O",
+      "R",
+      "T"
+    ],
+    "frequency": 227,
+    "example": "vort",
+    "examples": [
+      "vort",
+      "Vort",
+      "vo‍rt",
+      "fort",
+      "Vo‍rt"
+    ]
+  },
+  {
+    "seq": [
+      "T",
+      "O",
+      "R",
+      "T"
+    ],
+    "frequency": 227,
+    "example": "dort",
+    "examples": [
+      "dort",
+      "do‍rt",
+      "Dort",
+      "do͗rt",
+      "Do‍rt"
+    ]
+  },
+  {
+    "seq": [
+      "M",
+      "E",
+      "R",
+      "K"
+    ],
+    "frequency": 226,
+    "example": "merck",
+    "examples": [
+      "merck",
+      "Merck",
+      "merk",
+      "Merk",
+      "merͨk"
+    ]
+  },
+  {
+    "seq": [
+      "S",
+      "E",
+      "W"
+    ],
+    "frequency": 225,
+    "example": "ſew",
+    "examples": [
+      "ſew",
+      "Sew",
+      "ſew͗",
+      "ſe͗w"
+    ]
+  },
+  {
+    "seq": [
+      "P",
+      "O",
+      "S",
+      "E"
+    ],
+    "frequency": 223,
+    "example": "boͤſe",
+    "examples": [
+      "boͤſe",
+      "böſe",
+      "boſe",
+      "boße",
+      "boſē"
+    ]
+  },
+  {
+    "seq": [
+      "K",
+      "W",
+      "A"
+    ],
+    "frequency": 222,
+    "example": "quā",
+    "examples": [
+      "quā",
+      "qwā",
+      "qua",
+      "kwā",
+      "qüā"
+    ]
+  },
+  {
+    "seq": [
+      "SH",
+      "U",
+      "L",
+      "T"
+    ],
+    "frequency": 222,
+    "example": "ſchuld",
+    "examples": [
+      "ſchuld",
+      "ſchult",
+      "ſchuͤlt",
+      "ſchuldt",
+      "ſchulld"
+    ]
+  },
+  {
+    "seq": [
+      "W",
+      "O",
+      "N"
+    ],
+    "frequency": 221,
+    "example": "won",
+    "examples": [
+      "won",
+      "Won",
+      "won̄",
+      "wonn",
+      "wōn"
+    ]
+  },
+  {
+    "seq": [
+      "P",
+      "E",
+      "R",
+      "K"
+    ],
+    "frequency": 221,
+    "example": "berg",
+    "examples": [
+      "berg",
+      "perg",
+      "berc",
+      "bergk",
+      "berck"
+    ]
+  },
+  {
+    "seq": [
+      "T",
+      "R",
+      "I",
+      "T"
+    ],
+    "frequency": 221,
+    "example": "drit",
+    "examples": [
+      "drit",
+      "dritt",
+      "tritt",
+      "trit",
+      "drítt"
+    ]
+  },
+  {
+    "seq": [
+      "E",
+      "M"
+    ],
+    "frequency": 220,
+    "example": "em",
+    "examples": [
+      "em",
+      "emͤ",
+      "Em",
+      "[...]em",
+      ".em"
+    ]
+  },
+  {
+    "seq": [
+      "F",
+      "A",
+      "T",
+      "S"
+    ],
+    "frequency": 218,
+    "example": "vatˢ",
+    "examples": [
+      "vatˢ",
+      "vattˢ",
+      "vat‍tˢ",
+      "vat‍tˢs",
+      "vaz"
+    ]
+  },
+  {
+    "seq": [
+      "F",
+      "U",
+      "R",
+      "T"
+    ],
+    "frequency": 218,
+    "example": "furt",
+    "examples": [
+      "furt",
+      "fürt",
+      "fuͦrt",
+      "fu͗rt",
+      "fuͤrt"
+    ]
+  },
+  {
+    "seq": [
+      "L",
+      "E",
+      "P",
+      "N"
+    ],
+    "frequency": 218,
+    "example": "lebn̄",
+    "examples": [
+      "lebn̄",
+      "lebnn̄",
+      "lebn",
+      "lebn①",
+      "leb̄n"
+    ]
+  },
+  {
+    "seq": [
+      "T",
+      "S",
+      "A",
+      "L"
+    ],
+    "frequency": 218,
+    "example": "zal",
+    "examples": [
+      "zal",
+      "zall",
+      "za͗l",
+      "Zal",
+      "Zall"
+    ]
+  },
+  {
+    "seq": [
+      "K",
+      "U",
+      "M"
+    ],
+    "frequency": 217,
+    "example": "kum",
+    "examples": [
+      "kum",
+      "cum",
+      "Cum",
+      "ku͗m",
+      "kumm"
+    ]
+  },
+  {
+    "seq": [
+      "L",
+      "E",
+      "P",
+      "E"
+    ],
+    "frequency": 217,
+    "example": "lebē",
+    "examples": [
+      "lebē",
+      "lebe",
+      "lͥebe",
+      "Lebē",
+      "lebe⑥"
+    ]
+  },
+  {
+    "seq": [
+      "S",
+      "A",
+      "L",
+      "T"
+    ],
+    "frequency": 216,
+    "example": "ſalt",
+    "examples": [
+      "ſalt",
+      "ſäld",
+      "ſald",
+      "ſaͤld",
+      "Salt"
+    ]
+  },
+  {
+    "seq": [
+      "S",
+      "T",
+      "U",
+      "K"
+    ],
+    "frequency": 215,
+    "example": "ſtuck",
+    "examples": [
+      "ſtuck",
+      "ſtuk",
+      "ſtuͤck",
+      "ſtück",
+      "ſtu͗ck"
+    ]
+  },
+  {
+    "seq": [
+      "T",
+      "E",
+      "T",
+      "E"
+    ],
+    "frequency": 215,
+    "example": "dede",
+    "examples": [
+      "dede",
+      "tete",
+      "dete",
+      "dedē",
+      "dette"
+    ]
+  },
+  {
+    "seq": [
+      "T",
+      "A",
+      "X"
+    ],
+    "frequency": 214,
+    "example": "dach",
+    "examples": [
+      "dach",
+      "tach",
+      "Dach",
+      "D‍ach",
+      "tAch"
+    ]
+  },
+  {
+    "seq": [
+      "A",
+      "P",
+      "S"
+    ],
+    "frequency": 212,
+    "example": "abˢ",
+    "examples": [
+      "abˢ",
+      "Abˢ",
+      "a͗bˢ"
+    ]
+  },
+  {
+    "seq": [
+      "S",
+      "T",
+      "A",
+      "N"
+    ],
+    "frequency": 209,
+    "example": "ſtan",
+    "examples": [
+      "ſtan",
+      "ſta͗n",
+      "ſtann",
+      "ſtän",
+      "ſ‍tan"
+    ]
+  },
+  {
+    "seq": [
+      "O",
+      "U",
+      "E",
+      "R"
+    ],
+    "frequency": 208,
+    "example": "ouer",
+    "examples": [
+      "ouer",
+      "Ouer",
+      "oue‍r",
+      "ou͗er",
+      "ouêr"
+    ]
+  },
+  {
+    "seq": [
+      "F",
+      "R",
+      "O"
+    ],
+    "frequency": 207,
+    "example": "fro",
+    "examples": [
+      "fro",
+      "vro",
+      "fro͗",
+      "frö",
+      "froͮ"
+    ]
+  },
+  {
+    "seq": [
+      "S",
+      "U",
+      "N",
+      "E"
+    ],
+    "frequency": 207,
+    "example": "ſunne",
+    "examples": [
+      "ſunne",
+      "ſune",
+      "ſunnē",
+      "ſūne",
+      "ſüne"
+    ]
+  },
+  {
+    "seq": [
+      "W",
+      "E",
+      "S"
+    ],
+    "frequency": 204,
+    "example": "wes",
+    "examples": [
+      "wes",
+      "weˢ",
+      "Wes",
+      "weß",
+      "weſſ"
+    ]
+  },
+  {
+    "seq": [
+      "R",
+      "A",
+      "T",
+      "E"
+    ],
+    "frequency": 204,
+    "example": "rate",
+    "examples": [
+      "rate",
+      "Rade",
+      "rade",
+      "Rate",
+      "Räte"
+    ]
+  },
+  {
+    "seq": [
+      "X",
+      "A",
+      "I",
+      "N"
+    ],
+    "frequency": 204,
+    "example": "chain",
+    "examples": [
+      "chain",
+      "chaín",
+      "chaîn",
+      "Chain",
+      "chainn"
+    ]
+  },
+  {
+    "seq": [
+      "W",
+      "A",
+      "I",
+      "L"
+    ],
+    "frequency": 203,
+    "example": "wail",
+    "examples": [
+      "wail",
+      "waill",
+      "wayll",
+      "Wayll",
+      "wayl"
+    ]
+  },
+  {
+    "seq": [
+      "U",
+      "W",
+      "E",
+      "R"
+    ],
+    "frequency": 202,
+    "example": "uwer",
+    "examples": [
+      "uwer",
+      "u͗wer",
+      "üwer",
+      "ûwer",
+      "uwe‍r"
+    ]
+  },
+  {
+    "seq": [
+      "F",
+      "E",
+      "L"
+    ],
+    "frequency": 201,
+    "example": "vel",
+    "examples": [
+      "vel",
+      "fel",
+      "fell",
+      "Vel",
+      "vell"
+    ]
+  }
+]

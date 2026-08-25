@@ -1,5 +1,17 @@
 # Changelog
 
+## v3.5 — 2026-08-25
+
+- started a strict 1:1 anchor/partial-alphabet substitution attack;
+- built historical short-word lexicons from the frozen ReF, ReN, BFM, Dante and LatinISE corpora;
+- corrected a 4-unit-anchor ranking bias by restricting starting cribs to 1–3 frozen units;
+- propagated short anchors into larger Voynich token families using TRAIN only;
+- reported resulting lexical coherence on VALIDATION without changing mappings;
+- identified a notable ReN candidate chain `or -> in`, with tentative propagation yielding `ol -> ich`, `ory -> inne`, `rol -> nich`, `orol -> innich`, and `yor -> eyn`;
+- demonstrated that alternative anchors also generate plausible lexical families, so isolated word resemblance is insufficient;
+- selected phrase/context coherence as the next falsification step;
+- used no final-test pages.
+
 ## v3.4 — 2026-08-25
 
 - opened a language-independent structural reassessment of possible surface-transformation rules;

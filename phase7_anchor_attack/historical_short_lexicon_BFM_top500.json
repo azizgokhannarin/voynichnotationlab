@@ -1,0 +1,7366 @@
+[
+  {
+    "seq": [
+      "E",
+      "T"
+    ],
+    "frequency": 75093,
+    "example": "et",
+    "examples": [
+      "et",
+      "Et",
+      "ET"
+    ]
+  },
+  {
+    "seq": [
+      "T",
+      "E"
+    ],
+    "frequency": 56933,
+    "example": "de",
+    "examples": [
+      "de",
+      "De",
+      "te",
+      "DE",
+      "Te"
+    ]
+  },
+  {
+    "seq": [
+      "A"
+    ],
+    "frequency": 29918,
+    "example": "a",
+    "examples": [
+      "a",
+      "à",
+      "A",
+      "A."
+    ]
+  },
+  {
+    "seq": [
+      "L",
+      "E"
+    ],
+    "frequency": 28167,
+    "example": "le",
+    "examples": [
+      "le",
+      "Le",
+      "LE",
+      "lé",
+      ".Le."
+    ]
+  },
+  {
+    "seq": [
+      "K",
+      "E"
+    ],
+    "frequency": 28068,
+    "example": "que",
+    "examples": [
+      "que",
+      "qe",
+      "Que",
+      "Qe",
+      "QUE"
+    ]
+  },
+  {
+    "seq": [
+      "E",
+      "N"
+    ],
+    "frequency": 26691,
+    "example": "en",
+    "examples": [
+      "en",
+      "En",
+      "EN"
+    ]
+  },
+  {
+    "seq": [
+      "L",
+      "A"
+    ],
+    "frequency": 26199,
+    "example": "la",
+    "examples": [
+      "la",
+      "La",
+      "là",
+      "LA",
+      "Là"
+    ]
+  },
+  {
+    "seq": [
+      "I",
+      "L"
+    ],
+    "frequency": 24162,
+    "example": "il",
+    "examples": [
+      "il",
+      "Il",
+      "yl",
+      "Yl",
+      "i  l"
+    ]
+  },
+  {
+    "seq": [
+      "S",
+      "E"
+    ],
+    "frequency": 18960,
+    "example": "se",
+    "examples": [
+      "se",
+      "ce",
+      "Ce",
+      "Se",
+      "sé"
+    ]
+  },
+  {
+    "seq": [
+      "L",
+      "E",
+      "S"
+    ],
+    "frequency": 14831,
+    "example": "les",
+    "examples": [
+      "les",
+      "lez",
+      "Les",
+      "lés",
+      "Lez"
+    ]
+  },
+  {
+    "seq": [
+      "K",
+      "I"
+    ],
+    "frequency": 14276,
+    "example": "qui",
+    "examples": [
+      "qui",
+      "Qui",
+      "quy",
+      "qy",
+      "qi"
+    ]
+  },
+  {
+    "seq": [
+      "L"
+    ],
+    "frequency": 13874,
+    "example": "l'",
+    "examples": [
+      "l'",
+      "L'",
+      "L",
+      ".l.",
+      "l."
+    ]
+  },
+  {
+    "seq": [
+      "N",
+      "E"
+    ],
+    "frequency": 13549,
+    "example": "ne",
+    "examples": [
+      "ne",
+      "Ne",
+      "né"
+    ]
+  },
+  {
+    "seq": [
+      "T"
+    ],
+    "frequency": 12486,
+    "example": "d'",
+    "examples": [
+      "d'",
+      "D'",
+      "t'",
+      "d.",
+      "D."
+    ]
+  },
+  {
+    "seq": [
+      "P",
+      "O",
+      "U",
+      "R"
+    ],
+    "frequency": 11734,
+    "example": "pour",
+    "examples": [
+      "pour",
+      "Pour",
+      "POUR"
+    ]
+  },
+  {
+    "seq": [
+      "K"
+    ],
+    "frequency": 10898,
+    "example": "qu'",
+    "examples": [
+      "qu'",
+      "Qu'",
+      "q'",
+      "qu’",
+      "qu"
+    ]
+  },
+  {
+    "seq": [
+      "F",
+      "O",
+      "U",
+      "S"
+    ],
+    "frequency": 9884,
+    "example": "vous",
+    "examples": [
+      "vous",
+      "Vous",
+      "fous"
+    ]
+  },
+  {
+    "seq": [
+      "P",
+      "A",
+      "R"
+    ],
+    "frequency": 9741,
+    "example": "par",
+    "examples": [
+      "par",
+      "Par",
+      "PAR",
+      "par.",
+      "Bar"
+    ]
+  },
+  {
+    "seq": [
+      "S",
+      "I"
+    ],
+    "frequency": 9505,
+    "example": "si",
+    "examples": [
+      "si",
+      "Si",
+      "cy",
+      "sy",
+      "ci"
+    ]
+  },
+  {
+    "seq": [
+      "O",
+      "U"
+    ],
+    "frequency": 8321,
+    "example": "ou",
+    "examples": [
+      "ou",
+      "où",
+      "Ou",
+      "OU",
+      "Où"
+    ]
+  },
+  {
+    "seq": [
+      "E",
+      "S",
+      "T"
+    ],
+    "frequency": 8302,
+    "example": "est",
+    "examples": [
+      "est",
+      "Est",
+      "EST"
+    ]
+  },
+  {
+    "seq": [
+      "L",
+      "U",
+      "I"
+    ],
+    "frequency": 7793,
+    "example": "luy",
+    "examples": [
+      "luy",
+      "lui",
+      "Luy",
+      "Lui"
+    ]
+  },
+  {
+    "seq": [
+      "SH",
+      "E"
+    ],
+    "frequency": 7642,
+    "example": "je",
+    "examples": [
+      "je",
+      "che",
+      "Je",
+      "Che",
+      "ge"
+    ]
+  },
+  {
+    "seq": [
+      "S",
+      "O",
+      "N"
+    ],
+    "frequency": 7619,
+    "example": "son",
+    "examples": [
+      "son",
+      "Son",
+      "SON"
+    ]
+  },
+  {
+    "seq": [
+      "L",
+      "I"
+    ],
+    "frequency": 7239,
+    "example": "li",
+    "examples": [
+      "li",
+      "Li",
+      "ly",
+      "Ly",
+      "LI"
+    ]
+  },
+  {
+    "seq": [
+      "R",
+      "O",
+      "I"
+    ],
+    "frequency": 7160,
+    "example": "roy",
+    "examples": [
+      "roy",
+      "Roy",
+      "roi",
+      "Roi",
+      "ROY"
+    ]
+  },
+  {
+    "seq": [
+      "S"
+    ],
+    "frequency": 7127,
+    "example": "s'",
+    "examples": [
+      "s'",
+      "c'",
+      "C'",
+      "s.",
+      "S'"
+    ]
+  },
+  {
+    "seq": [
+      "P",
+      "I",
+      "E",
+      "N"
+    ],
+    "frequency": 7047,
+    "example": "bien",
+    "examples": [
+      "bien",
+      "Bien",
+      "byen"
+    ]
+  },
+  {
+    "seq": [
+      "A",
+      "U"
+    ],
+    "frequency": 6501,
+    "example": "au",
+    "examples": [
+      "au",
+      "Au",
+      "AU"
+    ]
+  },
+  {
+    "seq": [
+      "T",
+      "U"
+    ],
+    "frequency": 6490,
+    "example": "du",
+    "examples": [
+      "du",
+      "tu",
+      "Du",
+      "Tu",
+      "DU"
+    ]
+  },
+  {
+    "seq": [
+      "T",
+      "E",
+      "S"
+    ],
+    "frequency": 6009,
+    "example": "des",
+    "examples": [
+      "des",
+      "dez",
+      "dès",
+      "tes",
+      "Des"
+    ]
+  },
+  {
+    "seq": [
+      "N"
+    ],
+    "frequency": 5852,
+    "example": "n'",
+    "examples": [
+      "n'",
+      "N'",
+      "N.",
+      "'n",
+      "N"
+    ]
+  },
+  {
+    "seq": [
+      "S",
+      "E",
+      "S"
+    ],
+    "frequency": 5830,
+    "example": "ses",
+    "examples": [
+      "ses",
+      "ces",
+      "sez",
+      "Ces",
+      "cez"
+    ]
+  },
+  {
+    "seq": [
+      "S",
+      "A"
+    ],
+    "frequency": 5330,
+    "example": "sa",
+    "examples": [
+      "sa",
+      "ça",
+      "Sa",
+      "çà"
+    ]
+  },
+  {
+    "seq": [
+      "K",
+      "A",
+      "R"
+    ],
+    "frequency": 5210,
+    "example": "car",
+    "examples": [
+      "car",
+      "Car",
+      "quar",
+      "Quar",
+      "qar"
+    ]
+  },
+  {
+    "seq": [
+      "I"
+    ],
+    "frequency": 5193,
+    "example": "y",
+    "examples": [
+      "y",
+      "i",
+      ".I.",
+      "I",
+      "i'"
+    ]
+  },
+  {
+    "seq": [
+      "K",
+      "A",
+      "N",
+      "T"
+    ],
+    "frequency": 4885,
+    "example": "quant",
+    "examples": [
+      "quant",
+      "Qant",
+      "Quant",
+      "qant",
+      "quand"
+    ]
+  },
+  {
+    "seq": [
+      "P",
+      "L",
+      "U",
+      "S"
+    ],
+    "frequency": 4811,
+    "example": "plus",
+    "examples": [
+      "plus",
+      "Plus",
+      "pluz",
+      "pluc"
+    ]
+  },
+  {
+    "seq": [
+      "I",
+      "L",
+      "S"
+    ],
+    "frequency": 4563,
+    "example": "ilz",
+    "examples": [
+      "ilz",
+      "ils",
+      "Ilz",
+      "Ils",
+      "il(z)"
+    ]
+  },
+  {
+    "seq": [
+      "T",
+      "O",
+      "U",
+      "T"
+    ],
+    "frequency": 4555,
+    "example": "tout",
+    "examples": [
+      "tout",
+      "Tout",
+      "dout",
+      "TOUT"
+    ]
+  },
+  {
+    "seq": [
+      "E",
+      "L",
+      "L",
+      "E"
+    ],
+    "frequency": 4061,
+    "example": "elle",
+    "examples": [
+      "elle",
+      "Elle"
+    ]
+  },
+  {
+    "seq": [
+      "M",
+      "A",
+      "I",
+      "S"
+    ],
+    "frequency": 4057,
+    "example": "mais",
+    "examples": [
+      "mais",
+      "Mais",
+      "maiz",
+      "Maiz",
+      "Mays"
+    ]
+  },
+  {
+    "seq": [
+      "T",
+      "I",
+      "T"
+    ],
+    "frequency": 3677,
+    "example": "dit",
+    "examples": [
+      "dit",
+      "Dit",
+      "dyt"
+    ]
+  },
+  {
+    "seq": [
+      "U",
+      "N",
+      "E"
+    ],
+    "frequency": 3660,
+    "example": "une",
+    "examples": [
+      "une",
+      "Une",
+      "UNE",
+      "un(e)"
+    ]
+  },
+  {
+    "seq": [
+      "L",
+      "E",
+      "U",
+      "R"
+    ],
+    "frequency": 3619,
+    "example": "leur",
+    "examples": [
+      "leur",
+      "Leur"
+    ]
+  },
+  {
+    "seq": [
+      "U",
+      "N",
+      "SH"
+    ],
+    "frequency": 3541,
+    "example": "ung",
+    "examples": [
+      "ung",
+      "Ung",
+      "UNG"
+    ]
+  },
+  {
+    "seq": [
+      "T",
+      "A",
+      "N",
+      "T"
+    ],
+    "frequency": 3460,
+    "example": "tant",
+    "examples": [
+      "tant",
+      "Tant"
+    ]
+  },
+  {
+    "seq": [
+      "N",
+      "O",
+      "U",
+      "S"
+    ],
+    "frequency": 3385,
+    "example": "nous",
+    "examples": [
+      "nous",
+      "Nous",
+      "NOUS",
+      "nouz"
+    ]
+  },
+  {
+    "seq": [
+      "SH",
+      "E",
+      "N",
+      "S"
+    ],
+    "frequency": 3329,
+    "example": "gens",
+    "examples": [
+      "gens",
+      "genz",
+      "Gens",
+      "chens"
+    ]
+  },
+  {
+    "seq": [
+      "T",
+      "O",
+      "U",
+      "S"
+    ],
+    "frequency": 3283,
+    "example": "tous",
+    "examples": [
+      "tous",
+      "touz",
+      "Tous",
+      "douz",
+      "Touz"
+    ]
+  },
+  {
+    "seq": [
+      "O",
+      "N"
+    ],
+    "frequency": 3255,
+    "example": "on",
+    "examples": [
+      "on",
+      "On"
+    ]
+  },
+  {
+    "seq": [
+      "P",
+      "A",
+      "S"
+    ],
+    "frequency": 3243,
+    "example": "pas",
+    "examples": [
+      "pas",
+      "bas",
+      "paz",
+      "Pas",
+      "Bas"
+    ]
+  },
+  {
+    "seq": [
+      "F",
+      "A",
+      "I",
+      "T"
+    ],
+    "frequency": 3175,
+    "example": "fait",
+    "examples": [
+      "fait",
+      "Fait",
+      "vait",
+      "fayt",
+      "FAIT"
+    ]
+  },
+  {
+    "seq": [
+      "T",
+      "I",
+      "S",
+      "T"
+    ],
+    "frequency": 3150,
+    "example": "dist",
+    "examples": [
+      "dist",
+      "Dist",
+      "DIST"
+    ]
+  },
+  {
+    "seq": [
+      "F",
+      "U",
+      "T"
+    ],
+    "frequency": 3021,
+    "example": "fut",
+    "examples": [
+      "fut",
+      "Fut"
+    ]
+  },
+  {
+    "seq": [
+      "U",
+      "N"
+    ],
+    "frequency": 2571,
+    "example": "un",
+    "examples": [
+      "un",
+      "Un",
+      "un'",
+      "UN",
+      "Un'"
+    ]
+  },
+  {
+    "seq": [
+      "T",
+      "U",
+      "S"
+    ],
+    "frequency": 2422,
+    "example": "duc",
+    "examples": [
+      "duc",
+      "dus",
+      "DUC",
+      "Duc",
+      "tuz"
+    ]
+  },
+  {
+    "seq": [
+      "S",
+      "U",
+      "R"
+    ],
+    "frequency": 2420,
+    "example": "sur",
+    "examples": [
+      "sur",
+      "Sur",
+      "SUR"
+    ]
+  },
+  {
+    "seq": [
+      "A",
+      "F",
+      "E",
+      "S"
+    ],
+    "frequency": 2381,
+    "example": "avec",
+    "examples": [
+      "avec",
+      "avez",
+      "avés",
+      "Avec",
+      "Avez"
+    ]
+  },
+  {
+    "seq": [
+      "SH",
+      "O",
+      "U",
+      "R"
+    ],
+    "frequency": 2363,
+    "example": "jour",
+    "examples": [
+      "jour",
+      "JOUR"
+    ]
+  },
+  {
+    "seq": [
+      "F",
+      "U"
+    ],
+    "frequency": 2324,
+    "example": "fu",
+    "examples": [
+      "fu",
+      "Fu",
+      "vu"
+    ]
+  },
+  {
+    "seq": [
+      "T",
+      "O",
+      "N",
+      "T"
+    ],
+    "frequency": 2310,
+    "example": "dont",
+    "examples": [
+      "dont",
+      "Dont",
+      "tont"
+    ]
+  },
+  {
+    "seq": [
+      "S",
+      "O",
+      "N",
+      "T"
+    ],
+    "frequency": 2308,
+    "example": "sont",
+    "examples": [
+      "sont",
+      "Sont",
+      "SONT"
+    ]
+  },
+  {
+    "seq": [
+      "T",
+      "I",
+      "E",
+      "U"
+    ],
+    "frequency": 2275,
+    "example": "Dieu",
+    "examples": [
+      "Dieu",
+      "dieu",
+      "Dyeu",
+      "DIEU",
+      "DIeu"
+    ]
+  },
+  {
+    "seq": [
+      "P",
+      "U",
+      "I",
+      "S"
+    ],
+    "frequency": 2129,
+    "example": "puis",
+    "examples": [
+      "puis",
+      "Puis",
+      "puiz",
+      "puys",
+      "Puiz"
+    ]
+  },
+  {
+    "seq": [
+      "T",
+      "R",
+      "E",
+      "S"
+    ],
+    "frequency": 2100,
+    "example": "tres",
+    "examples": [
+      "tres",
+      "très",
+      "trés",
+      "Tres",
+      "trez"
+    ]
+  },
+  {
+    "seq": [
+      "M",
+      "E"
+    ],
+    "frequency": 2064,
+    "example": "me",
+    "examples": [
+      "me",
+      "Me"
+    ]
+  },
+  {
+    "seq": [
+      "F",
+      "I",
+      "S",
+      "T"
+    ],
+    "frequency": 2009,
+    "example": "fist",
+    "examples": [
+      "fist",
+      "vist",
+      "vyst",
+      "Fist",
+      "FIST"
+    ]
+  },
+  {
+    "seq": [
+      "SH"
+    ],
+    "frequency": 1998,
+    "example": "j'",
+    "examples": [
+      "j'",
+      ".j.",
+      "J.",
+      "J'",
+      "G."
+    ]
+  },
+  {
+    "seq": [
+      "S",
+      "A",
+      "N",
+      "S"
+    ],
+    "frequency": 1973,
+    "example": "sans",
+    "examples": [
+      "sans",
+      "sanz",
+      "sanc",
+      "Sans",
+      "Sanz"
+    ]
+  },
+  {
+    "seq": [
+      "L",
+      "O",
+      "R",
+      "S"
+    ],
+    "frequency": 1964,
+    "example": "lors",
+    "examples": [
+      "lors",
+      "Lors",
+      "lorz"
+    ]
+  },
+  {
+    "seq": [
+      "E"
+    ],
+    "frequency": 1927,
+    "example": "e",
+    "examples": [
+      "e",
+      "E",
+      "é",
+      "E."
+    ]
+  },
+  {
+    "seq": [
+      "E",
+      "S",
+      "T",
+      "E"
+    ],
+    "frequency": 1925,
+    "example": "esté",
+    "examples": [
+      "esté",
+      "este",
+      "Esté"
+    ]
+  },
+  {
+    "seq": [
+      "P",
+      "A",
+      "I",
+      "S"
+    ],
+    "frequency": 1902,
+    "example": "pays",
+    "examples": [
+      "pays",
+      "pais",
+      "païs",
+      "payz",
+      "païz"
+    ]
+  },
+  {
+    "seq": [
+      "P",
+      "O",
+      "N"
+    ],
+    "frequency": 1836,
+    "example": "bon",
+    "examples": [
+      "bon",
+      "Bon",
+      "BON"
+    ]
+  },
+  {
+    "seq": [
+      "T",
+      "O",
+      "U"
+    ],
+    "frequency": 1827,
+    "example": "dou",
+    "examples": [
+      "dou",
+      "Dou"
+    ]
+  },
+  {
+    "seq": [
+      "M",
+      "O",
+      "N"
+    ],
+    "frequency": 1751,
+    "example": "mon",
+    "examples": [
+      "mon",
+      "Mon",
+      "MON"
+    ]
+  },
+  {
+    "seq": [
+      "A",
+      "I"
+    ],
+    "frequency": 1659,
+    "example": "ay",
+    "examples": [
+      "ay",
+      "ai",
+      "Ay",
+      "Ai",
+      "Aï"
+    ]
+  },
+  {
+    "seq": [
+      "T",
+      "A",
+      "M",
+      "E"
+    ],
+    "frequency": 1616,
+    "example": "dame",
+    "examples": [
+      "dame",
+      "Dame",
+      "DAME"
+    ]
+  },
+  {
+    "seq": [
+      "SH",
+      "O",
+      "S",
+      "E"
+    ],
+    "frequency": 1598,
+    "example": "chose",
+    "examples": [
+      "chose",
+      "Joce",
+      "Chose",
+      "choze"
+    ]
+  },
+  {
+    "seq": [
+      "A",
+      "U",
+      "K",
+      "S"
+    ],
+    "frequency": 1562,
+    "example": "aux",
+    "examples": [
+      "aux",
+      "Aux",
+      "AUX"
+    ]
+  },
+  {
+    "seq": [
+      "T",
+      "I",
+      "R",
+      "E"
+    ],
+    "frequency": 1433,
+    "example": "dire",
+    "examples": [
+      "dire",
+      "tire",
+      "tiré",
+      "Dire",
+      "dyre"
+    ]
+  },
+  {
+    "seq": [
+      "R",
+      "O",
+      "I",
+      "S"
+    ],
+    "frequency": 1414,
+    "example": "rois",
+    "examples": [
+      "rois",
+      "roys",
+      "Rois",
+      "Roys",
+      "roiz"
+    ]
+  },
+  {
+    "seq": [
+      "F",
+      "U",
+      "S",
+      "T"
+    ],
+    "frequency": 1400,
+    "example": "fust",
+    "examples": [
+      "fust",
+      "Fust"
+    ]
+  },
+  {
+    "seq": [
+      "M"
+    ],
+    "frequency": 1387,
+    "example": "m'",
+    "examples": [
+      "m'",
+      "M'",
+      "M",
+      "m.",
+      "M."
+    ]
+  },
+  {
+    "seq": [
+      "F",
+      "I",
+      "N",
+      "T"
+    ],
+    "frequency": 1353,
+    "example": "vint",
+    "examples": [
+      "vint",
+      "vynt",
+      "Vint",
+      "Vynt"
+    ]
+  },
+  {
+    "seq": [
+      "S",
+      "U",
+      "S"
+    ],
+    "frequency": 1303,
+    "example": "sus",
+    "examples": [
+      "sus",
+      "Sus",
+      "suz"
+    ]
+  },
+  {
+    "seq": [
+      "M",
+      "A"
+    ],
+    "frequency": 1298,
+    "example": "ma",
+    "examples": [
+      "ma",
+      "Ma",
+      "ma'"
+    ]
+  },
+  {
+    "seq": [
+      "E",
+      "U",
+      "S",
+      "T"
+    ],
+    "frequency": 1271,
+    "example": "eust",
+    "examples": [
+      "eust",
+      "eüst"
+    ]
+  },
+  {
+    "seq": [
+      "S",
+      "I",
+      "R",
+      "E"
+    ],
+    "frequency": 1250,
+    "example": "sire",
+    "examples": [
+      "sire",
+      "Sire",
+      "cire",
+      "Syre",
+      "syre"
+    ]
+  },
+  {
+    "seq": [
+      "O",
+      "N",
+      "T"
+    ],
+    "frequency": 1247,
+    "example": "ont",
+    "examples": [
+      "ont",
+      "Ont"
+    ]
+  },
+  {
+    "seq": [
+      "M",
+      "O",
+      "I"
+    ],
+    "frequency": 1242,
+    "example": "moy",
+    "examples": [
+      "moy",
+      "moi",
+      "Moy",
+      "Moi"
+    ]
+  },
+  {
+    "seq": [
+      "S",
+      "O",
+      "I",
+      "T"
+    ],
+    "frequency": 1229,
+    "example": "soit",
+    "examples": [
+      "soit",
+      "Soit",
+      "soyt"
+    ]
+  },
+  {
+    "seq": [
+      "O",
+      "R"
+    ],
+    "frequency": 1227,
+    "example": "Or",
+    "examples": [
+      "Or",
+      "or"
+    ]
+  },
+  {
+    "seq": [
+      "N",
+      "O",
+      "N"
+    ],
+    "frequency": 1227,
+    "example": "non",
+    "examples": [
+      "non",
+      "Non"
+    ]
+  },
+  {
+    "seq": [
+      "K",
+      "O",
+      "I"
+    ],
+    "frequency": 1222,
+    "example": "quoy",
+    "examples": [
+      "quoy",
+      "quoi",
+      "Quoy",
+      "coy",
+      "qoi"
+    ]
+  },
+  {
+    "seq": [
+      "F",
+      "O",
+      "R",
+      "T"
+    ],
+    "frequency": 992,
+    "example": "fort",
+    "examples": [
+      "fort",
+      "Fort"
+    ]
+  },
+  {
+    "seq": [
+      "L",
+      "O",
+      "R"
+    ],
+    "frequency": 987,
+    "example": "lor",
+    "examples": [
+      "lor",
+      "Lor"
+    ]
+  },
+  {
+    "seq": [
+      "F",
+      "O",
+      "I",
+      "S"
+    ],
+    "frequency": 980,
+    "example": "fois",
+    "examples": [
+      "fois",
+      "foiz",
+      "vois",
+      "foys",
+      "voys"
+    ]
+  },
+  {
+    "seq": [
+      "T",
+      "R",
+      "O",
+      "P"
+    ],
+    "frequency": 965,
+    "example": "trop",
+    "examples": [
+      "trop",
+      "Trop"
+    ]
+  },
+  {
+    "seq": [
+      "L",
+      "I",
+      "E",
+      "U"
+    ],
+    "frequency": 959,
+    "example": "lieu",
+    "examples": [
+      "lieu",
+      "LIEU"
+    ]
+  },
+  {
+    "seq": [
+      "M",
+      "O",
+      "R",
+      "T"
+    ],
+    "frequency": 878,
+    "example": "mort",
+    "examples": [
+      "mort",
+      "Mort"
+    ]
+  },
+  {
+    "seq": [
+      "M",
+      "E",
+      "S"
+    ],
+    "frequency": 855,
+    "example": "mes",
+    "examples": [
+      "mes",
+      "més",
+      "Mès",
+      "Mes",
+      "mès"
+    ]
+  },
+  {
+    "seq": [
+      "P",
+      "E",
+      "U"
+    ],
+    "frequency": 855,
+    "example": "peu",
+    "examples": [
+      "peu",
+      "peü",
+      "beu",
+      "Peu",
+      "Beu"
+    ]
+  },
+  {
+    "seq": [
+      "F",
+      "E",
+      "U"
+    ],
+    "frequency": 851,
+    "example": "veu",
+    "examples": [
+      "veu",
+      "feu",
+      "veü",
+      "Veü",
+      "Veu"
+    ]
+  },
+  {
+    "seq": [
+      "N",
+      "U",
+      "L"
+    ],
+    "frequency": 817,
+    "example": "nul",
+    "examples": [
+      "nul",
+      "Nul",
+      "nul'"
+    ]
+  },
+  {
+    "seq": [
+      "M",
+      "A",
+      "L"
+    ],
+    "frequency": 811,
+    "example": "mal",
+    "examples": [
+      "mal",
+      "Mal",
+      "mal'"
+    ]
+  },
+  {
+    "seq": [
+      "M",
+      "O",
+      "N",
+      "S"
+    ],
+    "frequency": 804,
+    "example": "mons.",
+    "examples": [
+      "mons.",
+      "Mons",
+      "mons",
+      "MONS.",
+      "Mons."
+    ]
+  },
+  {
+    "seq": [
+      "E",
+      "S"
+    ],
+    "frequency": 794,
+    "example": "es",
+    "examples": [
+      "es",
+      "ès",
+      "Es",
+      "ez",
+      "ES"
+    ]
+  },
+  {
+    "seq": [
+      "F",
+      "I",
+      "L",
+      "S"
+    ],
+    "frequency": 788,
+    "example": "filz",
+    "examples": [
+      "filz",
+      "fils",
+      "Filz",
+      "vyls"
+    ]
+  },
+  {
+    "seq": [
+      "SH",
+      "A"
+    ],
+    "frequency": 783,
+    "example": "ja",
+    "examples": [
+      "ja",
+      "jà",
+      "Ja",
+      "Jà",
+      "cha"
+    ]
+  },
+  {
+    "seq": [
+      "T",
+      "E",
+      "L"
+    ],
+    "frequency": 774,
+    "example": "tel",
+    "examples": [
+      "tel",
+      "del",
+      "Tel",
+      "del'",
+      "Del"
+    ]
+  },
+  {
+    "seq": [
+      "F",
+      "O",
+      "I"
+    ],
+    "frequency": 772,
+    "example": "foy",
+    "examples": [
+      "foy",
+      "voy",
+      "foi",
+      "voi",
+      "Foy"
+    ]
+  },
+  {
+    "seq": [
+      "T",
+      "O",
+      "I",
+      "T"
+    ],
+    "frequency": 743,
+    "example": "doit",
+    "examples": [
+      "doit",
+      "Doit",
+      "toit"
+    ]
+  },
+  {
+    "seq": [
+      "P",
+      "A",
+      "R",
+      "T"
+    ],
+    "frequency": 736,
+    "example": "part",
+    "examples": [
+      "part",
+      "Part"
+    ]
+  },
+  {
+    "seq": [
+      "SH",
+      "E",
+      "N",
+      "T"
+    ],
+    "frequency": 711,
+    "example": "gent",
+    "examples": [
+      "gent",
+      "Gent"
+    ]
+  },
+  {
+    "seq": [
+      "S",
+      "E",
+      "N",
+      "S"
+    ],
+    "frequency": 694,
+    "example": "cens",
+    "examples": [
+      "cens",
+      "sens",
+      "Sens",
+      "CENS",
+      "Senz"
+    ]
+  },
+  {
+    "seq": [
+      "E",
+      "U",
+      "L",
+      "S"
+    ],
+    "frequency": 683,
+    "example": "euls",
+    "examples": [
+      "euls",
+      "eulz",
+      "Euls",
+      "Eulz"
+    ]
+  },
+  {
+    "seq": [
+      "F",
+      "I",
+      "T"
+    ],
+    "frequency": 666,
+    "example": "vit",
+    "examples": [
+      "vit",
+      "fit",
+      "vyt"
+    ]
+  },
+  {
+    "seq": [
+      "P",
+      "E",
+      "R",
+      "E"
+    ],
+    "frequency": 662,
+    "example": "pere",
+    "examples": [
+      "pere",
+      "père",
+      "Pere",
+      "Père",
+      "pére"
+    ]
+  },
+  {
+    "seq": [
+      "E",
+      "N",
+      "S",
+      "I"
+    ],
+    "frequency": 647,
+    "example": "ensi",
+    "examples": [
+      "ensi",
+      "Ensi",
+      "ensy"
+    ]
+  },
+  {
+    "seq": [
+      "F",
+      "I",
+      "N"
+    ],
+    "frequency": 641,
+    "example": "fin",
+    "examples": [
+      "fin",
+      "vin",
+      "Fin",
+      "fyn",
+      "vyn"
+    ]
+  },
+  {
+    "seq": [
+      "P",
+      "R",
+      "E",
+      "S"
+    ],
+    "frequency": 634,
+    "example": "près",
+    "examples": [
+      "près",
+      "prez",
+      "pres",
+      "prés",
+      "prèz"
+    ]
+  },
+  {
+    "seq": [
+      "S",
+      "O",
+      "I"
+    ],
+    "frequency": 632,
+    "example": "soy",
+    "examples": [
+      "soy",
+      "soi",
+      "Soy"
+    ]
+  },
+  {
+    "seq": [
+      "S",
+      "E",
+      "R",
+      "A"
+    ],
+    "frequency": 630,
+    "example": "sera",
+    "examples": [
+      "sera",
+      "Sera",
+      "cera"
+    ]
+  },
+  {
+    "seq": [
+      "M",
+      "I",
+      "S"
+    ],
+    "frequency": 621,
+    "example": "mis",
+    "examples": [
+      "mis",
+      "mys",
+      "miz",
+      "myz"
+    ]
+  },
+  {
+    "seq": [
+      "O",
+      "T"
+    ],
+    "frequency": 612,
+    "example": "ot",
+    "examples": [
+      "ot",
+      "Ot"
+    ]
+  },
+  {
+    "seq": [
+      "F",
+      "I",
+      "E"
+    ],
+    "frequency": 608,
+    "example": "vie",
+    "examples": [
+      "vie",
+      ".VIe.",
+      "fié",
+      "fie",
+      "vye"
+    ]
+  },
+  {
+    "seq": [
+      "E",
+      "U",
+      "T"
+    ],
+    "frequency": 599,
+    "example": "eut",
+    "examples": [
+      "eut",
+      "eüt"
+    ]
+  },
+  {
+    "seq": [
+      "M",
+      "A",
+      "R",
+      "I"
+    ],
+    "frequency": 586,
+    "example": "mary",
+    "examples": [
+      "mary",
+      "mari"
+    ]
+  },
+  {
+    "seq": [
+      "F",
+      "E",
+      "R",
+      "S"
+    ],
+    "frequency": 580,
+    "example": "vers",
+    "examples": [
+      "vers",
+      "Vers",
+      "fers"
+    ]
+  },
+  {
+    "seq": [
+      "M",
+      "A",
+      "I",
+      "N"
+    ],
+    "frequency": 570,
+    "example": "main",
+    "examples": [
+      "main",
+      "mayn",
+      "Main"
+    ]
+  },
+  {
+    "seq": [
+      "SH",
+      "I",
+      "L"
+    ],
+    "frequency": 560,
+    "example": "chil",
+    "examples": [
+      "chil",
+      "Chil"
+    ]
+  },
+  {
+    "seq": [
+      "N",
+      "U",
+      "I",
+      "T"
+    ],
+    "frequency": 560,
+    "example": "nuit",
+    "examples": [
+      "nuit",
+      "nuyt",
+      "Nuyt",
+      "Nuit"
+    ]
+  },
+  {
+    "seq": [
+      "A",
+      "L",
+      "E",
+      "R"
+    ],
+    "frequency": 553,
+    "example": "aler",
+    "examples": [
+      "aler",
+      "Aler"
+    ]
+  },
+  {
+    "seq": [
+      "M",
+      "E",
+      "R"
+    ],
+    "frequency": 552,
+    "example": "mer",
+    "examples": [
+      "mer",
+      "Mer"
+    ]
+  },
+  {
+    "seq": [
+      "F",
+      "E",
+      "N",
+      "U"
+    ],
+    "frequency": 527,
+    "example": "venu",
+    "examples": [
+      "venu",
+      "Venu"
+    ]
+  },
+  {
+    "seq": [
+      "T",
+      "O",
+      "S",
+      "T"
+    ],
+    "frequency": 527,
+    "example": "tost",
+    "examples": [
+      "tost",
+      "Tost"
+    ]
+  },
+  {
+    "seq": [
+      "P",
+      "O",
+      "N",
+      "S"
+    ],
+    "frequency": 523,
+    "example": "bons",
+    "examples": [
+      "bons",
+      "pons",
+      "Pons",
+      "Bons",
+      "BONs"
+    ]
+  },
+  {
+    "seq": [
+      "E",
+      "U"
+    ],
+    "frequency": 506,
+    "example": "eu",
+    "examples": [
+      "eu",
+      "Eu",
+      "eü"
+    ]
+  },
+  {
+    "seq": [
+      "F",
+      "O",
+      "S"
+    ],
+    "frequency": 506,
+    "example": "voz",
+    "examples": [
+      "voz",
+      "vos",
+      "Voz",
+      "fos",
+      "Vos"
+    ]
+  },
+  {
+    "seq": [
+      "A",
+      "M",
+      "I"
+    ],
+    "frequency": 498,
+    "example": "amy",
+    "examples": [
+      "amy",
+      "ami",
+      "Amy",
+      "Ami"
+    ]
+  },
+  {
+    "seq": [
+      "A",
+      "S"
+    ],
+    "frequency": 482,
+    "example": "as",
+    "examples": [
+      "as",
+      "ac",
+      "As",
+      "az"
+    ]
+  },
+  {
+    "seq": [
+      "M",
+      "I",
+      "S",
+      "T"
+    ],
+    "frequency": 481,
+    "example": "mist",
+    "examples": [
+      "mist",
+      "myst"
+    ]
+  },
+  {
+    "seq": [
+      "H",
+      "O",
+      "R",
+      "S"
+    ],
+    "frequency": 480,
+    "example": "hors",
+    "examples": [
+      "hors",
+      "Hors"
+    ]
+  },
+  {
+    "seq": [
+      "P",
+      "E",
+      "U",
+      "T"
+    ],
+    "frequency": 478,
+    "example": "peut",
+    "examples": [
+      "peut",
+      "peüt",
+      "beut",
+      "beüt",
+      "Peut"
+    ]
+  },
+  {
+    "seq": [
+      "S",
+      "I",
+      "T",
+      "E"
+    ],
+    "frequency": 471,
+    "example": "cité",
+    "examples": [
+      "cité",
+      "Cité",
+      "CITé",
+      "cite",
+      "cyté"
+    ]
+  },
+  {
+    "seq": [
+      "F",
+      "O",
+      "N",
+      "T"
+    ],
+    "frequency": 465,
+    "example": "font",
+    "examples": [
+      "font",
+      "vont",
+      "Font",
+      "Vont"
+    ]
+  },
+  {
+    "seq": [
+      "P",
+      "R",
+      "I",
+      "S"
+    ],
+    "frequency": 457,
+    "example": "pris",
+    "examples": [
+      "pris",
+      "priz",
+      "Briz",
+      "Pris"
+    ]
+  },
+  {
+    "seq": [
+      "N",
+      "O",
+      "S"
+    ],
+    "frequency": 455,
+    "example": "noz",
+    "examples": [
+      "noz",
+      "nos",
+      "Noz",
+      "Nos"
+    ]
+  },
+  {
+    "seq": [
+      "M",
+      "I",
+      "L"
+    ],
+    "frequency": 453,
+    "example": "mil",
+    "examples": [
+      "mil",
+      "myl",
+      "MIL",
+      "Mil"
+    ]
+  },
+  {
+    "seq": [
+      "K",
+      "E",
+      "L"
+    ],
+    "frequency": 452,
+    "example": "quel",
+    "examples": [
+      "quel",
+      "Quel"
+    ]
+  },
+  {
+    "seq": [
+      "I",
+      "T",
+      "E",
+      "M"
+    ],
+    "frequency": 448,
+    "example": "Item",
+    "examples": [
+      "Item",
+      "item",
+      "ITEM",
+      "idem",
+      "Idem"
+    ]
+  },
+  {
+    "seq": [
+      "O",
+      "I"
+    ],
+    "frequency": 447,
+    "example": "oy",
+    "examples": [
+      "oy",
+      "oÿ",
+      "oi",
+      "Oy",
+      "oý"
+    ]
+  },
+  {
+    "seq": [
+      "A",
+      "N",
+      "S"
+    ],
+    "frequency": 446,
+    "example": "ans",
+    "examples": [
+      "ans",
+      "anz"
+    ]
+  },
+  {
+    "seq": [
+      "T",
+      "O",
+      "I"
+    ],
+    "frequency": 440,
+    "example": "toy",
+    "examples": [
+      "toy",
+      "doi",
+      "doy",
+      "toi",
+      "Toy"
+    ]
+  },
+  {
+    "seq": [
+      "M",
+      "E",
+      "R",
+      "E"
+    ],
+    "frequency": 422,
+    "example": "mere",
+    "examples": [
+      "mere",
+      "mère",
+      "Mere"
+    ]
+  },
+  {
+    "seq": [
+      "A",
+      "N"
+    ],
+    "frequency": 421,
+    "example": "an",
+    "examples": [
+      "an",
+      "AN"
+    ]
+  },
+  {
+    "seq": [
+      "P",
+      "E",
+      "A",
+      "U"
+    ],
+    "frequency": 420,
+    "example": "beau",
+    "examples": [
+      "beau",
+      "Beau",
+      "peau"
+    ]
+  },
+  {
+    "seq": [
+      "T",
+      "I",
+      "S"
+    ],
+    "frequency": 412,
+    "example": "dis",
+    "examples": [
+      "dis",
+      "diz",
+      "dys"
+    ]
+  },
+  {
+    "seq": [
+      "R",
+      "I",
+      "E",
+      "N"
+    ],
+    "frequency": 407,
+    "example": "rien",
+    "examples": [
+      "rien",
+      "Rien",
+      "ryen"
+    ]
+  },
+  {
+    "seq": [
+      "S",
+      "U",
+      "I",
+      "S"
+    ],
+    "frequency": 407,
+    "example": "suis",
+    "examples": [
+      "suis",
+      "suys"
+    ]
+  },
+  {
+    "seq": [
+      "A",
+      "M",
+      "I",
+      "S"
+    ],
+    "frequency": 402,
+    "example": "amis",
+    "examples": [
+      "amis",
+      "amys",
+      "amyz",
+      "amiz",
+      "Amys"
+    ]
+  },
+  {
+    "seq": [
+      "S",
+      "E",
+      "S",
+      "T"
+    ],
+    "frequency": 401,
+    "example": "cest",
+    "examples": [
+      "cest",
+      "Cest"
+    ]
+  },
+  {
+    "seq": [
+      "K",
+      "A",
+      "S"
+    ],
+    "frequency": 396,
+    "example": "cas",
+    "examples": [
+      "cas",
+      "caz",
+      "kas",
+      "gas",
+      "gaz"
+    ]
+  },
+  {
+    "seq": [
+      "F",
+      "A"
+    ],
+    "frequency": 390,
+    "example": "va",
+    "examples": [
+      "va",
+      "Va"
+    ]
+  },
+  {
+    "seq": [
+      "F",
+      "A",
+      "I",
+      "S"
+    ],
+    "frequency": 387,
+    "example": "fais",
+    "examples": [
+      "fais",
+      "faiz",
+      "fays",
+      "Fais",
+      "vais"
+    ]
+  },
+  {
+    "seq": [
+      "F",
+      "O",
+      "R",
+      "S"
+    ],
+    "frequency": 378,
+    "example": "fors",
+    "examples": [
+      "fors",
+      "Fors",
+      "forz",
+      "Vors"
+    ]
+  },
+  {
+    "seq": [
+      "SH",
+      "O",
+      "I",
+      "E"
+    ],
+    "frequency": 373,
+    "example": "joye",
+    "examples": [
+      "joye",
+      "joie",
+      "Joie",
+      "Joye"
+    ]
+  },
+  {
+    "seq": [
+      "L",
+      "O",
+      "N",
+      "SH"
+    ],
+    "frequency": 368,
+    "example": "long",
+    "examples": [
+      "long",
+      "lonch",
+      "Lonch",
+      "Long"
+    ]
+  },
+  {
+    "seq": [
+      "T",
+      "O",
+      "N"
+    ],
+    "frequency": 357,
+    "example": "ton",
+    "examples": [
+      "ton",
+      "don",
+      "Don",
+      "Ton"
+    ]
+  },
+  {
+    "seq": [
+      "A",
+      "I",
+      "T"
+    ],
+    "frequency": 353,
+    "example": "ait",
+    "examples": [
+      "ait",
+      "ayt",
+      "aid",
+      "aït",
+      "Ait"
+    ]
+  },
+  {
+    "seq": [
+      "A",
+      "L",
+      "A"
+    ],
+    "frequency": 353,
+    "example": "ala",
+    "examples": [
+      "ala",
+      "Ala"
+    ]
+  },
+  {
+    "seq": [
+      "M",
+      "O",
+      "I",
+      "S"
+    ],
+    "frequency": 353,
+    "example": "mois",
+    "examples": [
+      "mois",
+      "moys",
+      "moiz"
+    ]
+  },
+  {
+    "seq": [
+      "K",
+      "U",
+      "E",
+      "R"
+    ],
+    "frequency": 352,
+    "example": "cuer",
+    "examples": [
+      "cuer",
+      "Cuer"
+    ]
+  },
+  {
+    "seq": [
+      "I",
+      "S",
+      "I"
+    ],
+    "frequency": 351,
+    "example": "icy",
+    "examples": [
+      "icy",
+      "yci",
+      "Icy",
+      "ycy",
+      "ici"
+    ]
+  },
+  {
+    "seq": [
+      "M",
+      "I",
+      "E"
+    ],
+    "frequency": 325,
+    "example": "mie",
+    "examples": [
+      "mie",
+      "mye"
+    ]
+  },
+  {
+    "seq": [
+      "L",
+      "O",
+      "I",
+      "S"
+    ],
+    "frequency": 316,
+    "example": "Loys",
+    "examples": [
+      "Loys",
+      "Lois",
+      "Loiz",
+      "Loÿs",
+      "loys"
+    ]
+  },
+  {
+    "seq": [
+      "P",
+      "U",
+      "R"
+    ],
+    "frequency": 312,
+    "example": "pur",
+    "examples": [
+      "pur",
+      "Pur"
+    ]
+  },
+  {
+    "seq": [
+      "P",
+      "I",
+      "E"
+    ],
+    "frequency": 311,
+    "example": "pié",
+    "examples": [
+      "pié",
+      "pyé",
+      "pie",
+      "Pié"
+    ]
+  },
+  {
+    "seq": [
+      "T",
+      "E",
+      "U",
+      "S"
+    ],
+    "frequency": 302,
+    "example": "deus",
+    "examples": [
+      "deus",
+      "Deus",
+      "deuz",
+      "deüz",
+      "Teus"
+    ]
+  },
+  {
+    "seq": [
+      "F",
+      "R",
+      "A",
+      "I"
+    ],
+    "frequency": 301,
+    "example": "vray",
+    "examples": [
+      "vray",
+      "Vray",
+      "fray",
+      "vrai",
+      "frai"
+    ]
+  },
+  {
+    "seq": [
+      "A",
+      "M",
+      "E"
+    ],
+    "frequency": 291,
+    "example": "ame",
+    "examples": [
+      "ame",
+      "amé",
+      "Amé",
+      "âme",
+      "Ame"
+    ]
+  },
+  {
+    "seq": [
+      "O",
+      "S",
+      "T"
+    ],
+    "frequency": 282,
+    "example": "ost",
+    "examples": [
+      "ost"
+    ]
+  },
+  {
+    "seq": [
+      "A",
+      "T"
+    ],
+    "frequency": 278,
+    "example": "ad",
+    "examples": [
+      "ad",
+      "Ath",
+      "Ad",
+      "at"
+    ]
+  },
+  {
+    "seq": [
+      "N",
+      "O",
+      "M"
+    ],
+    "frequency": 276,
+    "example": "nom",
+    "examples": [
+      "nom"
+    ]
+  },
+  {
+    "seq": [
+      "K",
+      "U",
+      "R",
+      "E"
+    ],
+    "frequency": 274,
+    "example": "curé",
+    "examples": [
+      "curé",
+      "cure"
+    ]
+  },
+  {
+    "seq": [
+      "S",
+      "S",
+      "E",
+      "T"
+    ],
+    "frequency": 272,
+    "example": "scet",
+    "examples": [
+      "scet",
+      "sçet"
+    ]
+  },
+  {
+    "seq": [
+      "S",
+      "A",
+      "SH",
+      "E"
+    ],
+    "frequency": 271,
+    "example": "sage",
+    "examples": [
+      "sage",
+      "sache",
+      "Sage"
+    ]
+  },
+  {
+    "seq": [
+      "T",
+      "I",
+      "N",
+      "T"
+    ],
+    "frequency": 271,
+    "example": "tint",
+    "examples": [
+      "tint",
+      "tynt",
+      "Tint"
+    ]
+  },
+  {
+    "seq": [
+      "S",
+      "S",
+      "A",
+      "I"
+    ],
+    "frequency": 270,
+    "example": "sçay",
+    "examples": [
+      "sçay",
+      "sçai"
+    ]
+  },
+  {
+    "seq": [
+      "F",
+      "A",
+      "S",
+      "E"
+    ],
+    "frequency": 268,
+    "example": "face",
+    "examples": [
+      "face",
+      "phase",
+      "Vace",
+      "Face"
+    ]
+  },
+  {
+    "seq": [
+      "A",
+      "I",
+      "T",
+      "E"
+    ],
+    "frequency": 267,
+    "example": "aide",
+    "examples": [
+      "aide",
+      "ayde",
+      "aidé",
+      "aydé",
+      "Ayde"
+    ]
+  },
+  {
+    "seq": [
+      "K",
+      "R",
+      "O",
+      "I"
+    ],
+    "frequency": 263,
+    "example": "croy",
+    "examples": [
+      "croy",
+      "croi",
+      "Croy"
+    ]
+  },
+  {
+    "seq": [
+      "S",
+      "E",
+      "N",
+      "T"
+    ],
+    "frequency": 262,
+    "example": "cent",
+    "examples": [
+      "cent",
+      "sent",
+      "Cent",
+      "Sent"
+    ]
+  },
+  {
+    "seq": [
+      "T",
+      "E",
+      "L",
+      "S"
+    ],
+    "frequency": 261,
+    "example": "telz",
+    "examples": [
+      "telz",
+      "tels",
+      "Telz",
+      "Tels"
+    ]
+  },
+  {
+    "seq": [
+      "N",
+      "U",
+      "L",
+      "S"
+    ],
+    "frequency": 259,
+    "example": "nuls",
+    "examples": [
+      "nuls",
+      "nulz",
+      "Nulz",
+      "Nuls"
+    ]
+  },
+  {
+    "seq": [
+      "P",
+      "U",
+      "E",
+      "T"
+    ],
+    "frequency": 257,
+    "example": "puet",
+    "examples": [
+      "puet",
+      "Puet"
+    ]
+  },
+  {
+    "seq": [
+      "T",
+      "I"
+    ],
+    "frequency": 251,
+    "example": "dy",
+    "examples": [
+      "dy",
+      "di",
+      "Dy",
+      "Di",
+      "ti"
+    ]
+  },
+  {
+    "seq": [
+      "O",
+      "M",
+      "M",
+      "E"
+    ],
+    "frequency": 251,
+    "example": "omme",
+    "examples": [
+      "omme"
+    ]
+  },
+  {
+    "seq": [
+      "P",
+      "R",
+      "I",
+      "E"
+    ],
+    "frequency": 249,
+    "example": "prie",
+    "examples": [
+      "prie",
+      "prié",
+      "Brie",
+      "prye",
+      "Brye"
+    ]
+  },
+  {
+    "seq": [
+      "U",
+      "N",
+      "S"
+    ],
+    "frequency": 243,
+    "example": "uns",
+    "examples": [
+      "uns",
+      "Uns"
+    ]
+  },
+  {
+    "seq": [
+      "I",
+      "SH"
+    ],
+    "frequency": 242,
+    "example": ".ij.",
+    "examples": [
+      ".ij.",
+      "IJ",
+      ".IJ."
+    ]
+  },
+  {
+    "seq": [
+      "SH",
+      "I",
+      "E",
+      "F"
+    ],
+    "frequency": 241,
+    "example": "chief",
+    "examples": [
+      "chief",
+      "Chief"
+    ]
+  },
+  {
+    "seq": [
+      "A",
+      "L",
+      "L",
+      "A"
+    ],
+    "frequency": 237,
+    "example": "alla",
+    "examples": [
+      "alla",
+      "Alla"
+    ]
+  },
+  {
+    "seq": [
+      "K",
+      "O",
+      "M",
+      "E"
+    ],
+    "frequency": 235,
+    "example": "come",
+    "examples": [
+      "come",
+      "Come"
+    ]
+  },
+  {
+    "seq": [
+      "F",
+      "E",
+      "E",
+      "S"
+    ],
+    "frequency": 232,
+    "example": "veez",
+    "examples": [
+      "veez",
+      "Veez",
+      "veés",
+      "véez",
+      "veëz"
+    ]
+  },
+  {
+    "seq": [
+      "F",
+      "O",
+      "I",
+      "E"
+    ],
+    "frequency": 229,
+    "example": "voie",
+    "examples": [
+      "voie",
+      "voye",
+      "Voie",
+      "foie"
+    ]
+  },
+  {
+    "seq": [
+      "E",
+      "N",
+      "S"
+    ],
+    "frequency": 225,
+    "example": "ens",
+    "examples": [
+      "ens",
+      "Ens",
+      "enz"
+    ]
+  },
+  {
+    "seq": [
+      "P",
+      "A",
+      "P",
+      "E"
+    ],
+    "frequency": 223,
+    "example": "pape",
+    "examples": [
+      "pape",
+      "Pape"
+    ]
+  },
+  {
+    "seq": [
+      "T",
+      "E",
+      "N",
+      "U"
+    ],
+    "frequency": 221,
+    "example": "tenu",
+    "examples": [
+      "tenu",
+      "Tenu"
+    ]
+  },
+  {
+    "seq": [
+      "S",
+      "E",
+      "U",
+      "L"
+    ],
+    "frequency": 220,
+    "example": "seul",
+    "examples": [
+      "seul"
+    ]
+  },
+  {
+    "seq": [
+      "S",
+      "U",
+      "I"
+    ],
+    "frequency": 217,
+    "example": "sui",
+    "examples": [
+      "sui",
+      "suy",
+      "Sui"
+    ]
+  },
+  {
+    "seq": [
+      "O",
+      "U",
+      "I"
+    ],
+    "frequency": 214,
+    "example": "ouy",
+    "examples": [
+      "ouy",
+      "Ouy",
+      "ouÿ",
+      "Oui"
+    ]
+  },
+  {
+    "seq": [
+      "P",
+      "O",
+      "N",
+      "T"
+    ],
+    "frequency": 211,
+    "example": "pont",
+    "examples": [
+      "pont",
+      "Pont",
+      "bont"
+    ]
+  },
+  {
+    "seq": [
+      "S",
+      "E",
+      "L",
+      "A"
+    ],
+    "frequency": 209,
+    "example": "cela",
+    "examples": [
+      "cela",
+      "Cela"
+    ]
+  },
+  {
+    "seq": [
+      "T",
+      "O",
+      "N",
+      "S"
+    ],
+    "frequency": 209,
+    "example": "dons",
+    "examples": [
+      "dons",
+      "donc",
+      "Donc",
+      "Dons"
+    ]
+  },
+  {
+    "seq": [
+      "K",
+      "S"
+    ],
+    "frequency": 207,
+    "example": "X",
+    "examples": [
+      "X",
+      ".CC.",
+      ".X.",
+      ".x.",
+      "x"
+    ]
+  },
+  {
+    "seq": [
+      "P",
+      "O",
+      "U"
+    ],
+    "frequency": 207,
+    "example": "pou",
+    "examples": [
+      "pou",
+      "Pou"
+    ]
+  },
+  {
+    "seq": [
+      "O",
+      "I",
+      "R"
+    ],
+    "frequency": 206,
+    "example": "oïr",
+    "examples": [
+      "oïr",
+      "oyr",
+      "oÿr",
+      "oir",
+      "oýr"
+    ]
+  },
+  {
+    "seq": [
+      "S",
+      "I",
+      "E",
+      "N"
+    ],
+    "frequency": 204,
+    "example": "sien",
+    "examples": [
+      "sien"
+    ]
+  },
+  {
+    "seq": [
+      "S",
+      "I",
+      "N",
+      "K"
+    ],
+    "frequency": 203,
+    "example": "cinq",
+    "examples": [
+      "cinq",
+      "Cinq",
+      "synk"
+    ]
+  },
+  {
+    "seq": [
+      "A",
+      "I",
+      "S",
+      "E"
+    ],
+    "frequency": 199,
+    "example": "aise",
+    "examples": [
+      "aise",
+      "aisé",
+      "ayse",
+      "aysé",
+      "aize"
+    ]
+  },
+  {
+    "seq": [
+      "M",
+      "O",
+      "T"
+    ],
+    "frequency": 198,
+    "example": "mot",
+    "examples": [
+      "mot"
+    ]
+  },
+  {
+    "seq": [
+      "P",
+      "I",
+      "E",
+      "T"
+    ],
+    "frequency": 196,
+    "example": "pied",
+    "examples": [
+      "pied",
+      "piet"
+    ]
+  },
+  {
+    "seq": [
+      "F",
+      "I",
+      "L"
+    ],
+    "frequency": 195,
+    "example": "fil",
+    "examples": [
+      "fil",
+      "Fil",
+      "vil",
+      "fyl"
+    ]
+  },
+  {
+    "seq": [
+      "P",
+      "O",
+      "I",
+      "S"
+    ],
+    "frequency": 195,
+    "example": "bois",
+    "examples": [
+      "bois",
+      "boys",
+      "Boiz",
+      "Pois",
+      "pois"
+    ]
+  },
+  {
+    "seq": [
+      "S",
+      "S",
+      "E",
+      "U"
+    ],
+    "frequency": 192,
+    "example": "sceu",
+    "examples": [
+      "sceu",
+      "sceü",
+      "sçeu",
+      "sçeü"
+    ]
+  },
+  {
+    "seq": [
+      "F",
+      "E",
+      "R",
+      "A"
+    ],
+    "frequency": 191,
+    "example": "fera",
+    "examples": [
+      "fera",
+      "vera",
+      "Fera"
+    ]
+  },
+  {
+    "seq": [
+      "S",
+      "O",
+      "I",
+      "R"
+    ],
+    "frequency": 190,
+    "example": "soir",
+    "examples": [
+      "soir"
+    ]
+  },
+  {
+    "seq": [
+      "I",
+      "I",
+      "SH"
+    ],
+    "frequency": 188,
+    "example": "IIJ",
+    "examples": [
+      "IIJ",
+      ".iij."
+    ]
+  },
+  {
+    "seq": [
+      "F",
+      "E",
+      "I",
+      "T"
+    ],
+    "frequency": 188,
+    "example": "feït",
+    "examples": [
+      "feït",
+      "veït",
+      "veit",
+      "feit",
+      "veyt"
+    ]
+  },
+  {
+    "seq": [
+      "S",
+      "I",
+      "K",
+      "S"
+    ],
+    "frequency": 188,
+    "example": "six",
+    "examples": [
+      "six",
+      "CIX"
+    ]
+  },
+  {
+    "seq": [
+      "P",
+      "O",
+      "R",
+      "T"
+    ],
+    "frequency": 184,
+    "example": "port",
+    "examples": [
+      "port",
+      "bort",
+      "Bort",
+      "bord",
+      "Port"
+    ]
+  },
+  {
+    "seq": [
+      "T",
+      "O",
+      "U",
+      "R"
+    ],
+    "frequency": 183,
+    "example": "tour",
+    "examples": [
+      "tour",
+      "Tour",
+      "tour."
+    ]
+  },
+  {
+    "seq": [
+      "A",
+      "M",
+      "I",
+      "E"
+    ],
+    "frequency": 182,
+    "example": "amye",
+    "examples": [
+      "amye",
+      "amie"
+    ]
+  },
+  {
+    "seq": [
+      "SH",
+      "I",
+      "L",
+      "S"
+    ],
+    "frequency": 181,
+    "example": "chils",
+    "examples": [
+      "chils",
+      "Chils",
+      "chilz",
+      "Chilz"
+    ]
+  },
+  {
+    "seq": [
+      "I",
+      "I",
+      "I",
+      "SH"
+    ],
+    "frequency": 179,
+    "example": "IIIJ",
+    "examples": [
+      "IIIJ",
+      ".iiij.",
+      ".IIIJ."
+    ]
+  },
+  {
+    "seq": [
+      "SH",
+      "I",
+      "T",
+      "E"
+    ],
+    "frequency": 179,
+    "example": "chité",
+    "examples": [
+      "chité",
+      "gite"
+    ]
+  },
+  {
+    "seq": [
+      "K",
+      "O",
+      "S",
+      "E"
+    ],
+    "frequency": 178,
+    "example": "cose",
+    "examples": [
+      "cose",
+      "Qose"
+    ]
+  },
+  {
+    "seq": [
+      "T",
+      "A",
+      "M",
+      "P"
+    ],
+    "frequency": 178,
+    "example": "damp",
+    "examples": [
+      "damp",
+      "Damp"
+    ]
+  },
+  {
+    "seq": [
+      "T",
+      "I",
+      "R",
+      "A"
+    ],
+    "frequency": 178,
+    "example": "tira",
+    "examples": [
+      "tira",
+      "dira",
+      "tyra",
+      "Tyra"
+    ]
+  },
+  {
+    "seq": [
+      "E",
+      "L"
+    ],
+    "frequency": 177,
+    "example": "el",
+    "examples": [
+      "el",
+      "El",
+      "el'"
+    ]
+  },
+  {
+    "seq": [
+      "M",
+      "O",
+      "R",
+      "S"
+    ],
+    "frequency": 177,
+    "example": "mors",
+    "examples": [
+      "mors",
+      "morz"
+    ]
+  },
+  {
+    "seq": [
+      "T",
+      "I",
+      "K",
+      "S"
+    ],
+    "frequency": 177,
+    "example": "dix",
+    "examples": [
+      "dix",
+      "DIX",
+      "Dix"
+    ]
+  },
+  {
+    "seq": [
+      "P",
+      "E",
+      "L"
+    ],
+    "frequency": 169,
+    "example": "bel",
+    "examples": [
+      "bel",
+      "Bel",
+      "pel",
+      "Pel",
+      "BEL"
+    ]
+  },
+  {
+    "seq": [
+      "F"
+    ],
+    "frequency": 168,
+    "example": "V",
+    "examples": [
+      "V",
+      ".V.",
+      "V.",
+      ".v.",
+      "v"
+    ]
+  },
+  {
+    "seq": [
+      "T",
+      "O",
+      "S"
+    ],
+    "frequency": 163,
+    "example": "tos",
+    "examples": [
+      "tos",
+      "doz",
+      "dos",
+      "toz",
+      "doc"
+    ]
+  },
+  {
+    "seq": [
+      "P",
+      "I",
+      "E",
+      "S"
+    ],
+    "frequency": 163,
+    "example": "piez",
+    "examples": [
+      "piez",
+      "piés",
+      "piéz",
+      "pies",
+      "pieç'"
+    ]
+  },
+  {
+    "seq": [
+      "A",
+      "F",
+      "I",
+      "N"
+    ],
+    "frequency": 162,
+    "example": "afin",
+    "examples": [
+      "afin",
+      "Afin",
+      "afyn"
+    ]
+  },
+  {
+    "seq": [
+      "L",
+      "I",
+      "T"
+    ],
+    "frequency": 161,
+    "example": "lit",
+    "examples": [
+      "lit",
+      "lyt"
+    ]
+  },
+  {
+    "seq": [
+      "T",
+      "U",
+      "K",
+      "S"
+    ],
+    "frequency": 159,
+    "example": "dux",
+    "examples": [
+      "dux",
+      "ducz",
+      "ducs",
+      "Dux"
+    ]
+  },
+  {
+    "seq": [
+      "U",
+      "N",
+      "K",
+      "S"
+    ],
+    "frequency": 159,
+    "example": "ungs",
+    "examples": [
+      "ungs",
+      "ungz"
+    ]
+  },
+  {
+    "seq": [
+      "K",
+      "R",
+      "O",
+      "S"
+    ],
+    "frequency": 158,
+    "example": "gros",
+    "examples": [
+      "gros",
+      "groz",
+      "cros",
+      "Gros"
+    ]
+  },
+  {
+    "seq": [
+      "F",
+      "O",
+      "I",
+      "T"
+    ],
+    "frequency": 156,
+    "example": "voit",
+    "examples": [
+      "voit",
+      "voyt",
+      "foyth",
+      "Voit"
+    ]
+  },
+  {
+    "seq": [
+      "A",
+      "I",
+      "N",
+      "S"
+    ],
+    "frequency": 155,
+    "example": "ains",
+    "examples": [
+      "ains",
+      "Ains",
+      "Ainz",
+      "ainc"
+    ]
+  },
+  {
+    "seq": [
+      "T",
+      "A"
+    ],
+    "frequency": 154,
+    "example": "ta",
+    "examples": [
+      "ta",
+      "Ta",
+      "da"
+    ]
+  },
+  {
+    "seq": [
+      "F",
+      "E",
+      "T"
+    ],
+    "frequency": 152,
+    "example": "fet",
+    "examples": [
+      "fet",
+      "vet",
+      "Fet",
+      "fet'",
+      "Vet"
+    ]
+  },
+  {
+    "seq": [
+      "T",
+      "U",
+      "SH"
+    ],
+    "frequency": 152,
+    "example": "duch",
+    "examples": [
+      "duch"
+    ]
+  },
+  {
+    "seq": [
+      "I",
+      "I"
+    ],
+    "frequency": 151,
+    "example": ".II.",
+    "examples": [
+      ".II.",
+      "II",
+      "ii",
+      ".ii."
+    ]
+  },
+  {
+    "seq": [
+      "K",
+      "O",
+      "M"
+    ],
+    "frequency": 151,
+    "example": "com",
+    "examples": [
+      "com",
+      "Com",
+      "Com'"
+    ]
+  },
+  {
+    "seq": [
+      "K",
+      "R",
+      "E"
+    ],
+    "frequency": 151,
+    "example": "gré",
+    "examples": [
+      "gré"
+    ]
+  },
+  {
+    "seq": [
+      "E",
+      "A",
+      "SH",
+      "E"
+    ],
+    "frequency": 151,
+    "example": "eage",
+    "examples": [
+      "eage",
+      "eagé"
+    ]
+  },
+  {
+    "seq": [
+      "R",
+      "I",
+      "SH",
+      "E"
+    ],
+    "frequency": 151,
+    "example": "riche",
+    "examples": [
+      "riche",
+      "ryche",
+      "Riche"
+    ]
+  },
+  {
+    "seq": [
+      "T",
+      "O",
+      "R",
+      "T"
+    ],
+    "frequency": 147,
+    "example": "tort",
+    "examples": [
+      "tort",
+      "dort",
+      "Dort",
+      "Tort"
+    ]
+  },
+  {
+    "seq": [
+      "L",
+      "U",
+      "R"
+    ],
+    "frequency": 146,
+    "example": "lur",
+    "examples": [
+      "lur"
+    ]
+  },
+  {
+    "seq": [
+      "O",
+      "O",
+      "S",
+      "T"
+    ],
+    "frequency": 146,
+    "example": "oost",
+    "examples": [
+      "oost"
+    ]
+  },
+  {
+    "seq": [
+      "F",
+      "I",
+      "N",
+      "S"
+    ],
+    "frequency": 144,
+    "example": "vins",
+    "examples": [
+      "vins",
+      "fins",
+      "VINS",
+      "vinz"
+    ]
+  },
+  {
+    "seq": [
+      "K",
+      "O",
+      "U",
+      "P"
+    ],
+    "frequency": 142,
+    "example": "coup",
+    "examples": [
+      "coup"
+    ]
+  },
+  {
+    "seq": [
+      "SH",
+      "A",
+      "M",
+      "P"
+    ],
+    "frequency": 142,
+    "example": "champ",
+    "examples": [
+      "champ",
+      "Champ"
+    ]
+  },
+  {
+    "seq": [
+      "P",
+      "R",
+      "A",
+      "S"
+    ],
+    "frequency": 140,
+    "example": "bras",
+    "examples": [
+      "bras",
+      "braz",
+      "brac",
+      "Bras"
+    ]
+  },
+  {
+    "seq": [
+      "P",
+      "O",
+      "T"
+    ],
+    "frequency": 139,
+    "example": "pot",
+    "examples": [
+      "pot",
+      "Pot"
+    ]
+  },
+  {
+    "seq": [
+      "M",
+      "O",
+      "N",
+      "T"
+    ],
+    "frequency": 139,
+    "example": "mont",
+    "examples": [
+      "mont",
+      "Mont",
+      "MONT",
+      "mond"
+    ]
+  },
+  {
+    "seq": [
+      "S",
+      "E",
+      "U",
+      "R"
+    ],
+    "frequency": 139,
+    "example": "seur",
+    "examples": [
+      "seur",
+      "seür",
+      "ceur"
+    ]
+  },
+  {
+    "seq": [
+      "H",
+      "A"
+    ],
+    "frequency": 138,
+    "example": "Ha",
+    "examples": [
+      "Ha",
+      "ha"
+    ]
+  },
+  {
+    "seq": [
+      "A",
+      "I",
+      "M",
+      "E"
+    ],
+    "frequency": 138,
+    "example": "ayme",
+    "examples": [
+      "ayme",
+      "aime",
+      "aymé",
+      "Aymé",
+      "Ayme"
+    ]
+  },
+  {
+    "seq": [
+      "A",
+      "L",
+      "E",
+      "S"
+    ],
+    "frequency": 138,
+    "example": "alez",
+    "examples": [
+      "alez",
+      "alés",
+      "Alez",
+      "Alés",
+      "Aléz"
+    ]
+  },
+  {
+    "seq": [
+      "F",
+      "SH"
+    ],
+    "frequency": 137,
+    "example": "VJ",
+    "examples": [
+      "VJ",
+      ".VJ.",
+      ".vj."
+    ]
+  },
+  {
+    "seq": [
+      "S",
+      "E",
+      "L"
+    ],
+    "frequency": 137,
+    "example": "cel",
+    "examples": [
+      "cel",
+      "sel",
+      "cel'",
+      "zel"
+    ]
+  },
+  {
+    "seq": [
+      "O",
+      "S",
+      "T",
+      "E"
+    ],
+    "frequency": 137,
+    "example": "oste",
+    "examples": [
+      "oste",
+      "osté",
+      "Oste"
+    ]
+  },
+  {
+    "seq": [
+      "K",
+      "S",
+      "F"
+    ],
+    "frequency": 134,
+    "example": "XV",
+    "examples": [
+      "XV",
+      ".XV.",
+      "xv",
+      ".xv.",
+      "XV."
+    ]
+  },
+  {
+    "seq": [
+      "L",
+      "I",
+      "O",
+      "N"
+    ],
+    "frequency": 134,
+    "example": "Lion",
+    "examples": [
+      "Lion",
+      "lyon",
+      "Lyon",
+      "lion",
+      "LYON"
+    ]
+  },
+  {
+    "seq": [
+      "R",
+      "O",
+      "P",
+      "E"
+    ],
+    "frequency": 134,
+    "example": "robe",
+    "examples": [
+      "robe",
+      "robé"
+    ]
+  },
+  {
+    "seq": [
+      "R",
+      "O",
+      "SH",
+      "E"
+    ],
+    "frequency": 134,
+    "example": "Roche",
+    "examples": [
+      "Roche",
+      "roche",
+      "ROCHE",
+      "roge",
+      "Roge"
+    ]
+  },
+  {
+    "seq": [
+      "F",
+      "I",
+      "I",
+      "SH"
+    ],
+    "frequency": 132,
+    "example": "VIIJ",
+    "examples": [
+      "VIIJ",
+      ".viij.",
+      ".VIIJ."
+    ]
+  },
+  {
+    "seq": [
+      "SH",
+      "E",
+      "R",
+      "E"
+    ],
+    "frequency": 131,
+    "example": "chere",
+    "examples": [
+      "chere",
+      "chère",
+      "gere"
+    ]
+  },
+  {
+    "seq": [
+      "P",
+      "O",
+      "I"
+    ],
+    "frequency": 130,
+    "example": "poy",
+    "examples": [
+      "poy",
+      "poi",
+      "Poy",
+      "boy",
+      "Poi"
+    ]
+  },
+  {
+    "seq": [
+      "S",
+      "E",
+      "S",
+      "I"
+    ],
+    "frequency": 130,
+    "example": "cecy",
+    "examples": [
+      "cecy",
+      "Cecy",
+      "ceci",
+      "Ceci",
+      "CEcy"
+    ]
+  },
+  {
+    "seq": [
+      "M",
+      "I",
+      "S",
+      "E"
+    ],
+    "frequency": 129,
+    "example": "mise",
+    "examples": [
+      "mise",
+      "Mise"
+    ]
+  },
+  {
+    "seq": [
+      "A",
+      "L"
+    ],
+    "frequency": 128,
+    "example": "al",
+    "examples": [
+      "al",
+      "AL.",
+      "Al"
+    ]
+  },
+  {
+    "seq": [
+      "U",
+      "I"
+    ],
+    "frequency": 128,
+    "example": "uy",
+    "examples": [
+      "uy",
+      "ui"
+    ]
+  },
+  {
+    "seq": [
+      "S",
+      "I",
+      "R"
+    ],
+    "frequency": 128,
+    "example": "sir",
+    "examples": [
+      "sir",
+      "Sir",
+      "Syr"
+    ]
+  },
+  {
+    "seq": [
+      "M",
+      "O",
+      "U",
+      "T"
+    ],
+    "frequency": 128,
+    "example": "mout",
+    "examples": [
+      "mout",
+      "Mout"
+    ]
+  },
+  {
+    "seq": [
+      "F",
+      "I",
+      "S"
+    ],
+    "frequency": 127,
+    "example": "viz",
+    "examples": [
+      "viz",
+      "vis",
+      "fis",
+      "fiz",
+      ".VIc."
+    ]
+  },
+  {
+    "seq": [
+      "K",
+      "U",
+      "E",
+      "T"
+    ],
+    "frequency": 126,
+    "example": "guet",
+    "examples": [
+      "guet"
+    ]
+  },
+  {
+    "seq": [
+      "P",
+      "O",
+      "L"
+    ],
+    "frequency": 125,
+    "example": "Pol",
+    "examples": [
+      "Pol",
+      "POL"
+    ]
+  },
+  {
+    "seq": [
+      "N",
+      "I"
+    ],
+    "frequency": 124,
+    "example": "ny",
+    "examples": [
+      "ny",
+      "ni",
+      "Ny"
+    ]
+  },
+  {
+    "seq": [
+      "O",
+      "R",
+      "E"
+    ],
+    "frequency": 122,
+    "example": "Ore",
+    "examples": [
+      "Ore",
+      "ore"
+    ]
+  },
+  {
+    "seq": [
+      "H",
+      "O",
+      "M",
+      "E"
+    ],
+    "frequency": 122,
+    "example": "home",
+    "examples": [
+      "home",
+      "Home"
+    ]
+  },
+  {
+    "seq": [
+      "S",
+      "A",
+      "U",
+      "F"
+    ],
+    "frequency": 122,
+    "example": "sauf",
+    "examples": [
+      "sauf",
+      "Sauf"
+    ]
+  },
+  {
+    "seq": [
+      "E",
+      "A",
+      "U",
+      "E"
+    ],
+    "frequency": 120,
+    "example": "eaue",
+    "examples": [
+      "eaue"
+    ]
+  },
+  {
+    "seq": [
+      "F",
+      "E",
+      "R",
+      "E"
+    ],
+    "frequency": 120,
+    "example": "fere",
+    "examples": [
+      "fere",
+      "vere",
+      "Vere",
+      "feré",
+      "Fère"
+    ]
+  },
+  {
+    "seq": [
+      "F",
+      "E",
+      "I"
+    ],
+    "frequency": 119,
+    "example": "vei",
+    "examples": [
+      "vei",
+      "vey",
+      "fey",
+      "veý",
+      "fei"
+    ]
+  },
+  {
+    "seq": [
+      "K",
+      "S",
+      "I",
+      "SH"
+    ],
+    "frequency": 119,
+    "example": "XIJ",
+    "examples": [
+      "XIJ",
+      ".xij.",
+      "xij",
+      ".XIJ."
+    ]
+  },
+  {
+    "seq": [
+      "M",
+      "E",
+      "T"
+    ],
+    "frequency": 118,
+    "example": "met",
+    "examples": [
+      "met",
+      "Met"
+    ]
+  },
+  {
+    "seq": [
+      "H",
+      "U",
+      "I",
+      "S"
+    ],
+    "frequency": 118,
+    "example": "huys",
+    "examples": [
+      "huys",
+      "huis",
+      "huiz"
+    ]
+  },
+  {
+    "seq": [
+      "P",
+      "O",
+      "U",
+      "T"
+    ],
+    "frequency": 118,
+    "example": "bout",
+    "examples": [
+      "bout",
+      "pout",
+      "Pout"
+    ]
+  },
+  {
+    "seq": [
+      "F",
+      "E",
+      "I",
+      "L"
+    ],
+    "frequency": 117,
+    "example": "veil",
+    "examples": [
+      "veil",
+      "Veil",
+      "veyl"
+    ]
+  },
+  {
+    "seq": [
+      "E",
+      "U",
+      "R",
+      "E"
+    ],
+    "frequency": 115,
+    "example": "eure",
+    "examples": [
+      "eure"
+    ]
+  },
+  {
+    "seq": [
+      "O"
+    ],
+    "frequency": 113,
+    "example": "o",
+    "examples": [
+      "o",
+      "O",
+      "O."
+    ]
+  },
+  {
+    "seq": [
+      "R",
+      "U",
+      "E"
+    ],
+    "frequency": 113,
+    "example": "rue",
+    "examples": [
+      "rue",
+      "rué",
+      "Rue"
+    ]
+  },
+  {
+    "seq": [
+      "S",
+      "I",
+      "NY",
+      "E"
+    ],
+    "frequency": 113,
+    "example": "signe",
+    "examples": [
+      "signe",
+      "signé",
+      "Signe",
+      "Signé",
+      "Cigne"
+    ]
+  },
+  {
+    "seq": [
+      "L",
+      "A",
+      "S"
+    ],
+    "frequency": 112,
+    "example": "las",
+    "examples": [
+      "las",
+      "laz",
+      "Las",
+      "lac",
+      "Lac"
+    ]
+  },
+  {
+    "seq": [
+      "A",
+      "F",
+      "I",
+      "S"
+    ],
+    "frequency": 112,
+    "example": "avis",
+    "examples": [
+      "avis",
+      "avys",
+      "à-viz",
+      "Avis"
+    ]
+  },
+  {
+    "seq": [
+      "O",
+      "R",
+      "E",
+      "S"
+    ],
+    "frequency": 111,
+    "example": "ores",
+    "examples": [
+      "ores",
+      "orés",
+      "Ores",
+      "orez"
+    ]
+  },
+  {
+    "seq": [
+      "T",
+      "U",
+      "R",
+      "A"
+    ],
+    "frequency": 111,
+    "example": "dura",
+    "examples": [
+      "dura"
+    ]
+  },
+  {
+    "seq": [
+      "T",
+      "U",
+      "R",
+      "E"
+    ],
+    "frequency": 111,
+    "example": "dure",
+    "examples": [
+      "dure",
+      "duré"
+    ]
+  },
+  {
+    "seq": [
+      "S",
+      "I",
+      "L"
+    ],
+    "frequency": 110,
+    "example": "cil",
+    "examples": [
+      "cil",
+      "Cil",
+      "sil",
+      "Cyl",
+      "cyl"
+    ]
+  },
+  {
+    "seq": [
+      "M",
+      "O",
+      "L",
+      "T"
+    ],
+    "frequency": 110,
+    "example": "molt",
+    "examples": [
+      "molt"
+    ]
+  },
+  {
+    "seq": [
+      "M",
+      "E",
+      "N",
+      "A"
+    ],
+    "frequency": 109,
+    "example": "mena",
+    "examples": [
+      "mena",
+      "Mena"
+    ]
+  },
+  {
+    "seq": [
+      "H",
+      "U",
+      "I",
+      "T"
+    ],
+    "frequency": 108,
+    "example": "huit",
+    "examples": [
+      "huit",
+      "huyt",
+      "Huit"
+    ]
+  },
+  {
+    "seq": [
+      "M",
+      "A",
+      "R",
+      "S"
+    ],
+    "frequency": 108,
+    "example": "mars",
+    "examples": [
+      "mars",
+      "Marc",
+      "marc",
+      "Mars"
+    ]
+  },
+  {
+    "seq": [
+      "SH",
+      "I",
+      "E",
+      "R"
+    ],
+    "frequency": 108,
+    "example": "chier",
+    "examples": [
+      "chier",
+      "Chier",
+      "CHIER"
+    ]
+  },
+  {
+    "seq": [
+      "P",
+      "R",
+      "I"
+    ],
+    "frequency": 107,
+    "example": "pri",
+    "examples": [
+      "pri",
+      "pry"
+    ]
+  },
+  {
+    "seq": [
+      "K",
+      "A",
+      "R",
+      "T"
+    ],
+    "frequency": 107,
+    "example": "quart",
+    "examples": [
+      "quart",
+      "Gard",
+      "gart",
+      "gard",
+      "Gart"
+    ]
+  },
+  {
+    "seq": [
+      "P",
+      "A",
+      "R",
+      "S"
+    ],
+    "frequency": 107,
+    "example": "pars",
+    "examples": [
+      "pars",
+      "Parc",
+      "parc",
+      "bars",
+      "barc"
+    ]
+  },
+  {
+    "seq": [
+      "T",
+      "E",
+      "M",
+      "I"
+    ],
+    "frequency": 106,
+    "example": "demy",
+    "examples": [
+      "demy",
+      "demi"
+    ]
+  },
+  {
+    "seq": [
+      "T",
+      "I",
+      "E"
+    ],
+    "frequency": 104,
+    "example": "die",
+    "examples": [
+      "die",
+      "dye",
+      "Die"
+    ]
+  },
+  {
+    "seq": [
+      "A",
+      "I",
+      "E",
+      "S"
+    ],
+    "frequency": 104,
+    "example": "aiez",
+    "examples": [
+      "aiez",
+      "ayez",
+      "aiés",
+      "aies",
+      "Aies"
+    ]
+  },
+  {
+    "seq": [
+      "A",
+      "R",
+      "M",
+      "E"
+    ],
+    "frequency": 104,
+    "example": "armé",
+    "examples": [
+      "armé",
+      "arme",
+      "Armé"
+    ]
+  },
+  {
+    "seq": [
+      "SH",
+      "I"
+    ],
+    "frequency": 103,
+    "example": "chi",
+    "examples": [
+      "chi",
+      "chy",
+      "Gy"
+    ]
+  },
+  {
+    "seq": [
+      "A",
+      "U",
+      "R",
+      "A"
+    ],
+    "frequency": 102,
+    "example": "aura",
+    "examples": [
+      "aura"
+    ]
+  },
+  {
+    "seq": [
+      "H",
+      "E"
+    ],
+    "frequency": 101,
+    "example": "Hé",
+    "examples": [
+      "Hé",
+      "He",
+      "hé"
+    ]
+  },
+  {
+    "seq": [
+      "P",
+      "I",
+      "S"
+    ],
+    "frequency": 101,
+    "example": "pis",
+    "examples": [
+      "pis",
+      "bis",
+      "pys",
+      "piz",
+      "bys"
+    ]
+  },
+  {
+    "seq": [
+      "F",
+      "E",
+      "U",
+      "E"
+    ],
+    "frequency": 101,
+    "example": "veue",
+    "examples": [
+      "veue",
+      "veüe",
+      "feue",
+      "VEUE"
+    ]
+  },
+  {
+    "seq": [
+      "S",
+      "E",
+      "P",
+      "T"
+    ],
+    "frequency": 101,
+    "example": "sept",
+    "examples": [
+      "sept",
+      "Sept"
+    ]
+  },
+  {
+    "seq": [
+      "T",
+      "A",
+      "R",
+      "T"
+    ],
+    "frequency": 101,
+    "example": "tard",
+    "examples": [
+      "tard",
+      "tart",
+      "dart"
+    ]
+  },
+  {
+    "seq": [
+      "A",
+      "R",
+      "S"
+    ],
+    "frequency": 100,
+    "example": "ars",
+    "examples": [
+      "ars",
+      "arc",
+      "Ars"
+    ]
+  },
+  {
+    "seq": [
+      "A",
+      "M",
+      "E",
+      "S"
+    ],
+    "frequency": 100,
+    "example": "amez",
+    "examples": [
+      "amez",
+      "ames",
+      "amés",
+      "améz",
+      "Amés"
+    ]
+  },
+  {
+    "seq": [
+      "F",
+      "I"
+    ],
+    "frequency": 99,
+    "example": ".VI.",
+    "examples": [
+      ".VI.",
+      "VI",
+      "vi",
+      "vy",
+      ".vi."
+    ]
+  },
+  {
+    "seq": [
+      "F",
+      "S"
+    ],
+    "frequency": 99,
+    "example": ".Vc.",
+    "examples": [
+      ".Vc.",
+      "Vc",
+      ".VC.",
+      " .v. _C_.",
+      " .v _C_."
+    ]
+  },
+  {
+    "seq": [
+      "L",
+      "E",
+      "F",
+      "A"
+    ],
+    "frequency": 99,
+    "example": "leva",
+    "examples": [
+      "leva"
+    ]
+  },
+  {
+    "seq": [
+      "L",
+      "I",
+      "S",
+      "T"
+    ],
+    "frequency": 99,
+    "example": "list",
+    "examples": [
+      "list"
+    ]
+  },
+  {
+    "seq": [
+      "M",
+      "A",
+      "L",
+      "E"
+    ],
+    "frequency": 99,
+    "example": "male",
+    "examples": [
+      "male",
+      "Male"
+    ]
+  },
+  {
+    "seq": [
+      "F",
+      "E",
+      "N",
+      "T"
+    ],
+    "frequency": 98,
+    "example": "vent",
+    "examples": [
+      "vent",
+      "fend",
+      "vend"
+    ]
+  },
+  {
+    "seq": [
+      "F",
+      "E",
+      "U",
+      "L"
+    ],
+    "frequency": 98,
+    "example": "veul",
+    "examples": [
+      "veul"
+    ]
+  },
+  {
+    "seq": [
+      "K",
+      "U",
+      "I"
+    ],
+    "frequency": 96,
+    "example": "Guy",
+    "examples": [
+      "Guy",
+      "cui",
+      "Gui",
+      "cuy",
+      "Cui"
+    ]
+  },
+  {
+    "seq": [
+      "SH",
+      "O",
+      "N",
+      "E"
+    ],
+    "frequency": 96,
+    "example": "jone",
+    "examples": [
+      "jone"
+    ]
+  },
+  {
+    "seq": [
+      "T",
+      "U",
+      "R",
+      "S"
+    ],
+    "frequency": 96,
+    "example": "Turc",
+    "examples": [
+      "Turc",
+      "durs",
+      "Turs"
+    ]
+  },
+  {
+    "seq": [
+      "S",
+      "O",
+      "I",
+      "E"
+    ],
+    "frequency": 95,
+    "example": "soye",
+    "examples": [
+      "soye",
+      "soie"
+    ]
+  },
+  {
+    "seq": [
+      "I",
+      "I",
+      "I"
+    ],
+    "frequency": 94,
+    "example": ".III.",
+    "examples": [
+      ".III.",
+      "III",
+      ".iii.",
+      "iii"
+    ]
+  },
+  {
+    "seq": [
+      "L",
+      "O",
+      "I"
+    ],
+    "frequency": 94,
+    "example": "loy",
+    "examples": [
+      "loy",
+      "loi",
+      "Loy"
+    ]
+  },
+  {
+    "seq": [
+      "S",
+      "O",
+      "T"
+    ],
+    "frequency": 94,
+    "example": "sot",
+    "examples": [
+      "sot"
+    ]
+  },
+  {
+    "seq": [
+      "F",
+      "I",
+      "E",
+      "R"
+    ],
+    "frequency": 94,
+    "example": "fier",
+    "examples": [
+      "fier",
+      "Fier",
+      "fyer",
+      "fïer"
+    ]
+  },
+  {
+    "seq": [
+      "F",
+      "E",
+      "R"
+    ],
+    "frequency": 93,
+    "example": "fer",
+    "examples": [
+      "fer",
+      "ver",
+      "Fer",
+      "Ver"
+    ]
+  },
+  {
+    "seq": [
+      "P",
+      "R",
+      "I",
+      "A"
+    ],
+    "frequency": 93,
+    "example": "pria",
+    "examples": [
+      "pria",
+      "prya"
+    ]
+  },
+  {
+    "seq": [
+      "S",
+      "A",
+      "L",
+      "E"
+    ],
+    "frequency": 93,
+    "example": "sale",
+    "examples": [
+      "sale",
+      "Sale",
+      "salé"
+    ]
+  },
+  {
+    "seq": [
+      "A",
+      "I",
+      "E"
+    ],
+    "frequency": 92,
+    "example": "aye",
+    "examples": [
+      "aye",
+      "aie",
+      "aïe"
+    ]
+  },
+  {
+    "seq": [
+      "K",
+      "S",
+      "K",
+      "S"
+    ],
+    "frequency": 92,
+    "example": "XX",
+    "examples": [
+      "XX",
+      ".xx.",
+      ".XX.",
+      "xx"
+    ]
+  },
+  {
+    "seq": [
+      "F",
+      "U",
+      "I",
+      "R"
+    ],
+    "frequency": 91,
+    "example": "fuir",
+    "examples": [
+      "fuir",
+      "fuyr"
+    ]
+  },
+  {
+    "seq": [
+      "T",
+      "I",
+      "NY",
+      "E"
+    ],
+    "frequency": 91,
+    "example": "digne",
+    "examples": [
+      "digne",
+      "Digne",
+      "digné"
+    ]
+  },
+  {
+    "seq": [
+      "U",
+      "N",
+      "E",
+      "S"
+    ],
+    "frequency": 91,
+    "example": "unes",
+    "examples": [
+      "unes",
+      "unez",
+      "Unes"
+    ]
+  },
+  {
+    "seq": [
+      "E",
+      "L",
+      "E"
+    ],
+    "frequency": 89,
+    "example": "ele",
+    "examples": [
+      "ele",
+      "Ele"
+    ]
+  },
+  {
+    "seq": [
+      "E",
+      "T",
+      "S"
+    ],
+    "frequency": 88,
+    "example": "etc.",
+    "examples": [
+      "etc.",
+      "etc",
+      "ETC"
+    ]
+  },
+  {
+    "seq": [
+      "A",
+      "P",
+      "P",
+      "E"
+    ],
+    "frequency": 88,
+    "example": "abbé",
+    "examples": [
+      "abbé",
+      "Abbé"
+    ]
+  },
+  {
+    "seq": [
+      "P",
+      "A",
+      "I",
+      "N"
+    ],
+    "frequency": 87,
+    "example": "pain",
+    "examples": [
+      "pain",
+      "Payn",
+      "payn",
+      "Pain"
+    ]
+  },
+  {
+    "seq": [
+      "K",
+      "O",
+      "P"
+    ],
+    "frequency": 86,
+    "example": "cop",
+    "examples": [
+      "cop"
+    ]
+  },
+  {
+    "seq": [
+      "S",
+      "A",
+      "N",
+      "SH"
+    ],
+    "frequency": 86,
+    "example": "sang",
+    "examples": [
+      "sang",
+      "sanch",
+      "Sang"
+    ]
+  },
+  {
+    "seq": [
+      "F",
+      "O",
+      "L"
+    ],
+    "frequency": 85,
+    "example": "fol",
+    "examples": [
+      "fol",
+      "vol"
+    ]
+  },
+  {
+    "seq": [
+      "K",
+      "I",
+      "R"
+    ],
+    "frequency": 85,
+    "example": "Quir",
+    "examples": [
+      "Quir",
+      "quir",
+      "quyr"
+    ]
+  },
+  {
+    "seq": [
+      "L",
+      "O",
+      "U",
+      "R"
+    ],
+    "frequency": 85,
+    "example": "lour",
+    "examples": [
+      "lour",
+      "Lour"
+    ]
+  },
+  {
+    "seq": [
+      "S",
+      "I",
+      "S"
+    ],
+    "frequency": 84,
+    "example": "sic",
+    "examples": [
+      "sic",
+      "sis",
+      "cis",
+      "cys",
+      "sys"
+    ]
+  },
+  {
+    "seq": [
+      "SH",
+      "U",
+      "S"
+    ],
+    "frequency": 84,
+    "example": "jus",
+    "examples": [
+      "jus",
+      "juz",
+      "Chus"
+    ]
+  },
+  {
+    "seq": [
+      "H",
+      "O",
+      "M",
+      "S"
+    ],
+    "frequency": 84,
+    "example": "homs",
+    "examples": [
+      "homs",
+      "Homs"
+    ]
+  },
+  {
+    "seq": [
+      "I",
+      "I",
+      "I",
+      "I"
+    ],
+    "frequency": 84,
+    "example": ".IIII.",
+    "examples": [
+      ".IIII.",
+      "IIII",
+      ".iiii.",
+      "iiii"
+    ]
+  },
+  {
+    "seq": [
+      "O",
+      "U",
+      "I",
+      "R"
+    ],
+    "frequency": 84,
+    "example": "ouyr",
+    "examples": [
+      "ouyr",
+      "ouir",
+      "ouïr",
+      "ouÿr"
+    ]
+  },
+  {
+    "seq": [
+      "O",
+      "S",
+      "E"
+    ],
+    "frequency": 83,
+    "example": "osé",
+    "examples": [
+      "osé",
+      "ose",
+      "ozé",
+      "oze"
+    ]
+  },
+  {
+    "seq": [
+      "SH",
+      "E",
+      "F"
+    ],
+    "frequency": 83,
+    "example": "chef",
+    "examples": [
+      "chef"
+    ]
+  },
+  {
+    "seq": [
+      "E",
+      "U",
+      "K",
+      "S"
+    ],
+    "frequency": 83,
+    "example": "eux",
+    "examples": [
+      "eux",
+      "eüx"
+    ]
+  },
+  {
+    "seq": [
+      "O",
+      "M",
+      "E",
+      "R"
+    ],
+    "frequency": 83,
+    "example": "Omer",
+    "examples": [
+      "Omer"
+    ]
+  },
+  {
+    "seq": [
+      "F",
+      "E"
+    ],
+    "frequency": 82,
+    "example": ".Ve.",
+    "examples": [
+      ".Ve.",
+      "Ve"
+    ]
+  },
+  {
+    "seq": [
+      "M",
+      "A",
+      "I"
+    ],
+    "frequency": 81,
+    "example": "may",
+    "examples": [
+      "may",
+      "mai",
+      "May"
+    ]
+  },
+  {
+    "seq": [
+      "O",
+      "I",
+      "L"
+    ],
+    "frequency": 81,
+    "example": "Oil",
+    "examples": [
+      "Oil",
+      "Oyl",
+      "Oïl",
+      "oil",
+      "oïl"
+    ]
+  },
+  {
+    "seq": [
+      "A",
+      "U",
+      "K",
+      "N"
+    ],
+    "frequency": 81,
+    "example": "auqun",
+    "examples": [
+      "auqun",
+      "Auqun"
+    ]
+  },
+  {
+    "seq": [
+      "N",
+      "E",
+      "U",
+      "F"
+    ],
+    "frequency": 81,
+    "example": "neuf",
+    "examples": [
+      "neuf",
+      "Neuf",
+      "NEUF"
+    ]
+  },
+  {
+    "seq": [
+      "T",
+      "E",
+      "S",
+      "A"
+    ],
+    "frequency": 80,
+    "example": "deça",
+    "examples": [
+      "deça",
+      "deçà",
+      "desa"
+    ]
+  },
+  {
+    "seq": [
+      "L",
+      "I",
+      "R",
+      "E"
+    ],
+    "frequency": 79,
+    "example": "lire",
+    "examples": [
+      "lire",
+      "lyre",
+      "Lire"
+    ]
+  },
+  {
+    "seq": [
+      "A",
+      "M",
+      "E",
+      "R"
+    ],
+    "frequency": 78,
+    "example": "amer",
+    "examples": [
+      "amer",
+      "Amer"
+    ]
+  },
+  {
+    "seq": [
+      "F",
+      "O",
+      "I",
+      "R"
+    ],
+    "frequency": 78,
+    "example": "voir",
+    "examples": [
+      "voir",
+      "Voir",
+      "voyr"
+    ]
+  },
+  {
+    "seq": [
+      "O",
+      "E",
+      "I",
+      "L"
+    ],
+    "frequency": 78,
+    "example": "oeil",
+    "examples": [
+      "oeil"
+    ]
+  },
+  {
+    "seq": [
+      "K",
+      "S",
+      "I",
+      "I"
+    ],
+    "frequency": 76,
+    "example": ".XII.",
+    "examples": [
+      ".XII.",
+      "XII",
+      "xii",
+      ".xii.",
+      "CCII"
+    ]
+  },
+  {
+    "seq": [
+      "R",
+      "I",
+      "R",
+      "E"
+    ],
+    "frequency": 76,
+    "example": "rire",
+    "examples": [
+      "rire",
+      "Rire"
+    ]
+  },
+  {
+    "seq": [
+      "I",
+      "N"
+    ],
+    "frequency": 75,
+    "example": "in",
+    "examples": [
+      "in",
+      "In"
+    ]
+  },
+  {
+    "seq": [
+      "I",
+      "K",
+      "S"
+    ],
+    "frequency": 75,
+    "example": "IX",
+    "examples": [
+      "IX",
+      ".IX.",
+      ".ix.",
+      "ix",
+      "Ics"
+    ]
+  },
+  {
+    "seq": [
+      "F",
+      "U",
+      "S"
+    ],
+    "frequency": 74,
+    "example": "fuz",
+    "examples": [
+      "fuz",
+      "fus",
+      "fuc"
+    ]
+  },
+  {
+    "seq": [
+      "F",
+      "E",
+      "I",
+      "S"
+    ],
+    "frequency": 74,
+    "example": "veïz",
+    "examples": [
+      "veïz",
+      "feïz",
+      "veïs",
+      "feis",
+      "feiz"
+    ]
+  },
+  {
+    "seq": [
+      "K",
+      "K",
+      "K",
+      "S"
+    ],
+    "frequency": 74,
+    "example": "CCCC",
+    "examples": [
+      "CCCC",
+      ".CCCC.",
+      "cccc",
+      "CCX"
+    ]
+  },
+  {
+    "seq": [
+      "R",
+      "E",
+      "NY",
+      "E"
+    ],
+    "frequency": 74,
+    "example": "règne",
+    "examples": [
+      "règne",
+      "regne",
+      "regné",
+      "Regné",
+      "Regne"
+    ]
+  },
+  {
+    "seq": [
+      "K",
+      "O",
+      "L"
+    ],
+    "frequency": 72,
+    "example": "col",
+    "examples": [
+      "col",
+      "Col"
+    ]
+  },
+  {
+    "seq": [
+      "T",
+      "O",
+      "T"
+    ],
+    "frequency": 72,
+    "example": "tot",
+    "examples": [
+      "tot",
+      "tot'"
+    ]
+  },
+  {
+    "seq": [
+      "F",
+      "I",
+      "T",
+      "S"
+    ],
+    "frequency": 72,
+    "example": "fitz",
+    "examples": [
+      "fitz",
+      "Fitz",
+      "FITZ"
+    ]
+  },
+  {
+    "seq": [
+      "M",
+      "U",
+      "R",
+      "S"
+    ],
+    "frequency": 72,
+    "example": "murs",
+    "examples": [
+      "murs"
+    ]
+  },
+  {
+    "seq": [
+      "F",
+      "E",
+      "R",
+      "I"
+    ],
+    "frequency": 71,
+    "example": "fery",
+    "examples": [
+      "fery",
+      "feri",
+      "féri",
+      "Feri",
+      "Fery"
+    ]
+  },
+  {
+    "seq": [
+      "F",
+      "I",
+      "I",
+      "I"
+    ],
+    "frequency": 71,
+    "example": "VIII",
+    "examples": [
+      "VIII",
+      ".VIII.",
+      ".viii."
+    ]
+  },
+  {
+    "seq": [
+      "L",
+      "I",
+      "SH",
+      "E"
+    ],
+    "frequency": 71,
+    "example": "lige",
+    "examples": [
+      "lige",
+      "Liche"
+    ]
+  },
+  {
+    "seq": [
+      "R",
+      "O",
+      "M",
+      "E"
+    ],
+    "frequency": 71,
+    "example": "Rome",
+    "examples": [
+      "Rome"
+    ]
+  },
+  {
+    "seq": [
+      "SH",
+      "U",
+      "R",
+      "E"
+    ],
+    "frequency": 71,
+    "example": "juré",
+    "examples": [
+      "juré",
+      "jure"
+    ]
+  },
+  {
+    "seq": [
+      "I",
+      "K",
+      "S",
+      "E"
+    ],
+    "frequency": 70,
+    "example": "IXe",
+    "examples": [
+      "IXe",
+      ".IXe.",
+      ".ix_e_.",
+      ".ix_e_"
+    ]
+  },
+  {
+    "seq": [
+      "T",
+      "O",
+      "T",
+      "E"
+    ],
+    "frequency": 70,
+    "example": "tote",
+    "examples": [
+      "tote",
+      "dote",
+      "doté",
+      "Tote"
+    ]
+  },
+  {
+    "seq": [
+      "SH",
+      "A",
+      "R"
+    ],
+    "frequency": 69,
+    "example": "char",
+    "examples": [
+      "char"
+    ]
+  },
+  {
+    "seq": [
+      "F",
+      "I",
+      "E",
+      "S"
+    ],
+    "frequency": 69,
+    "example": "vies",
+    "examples": [
+      "vies",
+      "fiez",
+      "fiés",
+      "viez",
+      "viés"
+    ]
+  },
+  {
+    "seq": [
+      "T",
+      "I",
+      "K",
+      "T"
+    ],
+    "frequency": 69,
+    "example": "dict",
+    "examples": [
+      "dict"
+    ]
+  },
+  {
+    "seq": [
+      "T",
+      "O",
+      "I",
+      "S"
+    ],
+    "frequency": 69,
+    "example": "dois",
+    "examples": [
+      "dois",
+      "doiz",
+      "tois",
+      "Tois",
+      "doys"
+    ]
+  },
+  {
+    "seq": [
+      "I",
+      "R",
+      "E"
+    ],
+    "frequency": 68,
+    "example": "ire",
+    "examples": [
+      "ire",
+      "yre",
+      "Ire",
+      "iré",
+      "Yre"
+    ]
+  },
+  {
+    "seq": [
+      "K",
+      "S",
+      "L"
+    ],
+    "frequency": 68,
+    "example": "XL",
+    "examples": [
+      "XL",
+      ".XL.",
+      ".xl."
+    ]
+  },
+  {
+    "seq": [
+      "I",
+      "S",
+      "S",
+      "I"
+    ],
+    "frequency": 68,
+    "example": "issi",
+    "examples": [
+      "issi",
+      "yssi",
+      "Issi",
+      "yssy"
+    ]
+  },
+  {
+    "seq": [
+      "T",
+      "E",
+      "L",
+      "A"
+    ],
+    "frequency": 68,
+    "example": "dela",
+    "examples": [
+      "dela",
+      "delà"
+    ]
+  },
+  {
+    "seq": [
+      "O",
+      "I",
+      "T"
+    ],
+    "frequency": 67,
+    "example": "oyt",
+    "examples": [
+      "oyt",
+      "oÿt",
+      "oït",
+      "oit",
+      "oýt"
+    ]
+  },
+  {
+    "seq": [
+      "K",
+      "R",
+      "E",
+      "S"
+    ],
+    "frequency": 67,
+    "example": "Grec",
+    "examples": [
+      "Grec",
+      "grec",
+      "Grés",
+      "grés",
+      "Grez"
+    ]
+  },
+  {
+    "seq": [
+      "N",
+      "E",
+      "F"
+    ],
+    "frequency": 66,
+    "example": "nef",
+    "examples": [
+      "nef"
+    ]
+  },
+  {
+    "seq": [
+      "O",
+      "I",
+      "E"
+    ],
+    "frequency": 66,
+    "example": "oÿe",
+    "examples": [
+      "oÿe",
+      "oye",
+      "oie",
+      "Oye",
+      "Oie"
+    ]
+  },
+  {
+    "seq": [
+      "M",
+      "I",
+      "E",
+      "N"
+    ],
+    "frequency": 66,
+    "example": "mien",
+    "examples": [
+      "mien",
+      "myen"
+    ]
+  },
+  {
+    "seq": [
+      "F",
+      "A",
+      "I"
+    ],
+    "frequency": 65,
+    "example": "fay",
+    "examples": [
+      "fay",
+      "Fai",
+      "fai",
+      "Fay"
+    ]
+  },
+  {
+    "seq": [
+      "P",
+      "E",
+      "R"
+    ],
+    "frequency": 65,
+    "example": "per",
+    "examples": [
+      "per",
+      "Per",
+      "ber"
+    ]
+  },
+  {
+    "seq": [
+      "T",
+      "U",
+      "R"
+    ],
+    "frequency": 65,
+    "example": "dur",
+    "examples": [
+      "dur",
+      "Tur",
+      "Dur"
+    ]
+  },
+  {
+    "seq": [
+      "K",
+      "E",
+      "L",
+      "S"
+    ],
+    "frequency": 65,
+    "example": "quelz",
+    "examples": [
+      "quelz",
+      "quels",
+      "Quelz",
+      "Quels",
+      "Quelc'"
+    ]
+  },
+  {
+    "seq": [
+      "L",
+      "E",
+      "F",
+      "E"
+    ],
+    "frequency": 65,
+    "example": "levé",
+    "examples": [
+      "levé",
+      "leve",
+      "lève"
+    ]
+  },
+  {
+    "seq": [
+      "S",
+      "E",
+      "L",
+      "E"
+    ],
+    "frequency": 65,
+    "example": "cele",
+    "examples": [
+      "cele",
+      "celé",
+      "Sele",
+      "Cele"
+    ]
+  },
+  {
+    "seq": [
+      "N",
+      "E",
+      "S"
+    ],
+    "frequency": 64,
+    "example": "nez",
+    "examples": [
+      "nez",
+      "néz",
+      "nec",
+      "nés",
+      "Nec"
+    ]
+  },
+  {
+    "seq": [
+      "SH",
+      "E",
+      "U"
+    ],
+    "frequency": 64,
+    "example": "jeu",
+    "examples": [
+      "jeu",
+      "cheu",
+      "jeü",
+      "geu",
+      "cheü"
+    ]
+  },
+  {
+    "seq": [
+      "F",
+      "I",
+      "F",
+      "E"
+    ],
+    "frequency": 64,
+    "example": "vive",
+    "examples": [
+      "vive",
+      "Vive",
+      "vyve"
+    ]
+  },
+  {
+    "seq": [
+      "I",
+      "S",
+      "L",
+      "E"
+    ],
+    "frequency": 64,
+    "example": "isle",
+    "examples": [
+      "isle",
+      "Isle",
+      "ysle"
+    ]
+  },
+  {
+    "seq": [
+      "F",
+      "E",
+      "U",
+      "S"
+    ],
+    "frequency": 63,
+    "example": "veus",
+    "examples": [
+      "veus",
+      "feus",
+      "veuz",
+      "veüz",
+      "feuz"
+    ]
+  },
+  {
+    "seq": [
+      "M",
+      "E",
+      "N",
+      "E"
+    ],
+    "frequency": 63,
+    "example": "mené",
+    "examples": [
+      "mené",
+      "mene"
+    ]
+  },
+  {
+    "seq": [
+      "S",
+      "U",
+      "E",
+      "R"
+    ],
+    "frequency": 63,
+    "example": "suer",
+    "examples": [
+      "suer",
+      "süer",
+      "Suer"
+    ]
+  },
+  {
+    "seq": [
+      "M",
+      "I"
+    ],
+    "frequency": 62,
+    "example": "mi",
+    "examples": [
+      "mi",
+      "my",
+      "Mi"
+    ]
+  },
+  {
+    "seq": [
+      "N",
+      "E",
+      "F",
+      "S"
+    ],
+    "frequency": 62,
+    "example": "nefs",
+    "examples": [
+      "nefs",
+      "nefz"
+    ]
+  },
+  {
+    "seq": [
+      "A",
+      "U",
+      "S"
+    ],
+    "frequency": 61,
+    "example": "aus",
+    "examples": [
+      "aus",
+      "Aus",
+      "auz"
+    ]
+  },
+  {
+    "seq": [
+      "I",
+      "F",
+      "E",
+      "R"
+    ],
+    "frequency": 61,
+    "example": "yver",
+    "examples": [
+      "yver",
+      "iver"
+    ]
+  },
+  {
+    "seq": [
+      "K",
+      "O",
+      "R",
+      "S"
+    ],
+    "frequency": 61,
+    "example": "cors",
+    "examples": [
+      "cors",
+      "Cors"
+    ]
+  },
+  {
+    "seq": [
+      "F",
+      "E",
+      "L"
+    ],
+    "frequency": 60,
+    "example": "Vel",
+    "examples": [
+      "Vel",
+      "vel",
+      "fel",
+      "Fel"
+    ]
+  },
+  {
+    "seq": [
+      "SH",
+      "E",
+      "R"
+    ],
+    "frequency": 60,
+    "example": "cher",
+    "examples": [
+      "cher"
+    ]
+  },
+  {
+    "seq": [
+      "K",
+      "E",
+      "N",
+      "T"
+    ],
+    "frequency": 60,
+    "example": "Qent",
+    "examples": [
+      "Qent",
+      "Kent"
+    ]
+  },
+  {
+    "seq": [
+      "P",
+      "I",
+      "A",
+      "U"
+    ],
+    "frequency": 60,
+    "example": "biau",
+    "examples": [
+      "biau",
+      "Biau"
+    ]
+  },
+  {
+    "seq": [
+      "A",
+      "R",
+      "T",
+      "E"
+    ],
+    "frequency": 59,
+    "example": "Arte",
+    "examples": [
+      "Arte",
+      "arde"
+    ]
+  },
+  {
+    "seq": [
+      "O",
+      "S",
+      "I",
+      "S"
+    ],
+    "frequency": 59,
+    "example": "ocis",
+    "examples": [
+      "ocis",
+      "ocys"
+    ]
+  },
+  {
+    "seq": [
+      "S",
+      "K",
+      "A",
+      "I"
+    ],
+    "frequency": 59,
+    "example": "scay",
+    "examples": [
+      "scay",
+      "scai"
+    ]
+  },
+  {
+    "seq": [
+      "T",
+      "U",
+      "E",
+      "R"
+    ],
+    "frequency": 59,
+    "example": "tuer",
+    "examples": [
+      "tuer"
+    ]
+  },
+  {
+    "seq": [
+      "N",
+      "U",
+      "S"
+    ],
+    "frequency": 58,
+    "example": "Nuz",
+    "examples": [
+      "Nuz",
+      "nuz",
+      "nus"
+    ]
+  },
+  {
+    "seq": [
+      "H",
+      "O",
+      "O",
+      "S"
+    ],
+    "frequency": 58,
+    "example": "hoos",
+    "examples": [
+      "hoos",
+      "Hoos"
+    ]
+  },
+  {
+    "seq": [
+      "SH",
+      "U",
+      "SH",
+      "E"
+    ],
+    "frequency": 58,
+    "example": "juge",
+    "examples": [
+      "juge",
+      "jugé",
+      "juché"
+    ]
+  },
+  {
+    "seq": [
+      "I",
+      "SH",
+      "I"
+    ],
+    "frequency": 57,
+    "example": "ichi",
+    "examples": [
+      "ichi",
+      "ychy",
+      "Ichy",
+      "ichy",
+      "ychi"
+    ]
+  },
+  {
+    "seq": [
+      "P",
+      "R",
+      "E",
+      "F"
+    ],
+    "frequency": 57,
+    "example": "bref",
+    "examples": [
+      "bref",
+      "Bref",
+      "pref"
+    ]
+  },
+  {
+    "seq": [
+      "T",
+      "I",
+      "T",
+      "E"
+    ],
+    "frequency": 57,
+    "example": "dite",
+    "examples": [
+      "dite",
+      "Tite",
+      "dyte",
+      "Dite"
+    ]
+  },
+  {
+    "seq": [
+      "A",
+      "S",
+      "U",
+      "R"
+    ],
+    "frequency": 56,
+    "example": "azur",
+    "examples": [
+      "azur",
+      "asur"
+    ]
+  },
+  {
+    "seq": [
+      "F",
+      "A",
+      "I",
+      "N"
+    ],
+    "frequency": 56,
+    "example": "fain",
+    "examples": [
+      "fain",
+      "vain",
+      "Fain"
+    ]
+  },
+  {
+    "seq": [
+      "S",
+      "I",
+      "I",
+      "S"
+    ],
+    "frequency": 56,
+    "example": "siis",
+    "examples": [
+      "siis"
+    ]
+  },
+  {
+    "seq": [
+      "T",
+      "R",
+      "A",
+      "P"
+    ],
+    "frequency": 56,
+    "example": "drap",
+    "examples": [
+      "drap"
+    ]
+  },
+  {
+    "seq": [
+      "H",
+      "A",
+      "U",
+      "T"
+    ],
+    "frequency": 55,
+    "example": "haut",
+    "examples": [
+      "haut"
+    ]
+  },
+  {
+    "seq": [
+      "L",
+      "I",
+      "E",
+      "S"
+    ],
+    "frequency": 55,
+    "example": "liés",
+    "examples": [
+      "liés",
+      "liez",
+      "lïez",
+      "lyez",
+      "lies"
+    ]
+  },
+  {
+    "seq": [
+      "N",
+      "O",
+      "U",
+      "N"
+    ],
+    "frequency": 55,
+    "example": "noun",
+    "examples": [
+      "noun"
+    ]
+  },
+  {
+    "seq": [
+      "U",
+      "S",
+      "E",
+      "R"
+    ],
+    "frequency": 55,
+    "example": "user",
+    "examples": [
+      "user"
+    ]
+  },
+  {
+    "seq": [
+      "L",
+      "U",
+      "S"
+    ],
+    "frequency": 54,
+    "example": "Luc",
+    "examples": [
+      "Luc",
+      "Luz"
+    ]
+  },
+  {
+    "seq": [
+      "T",
+      "U",
+      "E"
+    ],
+    "frequency": 54,
+    "example": "tué",
+    "examples": [
+      "tué",
+      "tue"
+    ]
+  },
+  {
+    "seq": [
+      "M",
+      "O",
+      "T",
+      "S"
+    ],
+    "frequency": 54,
+    "example": "motz",
+    "examples": [
+      "motz",
+      "mots",
+      "Motz"
+    ]
+  },
+  {
+    "seq": [
+      "P",
+      "A",
+      "I",
+      "E"
+    ],
+    "frequency": 54,
+    "example": "paié",
+    "examples": [
+      "paié",
+      "payé",
+      "paie",
+      "paye",
+      "Baye"
+    ]
+  },
+  {
+    "seq": [
+      "P",
+      "I",
+      "T",
+      "E"
+    ],
+    "frequency": 54,
+    "example": "pité",
+    "examples": [
+      "pité",
+      "Pité"
+    ]
+  },
+  {
+    "seq": [
+      "P",
+      "O",
+      "N",
+      "E"
+    ],
+    "frequency": 54,
+    "example": "bone",
+    "examples": [
+      "bone",
+      "Pone"
+    ]
+  },
+  {
+    "seq": [
+      "H",
+      "U",
+      "I"
+    ],
+    "frequency": 53,
+    "example": "huy",
+    "examples": [
+      "huy",
+      "hui",
+      "Huy"
+    ]
+  },
+  {
+    "seq": [
+      "F",
+      "I",
+      "L",
+      "E"
+    ],
+    "frequency": 53,
+    "example": "vile",
+    "examples": [
+      "vile",
+      "file",
+      "fyle",
+      "vyle",
+      "filé"
+    ]
+  },
+  {
+    "seq": [
+      "H",
+      "A",
+      "I",
+      "E"
+    ],
+    "frequency": 53,
+    "example": "haye",
+    "examples": [
+      "haye",
+      "haie",
+      "Haye",
+      "Haie",
+      "haïe"
+    ]
+  },
+  {
+    "seq": [
+      "I",
+      "I",
+      "I",
+      "E"
+    ],
+    "frequency": 53,
+    "example": ".IIIe.",
+    "examples": [
+      ".IIIe.",
+      "IIIe"
+    ]
+  },
+  {
+    "seq": [
+      "L",
+      "O",
+      "SH",
+      "E"
+    ],
+    "frequency": 53,
+    "example": "logé",
+    "examples": [
+      "logé",
+      "loge"
+    ]
+  },
+  {
+    "seq": [
+      "N",
+      "O",
+      "M",
+      "S"
+    ],
+    "frequency": 53,
+    "example": "noms",
+    "examples": [
+      "noms",
+      "Noms"
+    ]
+  },
+  {
+    "seq": [
+      "P",
+      "O",
+      "E",
+      "S"
+    ],
+    "frequency": 53,
+    "example": "poés",
+    "examples": [
+      "poés",
+      "poez",
+      "poëz",
+      "poes"
+    ]
+  },
+  {
+    "seq": [
+      "A",
+      "L",
+      "L",
+      "E"
+    ],
+    "frequency": 52,
+    "example": "allé",
+    "examples": [
+      "allé",
+      "alle"
+    ]
+  },
+  {
+    "seq": [
+      "K",
+      "R",
+      "I",
+      "E"
+    ],
+    "frequency": 52,
+    "example": "crie",
+    "examples": [
+      "crie",
+      "crié",
+      "crye"
+    ]
+  },
+  {
+    "seq": [
+      "P",
+      "L",
+      "E",
+      "U"
+    ],
+    "frequency": 52,
+    "example": "pleu",
+    "examples": [
+      "pleu",
+      "bleu",
+      "pleü",
+      "Bleu"
+    ]
+  },
+  {
+    "seq": [
+      "S",
+      "E",
+      "L",
+      "I"
+    ],
+    "frequency": 52,
+    "example": "celi",
+    "examples": [
+      "celi",
+      "cely",
+      "Cely",
+      "Celi"
+    ]
+  },
+  {
+    "seq": [
+      "L",
+      "I",
+      "E"
+    ],
+    "frequency": 51,
+    "example": "lié",
+    "examples": [
+      "lié",
+      "lyé",
+      "lie",
+      "lye",
+      "lïé"
+    ]
+  },
+  {
+    "seq": [
+      "SH",
+      "E",
+      "S"
+    ],
+    "frequency": 51,
+    "example": "ches",
+    "examples": [
+      "ches",
+      "chez",
+      "Ches"
+    ]
+  },
+  {
+    "seq": [
+      "P",
+      "I",
+      "S",
+      "E"
+    ],
+    "frequency": 51,
+    "example": "Pise",
+    "examples": [
+      "Pise",
+      "bise"
+    ]
+  },
+  {
+    "seq": [
+      "F",
+      "I",
+      "SH"
+    ],
+    "frequency": 50,
+    "example": "VIJ",
+    "examples": [
+      "VIJ",
+      ".vij.",
+      ".VIJ."
+    ]
+  },
+  {
+    "seq": [
+      "L",
+      "K",
+      "S"
+    ],
+    "frequency": 50,
+    "example": "LX",
+    "examples": [
+      "LX",
+      ".LX.",
+      ".lx.",
+      "lx"
+    ]
+  },
+  {
+    "seq": [
+      "S",
+      "A",
+      "I"
+    ],
+    "frequency": 50,
+    "example": "sai",
+    "examples": [
+      "sai",
+      "say",
+      "say'"
+    ]
+  },
+  {
+    "seq": [
+      "L",
+      "O",
+      "N",
+      "S"
+    ],
+    "frequency": 50,
+    "example": "lonc",
+    "examples": [
+      "lonc",
+      "lons",
+      "Lons"
+    ]
+  },
+  {
+    "seq": [
+      "O",
+      "I",
+      "E",
+      "S"
+    ],
+    "frequency": 50,
+    "example": "oyes",
+    "examples": [
+      "oyes",
+      "oÿes",
+      "oyez",
+      "oyés",
+      "Oyez"
+    ]
+  },
+  {
+    "seq": [
+      "R",
+      "U",
+      "E",
+      "S"
+    ],
+    "frequency": 50,
+    "example": "rues",
+    "examples": [
+      "rues",
+      "rués",
+      "Rues",
+      "ruez"
+    ]
+  },
+  {
+    "seq": [
+      "S",
+      "I",
+      "E",
+      "L"
+    ],
+    "frequency": 50,
+    "example": "ciel",
+    "examples": [
+      "ciel",
+      "siel"
+    ]
+  },
+  {
+    "seq": [
+      "S",
+      "U"
+    ],
+    "frequency": 49,
+    "example": "su",
+    "examples": [
+      "su"
+    ]
+  },
+  {
+    "seq": [
+      "F",
+      "U",
+      "I"
+    ],
+    "frequency": 49,
+    "example": "fuy",
+    "examples": [
+      "fuy",
+      "fui",
+      "Fui",
+      "Fuy",
+      "vui"
+    ]
+  },
+  {
+    "seq": [
+      "P",
+      "U",
+      "S"
+    ],
+    "frequency": 49,
+    "example": "pus",
+    "examples": [
+      "pus",
+      "Pus"
+    ]
+  },
+  {
+    "seq": [
+      "I",
+      "I",
+      "SH",
+      "E"
+    ],
+    "frequency": 49,
+    "example": "IIJe",
+    "examples": [
+      "IIJe",
+      ".IIJe.",
+      ".iij_e_."
+    ]
+  },
+  {
+    "seq": [
+      "K",
+      "S",
+      "F",
+      "E"
+    ],
+    "frequency": 49,
+    "example": "XVe",
+    "examples": [
+      "XVe",
+      ".XVe.",
+      "xve",
+      " .xv_e_."
+    ]
+  },
+  {
+    "seq": [
+      "P",
+      "E",
+      "L",
+      "E"
+    ],
+    "frequency": 49,
+    "example": "bele",
+    "examples": [
+      "bele",
+      "Bele",
+      "pelé"
+    ]
+  },
+  {
+    "seq": [
+      "K",
+      "R",
+      "I"
+    ],
+    "frequency": 48,
+    "example": "cry",
+    "examples": [
+      "cry",
+      "cri"
+    ]
+  },
+  {
+    "seq": [
+      "F",
+      "I",
+      "I",
+      "E"
+    ],
+    "frequency": 48,
+    "example": ".VIIe.",
+    "examples": [
+      ".VIIe.",
+      "VIIe",
+      "Viiè",
+      "vIIe"
+    ]
+  },
+  {
+    "seq": [
+      "F",
+      "O",
+      "L",
+      "U"
+    ],
+    "frequency": 48,
+    "example": "volu",
+    "examples": [
+      "volu"
+    ]
+  },
+  {
+    "seq": [
+      "K",
+      "R",
+      "I",
+      "S"
+    ],
+    "frequency": 48,
+    "example": "cris",
+    "examples": [
+      "cris",
+      "gris",
+      "Cris",
+      "criz",
+      "crys"
+    ]
+  },
+  {
+    "seq": [
+      "S",
+      "S",
+      "E",
+      "I"
+    ],
+    "frequency": 48,
+    "example": "scey",
+    "examples": [
+      "scey",
+      "scei"
+    ]
+  }
+]

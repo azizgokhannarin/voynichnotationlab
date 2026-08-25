@@ -1,0 +1,7604 @@
+[
+  {
+    "seq": [
+      "E"
+    ],
+    "frequency": 12742,
+    "example": "e",
+    "examples": [
+      "e",
+      "è",
+      "E",
+      " E",
+      " e"
+    ]
+  },
+  {
+    "seq": [
+      "K",
+      "E"
+    ],
+    "frequency": 8516,
+    "example": "che",
+    "examples": [
+      "che",
+      "ché",
+      "Che",
+      "Ché",
+      " che"
+    ]
+  },
+  {
+    "seq": [
+      "L",
+      "A"
+    ],
+    "frequency": 5390,
+    "example": "la",
+    "examples": [
+      "la",
+      "La",
+      " La",
+      "là",
+      "lla"
+    ]
+  },
+  {
+    "seq": [
+      "T",
+      "I"
+    ],
+    "frequency": 4576,
+    "example": "di",
+    "examples": [
+      "di",
+      "ti",
+      "Di",
+      "dì",
+      " Di"
+    ]
+  },
+  {
+    "seq": [
+      "L"
+    ],
+    "frequency": 4455,
+    "example": "l'",
+    "examples": [
+      "l'",
+      "'l",
+      "L'",
+      " L'",
+      "l"
+    ]
+  },
+  {
+    "seq": [
+      "S",
+      "I"
+    ],
+    "frequency": 4440,
+    "example": "si",
+    "examples": [
+      "si",
+      "sì",
+      "Sì",
+      " Sì",
+      " sì"
+    ]
+  },
+  {
+    "seq": [
+      "A"
+    ],
+    "frequency": 3813,
+    "example": "a",
+    "examples": [
+      "a",
+      "a'",
+      "à",
+      "A",
+      " A"
+    ]
+  },
+  {
+    "seq": [
+      "N",
+      "O",
+      "N"
+    ],
+    "frequency": 3576,
+    "example": "non",
+    "examples": [
+      "non",
+      " Non",
+      "Non",
+      " non",
+      "nonn-"
+    ]
+  },
+  {
+    "seq": [
+      "P",
+      "E",
+      "R"
+    ],
+    "frequency": 3178,
+    "example": "per",
+    "examples": [
+      "per",
+      "Per",
+      " Per",
+      " per",
+      "ber"
+    ]
+  },
+  {
+    "seq": [
+      "T",
+      "E",
+      "L"
+    ],
+    "frequency": 2717,
+    "example": "del",
+    "examples": [
+      "del",
+      "dell'",
+      "Del",
+      " Del",
+      " del"
+    ]
+  },
+  {
+    "seq": [
+      "I",
+      "N"
+    ],
+    "frequency": 2336,
+    "example": "in",
+    "examples": [
+      "in",
+      "In",
+      " In",
+      " in"
+    ]
+  },
+  {
+    "seq": [
+      "L",
+      "O"
+    ],
+    "frequency": 2141,
+    "example": "lo",
+    "examples": [
+      "lo",
+      " Lo",
+      "Lo",
+      " lo",
+      "llo"
+    ]
+  },
+  {
+    "seq": [
+      "I",
+      "O"
+    ],
+    "frequency": 1830,
+    "example": "io",
+    "examples": [
+      "io",
+      " Io",
+      "Io",
+      "io,",
+      " io"
+    ]
+  },
+  {
+    "seq": [
+      "K"
+    ],
+    "frequency": 1809,
+    "example": "ch'",
+    "examples": [
+      "ch'",
+      "Ch'",
+      "c[h]",
+      "C[h]",
+      " ch'"
+    ]
+  },
+  {
+    "seq": [
+      "N",
+      "E",
+      "L"
+    ],
+    "frequency": 1694,
+    "example": "nel",
+    "examples": [
+      "nel",
+      "nell'",
+      " Nel",
+      "Nel",
+      " nel"
+    ]
+  },
+  {
+    "seq": [
+      "A",
+      "L"
+    ],
+    "frequency": 1620,
+    "example": "al",
+    "examples": [
+      "al",
+      "all'",
+      "Al",
+      " Al",
+      "All'"
+    ]
+  },
+  {
+    "seq": [
+      "L",
+      "E"
+    ],
+    "frequency": 1610,
+    "example": "le",
+    "examples": [
+      "le",
+      "lle",
+      "Le",
+      " Le",
+      "le'"
+    ]
+  },
+  {
+    "seq": [
+      "S",
+      "E"
+    ],
+    "frequency": 1600,
+    "example": "se",
+    "examples": [
+      "se",
+      "sé",
+      "Se",
+      "se'",
+      " Se"
+    ]
+  },
+  {
+    "seq": [
+      "L",
+      "I"
+    ],
+    "frequency": 1588,
+    "example": "li",
+    "examples": [
+      "li",
+      "lì",
+      " Li",
+      "Li",
+      " Lì"
+    ]
+  },
+  {
+    "seq": [
+      "M",
+      "I"
+    ],
+    "frequency": 1487,
+    "example": "mi",
+    "examples": [
+      "mi",
+      "mi'",
+      "Mi",
+      "mmi",
+      " mi"
+    ]
+  },
+  {
+    "seq": [
+      "K",
+      "O",
+      "M",
+      "E"
+    ],
+    "frequency": 1409,
+    "example": "come",
+    "examples": [
+      "come",
+      " Come",
+      "Come",
+      " come",
+      "Come?"
+    ]
+  },
+  {
+    "seq": [
+      "N",
+      "E"
+    ],
+    "frequency": 1399,
+    "example": "ne",
+    "examples": [
+      "ne",
+      "né",
+      "ne'",
+      "Né",
+      " né"
+    ]
+  },
+  {
+    "seq": [
+      "T"
+    ],
+    "frequency": 1351,
+    "example": "d'",
+    "examples": [
+      "d'",
+      "t'",
+      "D'",
+      "tt'",
+      " D'"
+    ]
+  },
+  {
+    "seq": [
+      "T",
+      "E"
+    ],
+    "frequency": 1345,
+    "example": "de",
+    "examples": [
+      "de",
+      "de'",
+      "te",
+      "dé",
+      "De"
+    ]
+  },
+  {
+    "seq": [
+      "T",
+      "A"
+    ],
+    "frequency": 1324,
+    "example": "da",
+    "examples": [
+      "da",
+      "dà",
+      "da'",
+      " Da",
+      "Da"
+    ]
+  },
+  {
+    "seq": [
+      "P",
+      "I",
+      "U"
+    ],
+    "frequency": 1272,
+    "example": "più",
+    "examples": [
+      "più",
+      "Più",
+      " Più",
+      "più,",
+      "più;"
+    ]
+  },
+  {
+    "seq": [
+      "I"
+    ],
+    "frequency": 1167,
+    "example": "i'",
+    "examples": [
+      "i'",
+      "i",
+      "I'",
+      " I'",
+      "I"
+    ]
+  },
+  {
+    "seq": [
+      "M",
+      "A"
+    ],
+    "frequency": 1155,
+    "example": "ma",
+    "examples": [
+      "ma",
+      "Ma",
+      " Ma",
+      " ma",
+      "ma'"
+    ]
+  },
+  {
+    "seq": [
+      "T",
+      "E",
+      "L",
+      "A"
+    ],
+    "frequency": 1126,
+    "example": "della",
+    "examples": [
+      "della",
+      "Della",
+      " Della",
+      " della",
+      "tela"
+    ]
+  },
+  {
+    "seq": [
+      "I",
+      "L"
+    ],
+    "frequency": 1002,
+    "example": "il",
+    "examples": [
+      "il",
+      "Il",
+      " Il"
+    ]
+  },
+  {
+    "seq": [
+      "K",
+      "O",
+      "N"
+    ],
+    "frequency": 993,
+    "example": "con",
+    "examples": [
+      "con",
+      "Con",
+      " Con",
+      " con"
+    ]
+  },
+  {
+    "seq": [
+      "S"
+    ],
+    "frequency": 884,
+    "example": "s'",
+    "examples": [
+      "s'",
+      "S'",
+      " S'",
+      "ss'",
+      "s,"
+    ]
+  },
+  {
+    "seq": [
+      "T",
+      "A",
+      "L"
+    ],
+    "frequency": 852,
+    "example": "dal",
+    "examples": [
+      "dal",
+      "tal",
+      "dall'",
+      " tal",
+      " Dal"
+    ]
+  },
+  {
+    "seq": [
+      "S",
+      "U",
+      "A"
+    ],
+    "frequency": 795,
+    "example": "sua",
+    "examples": [
+      "sua",
+      "Sua",
+      "sua,",
+      " sua",
+      "sua;"
+    ]
+  },
+  {
+    "seq": [
+      "T",
+      "U"
+    ],
+    "frequency": 785,
+    "example": "tu",
+    "examples": [
+      "tu",
+      "ttu",
+      "Tu",
+      "tu'",
+      " Tu"
+    ]
+  },
+  {
+    "seq": [
+      "O"
+    ],
+    "frequency": 715,
+    "example": "o",
+    "examples": [
+      "o",
+      "O",
+      "ò",
+      " O",
+      " o"
+    ]
+  },
+  {
+    "seq": [
+      "U",
+      "N"
+    ],
+    "frequency": 704,
+    "example": "un",
+    "examples": [
+      "un",
+      "un'",
+      " Un",
+      "Un",
+      "Un'"
+    ]
+  },
+  {
+    "seq": [
+      "M",
+      "E"
+    ],
+    "frequency": 686,
+    "example": "me",
+    "examples": [
+      "me",
+      "me'",
+      "me,",
+      "Me'",
+      "mme"
+    ]
+  },
+  {
+    "seq": [
+      "K",
+      "O",
+      "S",
+      "I"
+    ],
+    "frequency": 679,
+    "example": "così",
+    "examples": [
+      "così",
+      " Così",
+      " così",
+      "Così",
+      "cossi"
+    ]
+  },
+  {
+    "seq": [
+      "S",
+      "U",
+      "O"
+    ],
+    "frequency": 657,
+    "example": "suo",
+    "examples": [
+      "suo",
+      "suo'",
+      "Suo",
+      "suo,",
+      "suo?"
+    ]
+  },
+  {
+    "seq": [
+      "K",
+      "W",
+      "E",
+      "L"
+    ],
+    "frequency": 589,
+    "example": "quel",
+    "examples": [
+      "quel",
+      "quell'",
+      " Quel",
+      "Quel",
+      " Quell'"
+    ]
+  },
+  {
+    "seq": [
+      "U",
+      "N",
+      "A"
+    ],
+    "frequency": 570,
+    "example": "una",
+    "examples": [
+      "una",
+      "Una",
+      "una,",
+      " Una",
+      " una"
+    ]
+  },
+  {
+    "seq": [
+      "F",
+      "A"
+    ],
+    "frequency": 569,
+    "example": "fa",
+    "examples": [
+      "fa",
+      "va",
+      "Fa",
+      "va'",
+      "Va"
+    ]
+  },
+  {
+    "seq": [
+      "N",
+      "E",
+      "L",
+      "A"
+    ],
+    "frequency": 563,
+    "example": "nella",
+    "examples": [
+      "nella",
+      "Nella",
+      " Nella"
+    ]
+  },
+  {
+    "seq": [
+      "E",
+      "R",
+      "A"
+    ],
+    "frequency": 549,
+    "example": "era",
+    "examples": [
+      "era",
+      " Era",
+      "erra",
+      "era,",
+      "Era"
+    ]
+  },
+  {
+    "seq": [
+      "SH",
+      "I",
+      "O"
+    ],
+    "frequency": 529,
+    "example": "ciò",
+    "examples": [
+      "ciò",
+      "cciò",
+      "Ciò",
+      " Ciò",
+      "gio"
+    ]
+  },
+  {
+    "seq": [
+      "S",
+      "O",
+      "N",
+      "O"
+    ],
+    "frequency": 527,
+    "example": "sono",
+    "examples": [
+      "sono",
+      "sonno",
+      "sonò",
+      "Sono",
+      "sono:"
+    ]
+  },
+  {
+    "seq": [
+      "M",
+      "I",
+      "A"
+    ],
+    "frequency": 524,
+    "example": "mia",
+    "examples": [
+      "mia",
+      "mia,",
+      "mia;",
+      "mmia",
+      " Mia"
+    ]
+  },
+  {
+    "seq": [
+      "F",
+      "U"
+    ],
+    "frequency": 509,
+    "example": "fu",
+    "examples": [
+      "fu",
+      "fu'",
+      "Fu",
+      " fu",
+      "·ffu"
+    ]
+  },
+  {
+    "seq": [
+      "M",
+      "I",
+      "O"
+    ],
+    "frequency": 500,
+    "example": "mio",
+    "examples": [
+      "mio",
+      "mio,",
+      "mio;",
+      "mmio",
+      " mio"
+    ]
+  },
+  {
+    "seq": [
+      "M"
+    ],
+    "frequency": 493,
+    "example": "m'",
+    "examples": [
+      "m'",
+      " m'",
+      "M'",
+      "mm'",
+      "·m'"
+    ]
+  },
+  {
+    "seq": [
+      "P",
+      "O",
+      "I"
+    ],
+    "frequency": 479,
+    "example": "poi",
+    "examples": [
+      "poi",
+      " Poi",
+      "Poi",
+      " poi",
+      "poi,"
+    ]
+  },
+  {
+    "seq": [
+      "T",
+      "I",
+      "K",
+      "O"
+    ],
+    "frequency": 471,
+    "example": "dico",
+    "examples": [
+      "dico",
+      " Dico",
+      "Dico",
+      "dico,",
+      "dico."
+    ]
+  },
+  {
+    "seq": [
+      "P",
+      "E",
+      "N"
+    ],
+    "frequency": 462,
+    "example": "ben",
+    "examples": [
+      "ben",
+      "Ben",
+      " Ben",
+      "ben,",
+      "pen'"
+    ]
+  },
+  {
+    "seq": [
+      "L",
+      "U",
+      "I"
+    ],
+    "frequency": 449,
+    "example": "lui",
+    "examples": [
+      "lui",
+      "llui",
+      "lui,",
+      "lui;",
+      "·llui"
+    ]
+  },
+  {
+    "seq": [
+      "K",
+      "I"
+    ],
+    "frequency": 439,
+    "example": "chi",
+    "examples": [
+      "chi",
+      "Chi",
+      " Chi",
+      " chi"
+    ]
+  },
+  {
+    "seq": [
+      "T",
+      "O",
+      "N",
+      "A"
+    ],
+    "frequency": 439,
+    "example": "donna",
+    "examples": [
+      "donna",
+      "donna,",
+      "dona",
+      "donna;",
+      "Donna"
+    ]
+  },
+  {
+    "seq": [
+      "A",
+      "L",
+      "A"
+    ],
+    "frequency": 436,
+    "example": "alla",
+    "examples": [
+      "alla",
+      "ala",
+      " Alla",
+      "ala,",
+      "Alla"
+    ]
+  },
+  {
+    "seq": [
+      "L",
+      "O",
+      "R",
+      "O"
+    ],
+    "frequency": 420,
+    "example": "loro",
+    "examples": [
+      "loro",
+      "loro,",
+      "lor[o]",
+      "loro;"
+    ]
+  },
+  {
+    "seq": [
+      "S",
+      "I",
+      "A"
+    ],
+    "frequency": 409,
+    "example": "sia",
+    "examples": [
+      "sia",
+      "sia,",
+      "ssia",
+      "sia.",
+      "sia;"
+    ]
+  },
+  {
+    "seq": [
+      "S",
+      "O",
+      "N"
+    ],
+    "frequency": 400,
+    "example": "son",
+    "examples": [
+      "son",
+      "son,",
+      "Son",
+      "sson",
+      " Son"
+    ]
+  },
+  {
+    "seq": [
+      "T",
+      "I",
+      "SH",
+      "E"
+    ],
+    "frequency": 394,
+    "example": "dice",
+    "examples": [
+      "dice",
+      " Dice",
+      "Dice",
+      "dice:",
+      " dice"
+    ]
+  },
+  {
+    "seq": [
+      "N",
+      "O",
+      "I"
+    ],
+    "frequency": 392,
+    "example": "noi",
+    "examples": [
+      "noi",
+      " Noi",
+      "Noi",
+      "noi,",
+      "noi."
+    ]
+  },
+  {
+    "seq": [
+      "E",
+      "T"
+    ],
+    "frequency": 389,
+    "example": "ed",
+    "examples": [
+      "ed",
+      " Ed",
+      "Ed",
+      " ed",
+      "et"
+    ]
+  },
+  {
+    "seq": [
+      "H",
+      "A"
+    ],
+    "frequency": 388,
+    "example": "ha",
+    "examples": [
+      "ha",
+      "ha'",
+      "ha;"
+    ]
+  },
+  {
+    "seq": [
+      "O",
+      "K",
+      "I"
+    ],
+    "frequency": 386,
+    "example": "occhi",
+    "examples": [
+      "occhi",
+      "oc[c]hi",
+      "occhi;",
+      "occhi,",
+      "ochi"
+    ]
+  },
+  {
+    "seq": [
+      "SH",
+      "I",
+      "O",
+      "E"
+    ],
+    "frequency": 381,
+    "example": "cioè",
+    "examples": [
+      "cioè",
+      " cioè",
+      "Cioè",
+      "cioè,"
+    ]
+  },
+  {
+    "seq": [
+      "O",
+      "N",
+      "T",
+      "E"
+    ],
+    "frequency": 379,
+    "example": "onde",
+    "examples": [
+      "onde",
+      "Onde",
+      " Onde",
+      " onde",
+      "Onde,"
+    ]
+  },
+  {
+    "seq": [
+      "SH",
+      "I",
+      "A"
+    ],
+    "frequency": 377,
+    "example": "già",
+    "examples": [
+      "già",
+      " Già",
+      "Già",
+      "gia",
+      " già"
+    ]
+  },
+  {
+    "seq": [
+      "L",
+      "E",
+      "I"
+    ],
+    "frequency": 376,
+    "example": "lei",
+    "examples": [
+      "lei",
+      "llei",
+      "lei,",
+      "·llei",
+      "lei;"
+    ]
+  },
+  {
+    "seq": [
+      "P",
+      "E",
+      "R",
+      "O"
+    ],
+    "frequency": 376,
+    "example": "però",
+    "examples": [
+      "però",
+      " Però",
+      "Però",
+      " però",
+      "però,"
+    ]
+  },
+  {
+    "seq": [
+      "E",
+      "L",
+      "A"
+    ],
+    "frequency": 367,
+    "example": "ella",
+    "examples": [
+      "ella",
+      "Ella",
+      " Ella",
+      "ella;",
+      "El[l]a"
+    ]
+  },
+  {
+    "seq": [
+      "K",
+      "O",
+      "S",
+      "E"
+    ],
+    "frequency": 353,
+    "example": "cose",
+    "examples": [
+      "cose",
+      "cose;",
+      " Cose",
+      "Cose",
+      "cosse"
+    ]
+  },
+  {
+    "seq": [
+      "K",
+      "O",
+      "L"
+    ],
+    "frequency": 345,
+    "example": "col",
+    "examples": [
+      "col",
+      "coll'",
+      "Col",
+      " col",
+      " Col"
+    ]
+  },
+  {
+    "seq": [
+      "U",
+      "N",
+      "O"
+    ],
+    "frequency": 345,
+    "example": "uno",
+    "examples": [
+      "uno",
+      "uno;",
+      " Uno",
+      "Uno",
+      " uno"
+    ]
+  },
+  {
+    "seq": [
+      "T",
+      "U",
+      "T",
+      "O"
+    ],
+    "frequency": 342,
+    "example": "tutto",
+    "examples": [
+      "tutto",
+      "Tutto",
+      "tutto;",
+      "tutto,",
+      " Tutto"
+    ]
+  },
+  {
+    "seq": [
+      "L",
+      "O",
+      "R"
+    ],
+    "frequency": 340,
+    "example": "lor",
+    "examples": [
+      "lor",
+      "llor",
+      "·llor",
+      "Lor",
+      "lor;"
+    ]
+  },
+  {
+    "seq": [
+      "N"
+    ],
+    "frequency": 331,
+    "example": "'n",
+    "examples": [
+      "'n",
+      "n'",
+      "n",
+      "N'",
+      "nn'"
+    ]
+  },
+  {
+    "seq": [
+      "K",
+      "W",
+      "A",
+      "L"
+    ],
+    "frequency": 319,
+    "example": "qual",
+    "examples": [
+      "qual",
+      " Qual",
+      "Qual",
+      " qual"
+    ]
+  },
+  {
+    "seq": [
+      "T",
+      "E",
+      "L",
+      "I"
+    ],
+    "frequency": 318,
+    "example": "delli",
+    "examples": [
+      "delli",
+      "Delli",
+      " delli"
+    ]
+  },
+  {
+    "seq": [
+      "P",
+      "U",
+      "O"
+    ],
+    "frequency": 315,
+    "example": "può",
+    "examples": [
+      "può",
+      "puo'",
+      "può;",
+      "puo',"
+    ]
+  },
+  {
+    "seq": [
+      "K",
+      "W",
+      "I"
+    ],
+    "frequency": 312,
+    "example": "qui",
+    "examples": [
+      "qui",
+      "Qui",
+      " Qui",
+      "qui;",
+      " qui"
+    ]
+  },
+  {
+    "seq": [
+      "T",
+      "I",
+      "O"
+    ],
+    "frequency": 307,
+    "example": "Dio",
+    "examples": [
+      "Dio",
+      "Dio,",
+      "dio,",
+      "dio",
+      "Dio;"
+    ]
+  },
+  {
+    "seq": [
+      "T",
+      "I",
+      "S",
+      "E"
+    ],
+    "frequency": 306,
+    "example": "disse",
+    "examples": [
+      "disse",
+      "disse:",
+      "Disse",
+      " disse",
+      "disse,"
+    ]
+  },
+  {
+    "seq": [
+      "A",
+      "T"
+    ],
+    "frequency": 298,
+    "example": "ad",
+    "examples": [
+      "ad",
+      "Ad",
+      " Ad"
+    ]
+  },
+  {
+    "seq": [
+      "T",
+      "U",
+      "E"
+    ],
+    "frequency": 298,
+    "example": "due",
+    "examples": [
+      "due",
+      "tue",
+      "Due",
+      "due,",
+      " due"
+    ]
+  },
+  {
+    "seq": [
+      "K",
+      "U",
+      "I"
+    ],
+    "frequency": 295,
+    "example": "cui",
+    "examples": [
+      "cui",
+      "Cui",
+      " cui",
+      "cui."
+    ]
+  },
+  {
+    "seq": [
+      "A",
+      "M",
+      "O",
+      "R"
+    ],
+    "frequency": 292,
+    "example": "Amor",
+    "examples": [
+      "Amor",
+      "amor",
+      "Amor,",
+      " Amor",
+      "amor,"
+    ]
+  },
+  {
+    "seq": [
+      "O",
+      "R"
+    ],
+    "frequency": 280,
+    "example": "or",
+    "examples": [
+      "or",
+      "Or",
+      " Or",
+      " or",
+      "Or,"
+    ]
+  },
+  {
+    "seq": [
+      "T",
+      "E",
+      "L",
+      "E"
+    ],
+    "frequency": 280,
+    "example": "delle",
+    "examples": [
+      "delle",
+      "Delle",
+      "tele"
+    ]
+  },
+  {
+    "seq": [
+      "F",
+      "I",
+      "T",
+      "A"
+    ],
+    "frequency": 275,
+    "example": "vita",
+    "examples": [
+      "vita",
+      "vita,",
+      "fida",
+      "vita;",
+      "vita."
+    ]
+  },
+  {
+    "seq": [
+      "K",
+      "O",
+      "S",
+      "A"
+    ],
+    "frequency": 274,
+    "example": "cosa",
+    "examples": [
+      "cosa",
+      "Cosa",
+      "cosa.",
+      " cosa",
+      "cosa;"
+    ]
+  },
+  {
+    "seq": [
+      "T",
+      "U",
+      "T",
+      "I"
+    ],
+    "frequency": 271,
+    "example": "tutti",
+    "examples": [
+      "tutti",
+      "Tutti",
+      " Tutti",
+      "tutti;",
+      "tutti,"
+    ]
+  },
+  {
+    "seq": [
+      "F",
+      "O",
+      "I"
+    ],
+    "frequency": 269,
+    "example": "voi",
+    "examples": [
+      "voi",
+      "Voi",
+      "voi,",
+      " Voi",
+      "voi;"
+    ]
+  },
+  {
+    "seq": [
+      "F",
+      "O",
+      "S",
+      "E"
+    ],
+    "frequency": 269,
+    "example": "fosse",
+    "examples": [
+      "fosse",
+      "fosse;",
+      "fos[s]e",
+      "ffosse",
+      "fosse:"
+    ]
+  },
+  {
+    "seq": [
+      "E",
+      "L",
+      "I"
+    ],
+    "frequency": 264,
+    "example": "elli",
+    "examples": [
+      "elli",
+      "Elli",
+      " Elli",
+      "Èli",
+      "èli"
+    ]
+  },
+  {
+    "seq": [
+      "F",
+      "I",
+      "A"
+    ],
+    "frequency": 262,
+    "example": "via",
+    "examples": [
+      "via",
+      "fia",
+      "via.",
+      "via,",
+      "Via"
+    ]
+  },
+  {
+    "seq": [
+      "P",
+      "U",
+      "R"
+    ],
+    "frequency": 254,
+    "example": "pur",
+    "examples": [
+      "pur",
+      " Pur",
+      "Pur",
+      " pur"
+    ]
+  },
+  {
+    "seq": [
+      "K",
+      "R",
+      "A",
+      "N"
+    ],
+    "frequency": 252,
+    "example": "gran",
+    "examples": [
+      "gran",
+      "Gran",
+      "gran'",
+      " Gran"
+    ]
+  },
+  {
+    "seq": [
+      "K",
+      "O",
+      "M"
+    ],
+    "frequency": 245,
+    "example": "com'",
+    "examples": [
+      "com'",
+      "Com'",
+      " Com'",
+      " com'",
+      "com"
+    ]
+  },
+  {
+    "seq": [
+      "P",
+      "E",
+      "N",
+      "E"
+    ],
+    "frequency": 238,
+    "example": "bene",
+    "examples": [
+      "bene",
+      "penne",
+      "pene",
+      "Bene",
+      "bene;"
+    ]
+  },
+  {
+    "seq": [
+      "M",
+      "A",
+      "I"
+    ],
+    "frequency": 236,
+    "example": "mai",
+    "examples": [
+      "mai",
+      "mai,",
+      "mai;",
+      " Mai",
+      "·mai"
+    ]
+  },
+  {
+    "seq": [
+      "F",
+      "I"
+    ],
+    "frequency": 235,
+    "example": "vi",
+    "examples": [
+      "vi",
+      "Vi",
+      "fi'"
+    ]
+  },
+  {
+    "seq": [
+      "A",
+      "F",
+      "E",
+      "A"
+    ],
+    "frequency": 233,
+    "example": "avea",
+    "examples": [
+      "avea",
+      "avea,",
+      "avea?",
+      "Avea",
+      "avea:"
+    ]
+  },
+  {
+    "seq": [
+      "T",
+      "E",
+      "R",
+      "A"
+    ],
+    "frequency": 230,
+    "example": "terra",
+    "examples": [
+      "terra",
+      "terrà",
+      "terra,",
+      "terra;",
+      "Terra"
+    ]
+  },
+  {
+    "seq": [
+      "E",
+      "S",
+      "E",
+      "R"
+    ],
+    "frequency": 229,
+    "example": "esser",
+    "examples": [
+      "esser",
+      "es[s]er",
+      " esser"
+    ]
+  },
+  {
+    "seq": [
+      "T",
+      "I",
+      "R",
+      "E"
+    ],
+    "frequency": 225,
+    "example": "dire",
+    "examples": [
+      "dire",
+      "dire;",
+      "dire,",
+      "dire.",
+      "dire'"
+    ]
+  },
+  {
+    "seq": [
+      "S",
+      "U"
+    ],
+    "frequency": 219,
+    "example": "su'",
+    "examples": [
+      "su'",
+      "sù",
+      "su",
+      "Su'",
+      " Sù"
+    ]
+  },
+  {
+    "seq": [
+      "F",
+      "I",
+      "T",
+      "I"
+    ],
+    "frequency": 218,
+    "example": "vidi",
+    "examples": [
+      "vidi",
+      " Vidi",
+      " vidi",
+      "fidi",
+      "fidi,"
+    ]
+  },
+  {
+    "seq": [
+      "T",
+      "U",
+      "T",
+      "E"
+    ],
+    "frequency": 210,
+    "example": "tutte",
+    "examples": [
+      "tutte",
+      "Tutte",
+      " Tutte",
+      "tutte;",
+      " tutte"
+    ]
+  },
+  {
+    "seq": [
+      "O",
+      "NY",
+      "E"
+    ],
+    "frequency": 209,
+    "example": "ogne",
+    "examples": [
+      "ogne",
+      " Ogne",
+      "Ogne"
+    ]
+  },
+  {
+    "seq": [
+      "F",
+      "E",
+      "T",
+      "E"
+    ],
+    "frequency": 209,
+    "example": "vede",
+    "examples": [
+      "vede",
+      "fede",
+      "Fede",
+      "fede,",
+      "vede."
+    ]
+  },
+  {
+    "seq": [
+      "T",
+      "R",
+      "A"
+    ],
+    "frequency": 205,
+    "example": "tra",
+    "examples": [
+      "tra",
+      " Tra",
+      "tra'",
+      "Tra",
+      "Tra'"
+    ]
+  },
+  {
+    "seq": [
+      "F",
+      "E",
+      "R",
+      "O"
+    ],
+    "frequency": 200,
+    "example": "vero",
+    "examples": [
+      "vero",
+      "fero",
+      "ferro",
+      "verrò",
+      " Vero"
+    ]
+  },
+  {
+    "seq": [
+      "A",
+      "L",
+      "I"
+    ],
+    "frequency": 191,
+    "example": "alli",
+    "examples": [
+      "alli",
+      "ali",
+      "Alli",
+      "ali;",
+      " Ali"
+    ]
+  },
+  {
+    "seq": [
+      "T",
+      "U",
+      "A"
+    ],
+    "frequency": 190,
+    "example": "tua",
+    "examples": [
+      "tua",
+      "ttua",
+      "Tua"
+    ]
+  },
+  {
+    "seq": [
+      "T",
+      "O",
+      "F",
+      "E"
+    ],
+    "frequency": 189,
+    "example": "dove",
+    "examples": [
+      "dove",
+      "Dove",
+      " Dove",
+      "dove;",
+      " dove"
+    ]
+  },
+  {
+    "seq": [
+      "F",
+      "A",
+      "R"
+    ],
+    "frequency": 184,
+    "example": "far",
+    "examples": [
+      "far",
+      "Far",
+      "far,",
+      "ffar"
+    ]
+  },
+  {
+    "seq": [
+      "F",
+      "A",
+      "T",
+      "O"
+    ],
+    "frequency": 180,
+    "example": "fatto",
+    "examples": [
+      "fatto",
+      "fatto,",
+      "vado",
+      " Fatto",
+      "fato"
+    ]
+  },
+  {
+    "seq": [
+      "K",
+      "E",
+      "T"
+    ],
+    "frequency": 179,
+    "example": "ched",
+    "examples": [
+      "ched",
+      "Ched",
+      "Chéd",
+      "Ch[ed]",
+      "chéd"
+    ]
+  },
+  {
+    "seq": [
+      "T",
+      "E",
+      "T",
+      "O"
+    ],
+    "frequency": 179,
+    "example": "detto",
+    "examples": [
+      "detto",
+      "detto,",
+      "detto:",
+      " Detto",
+      "detto;"
+    ]
+  },
+  {
+    "seq": [
+      "U",
+      "O",
+      "M",
+      "O"
+    ],
+    "frequency": 179,
+    "example": "uomo",
+    "examples": [
+      "uomo",
+      "uomo;",
+      "uomo?"
+    ]
+  },
+  {
+    "seq": [
+      "S",
+      "U",
+      "E"
+    ],
+    "frequency": 177,
+    "example": "sue",
+    "examples": [
+      "sue",
+      "ssue",
+      "sue;"
+    ]
+  },
+  {
+    "seq": [
+      "F",
+      "A",
+      "N",
+      "O"
+    ],
+    "frequency": 175,
+    "example": "fanno",
+    "examples": [
+      "fanno",
+      "vanno",
+      "vano",
+      "fanno,",
+      "Fano"
+    ]
+  },
+  {
+    "seq": [
+      "P",
+      "O",
+      "K",
+      "O"
+    ],
+    "frequency": 175,
+    "example": "poco",
+    "examples": [
+      "poco",
+      " Poco",
+      "poco;",
+      "poco:",
+      "poco,"
+    ]
+  },
+  {
+    "seq": [
+      "E",
+      "S",
+      "O"
+    ],
+    "frequency": 172,
+    "example": "esso",
+    "examples": [
+      "esso",
+      "Esso",
+      " Esso",
+      " esso"
+    ]
+  },
+  {
+    "seq": [
+      "T",
+      "R",
+      "E"
+    ],
+    "frequency": 166,
+    "example": "tre",
+    "examples": [
+      "tre",
+      " Tre",
+      " tre",
+      "Tre"
+    ]
+  },
+  {
+    "seq": [
+      "S",
+      "U",
+      "O",
+      "I"
+    ],
+    "frequency": 166,
+    "example": "suoi",
+    "examples": [
+      "suoi",
+      "suoi;",
+      "suoi.",
+      "suoi,"
+    ]
+  },
+  {
+    "seq": [
+      "F",
+      "I",
+      "S",
+      "O"
+    ],
+    "frequency": 164,
+    "example": "viso",
+    "examples": [
+      "viso",
+      "fiso",
+      "fisso",
+      "viso;",
+      "viso,"
+    ]
+  },
+  {
+    "seq": [
+      "L",
+      "U",
+      "SH",
+      "E"
+    ],
+    "frequency": 164,
+    "example": "luce",
+    "examples": [
+      "luce",
+      "luce,",
+      "luce;",
+      "luce.",
+      "Luce"
+    ]
+  },
+  {
+    "seq": [
+      "O",
+      "NY",
+      "I"
+    ],
+    "frequency": 162,
+    "example": "ogni",
+    "examples": [
+      "ogni",
+      "Ogni"
+    ]
+  },
+  {
+    "seq": [
+      "N",
+      "O"
+    ],
+    "frequency": 161,
+    "example": "no",
+    "examples": [
+      "no",
+      "no'",
+      "No",
+      "no,",
+      "No'"
+    ]
+  },
+  {
+    "seq": [
+      "O",
+      "N",
+      "T"
+    ],
+    "frequency": 161,
+    "example": "ond'",
+    "examples": [
+      "ond'",
+      " Ond'",
+      "Ond'",
+      " ond'"
+    ]
+  },
+  {
+    "seq": [
+      "T",
+      "U",
+      "T",
+      "A"
+    ],
+    "frequency": 161,
+    "example": "tutta",
+    "examples": [
+      "tutta",
+      "tutta;",
+      " Tutta"
+    ]
+  },
+  {
+    "seq": [
+      "M",
+      "O",
+      "T",
+      "O"
+    ],
+    "frequency": 156,
+    "example": "modo",
+    "examples": [
+      "modo",
+      "moto",
+      "motto",
+      "motto,",
+      "moto;"
+    ]
+  },
+  {
+    "seq": [
+      "M",
+      "I",
+      "E",
+      "I"
+    ],
+    "frequency": 155,
+    "example": "miei",
+    "examples": [
+      "miei",
+      "miei?",
+      "miei;",
+      "miei,"
+    ]
+  },
+  {
+    "seq": [
+      "S",
+      "O",
+      "L"
+    ],
+    "frequency": 154,
+    "example": "sol",
+    "examples": [
+      "sol",
+      "Sol",
+      "sol,",
+      "sol'",
+      " Sol"
+    ]
+  },
+  {
+    "seq": [
+      "K",
+      "L",
+      "I"
+    ],
+    "frequency": 152,
+    "example": "gli",
+    "examples": [
+      "gli",
+      "Gli",
+      "·gli",
+      "gl[i]"
+    ]
+  },
+  {
+    "seq": [
+      "T",
+      "U",
+      "O"
+    ],
+    "frequency": 150,
+    "example": "tuo",
+    "examples": [
+      "tuo",
+      "tuo'",
+      "duo",
+      "Tuo"
+    ]
+  },
+  {
+    "seq": [
+      "T",
+      "A",
+      "L",
+      "A"
+    ],
+    "frequency": 148,
+    "example": "dalla",
+    "examples": [
+      "dalla",
+      "Dalla",
+      " Dalla"
+    ]
+  },
+  {
+    "seq": [
+      "F",
+      "O"
+    ],
+    "frequency": 146,
+    "example": "vo'",
+    "examples": [
+      "vo'",
+      "fo",
+      "vo",
+      "Vo'",
+      "vo',"
+    ]
+  },
+  {
+    "seq": [
+      "F",
+      "A",
+      "R",
+      "E"
+    ],
+    "frequency": 145,
+    "example": "fare",
+    "examples": [
+      "fare",
+      "fare;",
+      "fare,",
+      "fare:",
+      "fare!"
+    ]
+  },
+  {
+    "seq": [
+      "F",
+      "E",
+      "SH",
+      "E"
+    ],
+    "frequency": 144,
+    "example": "fece",
+    "examples": [
+      "fece",
+      "vece",
+      "fece;",
+      "Fece",
+      "fece,"
+    ]
+  },
+  {
+    "seq": [
+      "E",
+      "L"
+    ],
+    "frequency": 142,
+    "example": "el",
+    "examples": [
+      "el",
+      "ell'",
+      " El",
+      "El",
+      "Ell'"
+    ]
+  },
+  {
+    "seq": [
+      "E",
+      "S",
+      "A"
+    ],
+    "frequency": 142,
+    "example": "essa",
+    "examples": [
+      "essa",
+      "essa.",
+      "Essa",
+      " essa"
+    ]
+  },
+  {
+    "seq": [
+      "T",
+      "E",
+      "L",
+      "O"
+    ],
+    "frequency": 140,
+    "example": "dello",
+    "examples": [
+      "dello",
+      "Dello",
+      "telo",
+      "Delo"
+    ]
+  },
+  {
+    "seq": [
+      "M",
+      "A",
+      "L"
+    ],
+    "frequency": 137,
+    "example": "mal",
+    "examples": [
+      "mal",
+      " Mal",
+      "Mal",
+      "·mal",
+      "mal,"
+    ]
+  },
+  {
+    "seq": [
+      "O",
+      "R",
+      "A"
+    ],
+    "frequency": 137,
+    "example": "ora",
+    "examples": [
+      "ora",
+      " Ora",
+      "Ora",
+      " ora",
+      "òra"
+    ]
+  },
+  {
+    "seq": [
+      "N",
+      "E",
+      "L",
+      "I"
+    ],
+    "frequency": 134,
+    "example": "nelli",
+    "examples": [
+      "nelli",
+      "Nelli"
+    ]
+  },
+  {
+    "seq": [
+      "S",
+      "O",
+      "T",
+      "O"
+    ],
+    "frequency": 134,
+    "example": "sotto",
+    "examples": [
+      "sotto",
+      " Sotto",
+      "Sotto",
+      "sotto,",
+      "sodo"
+    ]
+  },
+  {
+    "seq": [
+      "F",
+      "E",
+      "R"
+    ],
+    "frequency": 133,
+    "example": "ver",
+    "examples": [
+      "ver",
+      "ver'",
+      "Ver",
+      "fer",
+      "Ver'"
+    ]
+  },
+  {
+    "seq": [
+      "F",
+      "U",
+      "I"
+    ],
+    "frequency": 132,
+    "example": "fui",
+    "examples": [
+      "fui",
+      "vui",
+      "fui;",
+      "fui,",
+      " Fui"
+    ]
+  },
+  {
+    "seq": [
+      "S",
+      "I",
+      "K",
+      "E"
+    ],
+    "frequency": 126,
+    "example": "sì che",
+    "examples": [
+      "sì che",
+      " sì che"
+    ]
+  },
+  {
+    "seq": [
+      "SH",
+      "I",
+      "E",
+      "L"
+    ],
+    "frequency": 126,
+    "example": "ciel",
+    "examples": [
+      "ciel"
+    ]
+  },
+  {
+    "seq": [
+      "SH",
+      "I"
+    ],
+    "frequency": 123,
+    "example": "ci",
+    "examples": [
+      "ci",
+      "gì",
+      "cci",
+      " ci"
+    ]
+  },
+  {
+    "seq": [
+      "A",
+      "L",
+      "O",
+      "R"
+    ],
+    "frequency": 123,
+    "example": "allor",
+    "examples": [
+      "allor",
+      "Allor",
+      " Allor",
+      "alor",
+      "Allor,"
+    ]
+  },
+  {
+    "seq": [
+      "F",
+      "E"
+    ],
+    "frequency": 122,
+    "example": "fé",
+    "examples": [
+      "fé",
+      "fe'",
+      "'ve",
+      "ve",
+      "fé."
+    ]
+  },
+  {
+    "seq": [
+      "N",
+      "O",
+      "L"
+    ],
+    "frequency": 122,
+    "example": "nol",
+    "examples": [
+      "nol"
+    ]
+  },
+  {
+    "seq": [
+      "P",
+      "A",
+      "R"
+    ],
+    "frequency": 121,
+    "example": "par",
+    "examples": [
+      "par",
+      "Par",
+      "par-",
+      " par"
+    ]
+  },
+  {
+    "seq": [
+      "N",
+      "U",
+      "L",
+      "A"
+    ],
+    "frequency": 121,
+    "example": "nulla",
+    "examples": [
+      "nulla",
+      "nulla,",
+      "Nulla",
+      " Nulla",
+      " Nulla."
+    ]
+  },
+  {
+    "seq": [
+      "S",
+      "O",
+      "L",
+      "E"
+    ],
+    "frequency": 120,
+    "example": "sole",
+    "examples": [
+      "sole",
+      "Sole",
+      "sòle",
+      "sole;",
+      "sole,"
+    ]
+  },
+  {
+    "seq": [
+      "T",
+      "O",
+      "N",
+      "E"
+    ],
+    "frequency": 120,
+    "example": "donne",
+    "examples": [
+      "donne",
+      "donne,",
+      "Donne",
+      "don[n]e",
+      " donne"
+    ]
+  },
+  {
+    "seq": [
+      "F",
+      "I",
+      "N",
+      "E"
+    ],
+    "frequency": 119,
+    "example": "fine",
+    "examples": [
+      "fine",
+      "Fine",
+      "fine,",
+      "fine;",
+      "fine."
+    ]
+  },
+  {
+    "seq": [
+      "H",
+      "A",
+      "N",
+      "O"
+    ],
+    "frequency": 118,
+    "example": "hanno",
+    "examples": [
+      "hanno",
+      "hanno;"
+    ]
+  },
+  {
+    "seq": [
+      "L",
+      "U",
+      "M",
+      "E"
+    ],
+    "frequency": 118,
+    "example": "lume",
+    "examples": [
+      "lume",
+      " Lume"
+    ]
+  },
+  {
+    "seq": [
+      "A",
+      "S",
+      "A",
+      "I"
+    ],
+    "frequency": 117,
+    "example": "assai",
+    "examples": [
+      "assai",
+      " Assai",
+      "assai.",
+      "assai,",
+      "as[s]ai"
+    ]
+  },
+  {
+    "seq": [
+      "N",
+      "E",
+      "L",
+      "E"
+    ],
+    "frequency": 116,
+    "example": "nelle",
+    "examples": [
+      "nelle"
+    ]
+  },
+  {
+    "seq": [
+      "P",
+      "A",
+      "R",
+      "E"
+    ],
+    "frequency": 115,
+    "example": "pare",
+    "examples": [
+      "pare",
+      "pare;",
+      "pare,"
+    ]
+  },
+  {
+    "seq": [
+      "P",
+      "U",
+      "O",
+      "N"
+    ],
+    "frequency": 115,
+    "example": "buon",
+    "examples": [
+      "buon",
+      "buon'",
+      "Buon",
+      "buon,"
+    ]
+  },
+  {
+    "seq": [
+      "F",
+      "A",
+      "T",
+      "A"
+    ],
+    "frequency": 114,
+    "example": "fatta",
+    "examples": [
+      "fatta",
+      "vada",
+      "vada;",
+      "vada,",
+      "fata;"
+    ]
+  },
+  {
+    "seq": [
+      "K",
+      "W",
+      "E",
+      "I"
+    ],
+    "frequency": 113,
+    "example": "quei",
+    "examples": [
+      "quei",
+      " Quei",
+      "Quei"
+    ]
+  },
+  {
+    "seq": [
+      "F"
+    ],
+    "frequency": 112,
+    "example": "v'",
+    "examples": [
+      "v'",
+      "'v'"
+    ]
+  },
+  {
+    "seq": [
+      "L",
+      "O",
+      "K",
+      "O"
+    ],
+    "frequency": 112,
+    "example": "loco",
+    "examples": [
+      "loco",
+      "loco;",
+      "loco,",
+      " Loco",
+      "Loco"
+    ]
+  },
+  {
+    "seq": [
+      "F",
+      "E",
+      "T",
+      "I"
+    ],
+    "frequency": 111,
+    "example": "vedi",
+    "examples": [
+      "vedi",
+      " Vedi",
+      "Vedi",
+      "vedi,",
+      " vedi"
+    ]
+  },
+  {
+    "seq": [
+      "P",
+      "E",
+      "L",
+      "A"
+    ],
+    "frequency": 110,
+    "example": "bella",
+    "examples": [
+      "bella",
+      "bella,",
+      "bella;",
+      "bella:",
+      "bella."
+    ]
+  },
+  {
+    "seq": [
+      "S",
+      "O",
+      "L",
+      "O"
+    ],
+    "frequency": 110,
+    "example": "solo",
+    "examples": [
+      "solo",
+      " Solo",
+      "sollo",
+      "solo;"
+    ]
+  },
+  {
+    "seq": [
+      "O",
+      "F",
+      "E"
+    ],
+    "frequency": 108,
+    "example": "ove",
+    "examples": [
+      "ove",
+      "Ove",
+      " Ove",
+      " ove"
+    ]
+  },
+  {
+    "seq": [
+      "K",
+      "O",
+      "R"
+    ],
+    "frequency": 107,
+    "example": "cor",
+    "examples": [
+      "cor",
+      "cor,",
+      " Cor"
+    ]
+  },
+  {
+    "seq": [
+      "N",
+      "O",
+      "M",
+      "E"
+    ],
+    "frequency": 107,
+    "example": "nome",
+    "examples": [
+      "nome",
+      "nome;",
+      "nome.",
+      "nome,"
+    ]
+  },
+  {
+    "seq": [
+      "P",
+      "O",
+      "K",
+      "A"
+    ],
+    "frequency": 107,
+    "example": "bocca",
+    "examples": [
+      "bocca",
+      "poca",
+      "Bocca",
+      "Boc[c]a",
+      "Bocca,"
+    ]
+  },
+  {
+    "seq": [
+      "T",
+      "E",
+      "E"
+    ],
+    "frequency": 106,
+    "example": "dee",
+    "examples": [
+      "dee",
+      "Dee",
+      "dee;",
+      "dee?",
+      "dee,"
+    ]
+  },
+  {
+    "seq": [
+      "N",
+      "E",
+      "L",
+      "O"
+    ],
+    "frequency": 106,
+    "example": "nello",
+    "examples": [
+      "nello",
+      " Nello"
+    ]
+  },
+  {
+    "seq": [
+      "S",
+      "E",
+      "N"
+    ],
+    "frequency": 105,
+    "example": "sen",
+    "examples": [
+      "sen",
+      "senn'",
+      "sen[n]"
+    ]
+  },
+  {
+    "seq": [
+      "T",
+      "I",
+      "R"
+    ],
+    "frequency": 104,
+    "example": "dir",
+    "examples": [
+      "dir",
+      "dir:",
+      "Dir"
+    ]
+  },
+  {
+    "seq": [
+      "K",
+      "O",
+      "L",
+      "A"
+    ],
+    "frequency": 104,
+    "example": "colla",
+    "examples": [
+      "colla",
+      "gola",
+      "colà",
+      "Colla",
+      "Colà"
+    ]
+  },
+  {
+    "seq": [
+      "F",
+      "U",
+      "O",
+      "R"
+    ],
+    "frequency": 103,
+    "example": "fuor",
+    "examples": [
+      "fuor",
+      "Fuor",
+      "fuor,",
+      "fuor;"
+    ]
+  },
+  {
+    "seq": [
+      "K",
+      "O",
+      "R",
+      "E"
+    ],
+    "frequency": 103,
+    "example": "core",
+    "examples": [
+      "core",
+      "corre",
+      "core,",
+      "core.",
+      "core;"
+    ]
+  },
+  {
+    "seq": [
+      "K",
+      "O"
+    ],
+    "frequency": 101,
+    "example": "co'",
+    "examples": [
+      "co'",
+      "co",
+      "Co",
+      "Co'",
+      " Co'"
+    ]
+  },
+  {
+    "seq": [
+      "A",
+      "L",
+      "O"
+    ],
+    "frequency": 101,
+    "example": "allo",
+    "examples": [
+      "allo",
+      " Allo",
+      "àllo",
+      "alo",
+      "Alló"
+    ]
+  },
+  {
+    "seq": [
+      "F",
+      "E",
+      "R",
+      "A"
+    ],
+    "frequency": 101,
+    "example": "vera",
+    "examples": [
+      "vera",
+      "verrà",
+      "fera",
+      "fera.",
+      "fera,"
+    ]
+  },
+  {
+    "seq": [
+      "M",
+      "E",
+      "K",
+      "O"
+    ],
+    "frequency": 100,
+    "example": "meco",
+    "examples": [
+      "meco",
+      "meco,"
+    ]
+  },
+  {
+    "seq": [
+      "F",
+      "E",
+      "N",
+      "E"
+    ],
+    "frequency": 97,
+    "example": "venne",
+    "examples": [
+      "venne",
+      "vene",
+      "vène",
+      "ven[n]e",
+      "vene;"
+    ]
+  },
+  {
+    "seq": [
+      "SH",
+      "I",
+      "U"
+    ],
+    "frequency": 96,
+    "example": "giù",
+    "examples": [
+      "giù",
+      " Giù",
+      " giù"
+    ]
+  },
+  {
+    "seq": [
+      "F",
+      "O",
+      "SH",
+      "E"
+    ],
+    "frequency": 96,
+    "example": "voce",
+    "examples": [
+      "voce",
+      "foce"
+    ]
+  },
+  {
+    "seq": [
+      "A",
+      "L",
+      "T",
+      "O"
+    ],
+    "frequency": 95,
+    "example": "alto",
+    "examples": [
+      "alto",
+      " Alto",
+      "alto;"
+    ]
+  },
+  {
+    "seq": [
+      "A",
+      "R",
+      "T",
+      "E"
+    ],
+    "frequency": 95,
+    "example": "arte",
+    "examples": [
+      "arte",
+      "arte;",
+      "arde",
+      "arte,",
+      "arte."
+    ]
+  },
+  {
+    "seq": [
+      "M",
+      "E",
+      "N"
+    ],
+    "frequency": 94,
+    "example": "men",
+    "examples": [
+      "men",
+      "Men",
+      " men"
+    ]
+  },
+  {
+    "seq": [
+      "T",
+      "I",
+      "S",
+      "I"
+    ],
+    "frequency": 94,
+    "example": "dissi",
+    "examples": [
+      "dissi",
+      "dissi:",
+      " dissi"
+    ]
+  },
+  {
+    "seq": [
+      "A",
+      "L",
+      "E"
+    ],
+    "frequency": 92,
+    "example": "alle",
+    "examples": [
+      "alle",
+      "ale",
+      "àlle",
+      "ale;",
+      "ale:"
+    ]
+  },
+  {
+    "seq": [
+      "A",
+      "F",
+      "E",
+      "R"
+    ],
+    "frequency": 91,
+    "example": "aver",
+    "examples": [
+      "aver",
+      "aver,",
+      " aver"
+    ]
+  },
+  {
+    "seq": [
+      "T",
+      "U",
+      "K",
+      "A"
+    ],
+    "frequency": 89,
+    "example": "duca",
+    "examples": [
+      "duca",
+      "duca;"
+    ]
+  },
+  {
+    "seq": [
+      "I",
+      "N",
+      "S",
+      "U"
+    ],
+    "frequency": 88,
+    "example": "in su",
+    "examples": [
+      "in su",
+      "in sù",
+      " In su",
+      "In su"
+    ]
+  },
+  {
+    "seq": [
+      "O",
+      "M",
+      "A",
+      "I"
+    ],
+    "frequency": 87,
+    "example": "omai",
+    "examples": [
+      "omai",
+      "Omai",
+      " Omai",
+      "omai,",
+      "omai;"
+    ]
+  },
+  {
+    "seq": [
+      "F",
+      "U",
+      "E"
+    ],
+    "frequency": 86,
+    "example": "fue",
+    "examples": [
+      "fue",
+      "fue;"
+    ]
+  },
+  {
+    "seq": [
+      "A",
+      "N",
+      "K",
+      "E"
+    ],
+    "frequency": 86,
+    "example": "anche",
+    "examples": [
+      "anche",
+      " Anche"
+    ]
+  },
+  {
+    "seq": [
+      "T",
+      "A",
+      "L",
+      "E"
+    ],
+    "frequency": 86,
+    "example": "tale",
+    "examples": [
+      "tale",
+      "dalle",
+      "dàlle",
+      " Tale",
+      "Tale"
+    ]
+  },
+  {
+    "seq": [
+      "H",
+      "A",
+      "I"
+    ],
+    "frequency": 84,
+    "example": "hai",
+    "examples": [
+      "hai",
+      "hai,",
+      "hai'",
+      "Hai"
+    ]
+  },
+  {
+    "seq": [
+      "F",
+      "O",
+      "K",
+      "O"
+    ],
+    "frequency": 84,
+    "example": "foco",
+    "examples": [
+      "foco",
+      "Foco",
+      "foco.",
+      "foco?",
+      "voco,"
+    ]
+  },
+  {
+    "seq": [
+      "H",
+      "O"
+    ],
+    "frequency": 82,
+    "example": "ho",
+    "examples": [
+      "ho",
+      " Ho",
+      "ho,"
+    ]
+  },
+  {
+    "seq": [
+      "P",
+      "E",
+      "R",
+      "K"
+    ],
+    "frequency": 82,
+    "example": "perch'",
+    "examples": [
+      "perch'",
+      "Perch'",
+      " perch'",
+      " Perch'",
+      "Perc[h]"
+    ]
+  },
+  {
+    "seq": [
+      "S",
+      "A",
+      "R",
+      "A"
+    ],
+    "frequency": 82,
+    "example": "sarà",
+    "examples": [
+      "sarà",
+      "sarà'",
+      "sara",
+      "ssarà",
+      " Sarra"
+    ]
+  },
+  {
+    "seq": [
+      "U",
+      "O",
+      "M"
+    ],
+    "frequency": 81,
+    "example": "uom",
+    "examples": [
+      "uom",
+      "uom'"
+    ]
+  },
+  {
+    "seq": [
+      "A",
+      "K",
+      "W",
+      "A"
+    ],
+    "frequency": 81,
+    "example": "acqua",
+    "examples": [
+      "acqua",
+      "acqua;"
+    ]
+  },
+  {
+    "seq": [
+      "P",
+      "O",
+      "S",
+      "A"
+    ],
+    "frequency": 81,
+    "example": "possa",
+    "examples": [
+      "possa",
+      "posa",
+      "possa;",
+      "posa;",
+      "posa."
+    ]
+  },
+  {
+    "seq": [
+      "N",
+      "O",
+      "T",
+      "E"
+    ],
+    "frequency": 80,
+    "example": "notte",
+    "examples": [
+      "notte",
+      "note",
+      "note?.",
+      "note;"
+    ]
+  },
+  {
+    "seq": [
+      "T",
+      "I",
+      "E"
+    ],
+    "frequency": 79,
+    "example": "die",
+    "examples": [
+      "die",
+      "diè",
+      "Die",
+      "die'",
+      "dìe"
+    ]
+  },
+  {
+    "seq": [
+      "P",
+      "A",
+      "S",
+      "O"
+    ],
+    "frequency": 79,
+    "example": "passo",
+    "examples": [
+      "passo",
+      "basso",
+      "passò",
+      "passo,",
+      "basso."
+    ]
+  },
+  {
+    "seq": [
+      "K",
+      "W",
+      "E"
+    ],
+    "frequency": 77,
+    "example": "que'",
+    "examples": [
+      "que'",
+      "Que'",
+      "que',",
+      "que",
+      " que'"
+    ]
+  },
+  {
+    "seq": [
+      "M",
+      "I",
+      "E"
+    ],
+    "frequency": 77,
+    "example": "mie",
+    "examples": [
+      "mie",
+      "mie'",
+      "mie',",
+      "mie;"
+    ]
+  },
+  {
+    "seq": [
+      "T",
+      "A",
+      "R",
+      "E"
+    ],
+    "frequency": 77,
+    "example": "dare",
+    "examples": [
+      "dare",
+      "Dare",
+      "Dare.",
+      "dare,"
+    ]
+  },
+  {
+    "seq": [
+      "SH"
+    ],
+    "frequency": 76,
+    "example": "c'",
+    "examples": [
+      "c'",
+      "C",
+      "c"
+    ]
+  },
+  {
+    "seq": [
+      "A",
+      "T",
+      "O"
+    ],
+    "frequency": 76,
+    "example": "atto",
+    "examples": [
+      "atto",
+      "Atto"
+    ]
+  },
+  {
+    "seq": [
+      "F",
+      "U",
+      "O",
+      "L"
+    ],
+    "frequency": 76,
+    "example": "vuol",
+    "examples": [
+      "vuol",
+      "vuol,",
+      "Vuol",
+      " vuol"
+    ]
+  },
+  {
+    "seq": [
+      "M",
+      "E",
+      "N",
+      "O"
+    ],
+    "frequency": 76,
+    "example": "meno",
+    "examples": [
+      "meno",
+      "menò",
+      "meno;",
+      "meno,"
+    ]
+  },
+  {
+    "seq": [
+      "O",
+      "H"
+    ],
+    "frequency": 75,
+    "example": "Oh",
+    "examples": [
+      "Oh",
+      " Oh",
+      "oh",
+      "Oh,"
+    ]
+  },
+  {
+    "seq": [
+      "S",
+      "O"
+    ],
+    "frequency": 75,
+    "example": "so",
+    "examples": [
+      "so",
+      "so'",
+      "So",
+      "so;",
+      "so,"
+    ]
+  },
+  {
+    "seq": [
+      "E",
+      "R",
+      "A",
+      "N"
+    ],
+    "frequency": 75,
+    "example": "eran",
+    "examples": [
+      "eran",
+      " Eran"
+    ]
+  },
+  {
+    "seq": [
+      "A",
+      "I"
+    ],
+    "frequency": 72,
+    "example": "ai",
+    "examples": [
+      "ai",
+      "ài",
+      "ài.",
+      "ài;"
+    ]
+  },
+  {
+    "seq": [
+      "P",
+      "A",
+      "SH",
+      "E"
+    ],
+    "frequency": 71,
+    "example": "pace",
+    "examples": [
+      "pace",
+      "pace.",
+      "pasce",
+      "pace;",
+      " Pace"
+    ]
+  },
+  {
+    "seq": [
+      "E",
+      "P",
+      "E"
+    ],
+    "frequency": 70,
+    "example": "ebbe",
+    "examples": [
+      "ebbe",
+      "eb[b]e",
+      " ebbe",
+      "epe"
+    ]
+  },
+  {
+    "seq": [
+      "E",
+      "K",
+      "L",
+      "I"
+    ],
+    "frequency": 69,
+    "example": "egli",
+    "examples": [
+      "egli",
+      "Egli",
+      "egl[i]",
+      "egli,"
+    ]
+  },
+  {
+    "seq": [
+      "O",
+      "K",
+      "I",
+      "O"
+    ],
+    "frequency": 69,
+    "example": "occhio",
+    "examples": [
+      "occhio"
+    ]
+  },
+  {
+    "seq": [
+      "S",
+      "E",
+      "T",
+      "E"
+    ],
+    "frequency": 69,
+    "example": "sette",
+    "examples": [
+      "sette",
+      "sete",
+      " Sette",
+      "sete:"
+    ]
+  },
+  {
+    "seq": [
+      "E",
+      "I"
+    ],
+    "frequency": 68,
+    "example": "ei",
+    "examples": [
+      "ei",
+      "Ei",
+      " Ei",
+      "èi"
+    ]
+  },
+  {
+    "seq": [
+      "P",
+      "O"
+    ],
+    "frequency": 68,
+    "example": "Po'",
+    "examples": [
+      "Po'",
+      "po'",
+      "pò",
+      "Po"
+    ]
+  },
+  {
+    "seq": [
+      "F",
+      "I",
+      "T",
+      "E"
+    ],
+    "frequency": 65,
+    "example": "vide",
+    "examples": [
+      "vide",
+      "vite",
+      "vide,",
+      "fide",
+      "Vide"
+    ]
+  },
+  {
+    "seq": [
+      "M",
+      "A",
+      "N",
+      "O"
+    ],
+    "frequency": 64,
+    "example": "mano",
+    "examples": [
+      "mano",
+      "mano,",
+      "mano.",
+      "mano;",
+      "mmano."
+    ]
+  },
+  {
+    "seq": [
+      "T",
+      "A",
+      "L",
+      "I"
+    ],
+    "frequency": 64,
+    "example": "dalli",
+    "examples": [
+      "dalli",
+      "tali",
+      " tali",
+      "tali;"
+    ]
+  },
+  {
+    "seq": [
+      "T",
+      "O",
+      "P",
+      "O"
+    ],
+    "frequency": 64,
+    "example": "dopo",
+    "examples": [
+      "dopo",
+      " Dopo",
+      "Dopo",
+      "Toppo",
+      "topo"
+    ]
+  },
+  {
+    "seq": [
+      "F",
+      "I",
+      "E",
+      "N"
+    ],
+    "frequency": 62,
+    "example": "vien",
+    "examples": [
+      "vien",
+      "Vien",
+      "fien",
+      " Vien",
+      "vien'"
+    ]
+  },
+  {
+    "seq": [
+      "S",
+      "E",
+      "NY",
+      "O"
+    ],
+    "frequency": 62,
+    "example": "segno",
+    "examples": [
+      "segno",
+      "segnó",
+      "segnò",
+      "segno;",
+      "segno,"
+    ]
+  },
+  {
+    "seq": [
+      "F",
+      "O",
+      "L",
+      "E"
+    ],
+    "frequency": 61,
+    "example": "folle",
+    "examples": [
+      "folle",
+      "volle",
+      "vole",
+      "vole,",
+      "Folle,"
+    ]
+  },
+  {
+    "seq": [
+      "M",
+      "A",
+      "L",
+      "E"
+    ],
+    "frequency": 61,
+    "example": "male",
+    "examples": [
+      "male",
+      "male;",
+      "male,",
+      "male.",
+      " male"
+    ]
+  },
+  {
+    "seq": [
+      "O",
+      "F"
+    ],
+    "frequency": 60,
+    "example": "ov'",
+    "examples": [
+      "ov'",
+      "Ov'",
+      " ov'",
+      " Ov'"
+    ]
+  },
+  {
+    "seq": [
+      "M",
+      "A",
+      "N"
+    ],
+    "frequency": 60,
+    "example": "man",
+    "examples": [
+      "man",
+      "man,"
+    ]
+  },
+  {
+    "seq": [
+      "T",
+      "I",
+      "M",
+      "I"
+    ],
+    "frequency": 60,
+    "example": "dimmi",
+    "examples": [
+      "dimmi",
+      " dimmi",
+      "Dimmi",
+      "dimmi,"
+    ]
+  },
+  {
+    "seq": [
+      "P",
+      "R",
+      "I",
+      "A"
+    ],
+    "frequency": 58,
+    "example": "pria",
+    "examples": [
+      "pria",
+      "pria;",
+      "pria."
+    ]
+  },
+  {
+    "seq": [
+      "M",
+      "I",
+      "R",
+      "A"
+    ],
+    "frequency": 57,
+    "example": "mira",
+    "examples": [
+      "mira",
+      "Mira",
+      " Mira",
+      "mira,",
+      "mira;"
+    ]
+  },
+  {
+    "seq": [
+      "M",
+      "O",
+      "S",
+      "E"
+    ],
+    "frequency": 57,
+    "example": "mosse",
+    "examples": [
+      "mosse",
+      " mosse",
+      " Mosse",
+      "mosse."
+    ]
+  },
+  {
+    "seq": [
+      "S",
+      "E",
+      "K",
+      "O"
+    ],
+    "frequency": 57,
+    "example": "seco",
+    "examples": [
+      "seco",
+      "secco",
+      "secco;",
+      "sego",
+      "segò"
+    ]
+  },
+  {
+    "seq": [
+      "S",
+      "I",
+      "E"
+    ],
+    "frequency": 56,
+    "example": "sie",
+    "examples": [
+      "sie",
+      "sie,",
+      "Sie",
+      "ssie",
+      "sie'"
+    ]
+  },
+  {
+    "seq": [
+      "F",
+      "A",
+      "L",
+      "E"
+    ],
+    "frequency": 56,
+    "example": "valle",
+    "examples": [
+      "valle",
+      "vale",
+      "falle",
+      "vale.",
+      "Falle"
+    ]
+  },
+  {
+    "seq": [
+      "K",
+      "A",
+      "R",
+      "O"
+    ],
+    "frequency": 55,
+    "example": "caro",
+    "examples": [
+      "caro",
+      "carro",
+      "caro;",
+      "caro.",
+      "Carro"
+    ]
+  },
+  {
+    "seq": [
+      "P",
+      "A",
+      "S",
+      "I"
+    ],
+    "frequency": 55,
+    "example": "passi",
+    "examples": [
+      "passi",
+      "bassi",
+      "passi."
+    ]
+  },
+  {
+    "seq": [
+      "P",
+      "E",
+      "N",
+      "A"
+    ],
+    "frequency": 55,
+    "example": "pena",
+    "examples": [
+      "pena",
+      "penna",
+      "pena,",
+      "Pena",
+      "pena;"
+    ]
+  },
+  {
+    "seq": [
+      "P",
+      "E",
+      "L"
+    ],
+    "frequency": 54,
+    "example": "bel",
+    "examples": [
+      "bel",
+      "pel",
+      "bell'",
+      "bel[l]",
+      "bel,"
+    ]
+  },
+  {
+    "seq": [
+      "T",
+      "I",
+      "S"
+    ],
+    "frequency": 54,
+    "example": "diss'",
+    "examples": [
+      "diss'",
+      "dis-",
+      "Diss'",
+      "diss':"
+    ]
+  },
+  {
+    "seq": [
+      "A",
+      "E",
+      "R",
+      "E"
+    ],
+    "frequency": 54,
+    "example": "aere",
+    "examples": [
+      "aere"
+    ]
+  },
+  {
+    "seq": [
+      "F",
+      "A",
+      "T",
+      "I"
+    ],
+    "frequency": 54,
+    "example": "fatti",
+    "examples": [
+      "fatti",
+      "vadi",
+      "Fatti",
+      "fatti,",
+      " vadi"
+    ]
+  },
+  {
+    "seq": [
+      "T",
+      "E",
+      "NY",
+      "O"
+    ],
+    "frequency": 54,
+    "example": "degno",
+    "examples": [
+      "degno",
+      "tegno",
+      "degnò",
+      "degno.",
+      " Degno"
+    ]
+  },
+  {
+    "seq": [
+      "T",
+      "I",
+      "L",
+      "A"
+    ],
+    "frequency": 54,
+    "example": "di là",
+    "examples": [
+      "di là",
+      " Di là"
+    ]
+  },
+  {
+    "seq": [
+      "A",
+      "R",
+      "K",
+      "O"
+    ],
+    "frequency": 53,
+    "example": "arco",
+    "examples": [
+      "arco",
+      "Argo"
+    ]
+  },
+  {
+    "seq": [
+      "P",
+      "E",
+      "L",
+      "O"
+    ],
+    "frequency": 53,
+    "example": "bello",
+    "examples": [
+      "bello",
+      "pelo",
+      "bello,",
+      "bello;",
+      "Belo"
+    ]
+  },
+  {
+    "seq": [
+      "P",
+      "I",
+      "E"
+    ],
+    "frequency": 52,
+    "example": "piè",
+    "examples": [
+      "piè",
+      "pie'",
+      " piè",
+      "pie"
+    ]
+  },
+  {
+    "seq": [
+      "K",
+      "U",
+      "R",
+      "A"
+    ],
+    "frequency": 52,
+    "example": "cura",
+    "examples": [
+      "cura",
+      "cura;",
+      "cura."
+    ]
+  },
+  {
+    "seq": [
+      "P",
+      "E",
+      "T",
+      "O"
+    ],
+    "frequency": 52,
+    "example": "petto",
+    "examples": [
+      "petto",
+      "petto,",
+      "petto;"
+    ]
+  },
+  {
+    "seq": [
+      "S",
+      "O",
+      "L",
+      "A"
+    ],
+    "frequency": 52,
+    "example": "sola",
+    "examples": [
+      "sola",
+      " Sola",
+      "solla"
+    ]
+  },
+  {
+    "seq": [
+      "F",
+      "A",
+      "I"
+    ],
+    "frequency": 51,
+    "example": "fai",
+    "examples": [
+      "fai",
+      "vai",
+      "ffai",
+      "vai:",
+      "fai,"
+    ]
+  },
+  {
+    "seq": [
+      "F",
+      "I",
+      "O",
+      "R"
+    ],
+    "frequency": 51,
+    "example": "fior",
+    "examples": [
+      "fior",
+      "fior,"
+    ]
+  },
+  {
+    "seq": [
+      "P",
+      "O",
+      "S",
+      "O"
+    ],
+    "frequency": 51,
+    "example": "posso",
+    "examples": [
+      "posso",
+      "posso,",
+      "posò",
+      "posso;",
+      "posso:"
+    ]
+  },
+  {
+    "seq": [
+      "K",
+      "O",
+      "I"
+    ],
+    "frequency": 50,
+    "example": "coi",
+    "examples": [
+      "coi",
+      " Coi"
+    ]
+  },
+  {
+    "seq": [
+      "K",
+      "O",
+      "L",
+      "I"
+    ],
+    "frequency": 50,
+    "example": "colli",
+    "examples": [
+      "colli",
+      "colli,",
+      "colli.",
+      "colli:"
+    ]
+  },
+  {
+    "seq": [
+      "L",
+      "E",
+      "SH",
+      "E"
+    ],
+    "frequency": 50,
+    "example": "legge",
+    "examples": [
+      "legge",
+      "lece",
+      "leg[g]e",
+      "Legge"
+    ]
+  },
+  {
+    "seq": [
+      "U",
+      "O",
+      "N"
+    ],
+    "frequency": 49,
+    "example": "uon",
+    "examples": [
+      "uon",
+      "uon,"
+    ]
+  },
+  {
+    "seq": [
+      "F",
+      "A",
+      "SH",
+      "E"
+    ],
+    "frequency": 48,
+    "example": "face",
+    "examples": [
+      "face",
+      "facce",
+      "fasce",
+      "facé'",
+      "face;"
+    ]
+  },
+  {
+    "seq": [
+      "N",
+      "U",
+      "L",
+      "O"
+    ],
+    "frequency": 48,
+    "example": "nullo",
+    "examples": [
+      "nullo",
+      " Nullo",
+      "Nullo"
+    ]
+  },
+  {
+    "seq": [
+      "K",
+      "U"
+    ],
+    "frequency": 47,
+    "example": "cu'",
+    "examples": [
+      "cu'",
+      "Cu'"
+    ]
+  },
+  {
+    "seq": [
+      "A",
+      "N",
+      "I"
+    ],
+    "frequency": 47,
+    "example": "anni",
+    "examples": [
+      "anni"
+    ]
+  },
+  {
+    "seq": [
+      "T",
+      "O",
+      "F"
+    ],
+    "frequency": 47,
+    "example": "dov'",
+    "examples": [
+      "dov'",
+      "Dov'",
+      " dov'"
+    ]
+  },
+  {
+    "seq": [
+      "A",
+      "L",
+      "T",
+      "A"
+    ],
+    "frequency": 47,
+    "example": "alta",
+    "examples": [
+      "alta"
+    ]
+  },
+  {
+    "seq": [
+      "S",
+      "E",
+      "M",
+      "E"
+    ],
+    "frequency": 47,
+    "example": "seme",
+    "examples": [
+      "seme"
+    ]
+  },
+  {
+    "seq": [
+      "S",
+      "A"
+    ],
+    "frequency": 46,
+    "example": "sa",
+    "examples": [
+      "sa",
+      "sa'",
+      "sa,",
+      "sa;",
+      "ssa"
+    ]
+  },
+  {
+    "seq": [
+      "I",
+      "N",
+      "T",
+      "I"
+    ],
+    "frequency": 46,
+    "example": " Indi",
+    "examples": [
+      " Indi",
+      "indi",
+      " indi",
+      "Indi"
+    ]
+  },
+  {
+    "seq": [
+      "F",
+      "I",
+      "T"
+    ],
+    "frequency": 45,
+    "example": "vid'",
+    "examples": [
+      "vid'",
+      " vid'"
+    ]
+  },
+  {
+    "seq": [
+      "O",
+      "R",
+      "O"
+    ],
+    "frequency": 45,
+    "example": "oro",
+    "examples": [
+      "oro",
+      "oro,",
+      "Oro",
+      "oro;",
+      " Oro"
+    ]
+  },
+  {
+    "seq": [
+      "S",
+      "A",
+      "I"
+    ],
+    "frequency": 45,
+    "example": "sai",
+    "examples": [
+      "sai",
+      "ssai",
+      "sai.",
+      "sai;",
+      "sai,"
+    ]
+  },
+  {
+    "seq": [
+      "K",
+      "A",
+      "P",
+      "O"
+    ],
+    "frequency": 45,
+    "example": "capo",
+    "examples": [
+      "capo",
+      "capo,",
+      "gabbo",
+      "capo.",
+      "Capo"
+    ]
+  },
+  {
+    "seq": [
+      "P",
+      "U",
+      "O",
+      "I"
+    ],
+    "frequency": 45,
+    "example": "puoi",
+    "examples": [
+      "puoi",
+      "buoi",
+      "puoi,",
+      "puoi;",
+      " puoi"
+    ]
+  },
+  {
+    "seq": [
+      "E",
+      "K",
+      "O"
+    ],
+    "frequency": 44,
+    "example": "ecco",
+    "examples": [
+      "ecco",
+      "Ecco",
+      "Ego",
+      " Ecco",
+      "Ec[c]o"
+    ]
+  },
+  {
+    "seq": [
+      "E",
+      "S",
+      "E"
+    ],
+    "frequency": 44,
+    "example": "esse",
+    "examples": [
+      "esse"
+    ]
+  },
+  {
+    "seq": [
+      "F",
+      "I",
+      "L",
+      "E"
+    ],
+    "frequency": 44,
+    "example": "vile",
+    "examples": [
+      "vile",
+      "ville",
+      "vile?",
+      "vile;",
+      "vile."
+    ]
+  },
+  {
+    "seq": [
+      "M",
+      "I",
+      "L",
+      "E"
+    ],
+    "frequency": 44,
+    "example": "mille",
+    "examples": [
+      "mille",
+      "mille;",
+      "mille,",
+      " Mille",
+      "mille."
+    ]
+  },
+  {
+    "seq": [
+      "A",
+      "N",
+      "O"
+    ],
+    "frequency": 43,
+    "example": "anno",
+    "examples": [
+      "anno",
+      "ànno",
+      "anno;",
+      "àn[n]o",
+      "Ànno"
+    ]
+  },
+  {
+    "seq": [
+      "S",
+      "U",
+      "S",
+      "O"
+    ],
+    "frequency": 43,
+    "example": "suso",
+    "examples": [
+      "suso",
+      "suso,",
+      "suso;",
+      " Suso"
+    ]
+  },
+  {
+    "seq": [
+      "I",
+      "R",
+      "A"
+    ],
+    "frequency": 42,
+    "example": "ira",
+    "examples": [
+      "ira",
+      "Ira",
+      "ira;",
+      "ira,",
+      "ira."
+    ]
+  },
+  {
+    "seq": [
+      "S",
+      "E",
+      "T"
+    ],
+    "frequency": 42,
+    "example": "Sed",
+    "examples": [
+      "Sed",
+      "sed"
+    ]
+  },
+  {
+    "seq": [
+      "T",
+      "E",
+      "I"
+    ],
+    "frequency": 42,
+    "example": "dei",
+    "examples": [
+      "dei",
+      "dèi",
+      "Dei",
+      "déi",
+      " Dei"
+    ]
+  },
+  {
+    "seq": [
+      "K",
+      "A",
+      "T",
+      "E"
+    ],
+    "frequency": 42,
+    "example": "cade",
+    "examples": [
+      "cade",
+      "cadde",
+      "cade;",
+      " Cade",
+      "gatte"
+    ]
+  },
+  {
+    "seq": [
+      "K",
+      "O",
+      "L",
+      "E"
+    ],
+    "frequency": 42,
+    "example": "colle",
+    "examples": [
+      "colle",
+      "cole'",
+      "gole",
+      "Colle"
+    ]
+  },
+  {
+    "seq": [
+      "M",
+      "E",
+      "S",
+      "O"
+    ],
+    "frequency": 42,
+    "example": "messo",
+    "examples": [
+      "messo",
+      " Messo"
+    ]
+  },
+  {
+    "seq": [
+      "N",
+      "O",
+      "N",
+      "U"
+    ],
+    "frequency": 42,
+    "example": "nonnù",
+    "examples": [
+      "nonnù",
+      "Nonnù"
+    ]
+  },
+  {
+    "seq": [
+      "R",
+      "E",
+      "NY",
+      "O"
+    ],
+    "frequency": 42,
+    "example": "regno",
+    "examples": [
+      "regno",
+      "regno,",
+      "regno.",
+      "regno;"
+    ]
+  },
+  {
+    "seq": [
+      "U",
+      "S",
+      "O"
+    ],
+    "frequency": 41,
+    "example": "uso",
+    "examples": [
+      "uso",
+      "usò",
+      " Uso",
+      "usò;",
+      "uso,"
+    ]
+  },
+  {
+    "seq": [
+      "F",
+      "U",
+      "M",
+      "O"
+    ],
+    "frequency": 41,
+    "example": "fummo",
+    "examples": [
+      "fummo"
+    ]
+  },
+  {
+    "seq": [
+      "A",
+      "T",
+      "I"
+    ],
+    "frequency": 40,
+    "example": "atti",
+    "examples": [
+      "atti",
+      "àtti"
+    ]
+  },
+  {
+    "seq": [
+      "P",
+      "E",
+      "L",
+      "E"
+    ],
+    "frequency": 40,
+    "example": "belle",
+    "examples": [
+      "belle",
+      "pelle",
+      "belle;",
+      "Belle",
+      "bele."
+    ]
+  },
+  {
+    "seq": [
+      "T",
+      "O",
+      "R",
+      "E"
+    ],
+    "frequency": 40,
+    "example": "tòrre",
+    "examples": [
+      "tòrre",
+      "torre",
+      "tòrre;",
+      "tor[r]e",
+      "torre;"
+    ]
+  },
+  {
+    "seq": [
+      "R",
+      "O",
+      "T",
+      "A"
+    ],
+    "frequency": 39,
+    "example": "rota",
+    "examples": [
+      "rota",
+      "rotta",
+      "rota;"
+    ]
+  },
+  {
+    "seq": [
+      "S",
+      "O",
+      "M",
+      "O"
+    ],
+    "frequency": 39,
+    "example": "sommo",
+    "examples": [
+      "sommo"
+    ]
+  },
+  {
+    "seq": [
+      "T",
+      "O",
+      "N",
+      "O"
+    ],
+    "frequency": 39,
+    "example": "dono",
+    "examples": [
+      "dono",
+      "donno",
+      "dono.",
+      "dono,",
+      "donò"
+    ]
+  },
+  {
+    "seq": [
+      "A",
+      "M",
+      "A"
+    ],
+    "frequency": 38,
+    "example": "ama",
+    "examples": [
+      "ama",
+      "ama,",
+      "ama;"
+    ]
+  },
+  {
+    "seq": [
+      "O",
+      "M",
+      "O"
+    ],
+    "frequency": 38,
+    "example": "omo",
+    "examples": [
+      "omo",
+      "Omo",
+      "omo,"
+    ]
+  },
+  {
+    "seq": [
+      "F",
+      "A",
+      "R",
+      "A"
+    ],
+    "frequency": 38,
+    "example": "farà",
+    "examples": [
+      "farà",
+      "varrà",
+      "farà'",
+      " farà"
+    ]
+  },
+  {
+    "seq": [
+      "F",
+      "E",
+      "SH",
+      "I"
+    ],
+    "frequency": 38,
+    "example": "feci",
+    "examples": [
+      "feci",
+      "veggi",
+      "veggi'",
+      "feggi."
+    ]
+  },
+  {
+    "seq": [
+      "F",
+      "O",
+      "S",
+      "I"
+    ],
+    "frequency": 38,
+    "example": "fossi",
+    "examples": [
+      "fossi",
+      "fossi;"
+    ]
+  },
+  {
+    "seq": [
+      "K",
+      "U",
+      "O",
+      "R"
+    ],
+    "frequency": 38,
+    "example": "cuor",
+    "examples": [
+      "cuor",
+      "cuor,",
+      "Cuor"
+    ]
+  },
+  {
+    "seq": [
+      "N",
+      "O",
+      "F",
+      "E"
+    ],
+    "frequency": 38,
+    "example": "nove",
+    "examples": [
+      "nove",
+      "nove;",
+      "Nove",
+      "nove:",
+      "nove,"
+    ]
+  },
+  {
+    "seq": [
+      "R",
+      "A",
+      "SH",
+      "I"
+    ],
+    "frequency": 38,
+    "example": "raggi",
+    "examples": [
+      "raggi"
+    ]
+  },
+  {
+    "seq": [
+      "I",
+      "F",
+      "I"
+    ],
+    "frequency": 37,
+    "example": "ivi",
+    "examples": [
+      "ivi",
+      " Ivi"
+    ]
+  },
+  {
+    "seq": [
+      "S",
+      "I",
+      "K"
+    ],
+    "frequency": 37,
+    "example": "sì ch'",
+    "examples": [
+      "sì ch'",
+      " sì ch'"
+    ]
+  },
+  {
+    "seq": [
+      "S",
+      "T",
+      "A"
+    ],
+    "frequency": 37,
+    "example": "sta",
+    "examples": [
+      "sta",
+      "sta,"
+    ]
+  },
+  {
+    "seq": [
+      "F",
+      "A",
+      "M",
+      "A"
+    ],
+    "frequency": 37,
+    "example": "fama",
+    "examples": [
+      "fama",
+      "Fama",
+      "fama.",
+      " Fama"
+    ]
+  },
+  {
+    "seq": [
+      "F",
+      "I",
+      "F",
+      "A"
+    ],
+    "frequency": 37,
+    "example": "viva",
+    "examples": [
+      "viva",
+      "Viva",
+      "viva;"
+    ]
+  },
+  {
+    "seq": [
+      "F",
+      "O",
+      "R",
+      "A"
+    ],
+    "frequency": 37,
+    "example": "fora",
+    "examples": [
+      "fora",
+      "vorrà",
+      "fóra",
+      "fora;",
+      "fora,"
+    ]
+  },
+  {
+    "seq": [
+      "K",
+      "O",
+      "L",
+      "O"
+    ],
+    "frequency": 37,
+    "example": "collo",
+    "examples": [
+      "collo"
+    ]
+  },
+  {
+    "seq": [
+      "N",
+      "O",
+      "F",
+      "A"
+    ],
+    "frequency": 37,
+    "example": "nova",
+    "examples": [
+      "nova",
+      "nova,",
+      "Nova",
+      "nova;"
+    ]
+  },
+  {
+    "seq": [
+      "S",
+      "T",
+      "A",
+      "R"
+    ],
+    "frequency": 37,
+    "example": "star",
+    "examples": [
+      "star"
+    ]
+  },
+  {
+    "seq": [
+      "T",
+      "I",
+      "R",
+      "O"
+    ],
+    "frequency": 36,
+    "example": "dirò",
+    "examples": [
+      "dirò",
+      "dirò,",
+      "tiro"
+    ]
+  },
+  {
+    "seq": [
+      "E",
+      "L",
+      "E"
+    ],
+    "frequency": 35,
+    "example": "elle",
+    "examples": [
+      "elle",
+      "Elle",
+      " Elle",
+      "el[l]e"
+    ]
+  },
+  {
+    "seq": [
+      "L",
+      "A",
+      "S",
+      "O"
+    ],
+    "frequency": 35,
+    "example": "lasso",
+    "examples": [
+      "lasso",
+      "lasso,",
+      "Lasso,",
+      "Lasso",
+      "lasso."
+    ]
+  },
+  {
+    "seq": [
+      "M",
+      "A",
+      "N",
+      "I"
+    ],
+    "frequency": 35,
+    "example": "mani",
+    "examples": [
+      "mani",
+      "mani;",
+      "Mani",
+      "mani!"
+    ]
+  },
+  {
+    "seq": [
+      "M",
+      "O",
+      "F",
+      "E"
+    ],
+    "frequency": 35,
+    "example": "move",
+    "examples": [
+      "move",
+      "move,",
+      "move."
+    ]
+  },
+  {
+    "seq": [
+      "N",
+      "O",
+      "F",
+      "O"
+    ],
+    "frequency": 35,
+    "example": "novo",
+    "examples": [
+      "novo",
+      " Novo"
+    ]
+  },
+  {
+    "seq": [
+      "R",
+      "I",
+      "S",
+      "O"
+    ],
+    "frequency": 35,
+    "example": "riso",
+    "examples": [
+      "riso",
+      "riso.",
+      "risso",
+      "riso;"
+    ]
+  },
+  {
+    "seq": [
+      "R",
+      "O",
+      "M",
+      "A"
+    ],
+    "frequency": 35,
+    "example": "Roma",
+    "examples": [
+      "Roma",
+      "Roma,"
+    ]
+  },
+  {
+    "seq": [
+      "S",
+      "E",
+      "R",
+      "A"
+    ],
+    "frequency": 35,
+    "example": "sera",
+    "examples": [
+      "sera",
+      "serra",
+      "serà",
+      "sera;",
+      "serra:"
+    ]
+  },
+  {
+    "seq": [
+      "T",
+      "A",
+      "N",
+      "O"
+    ],
+    "frequency": 35,
+    "example": "danno",
+    "examples": [
+      "danno",
+      "danno,",
+      "dànno",
+      "dannò",
+      "danno;"
+    ]
+  },
+  {
+    "seq": [
+      "T",
+      "I",
+      "R",
+      "A"
+    ],
+    "frequency": 35,
+    "example": "tira",
+    "examples": [
+      "tira",
+      "dirà",
+      "tira,",
+      "dirà,",
+      "dirà:"
+    ]
+  },
+  {
+    "seq": [
+      "T",
+      "U",
+      "O",
+      "I"
+    ],
+    "frequency": 35,
+    "example": "tuoi",
+    "examples": [
+      "tuoi",
+      "tuoi,"
+    ]
+  },
+  {
+    "seq": [
+      "F",
+      "U",
+      "O"
+    ],
+    "frequency": 34,
+    "example": "vuo'",
+    "examples": [
+      "vuo'",
+      "Vuo'",
+      " Vuo'"
+    ]
+  },
+  {
+    "seq": [
+      "L",
+      "A",
+      "S",
+      "U"
+    ],
+    "frequency": 34,
+    "example": "là sù",
+    "examples": [
+      "là sù",
+      "là su",
+      "lassù",
+      "Lassù",
+      "lassù;"
+    ]
+  },
+  {
+    "seq": [
+      "SH",
+      "I",
+      "T",
+      "A"
+    ],
+    "frequency": 34,
+    "example": "città",
+    "examples": [
+      "città",
+      "gitta",
+      "gita",
+      "città;"
+    ]
+  },
+  {
+    "seq": [
+      "T",
+      "I",
+      "K",
+      "A"
+    ],
+    "frequency": 34,
+    "example": "dica",
+    "examples": [
+      "dica",
+      "dica:",
+      "dica,",
+      "Dica"
+    ]
+  },
+  {
+    "seq": [
+      "F",
+      "I",
+      "F",
+      "O"
+    ],
+    "frequency": 33,
+    "example": "vivo",
+    "examples": [
+      "vivo",
+      "vivo,",
+      "Vivo"
+    ]
+  },
+  {
+    "seq": [
+      "L",
+      "A",
+      "T",
+      "O"
+    ],
+    "frequency": 33,
+    "example": "lato",
+    "examples": [
+      "lato",
+      "lato,",
+      "lato:",
+      "lato;",
+      "lato."
+    ]
+  },
+  {
+    "seq": [
+      "L",
+      "O",
+      "T",
+      "A"
+    ],
+    "frequency": 33,
+    "example": "loda",
+    "examples": [
+      "loda",
+      "loda.",
+      "loda:"
+    ]
+  },
+  {
+    "seq": [
+      "M",
+      "I",
+      "S",
+      "E"
+    ],
+    "frequency": 33,
+    "example": "mise",
+    "examples": [
+      "mise",
+      "Mise",
+      "mise,"
+    ]
+  },
+  {
+    "seq": [
+      "N",
+      "A",
+      "SH",
+      "E"
+    ],
+    "frequency": 33,
+    "example": "nasce",
+    "examples": [
+      "nasce",
+      " Nasce"
+    ]
+  },
+  {
+    "seq": [
+      "T",
+      "A",
+      "T",
+      "O"
+    ],
+    "frequency": 33,
+    "example": "dato",
+    "examples": [
+      "dato",
+      "tatto",
+      "dato,",
+      "dado,",
+      "dato;"
+    ]
+  },
+  {
+    "seq": [
+      "F",
+      "A",
+      "S",
+      "I"
+    ],
+    "frequency": 32,
+    "example": "fassi",
+    "examples": [
+      "fassi",
+      "vassi",
+      " Vassi",
+      " Fassi",
+      "Fassi"
+    ]
+  },
+  {
+    "seq": [
+      "R",
+      "I",
+      "F",
+      "A"
+    ],
+    "frequency": 32,
+    "example": "riva",
+    "examples": [
+      "riva",
+      "rifà",
+      "riva;"
+    ]
+  },
+  {
+    "seq": [
+      "SH",
+      "I",
+      "R",
+      "A"
+    ],
+    "frequency": 32,
+    "example": "gira",
+    "examples": [
+      "gira",
+      "girà",
+      "gira;",
+      "Cirra",
+      "gira?"
+    ]
+  },
+  {
+    "seq": [
+      "F",
+      "A",
+      "N"
+    ],
+    "frequency": 31,
+    "example": "fan",
+    "examples": [
+      "fan",
+      "van",
+      "ffan",
+      "vann'"
+    ]
+  },
+  {
+    "seq": [
+      "T",
+      "A",
+      "R"
+    ],
+    "frequency": 31,
+    "example": "dar",
+    "examples": [
+      "dar",
+      "Dar",
+      "dar:",
+      "dar,"
+    ]
+  },
+  {
+    "seq": [
+      "L",
+      "E",
+      "NY",
+      "O"
+    ],
+    "frequency": 31,
+    "example": "legno",
+    "examples": [
+      "legno"
+    ]
+  },
+  {
+    "seq": [
+      "S",
+      "E",
+      "N",
+      "O"
+    ],
+    "frequency": 31,
+    "example": "senno",
+    "examples": [
+      "senno",
+      "seno",
+      "senno;",
+      "senno,"
+    ]
+  },
+  {
+    "seq": [
+      "T",
+      "U",
+      "R",
+      "A"
+    ],
+    "frequency": 31,
+    "example": "dura",
+    "examples": [
+      "dura",
+      "dura,",
+      "dura:",
+      "dura;",
+      "tura"
+    ]
+  },
+  {
+    "seq": [
+      "E",
+      "P",
+      "I"
+    ],
+    "frequency": 30,
+    "example": "eb[b]i",
+    "examples": [
+      "eb[b]i",
+      "ebbi",
+      "Eb[b]i"
+    ]
+  },
+  {
+    "seq": [
+      "F",
+      "I",
+      "E"
+    ],
+    "frequency": 30,
+    "example": "vie",
+    "examples": [
+      "vie",
+      "fie",
+      "Vie",
+      "fie'",
+      "vie;"
+    ]
+  },
+  {
+    "seq": [
+      "F",
+      "A",
+      "R",
+      "O"
+    ],
+    "frequency": 30,
+    "example": "farò",
+    "examples": [
+      "farò",
+      "farò,",
+      "varo",
+      "Varo",
+      "Varro"
+    ]
+  },
+  {
+    "seq": [
+      "F",
+      "A",
+      "T",
+      "E"
+    ],
+    "frequency": 30,
+    "example": "fatte",
+    "examples": [
+      "fatte",
+      "fate",
+      "fate,",
+      "fatte;",
+      "vade"
+    ]
+  },
+  {
+    "seq": [
+      "F",
+      "I",
+      "F",
+      "E"
+    ],
+    "frequency": 30,
+    "example": "vive",
+    "examples": [
+      "vive",
+      "vive?"
+    ]
+  },
+  {
+    "seq": [
+      "K",
+      "O",
+      "T",
+      "A"
+    ],
+    "frequency": 30,
+    "example": "coda",
+    "examples": [
+      "coda",
+      "cotà'",
+      "gota",
+      "cota'",
+      "goda"
+    ]
+  },
+  {
+    "seq": [
+      "M",
+      "A",
+      "L",
+      "A"
+    ],
+    "frequency": 30,
+    "example": "mala",
+    "examples": [
+      "mala",
+      "mala,",
+      "Mala"
+    ]
+  },
+  {
+    "seq": [
+      "S",
+      "O",
+      "M",
+      "A"
+    ],
+    "frequency": 30,
+    "example": "somma",
+    "examples": [
+      "somma",
+      "soma",
+      "somma.",
+      "soma;"
+    ]
+  },
+  {
+    "seq": [
+      "R",
+      "E"
+    ],
+    "frequency": 29,
+    "example": "re",
+    "examples": [
+      "re",
+      "re'"
+    ]
+  },
+  {
+    "seq": [
+      "S",
+      "U",
+      "L"
+    ],
+    "frequency": 29,
+    "example": "sul",
+    "examples": [
+      "sul",
+      "sull'"
+    ]
+  },
+  {
+    "seq": [
+      "E",
+      "S",
+      "T",
+      "O"
+    ],
+    "frequency": 29,
+    "example": "esto",
+    "examples": [
+      "esto",
+      " esto"
+    ]
+  },
+  {
+    "seq": [
+      "I",
+      "T",
+      "I",
+      "O"
+    ],
+    "frequency": 29,
+    "example": "Iddio",
+    "examples": [
+      "Iddio",
+      "Idio",
+      "Idio,",
+      "idio"
+    ]
+  },
+  {
+    "seq": [
+      "M",
+      "A",
+      "R",
+      "E"
+    ],
+    "frequency": 29,
+    "example": "mare",
+    "examples": [
+      "mare",
+      "mmare,",
+      "mare,"
+    ]
+  },
+  {
+    "seq": [
+      "M",
+      "E",
+      "N",
+      "A"
+    ],
+    "frequency": 29,
+    "example": "mena",
+    "examples": [
+      "mena",
+      "mena."
+    ]
+  },
+  {
+    "seq": [
+      "N",
+      "O",
+      "T",
+      "A"
+    ],
+    "frequency": 29,
+    "example": "nota",
+    "examples": [
+      "nota",
+      "nota.",
+      "nota;"
+    ]
+  },
+  {
+    "seq": [
+      "R",
+      "I",
+      "P",
+      "A"
+    ],
+    "frequency": 29,
+    "example": "ripa",
+    "examples": [
+      "ripa"
+    ]
+  },
+  {
+    "seq": [
+      "T",
+      "E",
+      "N",
+      "E"
+    ],
+    "frequency": 29,
+    "example": "tenne",
+    "examples": [
+      "tenne",
+      "tene",
+      "tène",
+      "ten[n]e",
+      "tenne;"
+    ]
+  },
+  {
+    "seq": [
+      "T",
+      "E",
+      "NY",
+      "A"
+    ],
+    "frequency": 29,
+    "example": "degna",
+    "examples": [
+      "degna",
+      "tegna",
+      " Degna",
+      "tegna;",
+      "Degna"
+    ]
+  },
+  {
+    "seq": [
+      "F",
+      "U",
+      "R"
+    ],
+    "frequency": 28,
+    "example": "fur",
+    "examples": [
+      "fur"
+    ]
+  },
+  {
+    "seq": [
+      "K",
+      "W",
+      "A"
+    ],
+    "frequency": 28,
+    "example": "qua",
+    "examples": [
+      "qua",
+      "qua,",
+      "Qua"
+    ]
+  },
+  {
+    "seq": [
+      "L",
+      "U",
+      "N",
+      "A"
+    ],
+    "frequency": 28,
+    "example": "luna",
+    "examples": [
+      "luna",
+      "Luna",
+      "luna."
+    ]
+  },
+  {
+    "seq": [
+      "S",
+      "A",
+      "N",
+      "O"
+    ],
+    "frequency": 28,
+    "example": "sanno",
+    "examples": [
+      "sanno",
+      "sano",
+      "Sano",
+      "sanno;"
+    ]
+  },
+  {
+    "seq": [
+      "M",
+      "O"
+    ],
+    "frequency": 27,
+    "example": "mo",
+    "examples": [
+      "mo",
+      "mo',"
+    ]
+  },
+  {
+    "seq": [
+      "O",
+      "M"
+    ],
+    "frequency": 27,
+    "example": "om",
+    "examples": [
+      "om"
+    ]
+  },
+  {
+    "seq": [
+      "F",
+      "I",
+      "N"
+    ],
+    "frequency": 27,
+    "example": "fin",
+    "examples": [
+      "fin",
+      "fin,",
+      "fin'",
+      "vin'",
+      "vin"
+    ]
+  },
+  {
+    "seq": [
+      "M",
+      "A",
+      "R"
+    ],
+    "frequency": 27,
+    "example": "mar",
+    "examples": [
+      "mar",
+      "mar,"
+    ]
+  },
+  {
+    "seq": [
+      "K",
+      "A",
+      "S",
+      "A"
+    ],
+    "frequency": 27,
+    "example": "casa",
+    "examples": [
+      "casa",
+      "casa,"
+    ]
+  },
+  {
+    "seq": [
+      "P",
+      "A",
+      "I",
+      "A"
+    ],
+    "frequency": 27,
+    "example": "paia",
+    "examples": [
+      "paia",
+      "paià"
+    ]
+  },
+  {
+    "seq": [
+      "T",
+      "E",
+      "K",
+      "O"
+    ],
+    "frequency": 27,
+    "example": "teco",
+    "examples": [
+      "teco",
+      "teco;"
+    ]
+  },
+  {
+    "seq": [
+      "A",
+      "N",
+      "K",
+      "O"
+    ],
+    "frequency": 26,
+    "example": "anco",
+    "examples": [
+      "anco",
+      "Anco"
+    ]
+  },
+  {
+    "seq": [
+      "A",
+      "P",
+      "I",
+      "A"
+    ],
+    "frequency": 26,
+    "example": "abbia",
+    "examples": [
+      "abbia",
+      "ab[b]ia"
+    ]
+  },
+  {
+    "seq": [
+      "E",
+      "R",
+      "P",
+      "A"
+    ],
+    "frequency": 26,
+    "example": "erba",
+    "examples": [
+      "erba",
+      "erba,",
+      "erba:",
+      "erba.",
+      " erba"
+    ]
+  },
+  {
+    "seq": [
+      "F",
+      "E",
+      "L",
+      "O"
+    ],
+    "frequency": 26,
+    "example": "velo",
+    "examples": [
+      "velo",
+      "fello",
+      "vello",
+      "velo;",
+      "fello."
+    ]
+  },
+  {
+    "seq": [
+      "F",
+      "E",
+      "NY",
+      "A"
+    ],
+    "frequency": 26,
+    "example": "vegna",
+    "examples": [
+      "vegna",
+      "vegna;",
+      "Vegna",
+      "vegna,",
+      " Vegna"
+    ]
+  },
+  {
+    "seq": [
+      "K",
+      "W",
+      "A",
+      "I"
+    ],
+    "frequency": 26,
+    "example": "quai",
+    "examples": [
+      "quai",
+      " Quai",
+      " quai"
+    ]
+  },
+  {
+    "seq": [
+      "SH",
+      "I",
+      "R",
+      "O"
+    ],
+    "frequency": 26,
+    "example": "giro",
+    "examples": [
+      "giro",
+      "giro;",
+      "cirro",
+      "girò",
+      "Ciro"
+    ]
+  },
+  {
+    "seq": [
+      "A",
+      "H",
+      "I"
+    ],
+    "frequency": 25,
+    "example": " Ahi",
+    "examples": [
+      " Ahi",
+      "Ahi",
+      "ahi",
+      "A[h]i"
+    ]
+  },
+  {
+    "seq": [
+      "E",
+      "S",
+      "I"
+    ],
+    "frequency": 25,
+    "example": "essi",
+    "examples": [
+      "essi",
+      "èssi"
+    ]
+  },
+  {
+    "seq": [
+      "E",
+      "S",
+      "T",
+      "A"
+    ],
+    "frequency": 25,
+    "example": "esta",
+    "examples": [
+      "esta"
+    ]
+  },
+  {
+    "seq": [
+      "F",
+      "I",
+      "S",
+      "I"
+    ],
+    "frequency": 25,
+    "example": "visi",
+    "examples": [
+      "visi",
+      "fissi",
+      "vissi",
+      "fisi"
+    ]
+  },
+  {
+    "seq": [
+      "R",
+      "E",
+      "SH",
+      "E"
+    ],
+    "frequency": 25,
+    "example": "rege",
+    "examples": [
+      "rege",
+      "regge",
+      "regge;"
+    ]
+  },
+  {
+    "seq": [
+      "T",
+      "A",
+      "L",
+      "O"
+    ],
+    "frequency": 25,
+    "example": "dallo",
+    "examples": [
+      "dallo",
+      "tallo"
+    ]
+  },
+  {
+    "seq": [
+      "U",
+      "T",
+      "I",
+      "R"
+    ],
+    "frequency": 25,
+    "example": "udir",
+    "examples": [
+      "udir",
+      " udir",
+      "Udir",
+      " Udir"
+    ]
+  },
+  {
+    "seq": [
+      "F",
+      "E",
+      "SH"
+    ],
+    "frequency": 24,
+    "example": "fec'",
+    "examples": [
+      "fec'",
+      "vegg'",
+      "Fec'",
+      " fec'"
+    ]
+  },
+  {
+    "seq": [
+      "S",
+      "A",
+      "N"
+    ],
+    "frequency": 24,
+    "example": "san'",
+    "examples": [
+      "san'",
+      "San",
+      "san",
+      "ssan"
+    ]
+  },
+  {
+    "seq": [
+      "U",
+      "T",
+      "I"
+    ],
+    "frequency": 24,
+    "example": "udi'",
+    "examples": [
+      "udi'",
+      "udì'",
+      "udì;",
+      "udì"
+    ]
+  },
+  {
+    "seq": [
+      "A",
+      "L",
+      "T",
+      "R"
+    ],
+    "frequency": 24,
+    "example": "altr'",
+    "examples": [
+      "altr'",
+      "Altr'"
+    ]
+  },
+  {
+    "seq": [
+      "M",
+      "E",
+      "T",
+      "E"
+    ],
+    "frequency": 24,
+    "example": "mette",
+    "examples": [
+      "mette",
+      "mette,"
+    ]
+  },
+  {
+    "seq": [
+      "T",
+      "I",
+      "E",
+      "N"
+    ],
+    "frequency": 24,
+    "example": "tien",
+    "examples": [
+      "tien",
+      "dien",
+      "tien,"
+    ]
+  },
+  {
+    "seq": [
+      "T",
+      "O",
+      "K",
+      "A"
+    ],
+    "frequency": 24,
+    "example": "tocca",
+    "examples": [
+      "tocca",
+      "doga",
+      "tocca;"
+    ]
+  },
+  {
+    "seq": [
+      "E",
+      "L",
+      "O"
+    ],
+    "frequency": 23,
+    "example": "ello",
+    "examples": [
+      "ello",
+      " Ello"
+    ]
+  },
+  {
+    "seq": [
+      "T",
+      "A",
+      "I"
+    ],
+    "frequency": 23,
+    "example": "tai",
+    "examples": [
+      "tai",
+      "dai",
+      "dài",
+      "dài,"
+    ]
+  },
+  {
+    "seq": [
+      "T",
+      "E",
+      "N"
+    ],
+    "frequency": 23,
+    "example": "ten",
+    "examples": [
+      "ten"
+    ]
+  },
+  {
+    "seq": [
+      "A",
+      "F",
+      "R",
+      "A"
+    ],
+    "frequency": 23,
+    "example": "avrà",
+    "examples": [
+      "avrà",
+      "avrà'"
+    ]
+  },
+  {
+    "seq": [
+      "K",
+      "A",
+      "R",
+      "A"
+    ],
+    "frequency": 23,
+    "example": "cara",
+    "examples": [
+      "cara",
+      "cara.",
+      "cara,",
+      "garra"
+    ]
+  },
+  {
+    "seq": [
+      "P",
+      "I",
+      "E",
+      "N"
+    ],
+    "frequency": 23,
+    "example": "pien",
+    "examples": [
+      "pien",
+      "pien'"
+    ]
+  },
+  {
+    "seq": [
+      "SH",
+      "I",
+      "P",
+      "O"
+    ],
+    "frequency": 23,
+    "example": "cibo",
+    "examples": [
+      "cibo",
+      "gibbo"
+    ]
+  },
+  {
+    "seq": [
+      "T",
+      "E",
+      "T",
+      "A"
+    ],
+    "frequency": 23,
+    "example": "detta",
+    "examples": [
+      "detta",
+      "detta.",
+      "tetta"
+    ]
+  },
+  {
+    "seq": [
+      "T",
+      "U",
+      "R",
+      "O"
+    ],
+    "frequency": 23,
+    "example": "duro",
+    "examples": [
+      "duro",
+      "duro.",
+      "duro,",
+      "durò"
+    ]
+  },
+  {
+    "seq": [
+      "O",
+      "NY"
+    ],
+    "frequency": 22,
+    "example": "ogn'",
+    "examples": [
+      "ogn'",
+      " ogn'"
+    ]
+  },
+  {
+    "seq": [
+      "A",
+      "N",
+      "T",
+      "O"
+    ],
+    "frequency": 22,
+    "example": "andò",
+    "examples": [
+      "andò"
+    ]
+  },
+  {
+    "seq": [
+      "F",
+      "U",
+      "SH",
+      "E"
+    ],
+    "frequency": 22,
+    "example": "fugge",
+    "examples": [
+      "fugge",
+      "fug[g]e",
+      "fugge,"
+    ]
+  },
+  {
+    "seq": [
+      "L",
+      "U",
+      "SH",
+      "I"
+    ],
+    "frequency": 22,
+    "example": "luci",
+    "examples": [
+      "luci",
+      "lucci,"
+    ]
+  },
+  {
+    "seq": [
+      "M",
+      "E",
+      "T",
+      "A"
+    ],
+    "frequency": 22,
+    "example": "metta",
+    "examples": [
+      "metta",
+      "metta,",
+      "meta",
+      "metta."
+    ]
+  },
+  {
+    "seq": [
+      "M",
+      "O",
+      "S",
+      "O"
+    ],
+    "frequency": 22,
+    "example": "mosso",
+    "examples": [
+      "mosso",
+      "mosso?",
+      "mosso;",
+      "mosso,"
+    ]
+  },
+  {
+    "seq": [
+      "N",
+      "A",
+      "T",
+      "O"
+    ],
+    "frequency": 22,
+    "example": "nato",
+    "examples": [
+      "nato",
+      "Nato",
+      "nato;"
+    ]
+  },
+  {
+    "seq": [
+      "P",
+      "A",
+      "N",
+      "E"
+    ],
+    "frequency": 22,
+    "example": "pane",
+    "examples": [
+      "pane",
+      "pane,",
+      "pane;"
+    ]
+  },
+  {
+    "seq": [
+      "P",
+      "O",
+      "N",
+      "E"
+    ],
+    "frequency": 22,
+    "example": "pone",
+    "examples": [
+      "pone",
+      "pòne",
+      "pone,",
+      "bone,",
+      "pòne,"
+    ]
+  },
+  {
+    "seq": [
+      "S",
+      "A",
+      "P",
+      "I"
+    ],
+    "frequency": 22,
+    "example": "sappi",
+    "examples": [
+      "sappi",
+      " sappi",
+      " Sappi"
+    ]
+  },
+  {
+    "seq": [
+      "SH",
+      "I",
+      "M",
+      "A"
+    ],
+    "frequency": 22,
+    "example": "cima",
+    "examples": [
+      "cima",
+      "cima."
+    ]
+  },
+  {
+    "seq": [
+      "T",
+      "E",
+      "M",
+      "A"
+    ],
+    "frequency": 22,
+    "example": "tema",
+    "examples": [
+      "tema",
+      "tema;"
+    ]
+  },
+  {
+    "seq": [
+      "A",
+      "M",
+      "O"
+    ],
+    "frequency": 21,
+    "example": "amo",
+    "examples": [
+      "amo",
+      "amo,",
+      "amò"
+    ]
+  },
+  {
+    "seq": [
+      "E",
+      "SH",
+      "E"
+    ],
+    "frequency": 21,
+    "example": "esce",
+    "examples": [
+      "esce",
+      "Ecce",
+      " Esce"
+    ]
+  },
+  {
+    "seq": [
+      "F",
+      "R",
+      "A"
+    ],
+    "frequency": 21,
+    "example": "fra",
+    "examples": [
+      "fra",
+      "Fra",
+      " Fra"
+    ]
+  },
+  {
+    "seq": [
+      "T",
+      "E",
+      "H"
+    ],
+    "frequency": 21,
+    "example": "Deh",
+    "examples": [
+      "Deh",
+      "Deh,",
+      "deh",
+      " Deh"
+    ]
+  },
+  {
+    "seq": [
+      "F",
+      "I",
+      "L",
+      "I"
+    ],
+    "frequency": 21,
+    "example": "vili",
+    "examples": [
+      "vili",
+      "vili;",
+      "fili",
+      "Fili"
+    ]
+  },
+  {
+    "seq": [
+      "P",
+      "E",
+      "L",
+      "I"
+    ],
+    "frequency": 21,
+    "example": "belli",
+    "examples": [
+      "belli",
+      "belli,",
+      "belli;",
+      "peli"
+    ]
+  },
+  {
+    "seq": [
+      "P",
+      "U",
+      "R",
+      "A"
+    ],
+    "frequency": 21,
+    "example": "pura",
+    "examples": [
+      "pura",
+      " pura",
+      "pura,"
+    ]
+  },
+  {
+    "seq": [
+      "R",
+      "A",
+      "T",
+      "O"
+    ],
+    "frequency": 21,
+    "example": "ratto",
+    "examples": [
+      "ratto",
+      "rado",
+      "ratto;",
+      "Ratto"
+    ]
+  },
+  {
+    "seq": [
+      "R",
+      "O",
+      "T",
+      "E"
+    ],
+    "frequency": 21,
+    "example": "rote",
+    "examples": [
+      "rote",
+      "rotte",
+      "rode"
+    ]
+  },
+  {
+    "seq": [
+      "T",
+      "I",
+      "T",
+      "O"
+    ],
+    "frequency": 21,
+    "example": "dito",
+    "examples": [
+      "dito",
+      "Tito",
+      "Dido",
+      "Dido,",
+      "dito."
+    ]
+  },
+  {
+    "seq": [
+      "F",
+      "E",
+      "N"
+    ],
+    "frequency": 20,
+    "example": "ven",
+    "examples": [
+      "ven",
+      "Ven[n]"
+    ]
+  },
+  {
+    "seq": [
+      "SH",
+      "I",
+      "R"
+    ],
+    "frequency": 20,
+    "example": "gir",
+    "examples": [
+      "gir",
+      "Gir"
+    ]
+  },
+  {
+    "seq": [
+      "A",
+      "M",
+      "P",
+      "O"
+    ],
+    "frequency": 20,
+    "example": "ambo",
+    "examples": [
+      "ambo",
+      " ambo",
+      "Ambo"
+    ]
+  },
+  {
+    "seq": [
+      "F",
+      "A",
+      "L",
+      "O"
+    ],
+    "frequency": 20,
+    "example": "fallo",
+    "examples": [
+      "fallo",
+      "fallo,"
+    ]
+  },
+  {
+    "seq": [
+      "K",
+      "A",
+      "L",
+      "E"
+    ],
+    "frequency": 20,
+    "example": "calle",
+    "examples": [
+      "calle",
+      "cale",
+      "galle",
+      "cale.",
+      "cale;"
+    ]
+  },
+  {
+    "seq": [
+      "L",
+      "E",
+      "T",
+      "O"
+    ],
+    "frequency": 20,
+    "example": "letto",
+    "examples": [
+      "letto",
+      "letto:",
+      "letto.",
+      "letto;"
+    ]
+  },
+  {
+    "seq": [
+      "N",
+      "O",
+      "T",
+      "O"
+    ],
+    "frequency": 20,
+    "example": "nodo",
+    "examples": [
+      "nodo",
+      "noto"
+    ]
+  },
+  {
+    "seq": [
+      "O",
+      "N",
+      "O",
+      "R"
+    ],
+    "frequency": 20,
+    "example": "onor",
+    "examples": [
+      "onor",
+      "onor'",
+      "Onor,",
+      "Onor"
+    ]
+  },
+  {
+    "seq": [
+      "P",
+      "A",
+      "S",
+      "A"
+    ],
+    "frequency": 20,
+    "example": "passa",
+    "examples": [
+      "passa",
+      "bassa"
+    ]
+  },
+  {
+    "seq": [
+      "S",
+      "A",
+      "L",
+      "E"
+    ],
+    "frequency": 20,
+    "example": "sale",
+    "examples": [
+      "sale",
+      "sale,"
+    ]
+  },
+  {
+    "seq": [
+      "S",
+      "U",
+      "O",
+      "N"
+    ],
+    "frequency": 20,
+    "example": "suon",
+    "examples": [
+      "suon",
+      "·ssuon"
+    ]
+  },
+  {
+    "seq": [
+      "U"
+    ],
+    "frequency": 19,
+    "example": "u'",
+    "examples": [
+      "u'",
+      "U",
+      "U'",
+      " u'"
+    ]
+  },
+  {
+    "seq": [
+      "O",
+      "T"
+    ],
+    "frequency": 19,
+    "example": "od",
+    "examples": [
+      "od",
+      "Od",
+      "od'"
+    ]
+  },
+  {
+    "seq": [
+      "F",
+      "A",
+      "L",
+      "I"
+    ],
+    "frequency": 19,
+    "example": "falli",
+    "examples": [
+      "falli",
+      "Falli",
+      "valli",
+      "vali",
+      " falli"
+    ]
+  },
+  {
+    "seq": [
+      "F",
+      "E",
+      "L",
+      "E"
+    ],
+    "frequency": 19,
+    "example": "vele",
+    "examples": [
+      "vele",
+      "fele",
+      "velle",
+      "fele;",
+      "felle"
+    ]
+  },
+  {
+    "seq": [
+      "F",
+      "E",
+      "N",
+      "I"
+    ],
+    "frequency": 19,
+    "example": "venni",
+    "examples": [
+      "venni",
+      " venni",
+      "Veni"
+    ]
+  },
+  {
+    "seq": [
+      "F",
+      "E",
+      "R",
+      "E"
+    ],
+    "frequency": 19,
+    "example": "vere",
+    "examples": [
+      "vere",
+      "fere",
+      "fère",
+      "verrè'"
+    ]
+  },
+  {
+    "seq": [
+      "F",
+      "I",
+      "F",
+      "I"
+    ],
+    "frequency": 19,
+    "example": "vivi",
+    "examples": [
+      "vivi"
+    ]
+  },
+  {
+    "seq": [
+      "F",
+      "O",
+      "SH",
+      "I"
+    ],
+    "frequency": 19,
+    "example": "voci",
+    "examples": [
+      "voci",
+      "foci"
+    ]
+  },
+  {
+    "seq": [
+      "P",
+      "O",
+      "R",
+      "E"
+    ],
+    "frequency": 19,
+    "example": "porre",
+    "examples": [
+      "porre",
+      "porre;",
+      "porre:"
+    ]
+  },
+  {
+    "seq": [
+      "S",
+      "I",
+      "R",
+      "E"
+    ],
+    "frequency": 19,
+    "example": "sire",
+    "examples": [
+      "sire",
+      "Sire",
+      "Sire,",
+      "Sire;"
+    ]
+  },
+  {
+    "seq": [
+      "T",
+      "A",
+      "T",
+      "A"
+    ],
+    "frequency": 19,
+    "example": "data",
+    "examples": [
+      "data",
+      "data,",
+      "data:"
+    ]
+  },
+  {
+    "seq": [
+      "T",
+      "E",
+      "T",
+      "E"
+    ],
+    "frequency": 19,
+    "example": "dette",
+    "examples": [
+      "dette",
+      " dette"
+    ]
+  },
+  {
+    "seq": [
+      "P",
+      "E"
+    ],
+    "frequency": 18,
+    "example": "pe'",
+    "examples": [
+      "pe'",
+      "be'",
+      "be",
+      "Pe",
+      "Be"
+    ]
+  },
+  {
+    "seq": [
+      "F",
+      "A",
+      "L"
+    ],
+    "frequency": 18,
+    "example": "val",
+    "examples": [
+      "val",
+      "Val",
+      "fall'"
+    ]
+  },
+  {
+    "seq": [
+      "F",
+      "I",
+      "L"
+    ],
+    "frequency": 18,
+    "example": "vil",
+    "examples": [
+      "vil",
+      "fil",
+      "fil,"
+    ]
+  },
+  {
+    "seq": [
+      "O",
+      "R",
+      "E"
+    ],
+    "frequency": 18,
+    "example": "ore",
+    "examples": [
+      "ore"
+    ]
+  },
+  {
+    "seq": [
+      "O",
+      "S",
+      "A"
+    ],
+    "frequency": 18,
+    "example": "ossa",
+    "examples": [
+      "ossa",
+      "osa",
+      "osa,"
+    ]
+  },
+  {
+    "seq": [
+      "O",
+      "SH",
+      "I"
+    ],
+    "frequency": 18,
+    "example": "oggi",
+    "examples": [
+      "oggi",
+      "og[g]i"
+    ]
+  },
+  {
+    "seq": [
+      "A",
+      "L",
+      "M",
+      "A"
+    ],
+    "frequency": 18,
+    "example": "alma",
+    "examples": [
+      "alma",
+      " Alma"
+    ]
+  },
+  {
+    "seq": [
+      "A",
+      "M",
+      "A",
+      "R"
+    ],
+    "frequency": 18,
+    "example": "amar",
+    "examples": [
+      "amar",
+      "amar'"
+    ]
+  },
+  {
+    "seq": [
+      "L",
+      "E",
+      "F",
+      "A"
+    ],
+    "frequency": 18,
+    "example": "leva",
+    "examples": [
+      "leva",
+      "leva'",
+      "Leva",
+      " Leva'",
+      " Leva"
+    ]
+  },
+  {
+    "seq": [
+      "M",
+      "O",
+      "L",
+      "T"
+    ],
+    "frequency": 18,
+    "example": "molt'",
+    "examples": [
+      "molt'",
+      "Molt'"
+    ]
+  },
+  {
+    "seq": [
+      "M",
+      "O",
+      "T",
+      "I"
+    ],
+    "frequency": 18,
+    "example": "modi",
+    "examples": [
+      "modi",
+      "motti"
+    ]
+  },
+  {
+    "seq": [
+      "P",
+      "O",
+      "K",
+      "I"
+    ],
+    "frequency": 18,
+    "example": "pochi",
+    "examples": [
+      "pochi"
+    ]
+  },
+  {
+    "seq": [
+      "R",
+      "O",
+      "P",
+      "A"
+    ],
+    "frequency": 18,
+    "example": "roba",
+    "examples": [
+      "roba",
+      "roba,"
+    ]
+  },
+  {
+    "seq": [
+      "R",
+      "O",
+      "S",
+      "A"
+    ],
+    "frequency": 18,
+    "example": "rosa",
+    "examples": [
+      "rosa",
+      "rossa",
+      "rossa;",
+      "rosa:"
+    ]
+  },
+  {
+    "seq": [
+      "T",
+      "E",
+      "M",
+      "O"
+    ],
+    "frequency": 18,
+    "example": "temo",
+    "examples": [
+      "temo",
+      "Temo",
+      "demmo"
+    ]
+  },
+  {
+    "seq": [
+      "T",
+      "O",
+      "S",
+      "O"
+    ],
+    "frequency": 18,
+    "example": "dosso",
+    "examples": [
+      "dosso",
+      "dosso;"
+    ]
+  },
+  {
+    "seq": [
+      "O",
+      "T",
+      "O"
+    ],
+    "frequency": 17,
+    "example": "odo",
+    "examples": [
+      "odo",
+      "otto"
+    ]
+  },
+  {
+    "seq": [
+      "R",
+      "E",
+      "I"
+    ],
+    "frequency": 17,
+    "example": "rei",
+    "examples": [
+      "rei",
+      "rei.",
+      "rei,"
+    ]
+  },
+  {
+    "seq": [
+      "T",
+      "U",
+      "T"
+    ],
+    "frequency": 17,
+    "example": "tutt'",
+    "examples": [
+      "tutt'"
+    ]
+  },
+  {
+    "seq": [
+      "U",
+      "SH",
+      "I"
+    ],
+    "frequency": 17,
+    "example": "uscì",
+    "examples": [
+      "uscì",
+      "usci'"
+    ]
+  },
+  {
+    "seq": [
+      "A",
+      "L",
+      "T",
+      "E"
+    ],
+    "frequency": 17,
+    "example": "alte",
+    "examples": [
+      "alte",
+      " Alte"
+    ]
+  },
+  {
+    "seq": [
+      "A",
+      "L",
+      "T",
+      "I"
+    ],
+    "frequency": 17,
+    "example": "alti",
+    "examples": [
+      "alti",
+      "alti,"
+    ]
+  },
+  {
+    "seq": [
+      "A",
+      "R",
+      "T",
+      "I"
+    ],
+    "frequency": 17,
+    "example": "arti",
+    "examples": [
+      "arti",
+      "ardi"
+    ]
+  },
+  {
+    "seq": [
+      "F",
+      "A",
+      "M",
+      "E"
+    ],
+    "frequency": 17,
+    "example": "fame",
+    "examples": [
+      "fame"
+    ]
+  },
+  {
+    "seq": [
+      "F",
+      "E",
+      "N",
+      "O"
+    ],
+    "frequency": 17,
+    "example": "fenno",
+    "examples": [
+      "fenno",
+      "Veno",
+      "Fenno"
+    ]
+  },
+  {
+    "seq": [
+      "F",
+      "E",
+      "NY",
+      "O"
+    ],
+    "frequency": 17,
+    "example": "vegno",
+    "examples": [
+      "vegno",
+      "vegno,",
+      "vegno?"
+    ]
+  },
+  {
+    "seq": [
+      "K",
+      "A",
+      "S",
+      "O"
+    ],
+    "frequency": 17,
+    "example": "casso",
+    "examples": [
+      "casso",
+      "caso",
+      "casso.",
+      "casso;"
+    ]
+  },
+  {
+    "seq": [
+      "K",
+      "U",
+      "A",
+      "I"
+    ],
+    "frequency": 17,
+    "example": "guai",
+    "examples": [
+      "guai",
+      "Guai",
+      "guai.",
+      "guai;"
+    ]
+  },
+  {
+    "seq": [
+      "N",
+      "A",
+      "F",
+      "E"
+    ],
+    "frequency": 17,
+    "example": "nave",
+    "examples": [
+      "nave"
+    ]
+  },
+  {
+    "seq": [
+      "S",
+      "U",
+      "O",
+      "L"
+    ],
+    "frequency": 17,
+    "example": "suol",
+    "examples": [
+      "suol",
+      " Suol",
+      "suol;"
+    ]
+  },
+  {
+    "seq": [
+      "T",
+      "U",
+      "O",
+      "L"
+    ],
+    "frequency": 17,
+    "example": "duol",
+    "examples": [
+      "duol"
+    ]
+  },
+  {
+    "seq": [
+      "H",
+      "A",
+      "N"
+    ],
+    "frequency": 16,
+    "example": "han",
+    "examples": [
+      "han"
+    ]
+  },
+  {
+    "seq": [
+      "F",
+      "A",
+      "L",
+      "A"
+    ],
+    "frequency": 16,
+    "example": "falla",
+    "examples": [
+      "falla",
+      "Falla"
+    ]
+  },
+  {
+    "seq": [
+      "F",
+      "A",
+      "N",
+      "A"
+    ],
+    "frequency": 16,
+    "example": "vana",
+    "examples": [
+      "vana",
+      "Vanna",
+      "vana,"
+    ]
+  },
+  {
+    "seq": [
+      "L",
+      "A",
+      "F",
+      "E"
+    ],
+    "frequency": 16,
+    "example": "là 've",
+    "examples": [
+      "là 've",
+      " Là 've"
+    ]
+  },
+  {
+    "seq": [
+      "L",
+      "E",
+      "K",
+      "A"
+    ],
+    "frequency": 16,
+    "example": "lega",
+    "examples": [
+      "lega",
+      "lecca?",
+      "legga"
+    ]
+  },
+  {
+    "seq": [
+      "O",
+      "N",
+      "T",
+      "A"
+    ],
+    "frequency": 16,
+    "example": "onda",
+    "examples": [
+      "onda",
+      "onta",
+      "onda;",
+      "onta,"
+    ]
+  },
+  {
+    "seq": [
+      "P",
+      "O",
+      "I",
+      "K"
+    ],
+    "frequency": 16,
+    "example": "poi ch'",
+    "examples": [
+      "poi ch'",
+      " Poi ch'",
+      "Poi ch'",
+      " poi ch'"
+    ]
+  },
+  {
+    "seq": [
+      "R",
+      "I",
+      "M",
+      "A"
+    ],
+    "frequency": 16,
+    "example": "rima",
+    "examples": [
+      "rima",
+      "rima."
+    ]
+  }
+]

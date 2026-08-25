@@ -355,3 +355,14 @@ Candidate phonetic values or semantic interpretations only after reproducible ea
 - [x] Separate pair-specific information from marginal boundary-unit frequency
 - [x] Do not promote fixed pair operators when pair-specific transfer is near chance
 - [ ] Decide whether to test a latent boundary-class generative model or return to anchor-driven lexical attack
+
+## Anchor-driven cryptanalytic attack
+- [x] Freeze strict 1:1 partial-substitution attack v1
+- [x] Build corpus-derived historical short-word lexicons
+- [x] Restrict starting anchors to 1–3 frozen units
+- [x] Run Round-0 TRAIN anchor scan and VALIDATION transfer
+- [x] Identify explicit candidate propagation chains
+- [x] Demonstrate ambiguity from alternative plausible anchors
+- [ ] Compare candidate chains on phrase-level bigram/trigram coherence
+- [ ] Test function-word neighborhood compatibility
+- [ ] Continue only if one partial alphabet separates from matched alternatives
