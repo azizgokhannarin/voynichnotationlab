@@ -1,5 +1,16 @@
 # Changelog
 
+## v3.6 — 2026-08-25
+
+- challenged the first attractive ReN anchor chains at phrase/context level;
+- compared fixed `or->in`, `or->en`, and `or->am` mappings and their first propagation waves;
+- measured attested historical ReN word-bigram coherence on TRAIN and held-out VALIDATION;
+- normalized adjacency evidence against deterministic line-local token-order shuffles;
+- found no phrase-level support for the visually attractive `or->in -> ol->ich` chain;
+- retained `or->en` only as a weak exploratory alternative, not a promoted reading;
+- explicitly prohibited further hand-tuning of these three anchors;
+- used no final-test pages.
+
 ## v3.5 — 2026-08-25
 
 - started a strict 1:1 anchor/partial-alphabet substitution attack;

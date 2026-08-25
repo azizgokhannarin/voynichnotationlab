@@ -366,3 +366,11 @@ Candidate phonetic values or semantic interpretations only after reproducible ea
 - [ ] Compare candidate chains on phrase-level bigram/trigram coherence
 - [ ] Test function-word neighborhood compatibility
 - [ ] Continue only if one partial alphabet separates from matched alternatives
+
+## Anchor attack — phrase challenge
+- [x] Challenge `or->in -> ol->ich` against historical ReN adjacency
+- [x] Compare matched `or->en` and `or->am` alternatives
+- [x] Use line-local order-shuffle baseline
+- [x] Reject isolated lexical hits without phrase propagation
+- [ ] Run phrase-coherence screen across strongest Round-0 anchors in all branches
+- [ ] Manually inspect only anchors surviving lexical + held-out + phrase criteria

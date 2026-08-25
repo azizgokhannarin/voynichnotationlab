@@ -1,0 +1,269 @@
+{
+  "schema": "ANCHOR-PHRASE-v1",
+  "branch": "ReN",
+  "final_test_used": false,
+  "permutations": 100,
+  "candidates": {
+    "or_to_in_base": {
+      "mapping": {
+        "o": "I",
+        "r": "N"
+      },
+      "train": {
+        "lexical_pair_occurrences": 13,
+        "attested_bigram_occurrences": 7,
+        "attested_ratio": 0.5384615384615384,
+        "mean_target_bigram_log2p": -13.350220507429666,
+        "attested_null": {
+          "mean": 7.12,
+          "sd": 2.5197402463529666,
+          "z": -0.04762395654619014,
+          "p_emp": 0.5841584158415841
+        },
+        "logp_null": {
+          "mean": -13.669522077642567,
+          "sd": 0.5120544924354561,
+          "z": 0.6235695124833768,
+          "p_emp": 0.19801980198019803
+        }
+      },
+      "validation": {
+        "lexical_pair_occurrences": 5,
+        "attested_bigram_occurrences": 3,
+        "attested_ratio": 0.6,
+        "mean_target_bigram_log2p": -13.192499883114005,
+        "attested_null": {
+          "mean": 2.52,
+          "sd": 1.452827268021588,
+          "z": 0.3303902745807133,
+          "p_emp": 0.49504950495049505
+        },
+        "logp_null": {
+          "mean": -13.293310261707624,
+          "sd": 1.0983087367579496,
+          "z": 0.09178692221933649,
+          "p_emp": 0.48
+        }
+      }
+    },
+    "or_to_in_wave1": {
+      "mapping": {
+        "o": "I",
+        "r": "N",
+        "y": "E",
+        "l": "X"
+      },
+      "train": {
+        "lexical_pair_occurrences": 59,
+        "attested_bigram_occurrences": 9,
+        "attested_ratio": 0.15254237288135594,
+        "mean_target_bigram_log2p": -14.851707368727494,
+        "attested_null": {
+          "mean": 8.01,
+          "sd": 2.0473930208482645,
+          "z": 0.4835417479296813,
+          "p_emp": 0.39603960396039606
+        },
+        "logp_null": {
+          "mean": -14.828112592730148,
+          "sd": 0.12828683505995095,
+          "z": -0.18392203678825897,
+          "p_emp": 0.6138613861386139
+        }
+      },
+      "validation": {
+        "lexical_pair_occurrences": 17,
+        "attested_bigram_occurrences": 3,
+        "attested_ratio": 0.17647058823529413,
+        "mean_target_bigram_log2p": -14.72716789290004,
+        "attested_null": {
+          "mean": 2.99,
+          "sd": 1.5985789143656768,
+          "z": 0.006255556050523681,
+          "p_emp": 0.6039603960396039
+        },
+        "logp_null": {
+          "mean": -14.739541584937394,
+          "sd": 0.30933895421251756,
+          "z": 0.04000043275782538,
+          "p_emp": 0.4752475247524752
+        }
+      }
+    },
+    "or_to_en_base": {
+      "mapping": {
+        "o": "E",
+        "r": "N"
+      },
+      "train": {
+        "lexical_pair_occurrences": 13,
+        "attested_bigram_occurrences": 5,
+        "attested_ratio": 0.38461538461538464,
+        "mean_target_bigram_log2p": -13.011866822656923,
+        "attested_null": {
+          "mean": 5.52,
+          "sd": 2.139007605258461,
+          "z": -0.24310338996535116,
+          "p_emp": 0.6831683168316832
+        },
+        "logp_null": {
+          "mean": -13.280497332237301,
+          "sd": 0.6264224492078909,
+          "z": 0.42883282666523237,
+          "p_emp": 0.3564356435643564
+        }
+      },
+      "validation": {
+        "lexical_pair_occurrences": 7,
+        "attested_bigram_occurrences": 4,
+        "attested_ratio": 0.5714285714285714,
+        "mean_target_bigram_log2p": -12.37573846199807,
+        "attested_null": {
+          "mean": 2.47,
+          "sd": 1.2427974310182068,
+          "z": 1.2310936294312194,
+          "p_emp": 0.19801980198019803
+        },
+        "logp_null": {
+          "mean": -12.401382732484354,
+          "sd": 1.3123263449779599,
+          "z": 0.019541077251416836,
+          "p_emp": 0.48514851485148514
+        }
+      }
+    },
+    "or_to_en_wave1": {
+      "mapping": {
+        "o": "E",
+        "r": "N",
+        "l": "R"
+      },
+      "train": {
+        "lexical_pair_occurrences": 71,
+        "attested_bigram_occurrences": 22,
+        "attested_ratio": 0.30985915492957744,
+        "mean_target_bigram_log2p": -13.898298824244007,
+        "attested_null": {
+          "mean": 19.01,
+          "sd": 3.6445476087886783,
+          "z": 0.8204036058658515,
+          "p_emp": 0.27722772277227725
+        },
+        "logp_null": {
+          "mean": -13.868515864218448,
+          "sd": 0.22460101636920388,
+          "z": -0.13260385240911254,
+          "p_emp": 0.5346534653465347
+        }
+      },
+      "validation": {
+        "lexical_pair_occurrences": 29,
+        "attested_bigram_occurrences": 11,
+        "attested_ratio": 0.3793103448275862,
+        "mean_target_bigram_log2p": -13.60658628450772,
+        "attested_null": {
+          "mean": 6.73,
+          "sd": 2.3218548837104573,
+          "z": 1.839046888742803,
+          "p_emp": 0.0891089108910891
+        },
+        "logp_null": {
+          "mean": -13.908218787803694,
+          "sd": 0.4314170612193388,
+          "z": 0.6991668397245399,
+          "p_emp": 0.25742574257425743
+        }
+      }
+    },
+    "or_to_am_base": {
+      "mapping": {
+        "o": "A",
+        "r": "M"
+      },
+      "train": {
+        "lexical_pair_occurrences": 13,
+        "attested_bigram_occurrences": 2,
+        "attested_ratio": 0.15384615384615385,
+        "mean_target_bigram_log2p": -14.469144769381314,
+        "attested_null": {
+          "mean": 2.95,
+          "sd": 1.6414763002993509,
+          "z": -0.578747314126163,
+          "p_emp": 0.8118811881188119
+        },
+        "logp_null": {
+          "mean": -14.309212758542207,
+          "sd": 0.48289817346316466,
+          "z": -0.3311919978742816,
+          "p_emp": 0.594059405940594
+        }
+      },
+      "validation": {
+        "lexical_pair_occurrences": 5,
+        "attested_bigram_occurrences": 0,
+        "attested_ratio": 0.0,
+        "mean_target_bigram_log2p": -15.13841925272681,
+        "attested_null": {
+          "mean": 0.58,
+          "sd": 0.7410066862659939,
+          "z": -0.7827189831750068,
+          "p_emp": 1.0
+        },
+        "logp_null": {
+          "mean": -14.73857229694826,
+          "sd": 0.5781292922829548,
+          "z": -0.6916220318116207,
+          "p_emp": 0.7623762376237624
+        }
+      }
+    },
+    "or_to_am_wave1": {
+      "mapping": {
+        "o": "A",
+        "r": "M",
+        "DA": "R",
+        "i": "U",
+        "l": "L",
+        "y": "E",
+        "e": "T",
+        "CH": "W"
+      },
+      "train": {
+        "lexical_pair_occurrences": 151,
+        "attested_bigram_occurrences": 8,
+        "attested_ratio": 0.052980132450331126,
+        "mean_target_bigram_log2p": -14.970015342890582,
+        "attested_null": {
+          "mean": 11.01,
+          "sd": 3.2706067765582407,
+          "z": -0.92031852363723,
+          "p_emp": 0.8811881188118812
+        },
+        "logp_null": {
+          "mean": -14.895366701009634,
+          "sd": 0.0881615915766678,
+          "z": -0.8467252070424757,
+          "p_emp": 0.8118811881188119
+        }
+      },
+      "validation": {
+        "lexical_pair_occurrences": 50,
+        "attested_bigram_occurrences": 2,
+        "attested_ratio": 0.04,
+        "mean_target_bigram_log2p": -15.072617527300206,
+        "attested_null": {
+          "mean": 2.68,
+          "sd": 1.4133562033598457,
+          "z": -0.4811242901000447,
+          "p_emp": 0.801980198019802
+        },
+        "logp_null": {
+          "mean": -15.000422329995907,
+          "sd": 0.09905833503319,
+          "z": -0.7288149682720836,
+          "p_emp": 0.7722772277227723
+        }
+      }
+    }
+  }
+}
