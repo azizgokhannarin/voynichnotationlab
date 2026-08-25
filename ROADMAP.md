@@ -346,3 +346,12 @@ Candidate phonetic values or semantic interpretations only after reproducible ea
 - [ ] Run real Voynich slot-surrogate validation N=500/branch
 - [ ] Apply family aggregation + Holm alpha=0.01
 - [ ] Stop or hash-freeze and open final test once
+
+## Structural reassessment — possible transformation layer
+- [x] Test simple lagged-repeat / bird-language-like expansion signature
+- [x] Confirm adjacent near-duplicate excess is boundary-specific
+- [x] Build TRAIN same-core initial/terminal operator graphs
+- [x] Test operator graph transfer on VALIDATION
+- [x] Separate pair-specific information from marginal boundary-unit frequency
+- [x] Do not promote fixed pair operators when pair-specific transfer is near chance
+- [ ] Decide whether to test a latent boundary-class generative model or return to anchor-driven lexical attack

@@ -1,0 +1,51 @@
+{
+  "schema": "TRANSFORM-PROBE-v1",
+  "final_test_used": false,
+  "permutations": 300,
+  "global_adjacency": {
+    "FIRST": {
+      "observed": 340,
+      "null_mean": 292.7266666666667,
+      "null_sd": 13.264682237874938,
+      "z": 3.56384966375996
+    },
+    "LAST": {
+      "observed": 111,
+      "null_mean": 90.65666666666667,
+      "null_sd": 7.300899442153481,
+      "z": 2.7864146732218025
+    },
+    "INNER": {
+      "observed": 88,
+      "null_mean": 90.36,
+      "null_sd": 8.135376317422997,
+      "z": -0.29009106744647367
+    }
+  },
+  "heldout": {
+    "FIRST": {
+      "train_edges_core_ge_3": 244,
+      "validation_recurrent": 226,
+      "transfer_rate": 0.9262295081967213,
+      "auc_train_pair_support": 0.9341253324083709,
+      "auc_marginal_frequency_product": 0.9440205033337188,
+      "auc_pair_specific_lift": 0.5391567425906656,
+      "validation_positive_pairs": 279,
+      "candidate_pairs": 465,
+      "top10_support_share": 0.23124909328304077,
+      "top20_support_share": 0.34397214565501233
+    },
+    "LAST": {
+      "train_edges_core_ge_3": 129,
+      "validation_recurrent": 110,
+      "transfer_rate": 0.8527131782945736,
+      "auc_train_pair_support": 0.9232352679366209,
+      "auc_marginal_frequency_product": 0.9026726900480684,
+      "auc_pair_specific_lift": 0.5559796154530888,
+      "validation_positive_pairs": 137,
+      "candidate_pairs": 465,
+      "top10_support_share": 0.4336,
+      "top20_support_share": 0.63296
+    }
+  }
+}

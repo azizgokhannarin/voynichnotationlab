@@ -1,5 +1,16 @@
 # Changelog
 
+## v3.4 — 2026-08-25
+
+- opened a language-independent structural reassessment of possible surface-transformation rules;
+- quantified same-core boundary-variant graphs on TRAIN and transferred them to VALIDATION;
+- confirmed significant adjacency enrichment for first/final substitutions but not internal substitutions;
+- showed that raw boundary-pair recurrence transfers strongly to held-out pages;
+- showed that most held-out predictive power is explained by marginal boundary-unit frequency,
+  while pair-specific operator lift is near chance;
+- therefore did not promote QO↔o, r↔l, CH↔SH or similar pairs to decoding operators;
+- used no final-test pages.
+
 ## v3.3 — 2026-08-25
 
 - aligned production positive calibration with the preregistered approximately-37-symbol source inventory by activating exactly 37 deterministic aliases;
