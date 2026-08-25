@@ -1,0 +1,58 @@
+[
+  {
+    "language": "ReF",
+    "mode": "syllable",
+    "distorted_tokens_per_word": 1.6096,
+    "lexical_hit_rate": 0.9218439363817097,
+    "bigram_rate": 0.4881262199089135,
+    "trigram_rate": 0.1464968152866242,
+    "attested_bigrams": 3001,
+    "eligible_bigrams": 6148,
+    "attested_trigrams": 736,
+    "eligible_trigrams": 5024,
+    "bigram_z": 24.433185420873624,
+    "trigram_z": 54.744727323207705
+  },
+  {
+    "language": "ReF",
+    "mode": "core_ending",
+    "distorted_tokens_per_word": 1.4776,
+    "lexical_hit_rate": 0.8955062263129399,
+    "bigram_rate": 0.45490491432875163,
+    "trigram_rate": 0.13263855992420653,
+    "attested_bigrams": 2416,
+    "eligible_bigrams": 5311,
+    "attested_trigrams": 560,
+    "eligible_trigrams": 4222,
+    "bigram_z": 7.586705702272282,
+    "trigram_z": 47.638903175529414
+  },
+  {
+    "language": "Italian",
+    "mode": "syllable",
+    "distorted_tokens_per_word": 1.866,
+    "lexical_hit_rate": 0.8186495176848875,
+    "bigram_rate": 0.4861111111111111,
+    "trigram_rate": 0.09292369680181314,
+    "attested_bigrams": 2695,
+    "eligible_bigrams": 5544,
+    "attested_trigrams": 369,
+    "eligible_trigrams": 3971,
+    "bigram_z": 14.00326708169386,
+    "trigram_z": 30.336294066485806
+  },
+  {
+    "language": "Italian",
+    "mode": "core_ending",
+    "distorted_tokens_per_word": 1.485,
+    "lexical_hit_rate": 0.8002693602693602,
+    "bigram_rate": 0.5518711511132165,
+    "trigram_rate": 0.19348337252267384,
+    "attested_bigrams": 2330,
+    "eligible_bigrams": 4222,
+    "attested_trigrams": 576,
+    "eligible_trigrams": 2977,
+    "bigram_z": 16.306582788048793,
+    "trigram_z": 45.14470869871748
+  }
+]

@@ -411,3 +411,13 @@ Candidate phonetic values or semantic interpretations only after reproducible ea
 - [x] French common-objective attack
 - [x] Cross-language convergence analysis
 - [ ] Decide whether Latin is a confirmation control or return directly to notation-model assumptions
+
+## Representation diagnostics
+- [x] Mild syllable-like boundary-distortion control
+- [x] Core+ending boundary-distortion control
+- [x] Bias-corrected token MI decay
+- [x] Within-line vs across-line dependency test
+- [x] Induced token-class grammar
+- [x] Frozen-class shuffle significance
+- [ ] Optional preregistered Latin confirmation
+- [ ] After confirmation, stop direct language search at this representation level

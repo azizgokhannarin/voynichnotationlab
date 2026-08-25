@@ -1,5 +1,18 @@
 # Changelog
 
+## v4.1 — 2026-08-26
+
+- tested whether mild wrong segmentation alone can reproduce the Voynich language-attack signature;
+- showed that syllable-like and core+ending splits of genuine ReF/Italian preserve strong phrase-order signal;
+- added language-agnostic, permutation-bias-corrected token mutual-information decay;
+- added within-line versus across-line dependency diagnostics;
+- added unsupervised distributional token classes and frozen-class shuffle testing;
+- found strong Voynich adjacent class ordering but rapid decay beyond lag 1–2;
+- found that Voynich sequential dependency is strongly line-local;
+- narrowed the surviving natural-language hypothesis to a more substantial transformation layer;
+- increased, but did not establish, the plausibility of a procedural/template-generated surface mechanism;
+- used no final-test manuscript pages.
+
 ## v4.0 — 2026-08-26
 
 - calibrated and executed the common bounded-homophonic attack on medieval French (BFM2022);
