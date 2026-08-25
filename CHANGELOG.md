@@ -1,5 +1,14 @@
 # Changelog
 
+## v2.5 — 2026-08-25
+
+- locally froze BFM2022 and DanteSearch official Campaign-1 payloads;
+- computed local SHA-256 and verified DanteSearch's published MD5;
+- verified selected BFM TEI payloads against NAKALA per-file SHA-1 metadata;
+- applied the preregistered 1300–1500 BFM date filter and recorded 2570561 selected tokens;
+- froze the preregistered Dante vernacular work subset and recorded 260897 tokens;
+- added per-document filtered manifests without running any Voynich-language mapping search.
+
 ## v2.4 — 2026-08-25
 
 - created the authoritative Campaign-1 historical corpus acquisition manifest;

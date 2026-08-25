@@ -230,3 +230,14 @@ Candidate phonetic values or semantic interpretations only after reproducible ea
 - [ ] Resolve Old Czech stable export or retain blocked status
 - [ ] Record 1300–1500 filtered token counts
 - [ ] Unlock null generator / mapping search
+
+## Phase 5C — Romance corpus local freeze
+- [x] Freeze BFM2022 local payload and SHA-256
+- [x] Verify BFM selected TEI files against NAKALA SHA-1
+- [x] Apply frozen 1300–1500 BFM metadata filter (89 documents)
+- [x] Freeze DanteSearch official payload and verify MD5
+- [x] Exclude Latin Dante works from Romance primary stream
+- [x] Record Romance filtered token counts
+- [ ] Acquire/freeze LatinISE v6 locally
+- [ ] Complete ReF/ReN historical-window token extraction
+- [ ] Resolve Old Czech acquisition or retain blocked status
