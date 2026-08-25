@@ -291,3 +291,18 @@ Candidate phonetic values or semantic interpretations only after reproducible ea
 - [ ] Serialize the real RF1b frozen structural representation
 - [ ] Run real TRAIN/VALIDATION branch searches
 - [ ] Freeze mappings before final-test access
+
+## Phase 5H — Campaign-1 train/validation and design gate
+- [x] Reproduce RF1b frozen token counts on 227/227 pages
+- [x] Freeze real `C1-STRUCT-v1` SHA-256
+- [x] Finalize corpus-only normalizer coverage before real scoring
+- [x] Correct LatinISE century-only boundary contamination before real scoring
+- [x] Freeze ReF / ReN / BFM / Dante / Latin target-stream hashes
+- [x] Run TRAIN+VALIDATION mapping search for all five active branches
+- [x] Freeze five mapping SHA-256 values
+- [x] Keep 46-page final test unscored
+- [x] Prove Null B is invariant under token-local scoring
+- [x] Verify Null D relabeling symmetry on a real ReF replicate
+- [x] Stop Campaign 1 before final test because primary null Z is undefined
+- [ ] Draft and preregister Campaign 2 corrected null/scoring design
+- [ ] Do not open final test until a new valid campaign explicitly permits it

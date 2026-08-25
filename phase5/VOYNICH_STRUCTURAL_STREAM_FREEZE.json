@@ -1,0 +1,61 @@
+{
+  "schema": "C1-STRUCT-v1",
+  "stream_sha256": "1ea0e5a32bb5b63ac25e26bdd2c629144cd1232a7aba03d4e2eb384923cad478",
+  "pages": 227,
+  "page_counts": {
+    "final_test": 46,
+    "train": 136,
+    "validation": 45
+  },
+  "line_counts": {
+    "final_test": 1199,
+    "train": 3155,
+    "validation": 1024
+  },
+  "token_counts": {
+    "final_test": 8150,
+    "train": 22716,
+    "validation": 7596
+  },
+  "tokens_total": 38462,
+  "unit_inventory_size": 37,
+  "unit_counts": {
+    "e": 20534,
+    "o": 19840,
+    "y": 17512,
+    "i": 11998,
+    "CH": 11509,
+    "a": 11107,
+    "l": 10671,
+    "k": 10012,
+    "r": 7577,
+    "d": 7042,
+    "n": 6189,
+    "t": 6178,
+    "QO": 5303,
+    "SH": 4174,
+    "DA": 3450,
+    "s": 2838,
+    "p": 1451,
+    "m": 1065,
+    "cth": 896,
+    "ckh": 868,
+    "f": 434,
+    "cph": 212,
+    "g": 165,
+    "c": 133,
+    "q": 132,
+    "h": 107,
+    "cfh": 67,
+    "x": 43,
+    "ckhh": 41,
+    "cthh": 37,
+    "j": 37,
+    "b": 17,
+    "v": 14,
+    "cphh": 13,
+    "cfhh": 13,
+    "u": 7,
+    "z": 1
+  }
+}

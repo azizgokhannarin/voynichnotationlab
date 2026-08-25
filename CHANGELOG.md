@@ -1,5 +1,17 @@
 # Changelog
 
+## v3.0 — 2026-08-25
+
+- reproduced the frozen 38,462-token RF1b page manifest exactly and froze the real `C1-STRUCT-v1` stream hash;
+- finalized full-corpus PHONO-WG/FR/OIT/LAT validation before the first real language score;
+- corrected a pre-score LatinISE century-boundary filtering bug and froze 51 documents / 451,216 tokens;
+- added fixed-random 200-token normalizer audits and rule regression tests;
+- added a Numba accelerator proven exactly equivalent to the frozen reference mapping engine on the regression fixture;
+- ran the first real Campaign-1 TRAIN+VALIDATION searches for ReF, ReN, BFM, DanteSearch and LatinISE;
+- froze all five selected mappings and SHA-256 values without scoring final-test pages;
+- identified exact Null-B degeneracy and Null-D relabeling symmetry under the frozen token-local scorer;
+- triggered a methodological Campaign-1 stop before final-test access rather than changing null/scoring rules after validation results were visible.
+
 ## v2.9 — 2026-08-25
 
 - froze the Campaign-1 primary mapping-search hypothesis class before real language scoring;

@@ -1,6 +1,6 @@
-normalizer,tokens,handled,unhandled_pct,status,classes,top_unhandled
-PHONO-WG-v1/ReF,100000,100000,0.0,PASS,A E F H I J K L M N O P R S T U W X,
-PHONO-WG-v1/ReN,100000,99993,0.007,PASS,A E F H I J K L M N O P R S SH T U W X,hø:2; høren:1; løuet:1; vorstø:1; thohøren:1; kømen:1
-PHONO-FR-v1,100000,99780,0.22,PASS,A E F H I K L M N NY O P R S SH T U W X,ça:23; commença:18; façon:16; sçavoir:15; Alençon:13; sçay:11; pieça:9; sçavés:8; sçavoit:6; François:5
-PHONO-OIT-v1,100000,100000,0.0,PASS,A E F H I J K L M N NY O P R S SH T U W X,
-PHONO-LAT-v1,100000,100000,0.0,PASS,A C_FRONT E F G_FRONT H I J K L M N O P R S T U W,
+branch,normalizer_id,raw_tokens,normalized_tokens,dropped_alphabetic_tokens,dropped_pct_alphabetic,inventory,stream_sha256,status
+ReF,PHONO-WG-v1,1663577,1567372,1867,0.118975,A E F H I J K L M N O P R S SH T U W X,f340efdab1711f79515cfac40589c71e9a90c3f32bfb4c98f4b8a06d359cdd7d,PASS
+ReN,PHONO-WG-v1,590746,552104,103,0.018652,A E F H I J K L M N O P R S SH T U W X,803521c6be9132541bf87be2f25c7f67408a8d783fb4f707239f2b5c9bb1ccec,PASS
+BFM,PHONO-FR-v1,1501992,1324648,0,0.000000,A E F H I K L M N NY O P R S SH T U W,1c1f01d994f95e50f2cba6dded313e146551d5cb51ee4d67a42e1d9da87a9412,PASS
+Dante,PHONO-OIT-v1,232888,232778,0,0.000000,A E F H I J K L M N NY O P R S SH T U W,9af1f4211fce74675578b4ef1ece9e108dcd8bb5b0b4be4a4083ae45c764a8cf,PASS
+Latin,PHONO-LAT-v1,451216,451216,0,0.000000,A C_FRONT E F G_FRONT H I J K L M N O P R S T U W,aa6b8cf67f04e28bfe6dd1da40720380cfb459845a5d8223825c8a944c0eb784,PASS
