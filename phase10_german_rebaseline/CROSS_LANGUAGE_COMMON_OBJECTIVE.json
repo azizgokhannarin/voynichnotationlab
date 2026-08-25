@@ -1,0 +1,44 @@
+[
+  {
+    "language": "German",
+    "branch": "ReF",
+    "positive_mapping_recovery": 0.8648648648648649,
+    "positive_exact_token_recovery": 0.7014,
+    "positive_bigram_z": 70.18326086280308,
+    "positive_trigram_z": 85.82786493467452,
+    "voynich_lm_z": 7.834905415591127,
+    "voynich_lexical_hit_rate": 0.6204581358609794,
+    "voynich_bigram_z": 1.5959663861499143,
+    "voynich_trigram_z": 1.2655929812396476,
+    "longest_lexical_run": 12,
+    "longest_attested_bigram_chain": 3
+  },
+  {
+    "language": "German",
+    "branch": "ReN",
+    "positive_mapping_recovery": 0.918918918918919,
+    "positive_exact_token_recovery": 0.8028,
+    "positive_bigram_z": 94.2126396602628,
+    "positive_trigram_z": 140.56005420422957,
+    "voynich_lm_z": 8.541952743902343,
+    "voynich_lexical_hit_rate": 0.47406529752501314,
+    "voynich_bigram_z": 0.8598699279610641,
+    "voynich_trigram_z": -0.2572030164421362,
+    "longest_lexical_run": 12,
+    "longest_attested_bigram_chain": 3
+  },
+  {
+    "language": "Italian",
+    "branch": "Dante",
+    "positive_mapping_recovery": 0.918918918918919,
+    "positive_exact_token_recovery": 0.9878,
+    "positive_bigram_z": 102.77180808485612,
+    "positive_trigram_z": 303.17495335559744,
+    "voynich_lm_z": 6.931935426929882,
+    "voynich_lexical_hit_rate": 0.31845708267509215,
+    "voynich_bigram_z": -0.05796062861699255,
+    "voynich_trigram_z": -0.6076514585149732,
+    "longest_lexical_run": 7,
+    "longest_attested_bigram_chain": 5
+  }
+]

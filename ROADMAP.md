@@ -397,3 +397,10 @@ Candidate phonetic values or semantic interpretations only after reproducible ea
 - [ ] Medieval Spanish / Castilian
 - [ ] Middle English
 - [ ] After three independently calibrated language targets, evaluate cross-language convergence
+
+## Common-objective language sequence
+- [x] German ReF re-baseline
+- [x] German ReN re-baseline
+- [x] Italian calibrated attack
+- [ ] French calibrated attack
+- [ ] After French, evaluate three-language convergence before selecting the next target

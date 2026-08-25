@@ -1,5 +1,16 @@
 # Changelog
 
+## v3.9 — 2026-08-26
+
+- re-baselined ReF and ReN under the same continuous explicit-boundary objective used for Italian;
+- accelerated the bounded-homophonic search without changing its statistical model;
+- demonstrated strong recovery and phrase coherence on fresh ReF and ReN positive controls;
+- reran Voynich TRAIN optimization and frozen VALIDATION for both German branches;
+- confirmed that high LM/lexical fit does not transfer to strong German phrase order;
+- retained the German closure under the common cross-language objective;
+- added a German/Italian common-objective comparison table;
+- used no final-test manuscript pages.
+
 ## v3.8 — 2026-08-25
 
 - transferred the calibrated bounded-homophonic attack to historical Italian (DanteSearch);
