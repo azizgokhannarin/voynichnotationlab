@@ -1,5 +1,13 @@
 # Changelog
 
+## v2.7 — 2026-08-25
+
+- froze ReF 1350–1500 and ReN 1300–1500 historical subsets with document manifests;
+- recorded 1560656 ReF and 590864 ReN token occurrences in the frozen windows;
+- validated PHONO-WG/FR/OIT/LAT v1 coverage against historical-corpus samples;
+- froze auditable sample transformations and preserved the <=1% preregistered acceptance rule;
+- ran no Voynich-to-language optimizer; West Slavic remains acquisition-blocked.
+
 ## v2.6 — 2026-08-25
 
 - locally froze the LatinISE v6 Campaign-1 payload;

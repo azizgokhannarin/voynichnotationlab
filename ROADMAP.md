@@ -252,3 +252,12 @@ Candidate phonetic values or semantic interpretations only after reproducible ea
 - [ ] Resolve Old Czech acquisition or retain blocked status
 - [ ] Validate all PHONO-*-v1 normalizers
 - [ ] Unlock null generators / mapping search
+
+## Phase 5E — Pre-search validation
+- [x] ReF 1350–1500: 98 docs / 1560656 tokens
+- [x] ReN 1300–1500: 75 docs / 590864 tokens
+- [x] Validate WG / FR / OIT / LAT normalizers
+- [x] All active normalizer checks pass <=1%
+- [ ] West Slavic remains acquisition-blocked
+- [ ] Implement matched null generators
+- [ ] Implement fixed-complexity mapping search
