@@ -320,3 +320,16 @@ Candidate phonetic values or semantic interpretations only after reproducible ea
 - [ ] Run instrument calibration
 - [ ] Run validation experiment
 - [ ] Stop or hash-freeze and open final test once
+
+## Campaign 2 implementation
+- [x] Deterministic weak surrogate generator
+- [x] Deterministic independent-slot surrogate generator
+- [x] Deterministic positive calibration encoder
+- [x] Matched negative calibration generator
+- [x] Surrogate invariant fixtures
+- [x] Synthetic end-to-end instrument fixture
+- [x] Re-run frozen mapping/null regressions
+- [ ] Build real branch calibration streams
+- [ ] Run real instrument calibration
+- [ ] If valid, run N=500 weak + N=500 slot validation
+- [ ] Stop or hash-freeze and open final test once

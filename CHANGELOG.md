@@ -1,5 +1,15 @@
 # Changelog
 
+## v3.2 — 2026-08-25
+
+- implemented deterministic Campaign-2 weak and independent-slot surrogate generators;
+- implemented deterministic positive and matched-negative calibration generators;
+- added synthetic invariants for exact layout, token-length and frequency preservation;
+- added an end-to-end instrument fixture where the known positive must beat the matched negative;
+- reran frozen mapping-engine, Numba-equivalence and Campaign-1 null regressions successfully;
+- froze generator regression output SHA-256 `01d734b73cd837b0a5b451e22a880f50357ddc3343ff8d94a7ad0b049608f697`;
+- ran no real Campaign-2 Voynich surrogate distribution and kept final-test pages sealed.
+
 ## v3.1 — 2026-08-25
 
 - preregistered minimal Campaign 2 with one primary experiment and two controls;
