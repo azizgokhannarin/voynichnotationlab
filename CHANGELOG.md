@@ -1,5 +1,16 @@
 # Changelog
 
+## v2.8 — 2026-08-25
+
+- froze Campaign-1 matched null specification before any language mapping score;
+- implemented deterministic Null A/B/C/D generators with master seed 20260825;
+- added structural invariant and reproducibility regression tests;
+- froze 1000 production replicates per null family and add-0.5 Null-C smoothing;
+- froze held-out cross-entropy direction, empirical null p-value rule, and conservative
+  minimum-Z null aggregation;
+- generated a hashed synthetic expected-output fixture;
+- ran no real Voynich-to-language mapping optimization.
+
 ## v2.7 — 2026-08-25
 
 - froze ReF 1350–1500 and ReN 1300–1500 historical subsets with document manifests;

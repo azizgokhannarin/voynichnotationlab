@@ -261,3 +261,18 @@ Candidate phonetic values or semantic interpretations only after reproducible ea
 - [ ] West Slavic remains acquisition-blocked
 - [ ] Implement matched null generators
 - [ ] Implement fixed-complexity mapping search
+
+## Phase 5F — Matched null infrastructure
+- [x] Freeze null-model specification v1
+- [x] Freeze deterministic seed derivation
+- [x] Implement Null A: within-token unit shuffle
+- [x] Implement Null B: line-local token-order shuffle
+- [x] Implement Null C: train-fit matched first-order synthetic generator
+- [x] Implement Null D: global unit-label permutation
+- [x] Add invariant / determinism regression tests
+- [x] Freeze null scoring direction and conservative aggregation rule
+- [x] Freeze production null count at 1000 per family/model
+- [ ] Implement frozen structural Voynich serializer
+- [ ] Implement fixed-complexity mapping optimizer / beam search
+- [ ] Run train/validation only
+- [ ] Freeze mapping before opening final test
