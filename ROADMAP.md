@@ -443,3 +443,16 @@ Candidate phonetic values or semantic interpretations only after reproducible ea
 - [ ] Add productive vocabulary innovation only
 - [ ] Add one latent line-level state only
 - [ ] Compare marginal held-out gains before combining mechanisms
+
+## Instrument recalibration
+- [x] Identify diplomatic abbreviation-preserving medieval control corpus (CREMMA Medii Aevi)
+- [x] Run small real-medical-Latin pilot and test power
+- [x] Reject small pilot as underpowered using matched-size Voynich power check
+- [x] Build known-content strong-renderer positive control
+- [x] Demonstrate class-space line-local/distant-context metrics are content-blind under strong rendering
+- [x] Revise v4.3 interpretation without retracting observations
+- [ ] Acquire/run full-size real diplomatic negative control
+- [ ] Build raw-token distance-resolved recurrence/burstiness instrument
+- [ ] Build residual information-capacity estimator
+- [ ] Calibrate new instrument on known-content strong renderer
+- [ ] Only then resume H_C/H_D/H_G discrimination

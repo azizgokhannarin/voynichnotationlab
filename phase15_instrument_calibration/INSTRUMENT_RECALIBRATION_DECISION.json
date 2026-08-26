@@ -1,0 +1,11 @@
+{
+  "schema": "INSTRUMENT_RECALIBRATION_DECISION_v1",
+  "final_test_used": false,
+  "v4_3_observations_retracted": false,
+  "v4_3_interpretation_revised": true,
+  "key_result": "Known-content Latin under a bounded strong line-aware renderer reproduces the Voynich-like class-lag and model-competition signature.",
+  "consequence": "Class-space line-locality and distant-context null cannot discriminate H_C from H_G.",
+  "direct_language_closure_stands": true,
+  "full_real_negative_control_required": true,
+  "next_instrument": "raw-token distance-resolved recurrence/burstiness + residual information capacity, calibrated on controls"
+}

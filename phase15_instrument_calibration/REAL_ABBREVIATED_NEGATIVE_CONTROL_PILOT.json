@@ -1,0 +1,24 @@
+{
+  "schema": "REAL_ABBREVIATED_MANUSCRIPT_NEGATIVE_CONTROL_PILOT_v1",
+  "source": "CREMMA Medii Aevi / Philadelphia College of Physicians 10a 135 / Tractatus de Sterilitate",
+  "century": 14,
+  "genre": "medical",
+  "transcription": "graphemic/diplomatic; abbreviations and manuscript lineation preserved",
+  "status": "PILOT_TOO_SMALL_FOR_DECISION",
+  "available_pilot_lines": 112,
+  "available_pilot_tokens": 1202,
+  "heldout_lines": 34,
+  "heldout_tokens": 308,
+  "pilot_class_mi_z_lag1_3": [
+    -0.27163114167020963,
+    -0.21114593904710827,
+    -0.8771307802528185
+  ],
+  "matched_112_line_voynich_class_mi_z_lag1_3": [
+    -1.0744302548349698,
+    0.633813347447649,
+    0.47142236416328803
+  ],
+  "interpretation": "The sample is underpowered: the same small-sample pipeline also erases Voynich's established full-corpus lag-1 signal. No H_C/H_G inference is permitted from this pilot.",
+  "data_source": "HTR-United/CREMMA-Medieval-LAT, Phi_10a135"
+}

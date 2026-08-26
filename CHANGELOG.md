@@ -1,5 +1,17 @@
 # Changelog
 
+## v4.4 — 2026-08-26
+
+- paused generator augmentation to recalibrate the H_C/H_G measurement instrument;
+- selected CREMMA Medii Aevi as a diplomatic, abbreviation-preserving medieval Latin control source;
+- ran a 14th-century medical-Latin pilot on Phi_10a135 and demonstrated that the available four-page sample is underpowered;
+- built a large known-content Latin strong-renderer stress test with bounded mixed granularity, homophony, null insertion, nomenclator coding and line-final realization;
+- found that known hidden Latin reproduces the Voynich-like signature: very strong lag-1 induced-class order, weak/null lag-2+, line-local model win and no benefit from distant class context;
+- revised the interpretation of v4.3: those class-space measurements describe the surface but do not discriminate autonomous generation from hidden content behind a strong renderer;
+- retained the direct-language closure and all underlying surface observations;
+- required a full-size real diplomatic negative control and a new raw-token/residual-capacity instrument before any latent-content claim;
+- used no final-test manuscript pages.
+
 ## v4.3 — 2026-08-26
 
 - tested line-reset behavior with TRAIN-learned, frozen distributional token classes;

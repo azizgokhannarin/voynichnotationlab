@@ -1,0 +1,27 @@
+{
+  "schema": "STRONG_RENDERER_POSITIVE_CONTROL_v1",
+  "known_hidden_content": "medieval LatinISE natural-language sequence",
+  "renderer": {
+    "nomenclator_top_type_fraction": 0.08,
+    "syllabary_like_chunks": "1-2 deterministic chunks",
+    "homophony": "1-3 surface forms/chunk",
+    "null_probability_after_chunk": 0.2,
+    "line_final_variant": true
+  },
+  "surface_lines": 4200,
+  "surface_tokens": 49353,
+  "class_mi_shuffle_z_lag1_5": [
+    55.794469279374226,
+    1.7905510471727593,
+    -1.115299746502357,
+    -0.8746477829260791,
+    0.5871888076113094
+  ],
+  "model_bits_per_token": {
+    "POSITION": 1.9962199705880517,
+    "CONTINUOUS": 1.9467734915926043,
+    "LINE_LOCAL": 1.903175391903494,
+    "HYBRID": 1.9068088446905853
+  },
+  "line_local_minus_continuous_gain": 0.043598099689110326
+}
