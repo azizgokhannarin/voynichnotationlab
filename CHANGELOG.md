@@ -1,5 +1,21 @@
 # Changelog
 
+## v4.7.0 — 2026-08-26
+
+- preregistered residual selection entropy as a lossless held-out codelength and an upper bound on hidden-content bandwidth;
+- froze four open-vocabulary bounded surface-code families using TRAIN-internal deterministic page selection;
+- charged unseen strings through an ESC plus UTF-8 byte-bigram spelling code instead of a free UNK class;
+- added deterministic low-capacity, hash-integrity, OOV and renderer fixture tests;
+- built an aligned many-to-one heavy-suspension renderer from the exact frozen LatinISE source and Voynich TRAIN line geometry;
+- passed the positive gate on 6,086 validation tokens, recovering 3.555 bits/token of known hidden onset information at permutation p = 0.000999;
+- measured a positive-control residual upper bound of 3.978 bits/token after selecting `LAYOUT_OPEN`;
+- measured Voynich VALIDATION only after certification and selected `UNIGRAM_OPEN` wholly inside TRAIN;
+- obtained a Voynich residual-capacity upper bound of 12.372 bits/token with 95% bootstrap CI 12.174–12.574;
+- did not reject content-rich H_C because the upper confidence bound is not below the preregistered 1 bit/token threshold;
+- treated the large bound as compatible with content, procedural innovation, noise and model misspecification rather than as evidence for a hypothesis;
+- kept H_C, H_D and H_G open and unranked and kept every final-test partition sealed;
+- selected a small latent-state test with parameter-matched zero-state procedural calibration and secondary prequential/MDL reporting as the next stage.
+
 ## v4.6.0 — 2026-08-26
 
 - preregistered structured-data calibration before parsing either control dataset into instrument results;

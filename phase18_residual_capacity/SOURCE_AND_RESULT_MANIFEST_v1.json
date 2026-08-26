@@ -1,0 +1,40 @@
+{
+  "date": "2026-08-26",
+  "derived_payloads_not_vendored": {
+    "lossy_renderer_phase18.json": {
+      "canonical_corpus_sha256": "fc19e127fddaa1a8838d5720567abe38bc51d5269fccc4c7b6c87415ceabec00",
+      "file_sha256": "3ae8cc9b62153abf157ef5ea95a084504f213a763e748f848b69dec5f0622502",
+      "rebuild": "build_lossy_renderer.py with SOURCE_PROVENANCE_v1.json inputs"
+    }
+  },
+  "final_test_used": false,
+  "preresult_freeze": {
+    "freeze_file_sha256": "366fd6c386428f0883f0eb3bb3f68e1887b524d580ecb9bbf3b908f6c165f434",
+    "preregistration_sha256": "24de81f96ce3332efe9c31c6aadd9f892acf19d81eaea2cd1888d868da00cad7",
+    "renderer_builder_sha256": "6cb2e525e0817e10f2331b83754834e771e793736a7785c00e8c2e85b701c9f0",
+    "residual_estimator_sha256": "63dd32271ccf834a93c481b1a94b6f7a24ae73c4aa1c4aee4081606dfbea2d49",
+    "fixture_tests_sha256": "307800b4cdcd1df79081671f75f1ee1d6e0b8b4df29fea14f6d3971c0c88b445"
+  },
+  "result_files": {
+    "LOSSY_RENDERER_POSITIVE_RESULT_v1.json": {
+      "embedded_result_sha256": "cafb6b941fa40f4d1956957db9de2c1327ee15ed0bb1b50996431c5b45410dba",
+      "file_sha256": "11d175958f86a6cf967b4aaf773a93461f15490124b2b48db8a71df08367bab1"
+    },
+    "RESIDUAL_CAPACITY_DECISION_v1.json": {
+      "embedded_decision_sha256": "d28d6e10ff00e0d690e383d6a964de20a77d006ff7e5c9dfe6c71a76823cb7ef",
+      "file_sha256": "51cd1bf914ff0d692c1f659c13520cad6b142928da787f4334c7e8c9c69c8f57"
+    },
+    "VOYNICH_RESIDUAL_CAPACITY_RESULT_v1.json": {
+      "embedded_result_sha256": "8ce39951ba4324bb08fdc1be8ee8c5094ebb04a8ea305482fb6d11da5addbe74",
+      "file_sha256": "8a4e362293596546b19ecfd8e349208bf89ee69a4785160eecea734d3c3c0110"
+    }
+  },
+  "schema": "PHASE18_SOURCE_AND_RESULT_MANIFEST_v1",
+  "supporting_files": {
+    "RESIDUAL_CAPACITY_REPORT.md": "5be4d1ef52140d5eae45419d6e17112965ce1f972bbe145e2ceafd123406c4ad",
+    "SOURCE_PROVENANCE_v1.json": "93899b04e9692fa8a1415f57689316f2bfa9cf18965ed4e06bcc70269087a1fe",
+    "evaluate_capacity.py": "2ff1dafdd2dbc98d3ee9525c49799bf7cdcebc5f7bc1025db04936ae9e072b91",
+    "test_phase18_decision.py": "0cf7a6d544f5a534dfe210085dcd39db41fe63189be5838871569280c5a17e37"
+  },
+  "voynich_canonical_corpus_sha256": "5fdf577932f21b6da59b7ae12f5bb5451d9bb5b574d81c1affd8b646364b9997"
+}

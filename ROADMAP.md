@@ -455,12 +455,15 @@ Candidate phonetic values or semantic interpretations only after reproducible ea
 - [x] Freeze Phase 15 executable code, provenance, checksums, seeds and splits
 - [x] Mark legacy class-MI cross-corpus comparison non-comparable after regression failure
 - [x] Build raw-token distance-resolved recurrence/burstiness instrument
-- [ ] Build residual information-capacity estimator
+- [x] Build residual information-capacity estimator
 - [x] Calibrate new instrument on known-content strong renderer
 - [x] Calibrate raw-token instrument on full-size diplomatic CREMMA
 - [x] Run frozen raw-token instrument on Voynich VALIDATION only
 - [x] Preregister and run structured-data controls with the frozen instrument
 - [x] Preserve paired ordered/permuted line-inventory ablations
 - [x] Record qualitative H_D phenotype match without quantitative/ranking claim
-- [ ] Calibrate residual information capacity on a known lossy renderer
-- [ ] Only after residual-capacity calibration resume H_C/H_D/H_G discrimination
+- [x] Calibrate residual information capacity on a known lossy renderer
+- [x] Apply the certified residual-capacity bound to Voynich VALIDATION only
+- [x] Keep H_C/H_D/H_G open and unranked after the non-falsifying upper bound
+- [ ] Preregister a small latent-state test against parameter-matched zero-state procedural nulls
+- [ ] Report latent-state gains with held-out prediction and secondary prequential/MDL checks

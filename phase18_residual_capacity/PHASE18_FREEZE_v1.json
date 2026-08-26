@@ -1,0 +1,14 @@
+{
+  "date": "2026-08-26",
+  "final_test_authorized": false,
+  "files": {
+    "RESIDUAL_CAPACITY_PREREGISTRATION.md": "24de81f96ce3332efe9c31c6aadd9f892acf19d81eaea2cd1888d868da00cad7",
+    "build_lossy_renderer.py": "6cb2e525e0817e10f2331b83754834e771e793736a7785c00e8c2e85b701c9f0",
+    "residual_capacity.py": "63dd32271ccf834a93c481b1a94b6f7a24ae73c4aa1c4aee4081606dfbea2d49",
+    "test_residual_capacity.py": "307800b4cdcd1df79081671f75f1ee1d6e0b8b4df29fea14f6d3971c0c88b445"
+  },
+  "positive_gate_before_voynich": true,
+  "schema": "PHASE18_PRERESULT_FREEZE_v1",
+  "seed": 20260826,
+  "voynich_validation_opened": false
+}

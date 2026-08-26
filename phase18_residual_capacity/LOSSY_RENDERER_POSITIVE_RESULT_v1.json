@@ -1,0 +1,118 @@
+{
+  "capacity_result": {
+    "bootstraps": 2000,
+    "candidate_selection": [
+      {
+        "family": "UNIGRAM_OPEN",
+        "fit_lines": 2016,
+        "selection_bits_per_token": 4.371025012378502,
+        "selection_escape_rate": 0.0,
+        "selection_lines": 504,
+        "selection_tokens": 3567
+      },
+      {
+        "family": "LAYOUT_OPEN",
+        "fit_lines": 2016,
+        "selection_bits_per_token": 4.017267083719341,
+        "selection_escape_rate": 0.0,
+        "selection_lines": 504,
+        "selection_tokens": 3567
+      },
+      {
+        "family": "PREV_SHAPE_LAYOUT_OPEN",
+        "fit_lines": 2016,
+        "selection_bits_per_token": 4.192361667689257,
+        "selection_escape_rate": 0.0,
+        "selection_lines": 504,
+        "selection_tokens": 3567
+      },
+      {
+        "family": "PREV_ID_LAYOUT_OPEN",
+        "fit_lines": 2016,
+        "selection_bits_per_token": 4.381743656684284,
+        "selection_escape_rate": 0.0,
+        "selection_lines": 504,
+        "selection_tokens": 3567
+      }
+    ],
+    "corpus_name": "LATINISE_HEAVY_SUSPENSION_ALIGNED_v1",
+    "corpus_sha256": "fc19e127fddaa1a8838d5720567abe38bc51d5269fccc4c7b6c87415ceabec00",
+    "date": "2026-08-26",
+    "estimand": "lossless residual selection codelength; upper bound on hidden bandwidth",
+    "final_test_used": false,
+    "interpretation_limit": "Capacity is an upper bound, not evidence that residual choices carry content.",
+    "label": "LATINISE_HEAVY_SUSPENSION",
+    "model_contract": {
+      "alpha": 8.0,
+      "base_beta": 0.5,
+      "families": [
+        "UNIGRAM_OPEN",
+        "LAYOUT_OPEN",
+        "PREV_SHAPE_LAYOUT_OPEN",
+        "PREV_ID_LAYOUT_OPEN"
+      ],
+      "minimum_dictionary_count": 2,
+      "oov_code": "ESC + frozen UTF-8 byte-bigram spelling code",
+      "seed": 20260826,
+      "selection": "deterministic 80/20 page split inside TRAIN"
+    },
+    "residual_capacity": {
+      "bits_per_token": 3.9777881067026875,
+      "bootstrap_95_ci_bits_per_token": [
+        3.9532110992078673,
+        4.003975378925815
+      ],
+      "escape_rate": 0.0,
+      "escaped_tokens": 0,
+      "mean_bits_per_line": 28.820021925467326,
+      "median_bits_per_line": 28.723815937894827,
+      "p95_bits_per_line": 50.66106096990185,
+      "total_bits": 24208.818417392555
+    },
+    "result_sha256": "33cc4b07cbe20a9cf441cf093a61fb35fa271a23b898acfdddfce5ca786b6175",
+    "schema": "PHASE18_RESIDUAL_CAPACITY_v1",
+    "selected_family": "LAYOUT_OPEN",
+    "train_counts": {
+      "lines": 2520,
+      "tokens": 18054
+    },
+    "validation_counts": {
+      "lines": 840,
+      "tokens": 6086
+    }
+  },
+  "corpus_sha256": "fc19e127fddaa1a8838d5720567abe38bc51d5269fccc4c7b6c87415ceabec00",
+  "date": "2026-08-26",
+  "final_test_used": false,
+  "gate_conditions": {
+    "final_test_unused": true,
+    "permutation_p_at_most_0_01": true,
+    "recoverable_information_at_least_1_bit_per_token": true,
+    "residual_bound_covers_recoverable_information": true,
+    "validation_at_least_5000_tokens": true
+  },
+  "known_hidden_content_probe": {
+    "layout_only_cross_entropy_bits_per_token": 3.7721764298026272,
+    "null_gain_mean": -2.8533460413961365,
+    "null_gain_p99": -2.7953697366309567,
+    "one_sided_permutation_p": 0.000999000999000999,
+    "permutations": 1000,
+    "recoverable_information_lower_bound_bits_per_token": 3.555385410987343,
+    "surface_probe_cross_entropy_bits_per_token": 0.21679101881528426,
+    "target": "normalized source-word onset",
+    "validation_tokens": 6086
+  },
+  "label": "LATINISE_HEAVY_SUSPENSION",
+  "positive_calibration_passed": true,
+  "result_sha256": "cafb6b941fa40f4d1956957db9de2c1327ee15ed0bb1b50996431c5b45410dba",
+  "schema": "PHASE18_POSITIVE_CALIBRATION_v1",
+  "surface_descriptors": {
+    "exact_adjacent_rate": 0.05661456347693481,
+    "hidden_to_surface_type_ratio": 83.4,
+    "hidden_word_types": 2919,
+    "mean_surface_token_codepoints": 2.214919487348012,
+    "nonidentical_edit_distance_one_adjacent_rate": 0.7977506671749904,
+    "surface_types": 35
+  },
+  "voynich_authorized": true
+}

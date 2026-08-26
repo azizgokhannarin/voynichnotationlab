@@ -45,15 +45,17 @@ See [`experiments/`](experiments/).
 
 ## Research status
 
-**v4.6.0 — structured-data control calibration checkpoint.**
+**v4.7.0 — residual information-capacity checkpoint.**
 
 Direct language search is closed only for the frozen-unit, fixed-boundary, bounded-homophonic
 model class. H_C (hidden linguistic content), H_D (structured non-linguistic content) and H_G
 (autonomous procedural generation) remain open and deliberately unranked.
 
-The unchanged Phase-16 exact-token instrument was calibrated on five preregistered surfaces from
-two real structured datasets. An unordered transaction/quantity-tally control reproduced the
-qualitative page/line-allocation-without-order phenotype, although at far larger effect sizes than
-Voynich. Recurrence/burstiness therefore cannot exclude broad H_D or identify content type. The
-next work is residual information capacity with lossy-renderer positive calibration. No
-decipherment claim is made.
+An open-vocabulary, lossless residual-capacity estimator was frozen before results and certified
+on known Latin passed through a many-to-one heavy-suspension renderer. The control retained a
+recoverable 3.555 bits/token of known hidden onset information and the estimator reported a
+3.978 bits/token upper bound. On Voynich VALIDATION the best TRAIN-selected bounded surface model
+left a residual upper bound of 12.372 bits/token (95% bootstrap CI 12.174–12.574). This is far
+above the preregistered 1 bit/token falsification threshold, so content-rich H_C is not rejected.
+The bound is not evidence that those bits carry content: H_C, H_D and H_G remain open and
+unranked. No decipherment claim is made.

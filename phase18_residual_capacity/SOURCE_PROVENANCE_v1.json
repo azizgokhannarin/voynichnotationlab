@@ -1,0 +1,23 @@
+{
+  "date": "2026-08-26",
+  "schema": "PHASE18_SOURCE_PROVENANCE_v1",
+  "sources": {
+    "latinise_v6": {
+      "bitstream_api_url": "https://lindat.mff.cuni.cz/repository/server/api/core/bitstreams/a72b4260-d274-4ab6-952b-d9b3d4b7172d/content",
+      "bytes": 226954460,
+      "filename": "latin14.txt",
+      "handle": "http://hdl.handle.net/11372/LRT-5870",
+      "item_url": "https://lindat.mff.cuni.cz/repository/items/6078be62-56b9-4a42-99e5-766c3b2e37df",
+      "license": "CC BY-SA 4.0",
+      "selection": "Phase-15 frozen 1300-1500 metadata rule; sequential normalized words",
+      "sha256": "74553e781f8b0fc43b5a35d76d315932f5323ae9cfd9903f3cc69c8fcd494388"
+    },
+    "voynich_phase15_canonical": {
+      "canonical_corpus_sha256": "5fdf577932f21b6da59b7ae12f5bb5451d9bb5b574d81c1affd8b646364b9997",
+      "file_sha256": "665e3370c753928a70a42519f420954e71793533ada25ba2426bdb3627463b5f",
+      "representation": "RF1b C1-STRUCT-v1 frozen page split",
+      "source_rf1b_sha256": "e7d3238e35743e06c63367a933909ec37b1e2de7ada3a1b449447eafa1918782",
+      "url": "https://www.voynich.nu/data/RF1b-e.txt"
+    }
+  }
+}

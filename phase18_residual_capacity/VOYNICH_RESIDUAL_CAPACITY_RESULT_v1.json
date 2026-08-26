@@ -1,0 +1,82 @@
+{
+  "bootstraps": 2000,
+  "candidate_selection": [
+    {
+      "family": "UNIGRAM_OPEN",
+      "fit_lines": 2507,
+      "selection_bits_per_token": 13.057516812014667,
+      "selection_escape_rate": 0.27715073990469025,
+      "selection_lines": 648,
+      "selection_tokens": 3987
+    },
+    {
+      "family": "LAYOUT_OPEN",
+      "fit_lines": 2507,
+      "selection_bits_per_token": 14.032178685594484,
+      "selection_escape_rate": 0.27715073990469025,
+      "selection_lines": 648,
+      "selection_tokens": 3987
+    },
+    {
+      "family": "PREV_SHAPE_LAYOUT_OPEN",
+      "fit_lines": 2507,
+      "selection_bits_per_token": 14.788143342066707,
+      "selection_escape_rate": 0.27715073990469025,
+      "selection_lines": 648,
+      "selection_tokens": 3987
+    },
+    {
+      "family": "PREV_ID_LAYOUT_OPEN",
+      "fit_lines": 2507,
+      "selection_bits_per_token": 15.2333250354539,
+      "selection_escape_rate": 0.27715073990469025,
+      "selection_lines": 648,
+      "selection_tokens": 3987
+    }
+  ],
+  "corpus_name": "VOYNICH_RF1B_FROZEN_v1",
+  "corpus_sha256": "5fdf577932f21b6da59b7ae12f5bb5451d9bb5b574d81c1affd8b646364b9997",
+  "date": "2026-08-26",
+  "estimand": "lossless residual selection codelength; upper bound on hidden bandwidth",
+  "final_test_used": false,
+  "interpretation_limit": "Capacity is an upper bound, not evidence that residual choices carry content.",
+  "label": "VOYNICH_VALIDATION",
+  "model_contract": {
+    "alpha": 8.0,
+    "base_beta": 0.5,
+    "families": [
+      "UNIGRAM_OPEN",
+      "LAYOUT_OPEN",
+      "PREV_SHAPE_LAYOUT_OPEN",
+      "PREV_ID_LAYOUT_OPEN"
+    ],
+    "minimum_dictionary_count": 2,
+    "oov_code": "ESC + frozen UTF-8 byte-bigram spelling code",
+    "seed": 20260826,
+    "selection": "deterministic 80/20 page split inside TRAIN"
+  },
+  "residual_capacity": {
+    "bits_per_token": 12.372030365705632,
+    "bootstrap_95_ci_bits_per_token": [
+      12.173681370835604,
+      12.573524421371927
+    ],
+    "escape_rate": 0.2291995787256451,
+    "escaped_tokens": 1741,
+    "mean_bits_per_line": 91.77533462685544,
+    "median_bits_per_line": 91.86124893582925,
+    "p95_bits_per_line": 163.00478635751364,
+    "total_bits": 93977.94265789998
+  },
+  "result_sha256": "8ce39951ba4324bb08fdc1be8ee8c5094ebb04a8ea305482fb6d11da5addbe74",
+  "schema": "PHASE18_RESIDUAL_CAPACITY_v1",
+  "selected_family": "UNIGRAM_OPEN",
+  "train_counts": {
+    "lines": 3155,
+    "tokens": 22716
+  },
+  "validation_counts": {
+    "lines": 1024,
+    "tokens": 7596
+  }
+}

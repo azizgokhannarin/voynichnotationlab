@@ -1,0 +1,35 @@
+{
+  "content_rich_H_C_rejected": false,
+  "date": "2026-08-26",
+  "decision": "The certified upper bound is not below the preregistered text-bandwidth threshold; Phase 18 does not reject content-rich H_C.",
+  "decision_sha256": "d28d6e10ff00e0d690e383d6a964de20a77d006ff7e5c9dfe6c71a76823cb7ef",
+  "hypothesis_ranking_performed": false,
+  "hypothesis_state": "H_C, H_D and H_G remain open and unranked.",
+  "large_capacity_interpretation": "A large residual upper bound is compatible with content, procedural innovation, noise and surface-model misspecification; it is not evidence for any one class.",
+  "next": "Preregister a small latent-state test calibrated against parameter-matched zero-state procedural null generators, with prequential/MDL reporting.",
+  "positive_calibration": {
+    "corpus_sha256": "fc19e127fddaa1a8838d5720567abe38bc51d5269fccc4c7b6c87415ceabec00",
+    "passed": true,
+    "permutation_p": 0.000999000999000999,
+    "recoverable_hidden_onset_bits_per_token": 3.555385410987343,
+    "residual_capacity_bits_per_token": 3.9777881067026875,
+    "result_sha256": "cafb6b941fa40f4d1956957db9de2c1327ee15ed0bb1b50996431c5b45410dba",
+    "selected_surface_family": "LAYOUT_OPEN"
+  },
+  "schema": "PHASE18_RESIDUAL_CAPACITY_DECISION_v1",
+  "text_bandwidth_falsification_threshold_bits_per_token": 1.0,
+  "voynich": {
+    "bootstrap_95_ci_bits_per_token": [
+      12.173681370835604,
+      12.573524421371927
+    ],
+    "corpus_sha256": "5fdf577932f21b6da59b7ae12f5bb5451d9bb5b574d81c1affd8b646364b9997",
+    "escape_rate": 0.2291995787256451,
+    "residual_capacity_bits_per_token": 12.372030365705632,
+    "result_sha256": "8ce39951ba4324bb08fdc1be8ee8c5094ebb04a8ea305482fb6d11da5addbe74",
+    "selected_surface_family": "UNIGRAM_OPEN",
+    "validation_lines": 1024,
+    "validation_tokens": 7596
+  },
+  "voynich_final_test_used": false
+}
