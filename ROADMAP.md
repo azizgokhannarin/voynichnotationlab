@@ -468,5 +468,9 @@ Candidate phonetic values or semantic interpretations only after reproducible ea
 - [x] Preregister a small latent-state test against parameter-matched zero-state procedural nulls
 - [x] Report latent-state gains with held-out prediction and secondary prequential/MDL checks
 - [x] Reject robust binary-state detection when bootstrap and prequential gates fail
-- [ ] Produce a cross-phase synthesis and identifiability/stop-rule audit
-- [ ] Decide explicitly whether any new representation or final confirmatory test is scientifically authorized
+- [x] Produce a cross-phase synthesis and identifiability/stop-rule audit
+- [x] Decide explicitly whether any new representation or final confirmatory test is scientifically authorized
+- [x] Keep final-test sealed: no Validation-unused confirmatory prediction exists
+- [x] Authorize only the pre-specified bounded generator ladder
+- [ ] Preregister Phase 21 line-final/copy-modify/vocabulary-innovation generator benchmark
+- [ ] Calibrate Phase 21 on zero-mechanism and known-mechanism controls before Voynich interpretation

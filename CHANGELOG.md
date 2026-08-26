@@ -1,5 +1,21 @@
 # Changelog
 
+## v4.9.0 — 2026-08-26
+
+- froze a five-class evidence rubric before generating the Phase-13–19 synthesis;
+- hash-locked eight upstream decision files and rejected any upstream final-test use or hypothesis ranking;
+- separated calibrated discriminators, calibrated nondiscriminators, bounded subclass closures, surface observations and open untested discriminators;
+- preserved the direct-mapping, simple-generator and frozen binary-line-state subclass closures without extending them to broad H_C or H_G;
+- recorded class locality, diplomatic line locality and qualitative structured-data recurrence as nondiscriminative for content type;
+- confirmed that H_C, H_D and H_G remain open and unranked and H_T remains an open confound;
+- audited the prior four-part STOP rule and found only the pipeline-certification component satisfied;
+- found that the formal internal-evidence ceiling has not yet been reached because bounded H_G and H_D ordering falsifiers remain untested;
+- denied final-test opening because no current model makes a new Validation-unused directional prediction;
+- denied unrestricted model search and any larger latent-state model;
+- authorized only the pre-Phase-15 bounded line-final/copy-modify/vocabulary-innovation generator ladder;
+- added a claim ledger defining approved and prohibited project language;
+- fitted no model and accessed no final-test data in this checkpoint.
+
 ## v4.8.0 — 2026-08-26
 
 - preregistered a single binary line-level latent state before viewing results;

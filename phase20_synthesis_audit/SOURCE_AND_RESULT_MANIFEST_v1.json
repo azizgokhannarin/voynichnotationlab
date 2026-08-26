@@ -1,0 +1,23 @@
+{
+  "date": "2026-08-26",
+  "embedded_hashes": {
+    "CROSS_PHASE_EVIDENCE_MATRIX_v1.json:matrix_sha256": "3339ee1abee2f305d37700cbb05bbd1ff308117544407cd6e259bc24c06b09aa",
+    "IDENTIFIABILITY_STOP_DECISION_v1.json:decision_sha256": "8f39e4e5838b403e66d6f9956b850b2901f9fa632260e00114b0ca57f37a24fe"
+  },
+  "files": {
+    "CHANGELOG.md": "9768848110d1496e23c9a92639d8211f60934b663d25e55302aa97c84d7b7a5a",
+    "README.md": "eb489ded1cd73b2517053625267b47abf711892f1f2ecbd90e02b1f2db310a6f",
+    "ROADMAP.md": "248e369773e130f6fa4586c061935b0b59118cb39b97ba190486775adc90bad8",
+    "phase20_synthesis_audit/CLAIM_LEDGER.md": "86fd9821ca920ea9ca9f4497f337efae741a13cbed35413738b3d93d783f6378",
+    "phase20_synthesis_audit/CROSS_PHASE_EVIDENCE_MATRIX_v1.json": "45adc005f9e0d0250809fd33d9b34a8ba47947383986c5b6ac75a5c3884a8aaa",
+    "phase20_synthesis_audit/CROSS_PHASE_SYNTHESIS_REPORT.md": "2ec929383acd725f58b0fcc50922354467f9b40e8363e79cde6e531c33b5b0c0",
+    "phase20_synthesis_audit/IDENTIFIABILITY_AUDIT_RUBRIC.md": "9be23a88094c4bfc3c6406796d436150025bcc02310abdc683bdc56e2d49cf1f",
+    "phase20_synthesis_audit/IDENTIFIABILITY_STOP_DECISION_v1.json": "de72f4f5ecee9b2c3551c9791fc6c7749e6620e9468155b002f7c0a85d836107",
+    "phase20_synthesis_audit/PHASE20_FREEZE_v1.json": "535d2de89c851afd230a7b9024cd461602fbc8f19ece78c5e8206108f372c726",
+    "phase20_synthesis_audit/README.md": "924ed52b500004ffc755647b7cd93ab66ca1bb9479201c6792eb150ee9b6e85e",
+    "phase20_synthesis_audit/SOURCE_DECISION_MANIFEST_v1.json": "111e6a81b57a4997e9c1bf982a50c40346a0762abef5b02a25547edd93bac44f",
+    "phase20_synthesis_audit/synthesize_evidence.py": "cac518a373d2791990d8239010aafa9301217c8c97354ea694e21ae016737396",
+    "phase20_synthesis_audit/test_synthesis_audit.py": "8a4f6c506c598462d82f0c9286c9e01466d54aad58ba04ab7bc53e901e3cd459"
+  },
+  "schema": "PHASE20_SOURCE_AND_RESULT_MANIFEST_v1"
+}

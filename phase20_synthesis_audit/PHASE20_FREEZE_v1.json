@@ -1,0 +1,12 @@
+{
+  "date": "2026-08-26",
+  "files": {
+    "IDENTIFIABILITY_AUDIT_RUBRIC.md": "9be23a88094c4bfc3c6406796d436150025bcc02310abdc683bdc56e2d49cf1f",
+    "SOURCE_DECISION_MANIFEST_v1.json": "111e6a81b57a4997e9c1bf982a50c40346a0762abef5b02a25547edd93bac44f",
+    "synthesize_evidence.py": "cac518a373d2791990d8239010aafa9301217c8c97354ea694e21ae016737396",
+    "test_synthesis_audit.py": "8a4f6c506c598462d82f0c9286c9e01466d54aad58ba04ab7bc53e901e3cd459"
+  },
+  "final_test_authorized": false,
+  "model_fitting_authorized": false,
+  "schema": "PHASE20_PRERESULT_FREEZE_v1"
+}

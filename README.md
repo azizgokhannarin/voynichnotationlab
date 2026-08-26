@@ -45,17 +45,17 @@ See [`experiments/`](experiments/).
 
 ## Research status
 
-**v4.8.0 — calibrated small latent-state checkpoint.**
+**v4.9.0 — cross-phase synthesis and identifiability audit.**
 
 Direct language search is closed only for the frozen-unit, fixed-boundary, bounded-homophonic
 model class. H_C (hidden linguistic content), H_D (structured non-linguistic content) and H_G
 (autonomous procedural generation) remain open and deliberately unranked.
 
-A binary line-state HMM was frozen before results and calibrated against 100 parameter-matched
-zero-state procedural nulls plus a known injected-state positive control. The positive control
-was recovered with 0.577 bits/token held-out gain, 0.549 bits/token prequential gain and 99.0%
-state accuracy; all calibration gates passed. On Voynich VALIDATION the raw held-out gain was only
-0.0043 bits/token, its page-bootstrap interval crossed zero, and TRAIN-only prequential/MDL gain
-was -0.0602 bits/token. The frozen three-condition rule therefore detects no robust transferable
-binary line state. This bounded negative result does not rank H_C, H_D or H_G, and all final-test
-pages remain sealed. No decipherment claim is made.
+The hash-locked Phase 13–19 decision chain was classified under a frozen audit rubric. Only one of
+the four prior STOP components is met: the measurement pipeline is now control-certified. A
+bounded copy/modify generator has not been tested, residual capacity is not below text bandwidth,
+and no quantitative match to an attested non-linguistic record genre exists. The project has not
+reached its formal internal-evidence ceiling, but no current model makes a Validation-unused
+confirmatory prediction that could justify opening final-test pages. The audit authorizes only the
+previously deferred bounded line-final/copy-modify/vocabulary-innovation generator ladder. H_C,
+H_D and H_G remain open and unranked; H_T remains an open confound. No decipherment claim is made.

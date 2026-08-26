@@ -1,0 +1,15 @@
+{
+  "date": "2026-08-26",
+  "schema": "PHASE20_SOURCE_DECISION_MANIFEST_v1",
+  "sources": {
+    "phase13_latin_confirmation/FOUR_LANGUAGE_CONFIRMATION.json": "fd6c71f4b3e7013c6f1420383fb7b6765dcdd4bfee55cac5f8a153600e563844",
+    "phase14_generation_vs_latent_content/GENERATION_VS_LATENT_CONTENT_DECISION.json": "3337c14ee2da14f88bc98d7a4d202cfc981b03ad692df7678fdd707845586d09",
+    "phase15_instrument_calibration/FULLSIZE_NEGATIVE_CONTROL_DECISION.json": "c03b9d03acf1dc2ac26579bf3af7c25764d7da56c4a313323a2c48039ee249eb",
+    "phase15_instrument_calibration/INSTRUMENT_RECALIBRATION_DECISION.json": "3e83301c896a952f0c5ccad0931994c5f2375f5fc9bc472607fd99909d222546",
+    "phase16_raw_token_recurrence/RAW_TOKEN_RECURRENCE_DECISION_v1.json": "430b21c8167211f7abb946b6beb6d93610fe47572d5b352f28e9c6f7a1affbfc",
+    "phase17_structured_data_controls/STRUCTURED_DATA_CONTROL_DECISION_v1.json": "27c14e0d89b72fd00ef1bc9fbf61e13330e76bcbf231279ecbb3723cccb8777a",
+    "phase18_residual_capacity/RESIDUAL_CAPACITY_DECISION_v1.json": "51cd1bf914ff0d692c1f659c13520cad6b142928da787f4334c7e8c9c69c8f57",
+    "phase19_latent_state/LATENT_STATE_DECISION_v1.json": "4850f6da4e923614b3e4858ec8b1f012b6da9bb26ed9f05c00d0b8f88a882934"
+  }
+}
+

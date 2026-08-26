@@ -1,0 +1,175 @@
+{
+  "date": "2026-08-26",
+  "hypotheses": {
+    "H_C": {
+      "closed_subclasses": [
+        "direct fixed-unit/fixed-boundary bounded-homophony mapping"
+      ],
+      "state": "OPEN_UNRANKED",
+      "surviving_reason": "Strong many-to-one renderer remains compatible and certified residual capacity is above the text-bandwidth falsification threshold."
+    },
+    "H_D": {
+      "closed_subclasses": [],
+      "state": "OPEN_UNRANKED",
+      "surviving_reason": "A real structured dataset reproduces the qualitative allocation-without-order phenotype, but quantitative and medieval record-template matches are absent."
+    },
+    "H_G": {
+      "closed_subclasses": [
+        "simple first-order line-reset generator",
+        "robust binary line-state extension under the frozen model"
+      ],
+      "state": "OPEN_UNRANKED",
+      "surviving_reason": "The pre-specified bounded copy/modify, line-final and innovation generator has not been run."
+    },
+    "H_T": {
+      "closed_subclasses": [],
+      "state": "OPEN_CONFOUND",
+      "surviving_reason": "Transcription, palaeography and production effects remain possible causes of layout/state structure."
+    }
+  },
+  "hypothesis_ranking_performed": false,
+  "matrix_sha256": "3339ee1abee2f305d37700cbb05bbd1ff308117544407cd6e259bc24c06b09aa",
+  "rows": [
+    {
+      "closes": [
+        "H_C_direct_fixed_boundary_low_homophony"
+      ],
+      "does_not_close": [
+        "H_C_strong_renderer",
+        "H_D",
+        "H_G"
+      ],
+      "evidence_class": "BOUNDED_SUBCLASS_CLOSURE",
+      "id": "E13_DIRECT_MAPPING",
+      "phase": 13,
+      "result": "Direct fixed-unit, fixed-boundary, bounded-homophony language mapping is unsupported across German, Italian, French and Latin."
+    },
+    {
+      "closes": [
+        "H_G_simple_first_order_line_reset"
+      ],
+      "does_not_close": [
+        "H_G_bounded_copy_modify_innovation",
+        "H_C",
+        "H_D"
+      ],
+      "evidence_class": "BOUNDED_SUBCLASS_CLOSURE",
+      "id": "E14_SIMPLE_GENERATOR",
+      "phase": 14,
+      "result": "Simple line-reset first-order generator matched only 4/18 held-out metrics."
+    },
+    {
+      "closes": [
+        "class_locality_as_H_C_vs_H_G_discriminator"
+      ],
+      "does_not_close": [
+        "H_C",
+        "H_G"
+      ],
+      "evidence_class": "CALIBRATED_NONDISCRIMINATOR",
+      "id": "E15_CLASS_LOCALITY",
+      "phase": 15,
+      "result": "Class-space line-locality and distant-context null cannot discriminate H_C from H_G."
+    },
+    {
+      "closes": [
+        "line_local_predictive_advantage_as_content_type_discriminator"
+      ],
+      "does_not_close": [
+        "H_C",
+        "H_D",
+        "H_G"
+      ],
+      "evidence_class": "CALIBRATED_NONDISCRIMINATOR",
+      "id": "E15_REAL_DIPLOMATIC_CONTROL",
+      "phase": 15,
+      "result": "Full-size abbreviated diplomatic Latin also shows line-local predictive advantage and negligible cross-line gain; legacy class-MI is non-comparable."
+    },
+    {
+      "closes": [],
+      "does_not_close": [
+        "H_C",
+        "H_D",
+        "H_G"
+      ],
+      "evidence_class": "SURFACE_OBSERVATION_ONLY",
+      "id": "E16_RAW_RECURRENCE",
+      "phase": 16,
+      "result": "Exact token identities are strongly clustered into Voynich validation pages and physical lines, but their within-line order does not differ significantly from a fixed-line-inventory shuffle at Holm alpha 0.01."
+    },
+    {
+      "closes": [
+        "recurrence_phenotype_as_rejection_of_broad_H_D"
+      ],
+      "does_not_close": [
+        "H_D",
+        "H_C",
+        "H_G"
+      ],
+      "evidence_class": "CALIBRATED_NONDISCRIMINATOR",
+      "id": "E17_STRUCTURED_DATA",
+      "phase": 17,
+      "quantitative_match": false,
+      "result": "At least one known structured-data control reproduces the frozen qualitative four-condition allocation-without-order phenotype; broad H_D is not rejected by phenotype shape."
+    },
+    {
+      "capacity_bits_per_token": 12.372030365705632,
+      "closes": [],
+      "does_not_close": [
+        "H_C_content_rich",
+        "H_D",
+        "H_G"
+      ],
+      "evidence_class": "CALIBRATED_DISCRIMINATOR",
+      "id": "E18_RESIDUAL_CAPACITY",
+      "phase": 18,
+      "result": "The certified upper bound is not below the preregistered text-bandwidth threshold; Phase 18 does not reject content-rich H_C."
+    },
+    {
+      "closes": [
+        "robust_binary_line_state_under_32_plus_OTHER_model"
+      ],
+      "does_not_close": [
+        "all_latent_state",
+        "H_C",
+        "H_D",
+        "H_G"
+      ],
+      "evidence_class": "BOUNDED_SUBCLASS_CLOSURE",
+      "id": "E19_BINARY_LINE_STATE",
+      "phase": 19,
+      "result": "No robust transferable binary line-state signal is detected under the frozen model and three-condition rule."
+    },
+    {
+      "closes": [],
+      "does_not_close": [
+        "H_G_bounded_copy_modify_innovation"
+      ],
+      "evidence_class": "OPEN_UNTESTED_DISCRIMINATOR",
+      "id": "E20_BOUNDED_GENERATOR",
+      "phase": 20,
+      "result": "The preregistered line-final/copy-modify/vocabulary-innovation generator ladder was deferred and has not been evaluated against the calibrated full battery."
+    },
+    {
+      "closes": [],
+      "does_not_close": [
+        "H_D_record_or_enumerative"
+      ],
+      "evidence_class": "OPEN_UNTESTED_DISCRIMINATOR",
+      "id": "E20_HD_ORDERING",
+      "phase": 20,
+      "result": "No calibrated test has aligned Voynich token transitions with a numeral/record ordering or increment relation."
+    }
+  ],
+  "schema": "PHASE20_CROSS_PHASE_EVIDENCE_MATRIX_v1",
+  "source_phases": [
+    13,
+    14,
+    15,
+    16,
+    17,
+    18,
+    19
+  ],
+  "voynich_final_test_used": false
+}

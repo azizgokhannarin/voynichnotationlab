@@ -1,0 +1,29 @@
+{
+  "authorized_modules": [
+    "line_final_realization",
+    "copy_modify_adjacency",
+    "productive_vocabulary_innovation"
+  ],
+  "bounded_generator_benchmark_authorized": true,
+  "date": "2026-08-26",
+  "decision_code": "CONTINUE_BOUNDED_ONLY",
+  "decision_sha256": "8f39e4e5838b403e66d6f9956b850b2901f9fa632260e00114b0ca57f37a24fe",
+  "final_test_blocker": "No newly frozen model currently makes a Validation-unused directional confirmatory prediction.",
+  "final_test_opening_authorized": false,
+  "hypothesis_ranking_performed": false,
+  "hypothesis_state": "H_C, H_D and H_G remain open and unranked; H_T remains an open confound.",
+  "internal_identifiability_ceiling_reached": false,
+  "latent_state_module_authorized": false,
+  "matrix_sha256": "3339ee1abee2f305d37700cbb05bbd1ff308117544407cd6e259bc24c06b09aa",
+  "next": "Phase 21: preregister the bounded line-final/copy-modify/vocabulary-innovation generator ladder with parameter-matched controls and TRAIN/VALIDATION only.",
+  "schema": "PHASE20_IDENTIFIABILITY_STOP_DECISION_v1",
+  "stop_rule_components": {
+    "bounded_copy_modify_generator_matches_full_heldout_battery": false,
+    "pipeline_controls_certified": true,
+    "quantitative_match_to_attested_nonlinguistic_record_genre": false,
+    "residual_capacity_below_text_bandwidth": false
+  },
+  "stop_rule_satisfied": false,
+  "unrestricted_model_search_authorized": false,
+  "voynich_final_test_used": false
+}
