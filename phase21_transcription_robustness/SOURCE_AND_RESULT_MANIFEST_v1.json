@@ -1,0 +1,27 @@
+{
+  "schema": "PHASE21_SOURCE_AND_RESULT_MANIFEST_v1",
+  "date": "2026-08-26",
+  "checkpoint": "v4.9.1 decision and preregistration only",
+  "files": {
+    "README.md": "e32d7fcd12d48b6f84c3fbdaa64bb6016e597825b0f3ac619a1c4ca70ce56b32",
+    "CHANGELOG.md": "44fe8de16a882f4f8f7410bf71a71f1c7f5172365dc7ca5c4136d105ce0bb10f",
+    "ROADMAP.md": "8aee732f38d629c641a7452946ee6356caabbfef94126e829d8ac2d80a427323",
+    "phase21_transcription_robustness/README.md": "a21bd664876c10e24f38fa74a48bca18837647173599ad0434a08154c2123594",
+    "phase21_transcription_robustness/PHASE21_DECISION_SUPERSESSION_v1.json": "53de4c654a35938c25339b545d3ad0f60bcc70f161781821df1b6c27f07c9e90",
+    "phase21_transcription_robustness/CLAIM_STATUS_REVISION_v1.json": "c44bfdb536bfed6a6866e406f333038cda66287f36c5655d8d7ff8f430116dbb",
+    "phase21_transcription_robustness/SOURCE_PROVENANCE_CANDIDATES_v1.json": "9cf39a3a821fd98b6d235ec1c8487d6a7789d7e2dcdf05288a1cb95e62ddcc9e",
+    "phase21_transcription_robustness/EXTERNAL_REVIEW_MANIFEST_v1.json": "faac4f28dd8b56d3ad137e017471856b49fc8b23a98a7d44fb0d4a521dba6431",
+    "phase21_transcription_robustness/TRANSCRIPTION_ROBUSTNESS_PREREGISTRATION.md": "564412494a6bc1e6bd463103205152af2b277f94a7c5a7f0f3bae4df916380e7",
+    "phase21_transcription_robustness/PHASE21_DECISION_REPORT.md": "137b3ccf0ca836384ba518a76d314649c32ee9c987b7c96aba3119486f0d9dae",
+    "phase21_transcription_robustness/PHASE21_PRERESULT_FREEZE_v1.json": "d637c40ae0aa8cf9243698c13fdc158e0d2f6454afaf26d52fa61e005497e0d0",
+    "phase21_transcription_robustness/validate_phase21_checkpoint.py": "b12fa5759f080ac6af4891cb498590231328e7c2caa07596129498f3673ef5d8",
+    "phase21_transcription_robustness/test_phase21_checkpoint.py": "ec28762217e121430e7e426995b686d1ea08de372e66def3efbfdeb33f67c87f"
+  },
+  "result_payloads": [],
+  "explicit_absences": {
+    "challenger_transcription_payloads": "not acquired in this checkpoint",
+    "challenger_validation_results": "not authorized and not produced",
+    "voynich_final_test_results": "sealed and not accessed",
+    "new_model_results": "no model fitting authorized"
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "date": "2026-08-26",
+  "hypothesis_ranking_performed": false,
+  "revisions": {
+    "bounded_generator_ladder": {
+      "new_status": "CANCELLED_AS_EVIDENTIAL_LADDER",
+      "reason": "The modules and target battery were selected after inspecting Phase-14/16 VALIDATION failures; success would be engineered sufficiency rather than independent discrimination."
+    },
+    "legacy_class_mi": {
+      "new_status": "RETIRED_HISTORICAL_UNREPRODUCIBLE",
+      "reason": "The legacy implementation is absent and executable v2 changes Voynich lag-1 z from approximately 30.62 to 1.24."
+    },
+    "phase16_exact_token_allocation": {
+      "new_status": "TRANSCRIPTION_CONTINGENT_SURFACE_DESCRIPTION",
+      "reason": "The result is reproducible under RF1b but has not yet been shown invariant to an independent transcription."
+    },
+    "phase18_residual_capacity": {
+      "new_status": "WEAK_ONE_SIDED_MODEL_SPECIFIC_BOUND",
+      "reason": "The positive control has zero escape rate while Voynich has 0.2292 final and 0.2772 TRAIN-selection escape; low-bandwidth power in the Voynich regime was not certified."
+    },
+    "phase19_binary_line_state": {
+      "new_status": "BOUNDED_NEGATIVE_WITHOUT_WEAK_EFFECT_POWER_CLAIM",
+      "reason": "The frozen three-gate result remains valid, but the injected positive effect was far larger than the Voynich point estimate."
+    },
+    "phase20_conjunctive_stop_rule": {
+      "new_status": "WITHDRAWN_STRUCTURALLY_NONTERMINATING",
+      "reason": "It conjunctively required outcomes belonging to competing explanations and could authorize indefinite exemplar/model expansion."
+    }
+  },
+  "retained_claims": [
+    "Direct fixed-unit, fixed-boundary, bounded-homophony phonographic mapping is unsupported at its frozen scope.",
+    "Strong-rendered known language and ordinary diplomatic Latin show that line-local predictive diagnostics do not discriminate H_C from H_G.",
+    "The qualitative structured-data phenotype is an existence proof only, not a quantitative or historical H_D match.",
+    "H_C, H_D and H_G remain open and unranked; H_T remains an open confound."
+  ],
+  "schema": "PHASE21_CLAIM_STATUS_REVISION_v1",
+  "supersedes_claim_ledger": {
+    "path": "phase20_synthesis_audit/CLAIM_LEDGER.md",
+    "sha256": "86fd9821ca920ea9ca9f4497f337efae741a13cbed35413738b3d93d783f6378"
+  },
+  "voynich_final_test_used": false
+}
+

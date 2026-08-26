@@ -1,5 +1,19 @@
 # Changelog
 
+## v4.9.1 — 2026-08-26
+
+- incorporated a five-model external methodological review without treating model consensus as manuscript evidence;
+- cancelled the Phase-21 bounded-generator ladder as an evidential program because implementation failures would not rank broad hypothesis classes;
+- withdrew the structurally nonterminating Phase-20 conjunctive STOP rule and replaced it with a program-level decision rule;
+- retired legacy class-MI as historical and unreproducible rather than merely non-comparable;
+- downgraded the Phase-18 residual-capacity result to a weak, one-sided, model-specific bound;
+- selected transcription/palaeography robustness as the only authorized scientific gate;
+- froze RF1b as the current reference, IT2a as the independent challenger, and ZL3b/GC2a as dependent sensitivity controls;
+- froze four claim-level targets, two visible-boundary policies, disagreement adjudication rules and global outcome categories;
+- authorized only source acquisition, hash locking, parser/alignment work and tolerance estimation on TRAIN;
+- denied challenger Validation scoring until a second, hash-locked analysis freeze is completed;
+- fitted no model, scored no challenger Validation data, opened no final-test page and performed no H_C/H_D/H_G ranking.
+
 ## v4.9.0 — 2026-08-26
 
 - froze a five-class evidence rubric before generating the Phase-13–19 synthesis;

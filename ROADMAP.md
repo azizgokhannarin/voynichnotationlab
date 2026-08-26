@@ -471,6 +471,16 @@ Candidate phonetic values or semantic interpretations only after reproducible ea
 - [x] Produce a cross-phase synthesis and identifiability/stop-rule audit
 - [x] Decide explicitly whether any new representation or final confirmatory test is scientifically authorized
 - [x] Keep final-test sealed: no Validation-unused confirmatory prediction exists
-- [x] Authorize only the pre-specified bounded generator ladder
-- [ ] Preregister Phase 21 line-final/copy-modify/vocabulary-innovation generator benchmark
-- [ ] Calibrate Phase 21 on zero-mechanism and known-mechanism controls before Voynich interpretation
+- [x] Record the Phase-20 bounded-generator authorization (superseded in v4.9.1)
+- [x] Cancel the Phase-21 generator ladder as an evidential program after external and internal methodological review
+- [x] Withdraw the structurally nonterminating Phase-20 conjunctive STOP rule
+- [x] Retire legacy class-MI as historical and unreproducible
+- [x] Downgrade Phase-18 residual capacity to a weak one-sided, model-specific bound
+- [x] Preregister transcription/palaeography robustness as the sole next scientific gate
+- [ ] Acquire and hash-lock RF1b, IT2a, ZL3b, GC2a and the exact Yale image source/derivative policy
+- [ ] Build and test parsers/alignment on TRAIN only; do not score challenger VALIDATION
+- [ ] Freeze token and line correspondence coverage gates from TRAIN
+- [ ] Draw and image-adjudicate the preregistered TRAIN disagreement sample
+- [ ] Freeze claim-specific tolerances and write Phase-21 analysis freeze v2
+- [ ] Only after v2 freeze, decide whether challenger VALIDATION scoring is authorized
+- [ ] Keep final-test sealed and keep H_C/H_D/H_G open and unranked throughout Phase 21

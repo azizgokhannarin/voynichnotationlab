@@ -1,0 +1,24 @@
+{
+  "date": "2026-08-26",
+  "decision_code": "AUTHORIZE_TRANSCRIPTION_ROBUSTNESS_PREREGISTRATION_ONLY",
+  "final_test_opening_authorized": false,
+  "hypothesis_ranking_performed": false,
+  "hypothesis_state": "H_C, H_D and H_G remain open and unranked; H_T is the active confound under test.",
+  "legacy_class_mi_status": "RETIRED_HISTORICAL_UNREPRODUCIBLE",
+  "new_voynich_model_fitting_authorized": false,
+  "next": "Acquire and hash-lock IT2a, ZL3b and GC2a; freeze harmonization, TRAIN-only measurement-error tolerances and the adjudication sample before any challenger VALIDATION score.",
+  "phase18_status": "WEAK_ONE_SIDED_MODEL_SPECIFIC_BOUND",
+  "phase20_stop_rule_status": "WITHDRAWN_STRUCTURALLY_NONTERMINATING",
+  "phase21_generator_ladder_status": "CANCELLED_AS_EVIDENTIAL_LADDER",
+  "schema": "PHASE21_DECISION_SUPERSESSION_v1",
+  "supersedes": {
+    "embedded_decision_sha256": "8f39e4e5838b403e66d6f9956b850b2901f9fa632260e00114b0ca57f37a24fe",
+    "path": "phase20_synthesis_audit/IDENTIFIABILITY_STOP_DECISION_v1.json",
+    "raw_sha256": "de72f4f5ecee9b2c3551c9791fc6c7749e6620e9468155b002f7c0a85d836107"
+  },
+  "transcription_robustness_gate_status": "DESIGN_PREREGISTERED_SOURCE_AND_ANALYSIS_FREEZE_PENDING",
+  "unrestricted_model_search_authorized": false,
+  "voynich_challenger_validation_scoring_authorized": false,
+  "voynich_final_test_used": false
+}
+

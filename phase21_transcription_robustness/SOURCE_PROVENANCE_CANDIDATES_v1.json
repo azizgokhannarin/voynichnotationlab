@@ -1,0 +1,71 @@
+{
+  "acquisition_gate": {
+    "all_required_payload_hashes_frozen": false,
+    "challenger_validation_scoring_allowed": false,
+    "required_before_scoring": [
+      "Acquire exact payload bytes.",
+      "Record SHA-256, byte count, line count and IVTFF header.",
+      "Freeze the TRAIN-derived common projection and locus intersection.",
+      "Freeze the image-adjudication sample and decision form.",
+      "Freeze the complete analysis code and TRAIN-derived equivalence tolerances."
+    ]
+  },
+  "date": "2026-08-26",
+  "resource_index": {
+    "retrieved": "2026-08-26",
+    "url": "https://www.voynich.nu/transcr.html"
+  },
+  "schema": "PHASE21_SOURCE_PROVENANCE_CANDIDATES_v1",
+  "sources": {
+    "GC2a": {
+      "alphabet": "v101 in IVTFF 2.0",
+      "independent_replication_role": false,
+      "role": "RF component-sensitivity control; RF is partly derived from GC",
+      "sha256": null,
+      "status": "ACQUISITION_PENDING",
+      "url": "https://www.voynich.nu/data/GC2a-n.txt",
+      "version": "2a"
+    },
+    "IT2a": {
+      "alphabet": "EvaT in IVTFF 2.0",
+      "header_expected": "#=IVTFF EvaT 2.0 M 3",
+      "independent_replication_role": true,
+      "provenance_note": "Converted Takeshi Takahashi transcription extracted from the Landini-Stolfi interlinear file; source header reports version 2a of 2023-02-02 modified 2025-06-25.",
+      "role": "primary independent challenger",
+      "sha256": null,
+      "status": "ACQUISITION_PENDING",
+      "url": "https://www.voynich.nu/data/IT2a-n.txt",
+      "version": "2a"
+    },
+    "RF1b_EVA": {
+      "alphabet": "full extended EVA in IVTFF 2.0",
+      "derived_from": [
+        "ZL",
+        "GC"
+      ],
+      "independent_replication_role": false,
+      "local_frozen_sha256": "e7d3238e35743e06c63367a933909ec37b1e2de7ada3a1b449447eafa1918782",
+      "role": "existing canonical reference; not an independent transcriber",
+      "status": "FROZEN_EXISTING",
+      "url": "https://www.voynich.nu/data/RF1b-e.txt",
+      "version": "1b"
+    },
+    "Yale_MS408_images": {
+      "institution": "Beinecke Rare Book and Manuscript Library, Yale University",
+      "role": "image-adjudication authority",
+      "sha256": null,
+      "status": "IMAGE_SELECTION_AND_HASH_FREEZE_PENDING",
+      "url": "https://beinecke.library.yale.edu/beinecke/collections/beinecke-cipher-voynich-manuscript"
+    },
+    "ZL3b": {
+      "alphabet": "EVA in IVTFF 2.0",
+      "independent_replication_role": false,
+      "role": "RF component-sensitivity control; RF is partly derived from ZL",
+      "sha256": null,
+      "status": "ACQUISITION_PENDING",
+      "url": "https://www.voynich.nu/data/ZL3b-n.txt",
+      "version": "3b"
+    }
+  }
+}
+

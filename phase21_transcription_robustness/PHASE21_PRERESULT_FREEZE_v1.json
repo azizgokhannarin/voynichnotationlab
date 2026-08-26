@@ -1,0 +1,24 @@
+{
+  "freeze_id": "phase21_preresult_freeze_v1",
+  "frozen_at_utc": "2026-08-26T00:00:00Z",
+  "scope": "decision and Stage-A preregistration checkpoint before source acquisition or challenger scoring",
+  "files": {
+    "README.md": "a21bd664876c10e24f38fa74a48bca18837647173599ad0434a08154c2123594",
+    "PHASE21_DECISION_SUPERSESSION_v1.json": "53de4c654a35938c25339b545d3ad0f60bcc70f161781821df1b6c27f07c9e90",
+    "CLAIM_STATUS_REVISION_v1.json": "c44bfdb536bfed6a6866e406f333038cda66287f36c5655d8d7ff8f430116dbb",
+    "SOURCE_PROVENANCE_CANDIDATES_v1.json": "9cf39a3a821fd98b6d235ec1c8487d6a7789d7e2dcdf05288a1cb95e62ddcc9e",
+    "EXTERNAL_REVIEW_MANIFEST_v1.json": "faac4f28dd8b56d3ad137e017471856b49fc8b23a98a7d44fb0d4a521dba6431",
+    "TRANSCRIPTION_ROBUSTNESS_PREREGISTRATION.md": "564412494a6bc1e6bd463103205152af2b277f94a7c5a7f0f3bae4df916380e7",
+    "PHASE21_DECISION_REPORT.md": "137b3ccf0ca836384ba518a76d314649c32ee9c987b7c96aba3119486f0d9dae",
+    "validate_phase21_checkpoint.py": "b12fa5759f080ac6af4891cb498590231328e7c2caa07596129498f3673ef5d8",
+    "test_phase21_checkpoint.py": "ec28762217e121430e7e426995b686d1ea08de372e66def3efbfdeb33f67c87f"
+  },
+  "guards": {
+    "source_payloads_acquired": false,
+    "challenger_validation_scored": false,
+    "voynich_final_test_accessed": false,
+    "model_fitted": false,
+    "hypotheses_ranked": false
+  },
+  "next_freeze_required": "phase21_analysis_freeze_v2 after TRAIN-only parser, alignment, coverage, tolerance and image-adjudication work"
+}

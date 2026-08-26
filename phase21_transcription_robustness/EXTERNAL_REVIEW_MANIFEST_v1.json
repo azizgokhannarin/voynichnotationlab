@@ -1,0 +1,17 @@
+{
+  "date": "2026-08-26",
+  "raw_reviews_bundled": false,
+  "reports": {
+    "Voynich_External_Model_Review_Synthesis_v1.md": "b88b1680ab1a00d63469b7729025f0aa1945111aa9328df7b36f547ac7dfc44f",
+    "Voynich_Research_Program_Meta_Audit_v1.md": "9586c9ad4d5b277d38b46b6fd5a139fca17006fbb766fd4e809279331d416e61"
+  },
+  "reviews": {
+    "Claude.txt": "dc33b86987947c20073860b0d6a2fd23c31beb1852ca9f03314b2bdf114120f8",
+    "Deepseek.txt": "7a9170ab526935936a7214f37df2946a4b20a2412d7c4721105286fc13e4e1e8",
+    "Grok.txt": "b2fd935e74307e3eb95f43eb82716dcbab511e4b854114857186c65ae00768be",
+    "Meta.txt": "c1e0a60c12eb9a1893eca565cd6c589f9dd1e7af1432e5016723c7c10df3abf7",
+    "z.ai.txt": "0f780ce392678938f1462d765bfe4ff9bfc0cf1ff89c31af18785ce16a79a940"
+  },
+  "schema": "PHASE21_EXTERNAL_REVIEW_MANIFEST_v1"
+}
+

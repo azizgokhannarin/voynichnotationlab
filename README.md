@@ -45,17 +45,22 @@ See [`experiments/`](experiments/).
 
 ## Research status
 
-**v4.9.0 — cross-phase synthesis and identifiability audit.**
+**v4.9.1 — decision revision and transcription-robustness preregistration checkpoint.**
 
 Direct language search is closed only for the frozen-unit, fixed-boundary, bounded-homophonic
 model class. H_C (hidden linguistic content), H_D (structured non-linguistic content) and H_G
 (autonomous procedural generation) remain open and deliberately unranked.
 
-The hash-locked Phase 13–19 decision chain was classified under a frozen audit rubric. Only one of
-the four prior STOP components is met: the measurement pipeline is now control-certified. A
-bounded copy/modify generator has not been tested, residual capacity is not below text bandwidth,
-and no quantitative match to an attested non-linguistic record genre exists. The project has not
-reached its formal internal-evidence ceiling, but no current model makes a Validation-unused
-confirmatory prediction that could justify opening final-test pages. The audit authorizes only the
-previously deferred bounded line-final/copy-modify/vocabulary-innovation generator ladder. H_C,
-H_D and H_G remain open and unranked; H_T remains an open confound. No decipherment claim is made.
+An external five-model methodological review and an internal re-audit found that the proposed
+bounded-generator ladder could reject implementations without identifying broad content classes,
+while the Phase-20 conjunctive STOP rule could remain false indefinitely. The generator ladder is
+therefore cancelled as an evidential phase, legacy class-MI is retired as unreproducible, and the
+Phase-18 residual-capacity result is retained only as a weak one-sided, model-specific bound.
+
+The only authorized scientific gate is now transcription/palaeography robustness. Phase 21 freezes
+candidate sources, claim-level invariance criteria, boundary policies, adjudication rules and stop
+conditions, but does **not** authorize challenger Validation scoring. The next action is source
+acquisition and hash locking followed by parser/alignment and tolerance work on TRAIN only; a
+second analysis freeze is required before any challenger Validation result may be opened. Final-test
+pages remain sealed. H_C, H_D and H_G remain open and unranked; H_T remains an active confound. No
+decipherment claim is made.
