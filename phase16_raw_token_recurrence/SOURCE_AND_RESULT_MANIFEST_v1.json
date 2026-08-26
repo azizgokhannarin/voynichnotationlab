@@ -1,0 +1,37 @@
+{
+  "schema": "PHASE16_SOURCE_AND_RESULT_MANIFEST_v1",
+  "date": "2026-08-26",
+  "external_sources": {
+    "voynich_rf1b_sha256": "e7d3238e35743e06c63367a933909ec37b1e2de7ada3a1b449447eafa1918782",
+    "latinise_v6_sha256": "74553e781f8b0fc43b5a35d76d315932f5323ae9cfd9903f3cc69c8fcd494388",
+    "cremma_commit": "e681b1077cddafebb51018a19cce503431139e4f",
+    "cremma_selected_content_manifest_sha256": "e27810f6bd0e0039ff5a30adedb8ab895f9eb77a1773288db188fdb9618e5e79"
+  },
+  "canonical_phase15_corpora": {
+    "voynich": "5fdf577932f21b6da59b7ae12f5bb5451d9bb5b574d81c1affd8b646364b9997",
+    "strong_renderer": "765b73822cc598013a7bd644b550fa978ffbf43f7ed37a2c75480832a170c9e7",
+    "cremma": "d0ba0dc9c95070d3dd3eae9e38ce24e849b4bed6e810018c945e828cdded8878"
+  },
+  "phase16_file_sha256": {
+    "raw_token_recurrence.py": "f4cb1b8e970f6982cbc1a539292ffb188c7f8aa714ad0a437f100aa455a946a4",
+    "test_raw_token_recurrence.py": "a6789cf8e43a89e0732e2c97ee69c9cfc87593d7a7f4304240a6f02edae3f0dd",
+    "RAW_TOKEN_RECURRENCE_PREREGISTRATION.md": "7b85d876d5ee90f56c21fe892abde80ca892a574820f31cfb6750f8b94f296d9",
+    "PERMUTATION_RESOLUTION_ERRATUM.md": "6c4485c2983e4738988f6108ca08290590926ae289be4590cfd7aecc72c414c5",
+    "SYNTHETIC_CALIBRATION_v1.json": "0263d2ca7e3caa9741c70d467ef01ae5e564716fae3f6501cc6478fd0a6e8d5d",
+    "STRONG_RENDERER_RECURRENCE_v1.json": "c126ca53da5621f3aca0b11e7a5ee3f60566a86e3deab58ba2056688d1fbb9a5",
+    "CREMMA_RECURRENCE_v1.json": "262ab3941436f838495fc4b1da0547ba4f6f35d1e8dee849e9a98ea7e51d94b4",
+    "VOYNICH_RECURRENCE_VALIDATION_v1.json": "3ff8f56a580281da3e9601e358055ac77c140bf081decf1b062a58407033db88",
+    "RAW_TOKEN_RECURRENCE_DECISION_v1.json": "430b21c8167211f7abb946b6beb6d93610fe47572d5b352f28e9c6f7a1affbfc",
+    "RAW_TOKEN_RECURRENCE_REPORT.md": "217401bc92ce27c2c210c5f9510ba529753a1c3c07b9e862d24b7c143ff86a4f",
+    "README.md": "187fa3f72740b51a5edf2bd82e9a35c972165a40d26a15d1d434fd8ac558a790"
+  },
+  "result_payload_sha256": {
+    "synthetic_calibration": "d4929ba54afbc85be801bf6cf4fbc80165078e72f02868e5d03ca296c74198a7",
+    "strong_renderer": "0caba38e48061ddce019d2e4b6ab8aff8d3461696181add59188e21c39a59e93",
+    "cremma": "b1933ac59358a9562c9d1b340e78ced5c7413f5151235f5a37c939029689f908",
+    "voynich_validation": "cdb199049b7a5f27c9c7dfb8c2bacef1d625292c481acc715d5b199a8e13aafd"
+  },
+  "payload_policy": "External sources and generated canonical corpora are not vendored; every analysis input is hash-locked.",
+  "final_test_used": false
+}
+

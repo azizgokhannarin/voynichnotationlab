@@ -1,0 +1,50 @@
+{
+  "schema": "PHASE16_RAW_TOKEN_RECURRENCE_DECISION_v1",
+  "date": "2026-08-26",
+  "permutations_per_null": 2000,
+  "family_alpha": 0.01,
+  "synthetic_calibration": {
+    "pass": true,
+    "iid_max_abs_z": 2.644323814260496,
+    "page_cluster_page_repeat_mass_z": 45.81761985904976,
+    "short_page_return_z": 112.24714595123154,
+    "line_order_gap1_z": -35.77187776877682
+  },
+  "control_gate": {
+    "pass": true,
+    "strong_renderer_validation_tokens": 8961,
+    "cremma_validation_tokens": 6924,
+    "strong_renderer_final_test_used": false,
+    "cremma_final_test_used": false,
+    "both_controls_have_holm_significant_distance_profile": true
+  },
+  "voynich": {
+    "validation_pages": 45,
+    "validation_lines": 1024,
+    "validation_tokens": 7596,
+    "sealed_final_test_pages": 46,
+    "final_test_used": false,
+    "document_null_page_repeat_mass_ratio": 1.3717642265580003,
+    "document_null_page_repeat_mass_z": 32.94749261345633,
+    "document_null_line_repeat_mass_ratio": 2.2654769060058255,
+    "document_null_line_repeat_mass_z": 14.08034280336858,
+    "page_null_line_repeat_mass_ratio": 1.21956682977336,
+    "page_null_line_repeat_mass_holm_p": 0.005997001499250375,
+    "line_shuffle_gap1_holm_p": 0.24687656171914044,
+    "line_shuffle_gap2_4_holm_p": 0.42978510744627685,
+    "line_shuffle_gap5_16_holm_p": 0.05397301349325337,
+    "any_line_shuffle_metric_significant": false
+  },
+  "decision": "Exact token identities are strongly clustered into Voynich validation pages and physical lines, but their within-line order does not differ significantly from a fixed-line-inventory shuffle at Holm alpha 0.01.",
+  "scope": "The instrument localizes the signal to page/line allocation; it does not identify content type.",
+  "hypothesis_state": "H_C, H_D and H_G remain open and unranked.",
+  "prohibited": [
+    "new language search",
+    "semantic or illustration crib",
+    "Voynich generator enrichment",
+    "latent-state fitting",
+    "final-test access"
+  ],
+  "next": "Calibrate the frozen raw-token instrument on preregistered structured-data controls before any H_C/H_D/H_G comparison."
+}
+

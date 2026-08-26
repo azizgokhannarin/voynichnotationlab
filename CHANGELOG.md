@@ -1,5 +1,19 @@
 # Changelog
 
+## v4.5.0 — 2026-08-26
+
+- froze an executable exact-token recurrence/burstiness instrument with no class induction or normalization;
+- added document-, page- and line-level nested fixed-frequency permutation nulls;
+- corrected the pre-Voynich 1,000-permutation Holm-resolution error by increasing all streams to 2,000 and excluding invariant metrics from each correction family;
+- passed IID, page-cluster, adjacent-page-return and line-order synthetic calibration gates;
+- calibrated on the known-content strong renderer and full-size CREMMA diplomatic control before opening Voynich VALIDATION;
+- found distance-resolved avoidance/recurrence structure in both linguistic controls;
+- found Voynich exact-token page repeat mass 1.372 times the document null and line repeat mass 2.265 times the document null;
+- found no Holm-significant Voynich within-line identity-order effect once each physical line's token inventory was fixed;
+- localized the Voynich signal to page/line allocation without assigning a content type;
+- kept H_C, H_D and H_G open and unranked and kept all final-test partitions sealed;
+- selected frozen-instrument structured-data controls as the next calibration stage.
+
 ## v4.4.1 — 2026-08-26
 
 - froze exact Phase 15 source URLs, versions, commits, checksums, seeds, parsing rules and page-level splits;

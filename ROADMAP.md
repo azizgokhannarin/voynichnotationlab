@@ -454,7 +454,10 @@ Candidate phonetic values or semantic interpretations only after reproducible ea
 - [x] Acquire/run full-size real diplomatic negative control (source/power/predictive branch)
 - [x] Freeze Phase 15 executable code, provenance, checksums, seeds and splits
 - [x] Mark legacy class-MI cross-corpus comparison non-comparable after regression failure
-- [ ] Build raw-token distance-resolved recurrence/burstiness instrument
+- [x] Build raw-token distance-resolved recurrence/burstiness instrument
 - [ ] Build residual information-capacity estimator
-- [ ] Calibrate new instrument on known-content strong renderer
+- [x] Calibrate new instrument on known-content strong renderer
+- [x] Calibrate raw-token instrument on full-size diplomatic CREMMA
+- [x] Run frozen raw-token instrument on Voynich VALIDATION only
+- [ ] Preregister and run structured-data controls with the frozen instrument
 - [ ] Only then resume H_C/H_D/H_G discrimination

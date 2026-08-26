@@ -45,13 +45,14 @@ See [`experiments/`](experiments/).
 
 ## Research status
 
-**v4.4.1 — instrument recalibration and full-size diplomatic-control checkpoint.**
+**v4.5.0 — calibrated exact-identity recurrence/burstiness checkpoint.**
 
 Direct language search is closed only for the frozen-unit, fixed-boundary, bounded-homophonic
 model class. H_C (hidden linguistic content), H_D (structured non-linguistic content) and H_G
 (autonomous procedural generation) remain open and deliberately unranked.
 
-The full-size CREMMA source/power/predictive control is complete. The legacy induced-class MI
-branch is excluded from cross-corpus inference because its missing v4.3/v4.4 implementation could
-not be reproduced numerically. The next work is a separately calibrated raw-token identity
-recurrence/burstiness instrument. No decipherment claim is made.
+The Phase-16 exact-token instrument passed synthetic, known-content strong-renderer and full-size
+CREMMA controls. Voynich VALIDATION has strong page/line allocation of exact identities but no
+Holm-significant within-line order effect after the line inventory is fixed. This structural
+difference does not identify content type. The next work is preregistered structured-data control
+calibration using the frozen instrument. No decipherment claim is made.
