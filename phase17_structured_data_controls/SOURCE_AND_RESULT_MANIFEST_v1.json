@@ -1,0 +1,51 @@
+{
+  "schema": "PHASE17_SOURCE_AND_RESULT_MANIFEST_v1",
+  "date": "2026-08-26",
+  "external_payload_sha256": {
+    "online_retail_zip": "f5385cbb54bbebf7196389109c6b0621faab0c304e3702548165e71c84aede8b",
+    "online_retail_xlsx": "43465a06f2ccf7c8b5bd2892bc7defb52f97487934fe93b16ae4c3936424676d",
+    "mushroom_zip": "face32f32647e0d939f6233f36dd30dd5d619ae9f3f9b8e10bea4ac7e1f60b1a",
+    "mushroom_data": "e65d082030501a3ebcbcd7c9f7c71aa9d28fdfff463bf4cf4716a3fe13ac360e"
+  },
+  "frozen_inputs": {
+    "phase16_instrument_sha256": "f4cb1b8e970f6982cbc1a539292ffb188c7f8aa714ad0a437f100aa455a946a4",
+    "voynich_validation_layout_sha256": "03d58554714ab74fe82fd3d6a59261fbb27c44fb432e26ecc9bdcfb19db4db17",
+    "voynich_canonical_corpus_sha256": "5fdf577932f21b6da59b7ae12f5bb5451d9bb5b574d81c1affd8b646364b9997"
+  },
+  "canonical_control_corpus_sha256": {
+    "RETAIL_TALLY_ORDERED_v1": "25e2445ca2c8841ad424b10c106cf3e683c0c0112b93310c3601e872de8d227e",
+    "RETAIL_TALLY_UNORDERED_v1": "a28df429c47e695958e127e169a53d452161f5a4bdf9cf0ca9c5d744758a99b9",
+    "MUSHROOM_RAW_ORDERED_v1": "b34a91cf89eb94009ca203e6435042578a3067c39ab2f0cc68775c0b39da2f3b",
+    "MUSHROOM_RAW_PERMUTED_v1": "37488bf38e2a903b685de72682f9540eac06cefe2903a55b8c0f7bc577778ee1",
+    "MUSHROOM_QUALIFIED_ORDERED_v1": "ccc147ab7d1a44f62aed54d1d1f854a9f13b003392689e1b198612aebb85c68f"
+  },
+  "result_payload_sha256": {
+    "RETAIL_TALLY_ORDERED_v1": "eb13a84266da17da4e16cfd37627cbaf11ab61ea598652929b51c6fbb6c77fbf",
+    "RETAIL_TALLY_UNORDERED_v1": "777cc31bb2ef16fc64be0b859c68f3e3369d9b1a399641d4875efd3e017a9add",
+    "MUSHROOM_RAW_ORDERED_v1": "000a9614c4873bfdb1e9fbe100825708bfebf80edf40668e784a8f717df514c2",
+    "MUSHROOM_RAW_PERMUTED_v1": "0d8bc51903abb3afc0bb5ac9f4d93ffa71165202173d84485b390e08fa23d3f0",
+    "MUSHROOM_QUALIFIED_ORDERED_v1": "8e2883784602194126b750d25fdb4bd597961964c8e7ba2a035a4ccb9bc2fb85",
+    "structured_data_decision": "f0f4e051eacd73c177b23d33b36f78ccb41b4a01bad4ee6c541b693fae863045"
+  },
+  "phase17_file_sha256": {
+    "STRUCTURED_DATA_PREREGISTRATION.md": "6df03072c94b329e30c8100a574aad282d55c71a9b7723b099add76a02f3df2d",
+    "SOURCE_PROVENANCE_v1.json": "af401e3b0a1958b09339a7bff48c045f13fa0618beb5335b34ae7f0cda190a26",
+    "README.md": "f9ac65f7427f7e83c7c6e7655b15ed5e02b5ccef06a402bea255d93f0e447865",
+    "build_structured_controls.py": "2f45ec41e39994d376647bef749b207f4badfce54b5d6753aef542b31e77bd7f",
+    "evaluate_structured_controls.py": "c08fcbe182aa89c25c1a02e4a5a78d17e43cef4c6f8f169d2520ffb78034418a",
+    "test_structured_controls.py": "1a67727553e086ce9288c9417900937249630499142934618386c19276c6ff0e",
+    "STRUCTURED_CONTROL_BUILD_v1.json": "38d7d5a5e82c476c7173ee182912ede8e3a01cf591344adfcccdc0a46f374ea3",
+    "RETAIL_TALLY_ORDERED_RESULT_v1.json": "632c4fc3a93268243433fda9d070cd300e6c5cd9217bd447af4255e646709d25",
+    "RETAIL_TALLY_UNORDERED_RESULT_v1.json": "ef9a22c6ac29f625a084cf3799e2dec22d0e19189e12dd0cb3bd708f6be84556",
+    "MUSHROOM_RAW_ORDERED_RESULT_v1.json": "aa6847cb3a8924851e28d65dd26831ab8d1adaa8388c9e71b93ac8e965f65519",
+    "MUSHROOM_RAW_PERMUTED_RESULT_v1.json": "5cb7432a75ff93009fc1968433a9e78ab0b6f8678344fba6d214db3b91d86172",
+    "MUSHROOM_QUALIFIED_ORDERED_RESULT_v1.json": "01d056f6ab824e66d26756756f22c1a5f0df42c4e2388f89a3dc1098966b10e3",
+    "STRUCTURED_DATA_CONTROL_DECISION_v1.json": "27c14e0d89b72fd00ef1bc9fbf61e13330e76bcbf231279ecbb3723cccb8777a",
+    "STRUCTURED_DATA_CONTROL_REPORT.md": "33d928ca3f362fab898a2a60b8bf7c3135ddff7739e68947d7cfe86248279c35"
+  },
+  "payload_policy": "External datasets and generated canonical controls are not vendored; sources, selection and results are hash-locked.",
+  "voynich_token_identities_used": false,
+  "voynich_final_test_used": false,
+  "hypothesis_ranking_performed": false
+}
+

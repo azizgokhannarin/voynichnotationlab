@@ -1,5 +1,21 @@
 # Changelog
 
+## v4.6.0 — 2026-08-26
+
+- preregistered structured-data calibration before parsing either control dataset into instrument results;
+- froze UCI Online Retail and UCI Mushroom source URLs, DOIs, licences, payload hashes and deterministic selection rules;
+- copied only Voynich VALIDATION page/line geometry into five 45-page / 1,024-line / 7,596-token controls;
+- built paired ordered/unordered quantity-tally transaction surfaces with exact per-line inventory equality;
+- built raw ordered/permuted and column-qualified fixed-schema table surfaces;
+- ran the unchanged SHA-256-locked Phase-16 instrument with 2,000 permutations per null on all five controls;
+- found one preregistered qualitative full-phenotype match: unordered transaction quantity tallies;
+- showed through the paired ordered control that within-record order is separable from page/line allocation;
+- recorded that the matching control's clustering magnitudes are far larger than Voynich's and made no quantitative-match claim;
+- found that all three fixed-schema table encodings fail positive line-clustering conditions;
+- concluded that recurrence/burstiness cannot reject broad H_D or identify content type;
+- kept H_C, H_D and H_G open and unranked and kept all final-test pages sealed;
+- selected residual information capacity with lossy-renderer positive calibration as the next stage.
+
 ## v4.5.0 — 2026-08-26
 
 - froze an executable exact-token recurrence/burstiness instrument with no class induction or normalization;

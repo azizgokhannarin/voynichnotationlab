@@ -1,0 +1,41 @@
+{
+  "schema": "PHASE17_STRUCTURED_CONTROL_BUILD_v1",
+  "build_sha256": "204491deca704c42ca14e7cbe011310385eefc155bc56e44744771197bdd8369",
+  "instrument_sha256": "f4cb1b8e970f6982cbc1a539292ffb188c7f8aa714ad0a437f100aa455a946a4",
+  "layout_sha256": "03d58554714ab74fe82fd3d6a59261fbb27c44fb432e26ecc9bdcfb19db4db17",
+  "geometry_counts": {
+    "pages": 45,
+    "lines": 1024,
+    "tokens": 7596
+  },
+  "source_sha256": {
+    "retail": "43465a06f2ccf7c8b5bd2892bc7defb52f97487934fe93b16ae4c3936424676d",
+    "mushroom": "e65d082030501a3ebcbcd7c9f7c71aa9d28fdfff463bf4cf4716a3fe13ac360e"
+  },
+  "corpus_sha256": {
+    "RETAIL_TALLY_ORDERED_v1": "25e2445ca2c8841ad424b10c106cf3e683c0c0112b93310c3601e872de8d227e",
+    "RETAIL_TALLY_UNORDERED_v1": "a28df429c47e695958e127e169a53d452161f5a4bdf9cf0ca9c5d744758a99b9",
+    "MUSHROOM_RAW_ORDERED_v1": "b34a91cf89eb94009ca203e6435042578a3067c39ab2f0cc68775c0b39da2f3b",
+    "MUSHROOM_RAW_PERMUTED_v1": "37488bf38e2a903b685de72682f9540eac06cefe2903a55b8c0f7bc577778ee1",
+    "MUSHROOM_QUALIFIED_ORDERED_v1": "ccc147ab7d1a44f62aed54d1d1f854a9f13b003392689e1b198612aebb85c68f"
+  },
+  "paired_inventory_gates": {
+    "retail": true,
+    "mushroom_raw": true
+  },
+  "retail_selection": {
+    "selected_invoices": 1024,
+    "scanned_invoices": 1504,
+    "scanned_rows": 31784,
+    "quantity_cap": 4,
+    "selection_sha256": "0d37e5d7d11435090cdd812a9a6a9eab363622b8019a93276e43906c1d976792"
+  },
+  "mushroom_selection": {
+    "source_rows_consumed": 1035,
+    "fields_per_source_row": 23,
+    "row_selection_sha256": "71b1775f7deb7b9326386fa6c3d8691ea80072c9b230265b8756f14f408862b7"
+  },
+  "voynich_token_identities_used": false,
+  "voynich_final_test_used": false
+}
+

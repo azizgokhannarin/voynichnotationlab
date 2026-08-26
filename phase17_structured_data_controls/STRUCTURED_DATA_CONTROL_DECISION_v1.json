@@ -1,0 +1,311 @@
+{
+  "any_full_phenotype_match": true,
+  "controls": {
+    "MUSHROOM_QUALIFIED_ORDERED_v1": {
+      "corpus_sha256": "ccc147ab7d1a44f62aed54d1d1f854a9f13b003392689e1b198612aebb85c68f",
+      "phenotype": {
+        "conditions": {
+          "document_line_repeat_positive_significant": false,
+          "document_page_repeat_positive_significant": true,
+          "no_line_shuffle_gap_significant": false,
+          "page_line_repeat_positive_significant": false
+        },
+        "full_phenotype_match": false
+      },
+      "profile": {
+        "document_shuffle:line_repeat_mass": {
+          "holm_p": 0.005497251374312844,
+          "ratio": 0.035233776104453045,
+          "significant": true,
+          "z": -54.28853053101877
+        },
+        "document_shuffle:page_repeat_mass": {
+          "holm_p": 0.005497251374312844,
+          "ratio": 1.0296110758669663,
+          "significant": true,
+          "z": 16.777857721435655
+        },
+        "line_shuffle:line_identity_gap1": {
+          "holm_p": 0.10844577711144428,
+          "ratio": 0.0,
+          "significant": false,
+          "z": -1.772786616983732
+        },
+        "line_shuffle:line_identity_gap2_4": {
+          "holm_p": 0.004997501249375313,
+          "ratio": 0.0,
+          "significant": true,
+          "z": -3.2008406182150404
+        },
+        "line_shuffle:line_identity_gap5_16": {
+          "holm_p": 0.0014992503748125937,
+          "ratio": 0.0,
+          "significant": true,
+          "z": -7.159952160402621
+        },
+        "page_shuffle:line_repeat_mass": {
+          "holm_p": 0.0029985007496251873,
+          "ratio": 0.03452572747997772,
+          "significant": true,
+          "z": -56.780165435392114
+        }
+      },
+      "result_sha256": "8e2883784602194126b750d25fdb4bd597961964c8e7ba2a035a4ccb9bc2fb85",
+      "validation_counts": {
+        "documents": 1,
+        "lines": 1024,
+        "pages": 45,
+        "tokens": 7596,
+        "types": 56
+      }
+    },
+    "MUSHROOM_RAW_ORDERED_v1": {
+      "corpus_sha256": "b34a91cf89eb94009ca203e6435042578a3067c39ab2f0cc68775c0b39da2f3b",
+      "phenotype": {
+        "conditions": {
+          "document_line_repeat_positive_significant": false,
+          "document_page_repeat_positive_significant": true,
+          "no_line_shuffle_gap_significant": true,
+          "page_line_repeat_positive_significant": false
+        },
+        "full_phenotype_match": false
+      },
+      "profile": {
+        "document_shuffle:line_repeat_mass": {
+          "holm_p": 0.005497251374312844,
+          "ratio": 0.6611039323449547,
+          "significant": true,
+          "z": -30.42279266939223
+        },
+        "document_shuffle:page_repeat_mass": {
+          "holm_p": 0.005497251374312844,
+          "ratio": 1.0046600369501746,
+          "significant": true,
+          "z": 6.782962042305216
+        },
+        "line_shuffle:line_identity_gap1": {
+          "holm_p": 0.028485757121439283,
+          "ratio": 0.8804534922454059,
+          "significant": false,
+          "z": -2.5824913305649684
+        },
+        "line_shuffle:line_identity_gap2_4": {
+          "holm_p": 0.23388305847076463,
+          "ratio": 0.9684547522165201,
+          "significant": false,
+          "z": -1.2257872940946266
+        },
+        "line_shuffle:line_identity_gap5_16": {
+          "holm_p": 0.028485757121439283,
+          "ratio": 1.066739959684305,
+          "significant": false,
+          "z": 2.5064012803176166
+        },
+        "page_shuffle:line_repeat_mass": {
+          "holm_p": 0.0029985007496251873,
+          "ratio": 0.6495775887863499,
+          "significant": true,
+          "z": -32.7472309769266
+        }
+      },
+      "result_sha256": "000a9614c4873bfdb1e9fbe100825708bfebf80edf40668e784a8f717df514c2",
+      "validation_counts": {
+        "documents": 1,
+        "lines": 1024,
+        "pages": 45,
+        "tokens": 7596,
+        "types": 20
+      }
+    },
+    "MUSHROOM_RAW_PERMUTED_v1": {
+      "corpus_sha256": "37488bf38e2a903b685de72682f9540eac06cefe2903a55b8c0f7bc577778ee1",
+      "phenotype": {
+        "conditions": {
+          "document_line_repeat_positive_significant": false,
+          "document_page_repeat_positive_significant": true,
+          "no_line_shuffle_gap_significant": true,
+          "page_line_repeat_positive_significant": false
+        },
+        "full_phenotype_match": false
+      },
+      "profile": {
+        "document_shuffle:line_repeat_mass": {
+          "holm_p": 0.005497251374312844,
+          "ratio": 0.6615096219379026,
+          "significant": true,
+          "z": -29.0813592668471
+        },
+        "document_shuffle:page_repeat_mass": {
+          "holm_p": 0.005497251374312844,
+          "ratio": 1.004626814062956,
+          "significant": true,
+          "z": 6.873883540288279
+        },
+        "line_shuffle:line_identity_gap1": {
+          "holm_p": 0.7886056971514244,
+          "ratio": 1.0529117568773814,
+          "significant": false,
+          "z": 1.1449031059769457
+        },
+        "line_shuffle:line_identity_gap2_4": {
+          "holm_p": 1.0,
+          "ratio": 0.9942661831347921,
+          "significant": false,
+          "z": -0.22772855921945
+        },
+        "line_shuffle:line_identity_gap5_16": {
+          "holm_p": 1.0,
+          "ratio": 0.9948996083688614,
+          "significant": false,
+          "z": -0.19373540764765235
+        },
+        "page_shuffle:line_repeat_mass": {
+          "holm_p": 0.0029985007496251873,
+          "ratio": 0.6492973082563002,
+          "significant": true,
+          "z": -32.295881968363446
+        }
+      },
+      "result_sha256": "0d8bc51903abb3afc0bb5ac9f4d93ffa71165202173d84485b390e08fa23d3f0",
+      "validation_counts": {
+        "documents": 1,
+        "lines": 1024,
+        "pages": 45,
+        "tokens": 7596,
+        "types": 20
+      }
+    },
+    "RETAIL_TALLY_ORDERED_v1": {
+      "corpus_sha256": "25e2445ca2c8841ad424b10c106cf3e683c0c0112b93310c3601e872de8d227e",
+      "phenotype": {
+        "conditions": {
+          "document_line_repeat_positive_significant": true,
+          "document_page_repeat_positive_significant": true,
+          "no_line_shuffle_gap_significant": false,
+          "page_line_repeat_positive_significant": true
+        },
+        "full_phenotype_match": false
+      },
+      "profile": {
+        "document_shuffle:line_repeat_mass": {
+          "holm_p": 0.005497251374312844,
+          "ratio": 60.14324907048308,
+          "significant": true,
+          "z": 510.5673341363225
+        },
+        "document_shuffle:page_repeat_mass": {
+          "holm_p": 0.005497251374312844,
+          "ratio": 3.108635329953475,
+          "significant": true,
+          "z": 141.74274111683746
+        },
+        "line_shuffle:line_identity_gap1": {
+          "holm_p": 0.0014992503748125937,
+          "ratio": 2.3989445924368686,
+          "significant": true,
+          "z": 85.63548615151984
+        },
+        "line_shuffle:line_identity_gap2_4": {
+          "holm_p": 0.020989505247376312,
+          "ratio": 0.9767809366252752,
+          "significant": false,
+          "z": -2.340205826467542
+        },
+        "line_shuffle:line_identity_gap5_16": {
+          "holm_p": 0.0014992503748125937,
+          "ratio": 0.005302100427084189,
+          "significant": true,
+          "z": -72.91753090835334
+        },
+        "page_shuffle:line_repeat_mass": {
+          "holm_p": 0.0029985007496251873,
+          "ratio": 9.86195452774263,
+          "significant": true,
+          "z": 227.52156271309747
+        }
+      },
+      "result_sha256": "eb13a84266da17da4e16cfd37627cbaf11ab61ea598652929b51c6fbb6c77fbf",
+      "validation_counts": {
+        "documents": 1,
+        "lines": 1024,
+        "pages": 45,
+        "tokens": 7596,
+        "types": 1229
+      }
+    },
+    "RETAIL_TALLY_UNORDERED_v1": {
+      "corpus_sha256": "a28df429c47e695958e127e169a53d452161f5a4bdf9cf0ca9c5d744758a99b9",
+      "phenotype": {
+        "conditions": {
+          "document_line_repeat_positive_significant": true,
+          "document_page_repeat_positive_significant": true,
+          "no_line_shuffle_gap_significant": true,
+          "page_line_repeat_positive_significant": true
+        },
+        "full_phenotype_match": true
+      },
+      "profile": {
+        "document_shuffle:line_repeat_mass": {
+          "holm_p": 0.005497251374312844,
+          "ratio": 60.396836037002274,
+          "significant": true,
+          "z": 535.9590920342926
+        },
+        "document_shuffle:page_repeat_mass": {
+          "holm_p": 0.005497251374312844,
+          "ratio": 3.1104077321813697,
+          "significant": true,
+          "z": 140.3891756186147
+        },
+        "line_shuffle:line_identity_gap1": {
+          "holm_p": 1.0,
+          "ratio": 1.0086920342133827,
+          "significant": false,
+          "z": 0.5370069162844251
+        },
+        "line_shuffle:line_identity_gap2_4": {
+          "holm_p": 1.0,
+          "ratio": 1.0065942986573546,
+          "significant": false,
+          "z": 0.660687000191219
+        },
+        "line_shuffle:line_identity_gap5_16": {
+          "holm_p": 0.5112443778110944,
+          "ratio": 0.9813418605931692,
+          "significant": false,
+          "z": -1.3617356485669796
+        },
+        "page_shuffle:line_repeat_mass": {
+          "holm_p": 0.0029985007496251873,
+          "ratio": 9.858889851799328,
+          "significant": true,
+          "z": 222.86215428097614
+        }
+      },
+      "result_sha256": "777cc31bb2ef16fc64be0b859c68f3e3369d9b1a399641d4875efd3e017a9add",
+      "validation_counts": {
+        "documents": 1,
+        "lines": 1024,
+        "pages": 45,
+        "tokens": 7596,
+        "types": 1229
+      }
+    }
+  },
+  "date": "2026-08-26",
+  "decision": "At least one known structured-data control reproduces the frozen qualitative four-condition allocation-without-order phenotype; broad H_D is not rejected by phenotype shape.",
+  "decision_sha256": "f0f4e051eacd73c177b23d33b36f78ccb41b4a01bad4ee6c541b693fae863045",
+  "family_alpha": 0.01,
+  "full_phenotype_matches": [
+    "RETAIL_TALLY_UNORDERED_v1"
+  ],
+  "hypothesis_ranking_performed": false,
+  "hypothesis_state": "H_C, H_D and H_G remain open and unranked.",
+  "instrument": "frozen Phase-16 exact-identity recurrence/burstiness",
+  "next": "Residual information capacity with lossy-renderer positive calibration.",
+  "permutations_per_null": 2000,
+  "phenotype_match_scope": "Boolean direction/significance pattern only; quantitative effect-size matching is not claimed.",
+  "quantitative_effect_size_match_claimed": false,
+  "schema": "PHASE17_STRUCTURED_DATA_CONTROL_DECISION_v1",
+  "voynich_final_test_used": false
+}

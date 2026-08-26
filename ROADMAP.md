@@ -459,5 +459,8 @@ Candidate phonetic values or semantic interpretations only after reproducible ea
 - [x] Calibrate new instrument on known-content strong renderer
 - [x] Calibrate raw-token instrument on full-size diplomatic CREMMA
 - [x] Run frozen raw-token instrument on Voynich VALIDATION only
-- [ ] Preregister and run structured-data controls with the frozen instrument
-- [ ] Only then resume H_C/H_D/H_G discrimination
+- [x] Preregister and run structured-data controls with the frozen instrument
+- [x] Preserve paired ordered/permuted line-inventory ablations
+- [x] Record qualitative H_D phenotype match without quantitative/ranking claim
+- [ ] Calibrate residual information capacity on a known lossy renderer
+- [ ] Only after residual-capacity calibration resume H_C/H_D/H_G discrimination

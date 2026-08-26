@@ -1,0 +1,37 @@
+{
+  "schema": "PHASE17_STRUCTURED_DATA_SOURCE_PROVENANCE_v1",
+  "frozen_date": "2026-08-26",
+  "sources": {
+    "uci_online_retail": {
+      "dataset_page": "https://archive.ics.uci.edu/dataset/352/online+retail",
+      "download_url": "https://archive.ics.uci.edu/static/public/352/online+retail.zip",
+      "doi": "10.24432/C5BW33",
+      "license": "CC BY 4.0",
+      "instances_reported": 541909,
+      "zip_bytes": 23715478,
+      "zip_sha256": "f5385cbb54bbebf7196389109c6b0621faab0c304e3702548165e71c84aede8b",
+      "payload": "Online Retail.xlsx",
+      "payload_bytes": 23715344,
+      "payload_sha256": "43465a06f2ccf7c8b5bd2892bc7defb52f97487934fe93b16ae4c3936424676d"
+    },
+    "uci_mushroom": {
+      "dataset_page": "https://archive.ics.uci.edu/dataset/73/mushroom",
+      "download_url": "https://archive.ics.uci.edu/static/public/73/mushroom.zip",
+      "doi": "10.24432/C5959T",
+      "license": "CC BY 4.0",
+      "instances_reported": 8124,
+      "features_reported": 22,
+      "zip_bytes": 141318,
+      "zip_sha256": "face32f32647e0d939f6233f36dd30dd5d619ae9f3f9b8e10bea4ac7e1f60b1a",
+      "payload": "agaricus-lepiota.data",
+      "payload_bytes": 373704,
+      "payload_sha256": "e65d082030501a3ebcbcd7c9f7c71aa9d28fdfff463bf4cf4716a3fe13ac360e"
+    }
+  },
+  "frozen_inputs": {
+    "phase16_instrument_sha256": "f4cb1b8e970f6982cbc1a539292ffb188c7f8aa714ad0a437f100aa455a946a4",
+    "voynich_canonical_corpus_sha256": "5fdf577932f21b6da59b7ae12f5bb5451d9bb5b574d81c1affd8b646364b9997",
+    "seed_base": 20260826,
+    "layout_source": "Voynich VALIDATION page/line geometry only"
+  }
+}
