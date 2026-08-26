@@ -45,6 +45,13 @@ See [`experiments/`](experiments/).
 
 ## Research status
 
-**Stage 1 — first-two-pages baseline and notation-evolution probes.**
+**v4.4.1 — instrument recalibration and full-size diplomatic-control checkpoint.**
 
-No decipherment claim is made.
+Direct language search is closed only for the frozen-unit, fixed-boundary, bounded-homophonic
+model class. H_C (hidden linguistic content), H_D (structured non-linguistic content) and H_G
+(autonomous procedural generation) remain open and deliberately unranked.
+
+The full-size CREMMA source/power/predictive control is complete. The legacy induced-class MI
+branch is excluded from cross-corpus inference because its missing v4.3/v4.4 implementation could
+not be reproduced numerically. The next work is a separately calibrated raw-token identity
+recurrence/burstiness instrument. No decipherment claim is made.

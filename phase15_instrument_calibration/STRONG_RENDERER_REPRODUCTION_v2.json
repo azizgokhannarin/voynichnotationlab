@@ -1,0 +1,135 @@
+{
+  "class_induction": {
+    "clusters_requested": 12,
+    "context_vocabulary": 64,
+    "frequent_type_count": 1174,
+    "mapped_class_count": 13,
+    "minimum_type_count": 4
+  },
+  "class_order": {
+    "observed_mi": [
+      0.01905148244433797,
+      0.010307458161446632,
+      0.009478388598723454,
+      0.012397738268159781,
+      0.01252756645786039
+    ],
+    "shuffle_mean": [
+      0.010372600515318827,
+      0.011152257781660829,
+      0.012124395024925398,
+      0.013431799057732986,
+      0.01470581410168762
+    ],
+    "shuffle_sd": [
+      0.001096274440991522,
+      0.0011195224320723837,
+      0.001330504253218299,
+      0.00127122571233311,
+      0.0015129909171087504
+    ],
+    "shuffle_z": [
+      7.916705529656933,
+      -0.7546071396268145,
+      -1.9887245153870308,
+      -0.8134360244140827,
+      -1.4396964444371885
+    ],
+    "shuffles": 200
+  },
+  "corpus": "LATINISE_STRONG_RENDERER_REPRO_v2",
+  "corpus_sha256": "765b73822cc598013a7bd644b550fa978ffbf43f7ed37a2c75480832a170c9e7",
+  "counts": {
+    "final_test": {
+      "lines": 840,
+      "manuscripts": 1,
+      "pages": 84,
+      "tokens": 9032
+    },
+    "train": {
+      "lines": 2520,
+      "manuscripts": 1,
+      "pages": 84,
+      "tokens": 27204
+    },
+    "validation": {
+      "lines": 840,
+      "manuscripts": 1,
+      "pages": 84,
+      "tokens": 8961
+    }
+  },
+  "distant_context": {
+    "gain_bits_per_token": 0.0058213147682799615,
+    "local": {
+      "accuracy": 0.43836965890900137,
+      "bits_per_token": 2.261022096317164,
+      "coefficient_count": 390,
+      "encoded_feature_count": 30,
+      "validation_samples": 8121
+    },
+    "local_plus_lags_2_4": {
+      "accuracy": 0.444403398596232,
+      "bits_per_token": 2.255200781548884,
+      "coefficient_count": 897,
+      "encoded_feature_count": 69,
+      "validation_samples": 8121
+    }
+  },
+  "fullsize_power_gate": {
+    "checks": {
+      "train_plus_validation_lines_at_least_3000": true,
+      "train_validation_manuscripts_at_least_8": false,
+      "validation_lines_at_least_500": true,
+      "validation_tokens_at_least_5000": true
+    },
+    "pass": false
+  },
+  "interpretation_lock": "Descriptor only; no H_C/H_D/H_G ranking is permitted.",
+  "line_reset": {
+    "bootstrap_gain_ci95": [
+      -0.0015468421432075351,
+      0.01211615459907289
+    ],
+    "cross_line_gain_bits_per_start": 0.005353863204789044,
+    "previous_line_conditioned_bits_per_start": 2.5960447729052905,
+    "reset_prior_bits_per_start": 2.60139863611008,
+    "validation_same_page_line_starts": 756
+  },
+  "model_competition": {
+    "hybrid_minus_line_local_gain_bits_per_token": -0.0006005804966027206,
+    "line_local_minus_continuous_gain_bits_per_token": 0.11857910415792317,
+    "models": {
+      "CONTINUOUS": {
+        "accuracy": 0.4486106461332441,
+        "bits_per_token": 2.4024620351430936,
+        "coefficient_count": 546,
+        "encoded_feature_count": 42,
+        "validation_samples": 8961
+      },
+      "HYBRID": {
+        "accuracy": 0.442807722352416,
+        "bits_per_token": 2.284483511481773,
+        "coefficient_count": 1339,
+        "encoded_feature_count": 103,
+        "validation_samples": 8961
+      },
+      "LINE_LOCAL": {
+        "accuracy": 0.4426961276643232,
+        "bits_per_token": 2.2838829309851705,
+        "coefficient_count": 455,
+        "encoded_feature_count": 35,
+        "validation_samples": 8961
+      },
+      "POSITION": {
+        "accuracy": 0.45352081240932934,
+        "bits_per_token": 2.313127765085174,
+        "coefficient_count": 143,
+        "encoded_feature_count": 11,
+        "validation_samples": 8961
+      }
+    }
+  },
+  "schema": "PHASE15_EXECUTABLE_INSTRUMENT_v2",
+  "seed": 20260826
+}

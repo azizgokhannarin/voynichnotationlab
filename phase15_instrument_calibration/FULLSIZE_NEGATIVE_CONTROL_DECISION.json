@@ -1,0 +1,43 @@
+{
+  "schema": "FULLSIZE_NEGATIVE_CONTROL_DECISION_v1",
+  "date": "2026-08-26",
+  "voynich_final_test_used": false,
+  "control_final_test_used": false,
+  "hypothesis_ranking_performed": false,
+  "corpus": {
+    "name": "CREMMA_1300_1499_FULLSIZE_v1",
+    "manuscripts": 14,
+    "xml_pages": 90,
+    "nonempty_lines": 4422,
+    "train_tokens": 22315,
+    "validation_tokens": 6924,
+    "sealed_test_tokens": 7449,
+    "canonical_sha256": "d0ba0dc9c95070d3dd3eae9e38ce24e849b4bed6e810018c945e828cdded8878",
+    "power_gate": "PASS"
+  },
+  "instrument_regression": {
+    "predictive_branch": "PASS",
+    "class_mi_branch": "FAIL_NONCOMPARABLE",
+    "legacy_v4_3_line_local_gain": 0.05806170854913262,
+    "executable_v2_line_local_gain": 0.06923131569259633,
+    "legacy_v4_3_class_z_lag1": 30.62,
+    "executable_v2_class_z_lag1": 1.2443561415243365
+  },
+  "cremma_predictive_observations": {
+    "line_local_minus_continuous_gain_bits_per_token": 0.08768954547375252,
+    "hybrid_minus_line_local_gain_bits_per_token": 0.002613048589979572,
+    "distant_context_gain_bits_per_token": 0.0011679648053741776,
+    "cross_line_gain_bits_per_start": -0.004970508370444018,
+    "cross_line_gain_ci95": [-0.029042058206696822, 0.01710945353405081]
+  },
+  "class_mi_recorded_not_comparable": [
+    24.182582584923953,
+    2.0433378786041483,
+    -0.5639401457368708,
+    -0.047373369418985414,
+    -2.034269389841899
+  ],
+  "decision": "Full-size source/power/predictive control complete; legacy class-MI comparison excluded because executable regression failed.",
+  "hypothesis_state": "H_C, H_D and H_G remain open and unranked.",
+  "next": "raw-token identity distance-resolved recurrence/burstiness with control calibration before interpretation"
+}

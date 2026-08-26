@@ -1,0 +1,14 @@
+{
+  "schema": "PHASE15_REPRODUCIBILITY_ENVIRONMENT_v1",
+  "reference_run": {
+    "python": "3.12",
+    "numpy": "2.3.5",
+    "scikit_learn": "1.8.0"
+  },
+  "declared_minimum": {
+    "python": "3.11",
+    "numpy": "2.0",
+    "scikit_learn": "1.5"
+  },
+  "notes": "No numba dependency is used by the Phase 15 executable instrument."
+}

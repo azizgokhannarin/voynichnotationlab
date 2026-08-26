@@ -1,5 +1,13 @@
 # Methodology
 
+## Current interpretation lock (v4.4.1)
+
+Until the full-size control and the new raw-token control calibration are complete, H_C, H_D and
+H_G are retained as open hypothesis classes and are not ranked. Class-space measurements whose
+archived implementation fails regression may be preserved as historical observations but may not
+be transferred across corpora. No new language search, semantic/illustration crib, Voynich
+generator enrichment or latent-state addition is permitted during this lock.
+
 ## Evidence levels
 
 Every note should be classified as one of:

@@ -1,5 +1,18 @@
 # Changelog
 
+## v4.4.1 — 2026-08-26
+
+- froze exact Phase 15 source URLs, versions, commits, checksums, seeds, parsing rules and page-level splits;
+- added the first archived executable Phase 15 instrument and deterministic regression tests;
+- recovered and hash-verified the exact RF1b-EVA and LatinISE inputs used by the project;
+- preregistered and ran a full-size 14th–15th-century CREMMA diplomatic control with 14 manuscripts, 4,422 non-empty lines and a sealed control final-test partition;
+- passed the full-size power gate on 872 VALIDATION lines / 6,924 tokens;
+- reproduced the v4.3 predictive decisions for line reset, distant-context null and line-local model advantage;
+- found that ordinary diplomatic abbreviated Latin can also produce a line-local predictive advantage and negligible distant/cross-line gain;
+- failed to reproduce the legacy Voynich class-MI lag-1 value with the newly archived class implementation and therefore marked legacy-vs-control class-MI comparison non-comparable;
+- preserved v4.3 observations, performed no H_C/H_D/H_G ranking and authorized no generator/latent-state enrichment;
+- kept both Voynich final-test pages and the CREMMA control final-test partition sealed.
+
 ## v4.4 — 2026-08-26
 
 - paused generator augmentation to recalibrate the H_C/H_G measurement instrument;
@@ -440,4 +453,3 @@
 - added control-glyph comparisons and statistical caveats;
 - added `analyze_bifolio_gradient.py`;
 - defined cross-quire replication as the next falsification test.
-

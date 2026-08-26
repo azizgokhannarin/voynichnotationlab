@@ -451,7 +451,9 @@ Candidate phonetic values or semantic interpretations only after reproducible ea
 - [x] Build known-content strong-renderer positive control
 - [x] Demonstrate class-space line-local/distant-context metrics are content-blind under strong rendering
 - [x] Revise v4.3 interpretation without retracting observations
-- [ ] Acquire/run full-size real diplomatic negative control
+- [x] Acquire/run full-size real diplomatic negative control (source/power/predictive branch)
+- [x] Freeze Phase 15 executable code, provenance, checksums, seeds and splits
+- [x] Mark legacy class-MI cross-corpus comparison non-comparable after regression failure
 - [ ] Build raw-token distance-resolved recurrence/burstiness instrument
 - [ ] Build residual information-capacity estimator
 - [ ] Calibrate new instrument on known-content strong renderer

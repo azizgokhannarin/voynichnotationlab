@@ -1,0 +1,60 @@
+{
+  "schema": "PHASE15_SOURCE_PROVENANCE_v1",
+  "frozen_date": "2026-08-26",
+  "sources": {
+    "voynich_rf1b": {
+      "filename": "RF1b-e.txt",
+      "url": "https://www.voynich.nu/data/RF1b-e.txt",
+      "bytes": 362373,
+      "sha256": "e7d3238e35743e06c63367a933909ec37b1e2de7ada3a1b449447eafa1918782",
+      "parser": "existing C1-STRUCT-v1 parser and frozen page split"
+    },
+    "latinise_v6": {
+      "filename": "latin14.txt",
+      "item_url": "https://lindat.mff.cuni.cz/repository/items/6078be62-56b9-4a42-99e5-766c3b2e37df",
+      "bitstream_api_url": "https://lindat.mff.cuni.cz/repository/server/api/core/bitstreams/a72b4260-d274-4ab6-952b-d9b3d4b7172d/content",
+      "handle": "http://hdl.handle.net/11372/LRT-5870",
+      "bytes": 226954460,
+      "md5": "15aba54f63333f86a580ec5b7a0de724",
+      "sha256": "74553e781f8b0fc43b5a35d76d315932f5323ae9cfd9903f3cc69c8fcd494388",
+      "license": "CC BY-SA 4.0",
+      "selection": "same 1300-1500 metadata rule as prepare_target_streams.latin_doc_selected"
+    },
+    "cremma_medii_aevi": {
+      "repository": "https://github.com/HTR-United/CREMMA-Medieval-LAT",
+      "zenodo_doi": "10.5281/zenodo.7229929",
+      "tag": "0.1.0",
+      "commit": "e681b1077cddafebb51018a19cce503431139e4f",
+      "license": "CC BY 4.0",
+      "transcription": "graphemic; abbreviations and abbreviation signs preserved; original lineation retained in ALTO XML",
+      "selected_git_blob_manifest_sha256": "cd6de44065c21c5805270765b8a89daf4ce919bdec1b551aa1480d209c94384a",
+      "selected_content_manifest_sha256": "e27810f6bd0e0039ff5a30adedb8ab895f9eb77a1773288db188fdb9618e5e79",
+      "selected_xml_files": 90,
+      "included_manuscript_directories": [
+        "Arras-861",
+        "BGO-511",
+        "BIS-193",
+        "Latin6395",
+        "Latin8236",
+        "LaurentianusPluteus33.31",
+        "LaurentianusPluteus39.34",
+        "LaurentianusPluteus53.08",
+        "LaurentianusPluteus53.09",
+        "Mazarine915",
+        "PalLat373",
+        "Phi_10a135",
+        "SBB_PK_Hdschr25",
+        "UBL758"
+      ],
+      "period": "1300-1499",
+      "expected_nonempty_lines": 4422
+    }
+  },
+  "fixed_seeds": {
+    "split": 20260826,
+    "class_clustering": 20260826,
+    "line_shuffles": 20260826,
+    "bootstrap": 20260826,
+    "strong_renderer": 20260826
+  }
+}
