@@ -1,0 +1,46 @@
+{
+  "calibration": {
+    "calibration_sha256": "9bc5f39562cc0f23dd4146849037032f1756f2b43e8f73b03186ca8164d360f2",
+    "injected_state_gain_bits_per_token": 0.5768254878064616,
+    "injected_state_prequential_gain_bits_per_token": 0.5487458653248042,
+    "injected_state_viterbi_accuracy": 0.990234375,
+    "passed": true,
+    "zero_state_null_median_bits_per_token": -0.04133139263962741,
+    "zero_state_null_q99_bits_per_token": -0.026851332080961274
+  },
+  "date": "2026-08-26",
+  "decision": "No robust transferable binary line-state signal is detected under the frozen model and three-condition rule.",
+  "decision_sha256": "9061b77f7ecb8d1f760f46d9912a57f08ae2ee7fc296289a46fa7df42c67552a",
+  "hypothesis_ranking_performed": false,
+  "hypothesis_state": "H_C, H_D and H_G remain open and unranked.",
+  "larger_state_space_authorized": false,
+  "next": "Cross-phase synthesis and identifiability/stop-rule audit before authorizing any new model or opening final-test pages.",
+  "robust_binary_line_state_detected": false,
+  "schema": "PHASE19_LATENT_STATE_DECISION_v1",
+  "scope": "A negative result applies only to this binary line-state model over the frozen 32+OTHER raw-token representation; a positive result would reject only the matched K=1 mechanism.",
+  "voynich": {
+    "heldout_gain_bits_per_token": 0.004320564074698655,
+    "page_bootstrap_95_ci": [
+      -0.020510879287733822,
+      0.02827379798272006
+    ],
+    "prequential_mdl_gain_bits_per_token": -0.060198204138352376,
+    "result_sha256": "324950c7df86f350b8229c72ac6ba224ea8647d893505e4ea32144317309a0c0",
+    "robust_signal_conditions": {
+      "bootstrap_95_lower_bound_positive": false,
+      "heldout_gain_exceeds_null_q99": true,
+      "prequential_mdl_gain_positive": false
+    },
+    "transition_matrix": [
+      [
+        0.9744902890676144,
+        0.02550971093238556
+      ],
+      [
+        0.018548929722373327,
+        0.9814510702776267
+      ]
+    ]
+  },
+  "voynich_final_test_used": false
+}

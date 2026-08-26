@@ -1,5 +1,22 @@
 # Changelog
 
+## v4.8.0 — 2026-08-26
+
+- preregistered a single binary line-level latent state before viewing results;
+- froze a 32 exact TRAIN-token plus `OTHER` vocabulary and visible line-position/line-length contexts;
+- compared a 1,283-parameter `K=2` line-HMM against its 640-parameter `K=1` zero-state counterpart;
+- generated 100 parameter-matched zero-state procedural TRAIN/VALIDATION pairs with unchanged geometry and fitting pipeline;
+- observed zero-state held-out gain median -0.0413 and maximum/q99 -0.0269 bits/token, showing no synthetic false gain;
+- recovered the injected persistent binary state with 0.5768 bits/token held-out gain, 0.5487 bits/token prequential gain and 99.02% label-swap-invariant Viterbi accuracy;
+- passed every preregistered calibration gate before scoring real Voynich VALIDATION;
+- found Voynich raw held-out gain of only 0.00432 bits/token with page-bootstrap 95% CI -0.02051 to 0.02827;
+- found TRAIN-only prequential/MDL gain of -0.06020 bits/token, so added state complexity did not transfer;
+- recorded high fitted self-transition probabilities as non-robust training structure rather than hidden-content evidence;
+- detected no robust transferable binary line state under the frozen three-condition rule;
+- did not authorize a larger state space, hypothesis ranking, final-test opening, language search or generator enrichment;
+- selected a cross-phase synthesis and identifiability/stop-rule audit as the next stage;
+- documented a terminal-summary-only hash-label erratum while preserving the preregistered instrument byte-for-byte.
+
 ## v4.7.0 — 2026-08-26
 
 - preregistered residual selection entropy as a lossless held-out codelength and an upper bound on hidden-content bandwidth;

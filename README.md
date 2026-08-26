@@ -45,17 +45,17 @@ See [`experiments/`](experiments/).
 
 ## Research status
 
-**v4.7.0 — residual information-capacity checkpoint.**
+**v4.8.0 — calibrated small latent-state checkpoint.**
 
 Direct language search is closed only for the frozen-unit, fixed-boundary, bounded-homophonic
 model class. H_C (hidden linguistic content), H_D (structured non-linguistic content) and H_G
 (autonomous procedural generation) remain open and deliberately unranked.
 
-An open-vocabulary, lossless residual-capacity estimator was frozen before results and certified
-on known Latin passed through a many-to-one heavy-suspension renderer. The control retained a
-recoverable 3.555 bits/token of known hidden onset information and the estimator reported a
-3.978 bits/token upper bound. On Voynich VALIDATION the best TRAIN-selected bounded surface model
-left a residual upper bound of 12.372 bits/token (95% bootstrap CI 12.174–12.574). This is far
-above the preregistered 1 bit/token falsification threshold, so content-rich H_C is not rejected.
-The bound is not evidence that those bits carry content: H_C, H_D and H_G remain open and
-unranked. No decipherment claim is made.
+A binary line-state HMM was frozen before results and calibrated against 100 parameter-matched
+zero-state procedural nulls plus a known injected-state positive control. The positive control
+was recovered with 0.577 bits/token held-out gain, 0.549 bits/token prequential gain and 99.0%
+state accuracy; all calibration gates passed. On Voynich VALIDATION the raw held-out gain was only
+0.0043 bits/token, its page-bootstrap interval crossed zero, and TRAIN-only prequential/MDL gain
+was -0.0602 bits/token. The frozen three-condition rule therefore detects no robust transferable
+binary line state. This bounded negative result does not rank H_C, H_D or H_G, and all final-test
+pages remain sealed. No decipherment claim is made.

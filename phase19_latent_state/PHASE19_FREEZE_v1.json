@@ -1,0 +1,13 @@
+{
+  "date": "2026-08-26",
+  "files": {
+    "LATENT_STATE_PREREGISTRATION.md": "033b45b53669d0987026e938862152f8d0e48ad084f23bcff9b03cf2bb22fe0c",
+    "latent_state.py": "44fbcd373ac7e0b49c2545d99a8a5b39821a41fb59451332dbeb180a3b616280",
+    "test_latent_state.py": "935a7c3c8c13d46ce91ecc05fa0edf9bcc56cfd94de6af02c72b9d8245e80161"
+  },
+  "final_test_authorized": false,
+  "null_calibration_before_validation": true,
+  "schema": "PHASE19_PRERESULT_FREEZE_v1",
+  "seed": 20260826,
+  "voynich_validation_scored": false
+}

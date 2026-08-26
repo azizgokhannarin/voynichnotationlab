@@ -441,7 +441,7 @@ Candidate phonetic values or semantic interpretations only after reproducible ea
 - [ ] Add line-final realization only
 - [ ] Add copy/modify adjacency only
 - [ ] Add productive vocabulary innovation only
-- [ ] Add one latent line-level state only
+- [x] Add one latent line-level state only
 - [ ] Compare marginal held-out gains before combining mechanisms
 
 ## Instrument recalibration
@@ -465,5 +465,8 @@ Candidate phonetic values or semantic interpretations only after reproducible ea
 - [x] Calibrate residual information capacity on a known lossy renderer
 - [x] Apply the certified residual-capacity bound to Voynich VALIDATION only
 - [x] Keep H_C/H_D/H_G open and unranked after the non-falsifying upper bound
-- [ ] Preregister a small latent-state test against parameter-matched zero-state procedural nulls
-- [ ] Report latent-state gains with held-out prediction and secondary prequential/MDL checks
+- [x] Preregister a small latent-state test against parameter-matched zero-state procedural nulls
+- [x] Report latent-state gains with held-out prediction and secondary prequential/MDL checks
+- [x] Reject robust binary-state detection when bootstrap and prequential gates fail
+- [ ] Produce a cross-phase synthesis and identifiability/stop-rule audit
+- [ ] Decide explicitly whether any new representation or final confirmatory test is scientifically authorized

@@ -1,0 +1,140 @@
+{
+  "calibration_sha256": "9bc5f39562cc0f23dd4146849037032f1756f2b43e8f73b03186ca8164d360f2",
+  "corpus_sha256": "5fdf577932f21b6da59b7ae12f5bb5451d9bb5b574d81c1affd8b646364b9997",
+  "date": "2026-08-26",
+  "final_test_used": false,
+  "fitted_k2_descriptor": {
+    "initial": [
+      0.13142150154384422,
+      0.8685784984561556
+    ],
+    "k1_free_parameters": 640,
+    "k2_free_parameters": 1283,
+    "selected_deterministic_start": 0,
+    "training_iterations": 30,
+    "transition": [
+      [
+        0.9744902890676144,
+        0.02550971093238556
+      ],
+      [
+        0.018548929722373327,
+        0.9814510702776267
+      ]
+    ]
+  },
+  "hypothesis_ranking_performed": false,
+  "hypothesis_state": "H_C, H_D and H_G remain open and unranked.",
+  "instrument": {
+    "bootstraps": 2000,
+    "em_iterations_max": 30,
+    "em_starts": 2,
+    "em_tolerance_nats_per_token": 1e-07,
+    "emission_prior_to_k1": 8.0,
+    "line_states": 2,
+    "null_replicates": 100,
+    "other_symbol": true,
+    "seed": 20260826,
+    "top_exact_train_types": 32,
+    "transition_prior": 1.0,
+    "visible_contexts": 20
+  },
+  "interpretation": "No robust transferable binary line-state signal is detected under the frozen three-part rule.",
+  "inventory": [
+    "daiin",
+    "aiin",
+    "ol",
+    "chey",
+    "ar",
+    "or",
+    "chedy",
+    "chol",
+    "s",
+    "qokeey",
+    "shey",
+    "al",
+    "dar",
+    "qokain",
+    "qokaiin",
+    "shedy",
+    "y",
+    "okaiin",
+    "chor",
+    "r",
+    "dal",
+    "dy",
+    "cheey",
+    "qokey",
+    "chy",
+    "qokeedy",
+    "okeey",
+    "cheol",
+    "shol",
+    "qokedy",
+    "dain",
+    "otaiin"
+  ],
+  "primary": {
+    "heldout_gain_bits_per_token": 0.004320564074698655,
+    "k1_log_likelihood_nats": -10835.756405541237,
+    "k2_log_likelihood_nats": -10813.008004956739,
+    "page_bootstrap_95_ci": [
+      -0.020510879287733822,
+      0.02827379798272006
+    ],
+    "zero_state_null_q99": -0.026851332080961274
+  },
+  "result_sha256": "324950c7df86f350b8229c72ac6ba224ea8647d893505e4ea32144317309a0c0",
+  "robust_binary_line_state_detected": false,
+  "robust_signal_conditions": {
+    "bootstrap_95_lower_bound_positive": false,
+    "heldout_gain_exceeds_null_q99": true,
+    "prequential_mdl_gain_positive": false
+  },
+  "schema": "PHASE19_LATENT_STATE_RESULT_v1",
+  "secondary_prequential_mdl": {
+    "blocks": [
+      {
+        "block": 2,
+        "gain_bits_per_token": -0.08495895252776817,
+        "score_pages": 27,
+        "score_tokens": 4314,
+        "train_pages": 28
+      },
+      {
+        "block": 3,
+        "gain_bits_per_token": -0.07131982980026505,
+        "score_pages": 27,
+        "score_tokens": 4670,
+        "train_pages": 55
+      },
+      {
+        "block": 4,
+        "gain_bits_per_token": -0.055131351486460985,
+        "score_pages": 27,
+        "score_tokens": 4405,
+        "train_pages": 82
+      },
+      {
+        "block": 5,
+        "gain_bits_per_token": -0.03250101078441606,
+        "score_pages": 27,
+        "score_tokens": 4926,
+        "train_pages": 109
+      }
+    ],
+    "coded_tokens": 18315,
+    "gain_bits": -1102.5301087939238,
+    "gain_bits_per_token": -0.060198204138352376
+  },
+  "train_counts": {
+    "lines": 3155,
+    "pages": 136,
+    "tokens": 22716
+  },
+  "validation_counts": {
+    "lines": 1024,
+    "pages": 45,
+    "tokens": 7596
+  }
+}
