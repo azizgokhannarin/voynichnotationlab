@@ -1,5 +1,19 @@
 # Changelog
 
+## v5.1.0 — 2026-08-27
+
+- restricted the active research target to a mandatory paragraph-final closure operation;
+- preregistered a bounded allomorph hypothesis conditioned by the preceding word-final shape;
+- used only frozen TRAIN pages and compared paragraph ends only with other physical line ends;
+- tested raw suffixes and the frozen `{n,m,y,r,l,s,Ø}` terminal representation;
+- found real `n`, `y` and `r` paragraph-final enrichment but no transferable mandatory mapping;
+- obtained leave-one-page-out AUC 0.5240 in ZL3b and 0.5558 in IT2a for the best bounded terminal representation;
+- failed both 99th-percentile permutation gates and the 80% coverage/accuracy gates;
+- recovered an injected deterministic allomorph at AUC 0.9987/0.9995 and balanced accuracy above 0.99;
+- rejected EVA `m` and any small tested EVA-terminal mapping as a universal paragraph point;
+- selected blind image-level terminal microallography as the sole next target;
+- used no Validation or final-test page and made no language or decipherment claim.
+
 ## v5.0.0 — 2026-08-27
 
 - pivoted the active program to mechanisms executable by a fifteenth-century human writer;

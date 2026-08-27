@@ -1,5 +1,19 @@
 # Roadmap
 
+## Phase 23 — Paragraph-final closure only
+
+- [x] Freeze the mandatory preceding-ending-conditioned closure hypothesis
+- [x] Restrict discovery to TRAIN pages
+- [x] Compare paragraph ends only with other physical line ends
+- [x] Test raw final-glyph and frozen terminal-family representations
+- [x] Use within-page permutation nulls and leave-one-page-out mapping
+- [x] Replicate the negative result in IT2a
+- [x] Certify power with an injected deterministic allomorph
+- [x] Reject EVA `m` and a small EVA-terminal mapping as a universal paragraph point
+- [ ] Build blind matched image crops for `n`, `y`, `r` and control terminals
+- [ ] Test hook/tail/loop/connection/spacing microallography
+- [ ] Reject the universal-visible-point hypothesis if image features do not transfer
+
 ## Phase 22 — Human-executable layout and paragraph structure
 
 - [x] Freeze a fifteenth-century human-executability prior

@@ -1,0 +1,31 @@
+{
+  "version": "v5.1.0",
+  "phase": 23,
+  "status": "TRAIN_BOUNDED_EVA_ALLOMORPH_NOT_SUPPORTED; IMAGE_MICROALLOGRAPHY_PENDING",
+  "files": {
+    "PARAGRAPH_CLOSURE_PREREGISTRATION.md": "82ee858760dc1fc79bc0757dac81df39b5db6b7e724c2af65eab02713e269a03",
+    "paragraph_closure_scan.py": "a55cc603322167499eee6e57b976158a057612e92823782b61eedb7c71e4a1ae",
+    "results/PARAGRAPH_CLOSURE_TRAIN_v1.json": "fa204f03dad4ed1000dce6e5959379bad65d9b1d083cf3e57a4bacd2a31dc137",
+    "results/PARAGRAPH_CLOSURE_REPORT_v1.md": "a20404c7290ff52685ddc3d2ade9bc4cfbcb7f44be3a98da36a23c05be992d14",
+    "tests/test_paragraph_closure.py": "753fec37483e5e9c9b1ea6fcdd259f6318467503373ccf1a45d1d3e26bc4f380",
+    "../observations/OBS-0018-no-transferable-eva-paragraph-stop.md": "4cca881842b4c6ceec514733d958458386a3571ee3afafda1ce105b738a87bb5",
+    "../phase22_human_layout/sources/ZL3b-n.txt": "bf5b6d4ac1e3a51b1847a9c388318d609020441ccd56984c901c32b09beccafc",
+    "../phase22_human_layout/sources/IT2a-n.txt": "7f27a8b0feed8f6de0a99900df6bf912dd1d295c38e5f830bac8b41c3f536fb5",
+    "../phase5/voynich_page_split_manifest.csv": "f9f6f2214a6502f6341551f087c272afd4492c19a9c44409e94f155b89e5de1a"
+  },
+  "primary_result": {
+    "ZL3b_auc": 0.5240084258945796,
+    "IT2a_auc": 0.5557736119924683,
+    "ZL3b_permutation_p": 0.05094905094905095,
+    "IT2a_permutation_p": 0.07792207792207792,
+    "decision": "FAIL_MANDATORY_TRANSFERABLE_EVA_TERMINAL_ALLOMORPH"
+  },
+  "positive_control": {
+    "ZL3b_auc": 0.9987,
+    "IT2a_auc": 0.9995,
+    "decision": "INSTRUMENT_POWER_CERTIFIED"
+  },
+  "next_gate": "BLIND_IMAGE_MICROALLOGRAPHY_MATCHED_BY_TRANSCRIBED_TERMINAL_AND_STEM",
+  "validation": "UNUSED",
+  "final_test": "SEALED"
+}

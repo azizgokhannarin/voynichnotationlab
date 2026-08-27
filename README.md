@@ -45,7 +45,7 @@ See [`experiments/`](experiments/).
 
 ## Research status
 
-**v5.0.0 — human-executable layout and paragraph scan checkpoint.**
+**v5.1.0 — paragraph-closure allomorph checkpoint.**
 
 Direct language search is closed only for the frozen-unit, fixed-boundary, bounded-homophonic
 model class. H_C (hidden linguistic content), H_D (structured non-linguistic content) and H_G
@@ -67,3 +67,10 @@ they do not always match visual paragraph counts.
 The next authorized action is blind image-geometry adjudication with initial glyphs and marginal
 stars masked during primary boundary calls. No phonetic assignment, language mapping, authorship
 claim or final-test opening is authorized. No decipherment claim is made.
+
+Phase 23 temporarily narrows the active target further to paragraph-final closure only. On frozen
+TRAIN pages, neither raw final glyphs nor the pre-existing `{n,m,y,r,l,s,Ø}` terminal family yields
+a transferable preceding-ending-conditioned paragraph stop. A deterministic injected positive
+control is recovered nearly perfectly, so the negative result is informative. The sole next target
+is blind image-level microallography of matched paragraph-final and other-line-final word endings;
+EVA may have collapsed a subtle hook, tail, loop or connection difference.
