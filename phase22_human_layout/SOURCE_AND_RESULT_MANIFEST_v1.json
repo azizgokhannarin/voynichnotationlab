@@ -1,0 +1,33 @@
+{
+  "version": "v5.0.0",
+  "phase": 22,
+  "status": "EXPLORATORY_TRANSCRIBER_SCAN_COMPLETE; IMAGE_GEOMETRY_PENDING",
+  "files": {
+    "paragraph_scan.py": "0bbb66c5224a0809d23015cf4e8ae14de78c3e7556a2ca5ae94b93bcbb413884",
+    "PARAGRAPH_GEOMETRY_PREREGISTRATION.md": "fb841de0aa3aafdb284483a691493a88f84aea60c2cc468f0fee2b9730a8d661",
+    "SOURCE_LOCKS_v1.json": "6ea7b36edaf6040bfc7e13769cfa0ef1448203a8733b5caa76aa2df9d695fa18",
+    "IMAGE_GEOMETRY_ANNOTATION_TEMPLATE.csv": "3769b7c7a03a7cd9e57f0ba624ef2c889dad940df9c723487ddda1c129f85542",
+    "tests/test_paragraph_scan.py": "a18de9e2d874b46c18ff85748c1dbbb19cde743e6d8db94540d40f61a3bef0fe",
+    "sources/QUIRE20_STAR_COUNTS_v1.json": "2620ff35455db98bbc9baed8eaf5e0a79119a5a10c5b1480ef59e2e9ac917476",
+    "results/TRANSCRIBER_BOUNDARY_SCAN_v1.json": "feac1e1efbc063ddbfeb39842442223b252f8137039a9cb424f042aa0eea3848",
+    "results/PARAGRAPH_SCAN_REPORT_v1.md": "cddc6ad2df5330003ac82828c93bc8ed8ee51b2bb4f853347b75661ef45df70f",
+    "../observations/OBS-0017-paragraph-initial-gallows-and-star-layer.md": "5668dcff1e3929bdf6c2cadcbeb86c05eeb509cc816bace872e44c7af572b6ae"
+  },
+  "claims": {
+    "licensed": [
+      "Direct gallows are strongly associated with transcriber-defined paragraph starts in two EVA transcriptions.",
+      "The highlighted nested bench-gallows construction is compositional but not paragraph-start-specific in this scan.",
+      "EVA m is not a paragraph-stop candidate because it is more frequent at other physical line ends.",
+      "Quire-20 stars and visually inferred paragraphs are distinct segmentation layers on some pages."
+    ],
+    "not_licensed": [
+      "The image-grounded paragraph inventory is known.",
+      "A gallows sound or letter value is known.",
+      "A punctuation glyph has been identified.",
+      "Every star marks exactly one paragraph.",
+      "The language or content has been identified."
+    ]
+  },
+  "next_gate": "BLIND_TRAIN_IMAGE_GEOMETRY_WITH_INITIAL_GLYPHS_AND_STARS_MASKED",
+  "final_test": "SEALED"
+}

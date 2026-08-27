@@ -1,0 +1,1611 @@
+{
+  "status": "EXPLORATORY_TRANSCRIBER_BOUNDARY_SCAN_NOT_IMAGE_GROUND_TRUTH",
+  "sources": {
+    "ZL3b": {
+      "path": "phase22_human_layout/sources/ZL3b-n.txt",
+      "sha256": "bf5b6d4ac1e3a51b1847a9c388318d609020441ccd56984c901c32b09beccafc"
+    },
+    "IT2a": {
+      "path": "phase22_human_layout/sources/IT2a-n.txt",
+      "sha256": "7f27a8b0feed8f6de0a99900df6bf912dd1d295c38e5f830bac8b41c3f536fb5"
+    },
+    "GC2a": {
+      "path": "phase22_human_layout/sources/GC2a-n.txt",
+      "sha256": "b09570cb6c993bc2d87134d115e60a978650a8a6495483ddbb1f6005a586096f"
+    },
+    "RF1b": {
+      "path": "phase22_human_layout/sources/RF1b-e.txt",
+      "sha256": "e7d3238e35743e06c63367a933909ec37b1e2de7ada3a1b449447eafa1918782"
+    }
+  },
+  "boundary_counts": {
+    "ZL3b": {
+      "starts": 740,
+      "ends": 740
+    },
+    "IT2a": {
+      "starts": 772,
+      "ends": 772
+    },
+    "GC2a": {
+      "starts": 775,
+      "ends": 775
+    },
+    "RF1b": {
+      "starts": 0,
+      "ends": 0
+    }
+  },
+  "boundary_agreement": {
+    "ZL3b_vs_IT2a_start": {
+      "a_count": 740,
+      "b_count": 772,
+      "intersection": 724,
+      "union": 788,
+      "jaccard": 0.9187817258883249,
+      "a_only_examples": [
+        "f111v.31",
+        "f112r.39",
+        "f112r.42",
+        "f112v.45",
+        "f114r.22",
+        "f114r.8",
+        "f114v.8",
+        "f46r.14",
+        "f75v.60",
+        "f83r.31",
+        "f84r.22",
+        "f84v.7",
+        "fRos.137",
+        "fRos.139",
+        "fRos.142",
+        "fRos.39"
+      ],
+      "b_only_examples": [
+        "f101v.28",
+        "f102v1.13",
+        "f102v2.37",
+        "f105r.10",
+        "f105r.37",
+        "f107r.16",
+        "f108r.11",
+        "f108r.41",
+        "f108v.28",
+        "f108v.34",
+        "f108v.53",
+        "f112r.16",
+        "f112v.25",
+        "f114r.34",
+        "f16r.4",
+        "f18r.14",
+        "f19v.14",
+        "f22v.16",
+        "f24r.20",
+        "f24v.12"
+      ]
+    },
+    "ZL3b_vs_IT2a_end": {
+      "a_count": 740,
+      "b_count": 772,
+      "intersection": 724,
+      "union": 788,
+      "jaccard": 0.9187817258883249,
+      "a_only_examples": [
+        "f111v.30",
+        "f112r.38",
+        "f112r.41",
+        "f112v.44",
+        "f114r.21",
+        "f114r.7",
+        "f114v.7",
+        "f46r.13",
+        "f75v.59",
+        "f83r.30",
+        "f84r.21",
+        "f84v.6",
+        "fRos.138",
+        "fRos.141",
+        "fRos.145",
+        "fRos.40"
+      ],
+      "b_only_examples": [
+        "f101v.27",
+        "f102v1.12",
+        "f102v2.36",
+        "f105r.36",
+        "f105r.9",
+        "f107r.15",
+        "f108r.10",
+        "f108r.40",
+        "f108v.27",
+        "f108v.33",
+        "f108v.52",
+        "f112r.15",
+        "f112v.24",
+        "f114r.33",
+        "f16r.3",
+        "f18r.13",
+        "f19v.13",
+        "f22v.15",
+        "f24r.19",
+        "f24v.11"
+      ]
+    },
+    "ZL3b_vs_GC2a_start": {
+      "a_count": 740,
+      "b_count": 775,
+      "intersection": 730,
+      "union": 785,
+      "jaccard": 0.9299363057324841,
+      "a_only_examples": [
+        "f67r2.16",
+        "f67r2.23",
+        "f67r2.29",
+        "f67r2.32",
+        "f67r2.35",
+        "f67r2.38",
+        "f67r2.48",
+        "f6v.6",
+        "f83r.31",
+        "f89v2.19"
+      ],
+      "b_only_examples": [
+        "f103r.9",
+        "f103v.41",
+        "f105r.10",
+        "f107r.16",
+        "f108r.41",
+        "f108v.26",
+        "f108v.34",
+        "f108v.36",
+        "f108v.39",
+        "f108v.42",
+        "f108v.45",
+        "f108v.48",
+        "f108v.50",
+        "f111r.10",
+        "f111r.13",
+        "f111r.17",
+        "f111r.20",
+        "f111r.23",
+        "f111r.26",
+        "f111r.29"
+      ]
+    },
+    "ZL3b_vs_GC2a_end": {
+      "a_count": 740,
+      "b_count": 775,
+      "intersection": 730,
+      "union": 785,
+      "jaccard": 0.9299363057324841,
+      "a_only_examples": [
+        "f67r2.14",
+        "f67r2.21",
+        "f67r2.27",
+        "f67r2.30",
+        "f67r2.33",
+        "f67r2.36",
+        "f67r2.46",
+        "f6v.5",
+        "f83r.30",
+        "f89v2.18"
+      ],
+      "b_only_examples": [
+        "f103r.8",
+        "f103v.40",
+        "f105r.9",
+        "f107r.15",
+        "f108r.40",
+        "f108v.25",
+        "f108v.33",
+        "f108v.35",
+        "f108v.38",
+        "f108v.41",
+        "f108v.44",
+        "f108v.47",
+        "f108v.49",
+        "f111r.12",
+        "f111r.16",
+        "f111r.19",
+        "f111r.22",
+        "f111r.25",
+        "f111r.28",
+        "f111r.31"
+      ]
+    }
+  },
+  "zl3b_eva_description": {
+    "running_lines": 4130,
+    "paragraph_starts": 740,
+    "paragraph_ends": 740,
+    "paragraph_length_lines": {
+      "median": 4.0,
+      "mean": 5.563513513513514,
+      "min": 2,
+      "max": 32
+    },
+    "paragraph_length_tokens": {
+      "median": 39.0,
+      "mean": 47.37972972972973,
+      "min": 4,
+      "max": 368
+    },
+    "malformed_paragraph_sequences": [],
+    "direct_gallows_at_first_token": {
+      "paragraph_start": {
+        "count": 615,
+        "total": 740,
+        "rate": 0.831081081081081
+      },
+      "other_running_line": {
+        "count": 293,
+        "total": 3390,
+        "rate": 0.0864306784660767
+      },
+      "odds_ratio": 51.75919830049478
+    },
+    "bench_gallows_inside_first_token": {
+      "paragraph_start": {
+        "count": 15,
+        "total": 740,
+        "rate": 0.02027027027027027
+      },
+      "other_running_line": {
+        "count": 68,
+        "total": 3390,
+        "rate": 0.020058997050147492
+      },
+      "odds_ratio": 1.0362599163929231
+    },
+    "terminal_m_at_physical_line_end": {
+      "paragraph_end": {
+        "count": 68,
+        "total": 740,
+        "rate": 0.0918918918918919
+      },
+      "other_running_line": {
+        "count": 567,
+        "total": 3390,
+        "rate": 0.1672566371681416
+      },
+      "odds_ratio": 0.5067808656633314
+    },
+    "initial_letter_top20": {
+      "paragraph_start": [
+        [
+          "p",
+          333
+        ],
+        [
+          "t",
+          172
+        ],
+        [
+          "k",
+          78
+        ],
+        [
+          "o",
+          33
+        ],
+        [
+          "f",
+          32
+        ],
+        [
+          "q",
+          26
+        ],
+        [
+          "c",
+          21
+        ],
+        [
+          "s",
+          15
+        ],
+        [
+          "y",
+          13
+        ],
+        [
+          "d",
+          13
+        ],
+        [
+          "l",
+          2
+        ],
+        [
+          "r",
+          1
+        ],
+        [
+          "a",
+          1
+        ]
+      ],
+      "other_running_line": [
+        [
+          "d",
+          624
+        ],
+        [
+          "s",
+          602
+        ],
+        [
+          "y",
+          595
+        ],
+        [
+          "o",
+          529
+        ],
+        [
+          "q",
+          504
+        ],
+        [
+          "t",
+          221
+        ],
+        [
+          "c",
+          148
+        ],
+        [
+          "l",
+          67
+        ],
+        [
+          "p",
+          44
+        ],
+        [
+          "k",
+          26
+        ],
+        [
+          "a",
+          12
+        ],
+        [
+          "r",
+          11
+        ],
+        [
+          "e",
+          3
+        ],
+        [
+          "f",
+          2
+        ],
+        [
+          "x",
+          1
+        ],
+        [
+          "?",
+          1
+        ]
+      ]
+    },
+    "final_letter_top20": {
+      "paragraph_end": [
+        [
+          "y",
+          336
+        ],
+        [
+          "n",
+          157
+        ],
+        [
+          "r",
+          69
+        ],
+        [
+          "m",
+          68
+        ],
+        [
+          "l",
+          62
+        ],
+        [
+          "s",
+          21
+        ],
+        [
+          "g",
+          8
+        ],
+        [
+          "d",
+          7
+        ],
+        [
+          "o",
+          6
+        ],
+        [
+          "a",
+          2
+        ],
+        [
+          "b",
+          1
+        ],
+        [
+          "i",
+          1
+        ],
+        [
+          "u",
+          1
+        ],
+        [
+          "t",
+          1
+        ]
+      ],
+      "other_running_line": [
+        [
+          "y",
+          1279
+        ],
+        [
+          "m",
+          567
+        ],
+        [
+          "n",
+          475
+        ],
+        [
+          "l",
+          394
+        ],
+        [
+          "r",
+          284
+        ],
+        [
+          "s",
+          117
+        ],
+        [
+          "d",
+          101
+        ],
+        [
+          "g",
+          83
+        ],
+        [
+          "o",
+          48
+        ],
+        [
+          "a",
+          12
+        ],
+        [
+          "i",
+          7
+        ],
+        [
+          "h",
+          5
+        ],
+        [
+          "u",
+          4
+        ],
+        [
+          "f",
+          4
+        ],
+        [
+          "t",
+          2
+        ],
+        [
+          "?",
+          2
+        ],
+        [
+          "e",
+          2
+        ],
+        [
+          "c",
+          2
+        ],
+        [
+          "j",
+          1
+        ],
+        [
+          "p",
+          1
+        ]
+      ]
+    },
+    "terminal_character_profiles": {
+      "?": {
+        "paragraph_end": {
+          "count": 0,
+          "total": 740,
+          "rate": 0.0
+        },
+        "other_running_line": {
+          "count": 2,
+          "total": 3390,
+          "rate": 0.0005899705014749262
+        },
+        "odds_ratio": 0.9151924375422013
+      },
+      "a": {
+        "paragraph_end": {
+          "count": 2,
+          "total": 740,
+          "rate": 0.002702702702702703
+        },
+        "other_running_line": {
+          "count": 12,
+          "total": 3390,
+          "rate": 0.0035398230088495575
+        },
+        "odds_ratio": 0.9149627623561273
+      },
+      "b": {
+        "paragraph_end": {
+          "count": 1,
+          "total": 740,
+          "rate": 0.0013513513513513514
+        },
+        "other_running_line": {
+          "count": 0,
+          "total": 3390,
+          "rate": 0.0
+        },
+        "odds_ratio": 13.754563894523326
+      },
+      "c": {
+        "paragraph_end": {
+          "count": 0,
+          "total": 740,
+          "rate": 0.0
+        },
+        "other_running_line": {
+          "count": 2,
+          "total": 3390,
+          "rate": 0.0005899705014749262
+        },
+        "odds_ratio": 0.9151924375422013
+      },
+      "d": {
+        "paragraph_end": {
+          "count": 7,
+          "total": 740,
+          "rate": 0.00945945945945946
+        },
+        "other_running_line": {
+          "count": 101,
+          "total": 3390,
+          "rate": 0.029793510324483775
+        },
+        "odds_ratio": 0.33137900812958987
+      },
+      "e": {
+        "paragraph_end": {
+          "count": 0,
+          "total": 740,
+          "rate": 0.0
+        },
+        "other_running_line": {
+          "count": 2,
+          "total": 3390,
+          "rate": 0.0005899705014749262
+        },
+        "odds_ratio": 0.9151924375422013
+      },
+      "f": {
+        "paragraph_end": {
+          "count": 0,
+          "total": 740,
+          "rate": 0.0
+        },
+        "other_running_line": {
+          "count": 4,
+          "total": 3390,
+          "rate": 0.0011799410029498525
+        },
+        "odds_ratio": 0.5081401455473029
+      },
+      "g": {
+        "paragraph_end": {
+          "count": 8,
+          "total": 740,
+          "rate": 0.010810810810810811
+        },
+        "other_running_line": {
+          "count": 83,
+          "total": 3390,
+          "rate": 0.02448377581120944
+        },
+        "odds_ratio": 0.45964725838425535
+      },
+      "h": {
+        "paragraph_end": {
+          "count": 0,
+          "total": 740,
+          "rate": 0.0
+        },
+        "other_running_line": {
+          "count": 5,
+          "total": 3390,
+          "rate": 0.0014749262536873156
+        },
+        "odds_ratio": 0.4156282610030078
+      },
+      "i": {
+        "paragraph_end": {
+          "count": 1,
+          "total": 740,
+          "rate": 0.0013513513513513514
+        },
+        "other_running_line": {
+          "count": 7,
+          "total": 3390,
+          "rate": 0.002064896755162242
+        },
+        "odds_ratio": 0.915077755240027
+      },
+      "j": {
+        "paragraph_end": {
+          "count": 0,
+          "total": 740,
+          "rate": 0.0
+        },
+        "other_running_line": {
+          "count": 1,
+          "total": 3390,
+          "rate": 0.0002949852507374631
+        },
+        "odds_ratio": 1.5257708755345487
+      },
+      "l": {
+        "paragraph_end": {
+          "count": 62,
+          "total": 740,
+          "rate": 0.08378378378378379
+        },
+        "other_running_line": {
+          "count": 394,
+          "total": 3390,
+          "rate": 0.11622418879056047
+        },
+        "odds_ratio": 0.6996767453741712
+      },
+      "m": {
+        "paragraph_end": {
+          "count": 68,
+          "total": 740,
+          "rate": 0.0918918918918919
+        },
+        "other_running_line": {
+          "count": 567,
+          "total": 3390,
+          "rate": 0.1672566371681416
+        },
+        "odds_ratio": 0.5067808656633314
+      },
+      "n": {
+        "paragraph_end": {
+          "count": 157,
+          "total": 740,
+          "rate": 0.21216216216216216
+        },
+        "other_running_line": {
+          "count": 475,
+          "total": 3390,
+          "rate": 0.140117994100295
+        },
+        "odds_ratio": 1.6550160972484653
+      },
+      "o": {
+        "paragraph_end": {
+          "count": 6,
+          "total": 740,
+          "rate": 0.008108108108108109
+        },
+        "other_running_line": {
+          "count": 48,
+          "total": 3390,
+          "rate": 0.01415929203539823
+        },
+        "odds_ratio": 0.6098896086123529
+      },
+      "p": {
+        "paragraph_end": {
+          "count": 0,
+          "total": 740,
+          "rate": 0.0
+        },
+        "other_running_line": {
+          "count": 1,
+          "total": 3390,
+          "rate": 0.0002949852507374631
+        },
+        "odds_ratio": 1.5257708755345487
+      },
+      "r": {
+        "paragraph_end": {
+          "count": 69,
+          "total": 740,
+          "rate": 0.09324324324324325
+        },
+        "other_running_line": {
+          "count": 284,
+          "total": 3390,
+          "rate": 0.08377581120943953
+        },
+        "odds_ratio": 1.1301286237170671
+      },
+      "s": {
+        "paragraph_end": {
+          "count": 21,
+          "total": 740,
+          "rate": 0.02837837837837838
+        },
+        "other_running_line": {
+          "count": 117,
+          "total": 3390,
+          "rate": 0.034513274336283185
+        },
+        "odds_ratio": 0.8324959709017787
+      },
+      "t": {
+        "paragraph_end": {
+          "count": 1,
+          "total": 740,
+          "rate": 0.0013513513513513514
+        },
+        "other_running_line": {
+          "count": 2,
+          "total": 3390,
+          "rate": 0.0005899705014749262
+        },
+        "odds_ratio": 2.749290060851927
+      },
+      "u": {
+        "paragraph_end": {
+          "count": 1,
+          "total": 740,
+          "rate": 0.0013513513513513514
+        },
+        "other_running_line": {
+          "count": 4,
+          "total": 3390,
+          "rate": 0.0011799410029498525
+        },
+        "odds_ratio": 1.5264818571106604
+      },
+      "y": {
+        "paragraph_end": {
+          "count": 336,
+          "total": 740,
+          "rate": 0.4540540540540541
+        },
+        "other_running_line": {
+          "count": 1279,
+          "total": 3390,
+          "rate": 0.37728613569321534
+        },
+        "odds_ratio": 1.3728318240814672
+      }
+    },
+    "by_illustration_section": {
+      "A": {
+        "lines": 56,
+        "paragraphs": 17,
+        "ends": 17
+      },
+      "B": {
+        "lines": 745,
+        "paragraphs": 86,
+        "ends": 86
+      },
+      "C": {
+        "lines": 107,
+        "paragraphs": 23,
+        "ends": 23
+      },
+      "H": {
+        "lines": 1608,
+        "paragraphs": 247,
+        "ends": 247
+      },
+      "P": {
+        "lines": 224,
+        "paragraphs": 44,
+        "ends": 44
+      },
+      "S": {
+        "lines": 1164,
+        "paragraphs": 292,
+        "ends": 292
+      },
+      "T": {
+        "lines": 226,
+        "paragraphs": 31,
+        "ends": 31
+      }
+    }
+  },
+  "it2a_eva_sensitivity": {
+    "running_lines": 4118,
+    "paragraph_starts": 772,
+    "paragraph_ends": 772,
+    "paragraph_length_lines": {
+      "median": 4.0,
+      "mean": 5.33419689119171,
+      "min": 1,
+      "max": 32
+    },
+    "paragraph_length_tokens": {
+      "median": 37.0,
+      "mean": 44.67746113989637,
+      "min": 1,
+      "max": 359
+    },
+    "malformed_paragraph_sequences": [],
+    "direct_gallows_at_first_token": {
+      "paragraph_start": {
+        "count": 627,
+        "total": 772,
+        "rate": 0.8121761658031088
+      },
+      "other_running_line": {
+        "count": 285,
+        "total": 3346,
+        "rate": 0.08517632994620443
+      },
+      "odds_ratio": 46.246501886724324
+    },
+    "bench_gallows_inside_first_token": {
+      "paragraph_start": {
+        "count": 23,
+        "total": 772,
+        "rate": 0.029792746113989636
+      },
+      "other_running_line": {
+        "count": 69,
+        "total": 3346,
+        "rate": 0.020621637776449493
+      },
+      "odds_ratio": 1.4786116403741583
+    },
+    "terminal_m_at_physical_line_end": {
+      "paragraph_end": {
+        "count": 77,
+        "total": 772,
+        "rate": 0.09974093264248704
+      },
+      "other_running_line": {
+        "count": 599,
+        "total": 3346,
+        "rate": 0.17901972504482966
+      },
+      "odds_ratio": 0.5106849765170952
+    },
+    "initial_letter_top20": {
+      "paragraph_start": [
+        [
+          "p",
+          337
+        ],
+        [
+          "t",
+          180
+        ],
+        [
+          "k",
+          78
+        ],
+        [
+          "o",
+          39
+        ],
+        [
+          "f",
+          32
+        ],
+        [
+          "q",
+          25
+        ],
+        [
+          "s",
+          22
+        ],
+        [
+          "d",
+          21
+        ],
+        [
+          "c",
+          16
+        ],
+        [
+          "y",
+          16
+        ],
+        [
+          "?",
+          2
+        ],
+        [
+          "e",
+          2
+        ],
+        [
+          "l",
+          2
+        ]
+      ],
+      "other_running_line": [
+        [
+          "d",
+          618
+        ],
+        [
+          "s",
+          589
+        ],
+        [
+          "y",
+          585
+        ],
+        [
+          "o",
+          515
+        ],
+        [
+          "q",
+          508
+        ],
+        [
+          "t",
+          215
+        ],
+        [
+          "c",
+          146
+        ],
+        [
+          "l",
+          66
+        ],
+        [
+          "p",
+          41
+        ],
+        [
+          "k",
+          26
+        ],
+        [
+          "r",
+          17
+        ],
+        [
+          "a",
+          10
+        ],
+        [
+          "e",
+          5
+        ],
+        [
+          "f",
+          3
+        ],
+        [
+          "h",
+          1
+        ],
+        [
+          "x",
+          1
+        ]
+      ]
+    },
+    "final_letter_top20": {
+      "paragraph_end": [
+        [
+          "y",
+          346
+        ],
+        [
+          "n",
+          168
+        ],
+        [
+          "m",
+          77
+        ],
+        [
+          "r",
+          68
+        ],
+        [
+          "l",
+          66
+        ],
+        [
+          "s",
+          25
+        ],
+        [
+          "d",
+          8
+        ],
+        [
+          "g",
+          6
+        ],
+        [
+          "o",
+          6
+        ],
+        [
+          "a",
+          1
+        ],
+        [
+          "t",
+          1
+        ]
+      ],
+      "other_running_line": [
+        [
+          "y",
+          1266
+        ],
+        [
+          "m",
+          599
+        ],
+        [
+          "n",
+          467
+        ],
+        [
+          "l",
+          390
+        ],
+        [
+          "r",
+          278
+        ],
+        [
+          "s",
+          121
+        ],
+        [
+          "d",
+          106
+        ],
+        [
+          "g",
+          49
+        ],
+        [
+          "o",
+          44
+        ],
+        [
+          "a",
+          10
+        ],
+        [
+          "h",
+          6
+        ],
+        [
+          "f",
+          4
+        ],
+        [
+          "t",
+          2
+        ],
+        [
+          "e",
+          2
+        ],
+        [
+          "i",
+          1
+        ],
+        [
+          "p",
+          1
+        ]
+      ]
+    },
+    "terminal_character_profiles": {
+      "a": {
+        "paragraph_end": {
+          "count": 1,
+          "total": 772,
+          "rate": 0.0012953367875647669
+        },
+        "other_running_line": {
+          "count": 10,
+          "total": 3346,
+          "rate": 0.002988643156007173
+        },
+        "odds_ratio": 0.6178131654476438
+      },
+      "d": {
+        "paragraph_end": {
+          "count": 8,
+          "total": 772,
+          "rate": 0.010362694300518135
+        },
+        "other_running_line": {
+          "count": 106,
+          "total": 3346,
+          "rate": 0.031679617453676034
+        },
+        "odds_ratio": 0.3383014459111328
+      },
+      "e": {
+        "paragraph_end": {
+          "count": 0,
+          "total": 772,
+          "rate": 0.0
+        },
+        "other_running_line": {
+          "count": 2,
+          "total": 3346,
+          "rate": 0.0005977286312014345
+        },
+        "odds_ratio": 0.8658899676375404
+      },
+      "f": {
+        "paragraph_end": {
+          "count": 0,
+          "total": 772,
+          "rate": 0.0
+        },
+        "other_running_line": {
+          "count": 4,
+          "total": 3346,
+          "rate": 0.001195457262402869
+        },
+        "odds_ratio": 0.48076231571377204
+      },
+      "g": {
+        "paragraph_end": {
+          "count": 6,
+          "total": 772,
+          "rate": 0.007772020725388601
+        },
+        "other_running_line": {
+          "count": 49,
+          "total": 3346,
+          "rate": 0.014644351464435146
+        },
+        "odds_ratio": 0.5649120032681677
+      },
+      "h": {
+        "paragraph_end": {
+          "count": 0,
+          "total": 772,
+          "rate": 0.0
+        },
+        "other_running_line": {
+          "count": 6,
+          "total": 3346,
+          "rate": 0.0017931858936043037
+        },
+        "odds_ratio": 0.33263629574309184
+      },
+      "i": {
+        "paragraph_end": {
+          "count": 0,
+          "total": 772,
+          "rate": 0.0
+        },
+        "other_running_line": {
+          "count": 1,
+          "total": 3346,
+          "rate": 0.00029886431560071725
+        },
+        "odds_ratio": 1.443581445523193
+      },
+      "l": {
+        "paragraph_end": {
+          "count": 66,
+          "total": 772,
+          "rate": 0.08549222797927461
+        },
+        "other_running_line": {
+          "count": 390,
+          "total": 3346,
+          "rate": 0.11655708308427974
+        },
+        "odds_ratio": 0.7126336478628575
+      },
+      "m": {
+        "paragraph_end": {
+          "count": 77,
+          "total": 772,
+          "rate": 0.09974093264248704
+        },
+        "other_running_line": {
+          "count": 599,
+          "total": 3346,
+          "rate": 0.17901972504482966
+        },
+        "odds_ratio": 0.5106849765170952
+      },
+      "n": {
+        "paragraph_end": {
+          "count": 168,
+          "total": 772,
+          "rate": 0.21761658031088082
+        },
+        "other_running_line": {
+          "count": 467,
+          "total": 3346,
+          "rate": 0.13956963538553496
+        },
+        "odds_ratio": 1.7168765453395434
+      },
+      "o": {
+        "paragraph_end": {
+          "count": 6,
+          "total": 772,
+          "rate": 0.007772020725388601
+        },
+        "other_running_line": {
+          "count": 44,
+          "total": 3346,
+          "rate": 0.01315002988643156
+        },
+        "odds_ratio": 0.6293380827781321
+      },
+      "p": {
+        "paragraph_end": {
+          "count": 0,
+          "total": 772,
+          "rate": 0.0
+        },
+        "other_running_line": {
+          "count": 1,
+          "total": 3346,
+          "rate": 0.00029886431560071725
+        },
+        "odds_ratio": 1.443581445523193
+      },
+      "r": {
+        "paragraph_end": {
+          "count": 68,
+          "total": 772,
+          "rate": 0.08808290155440414
+        },
+        "other_running_line": {
+          "count": 278,
+          "total": 3346,
+          "rate": 0.0830842797369994
+        },
+        "odds_ratio": 1.0712985131489923
+      },
+      "s": {
+        "paragraph_end": {
+          "count": 25,
+          "total": 772,
+          "rate": 0.03238341968911917
+        },
+        "other_running_line": {
+          "count": 121,
+          "total": 3346,
+          "rate": 0.03616258218768679
+        },
+        "odds_ratio": 0.9056278128741897
+      },
+      "t": {
+        "paragraph_end": {
+          "count": 1,
+          "total": 772,
+          "rate": 0.0012953367875647669
+        },
+        "other_running_line": {
+          "count": 2,
+          "total": 3346,
+          "rate": 0.0005977286312014345
+        },
+        "odds_ratio": 2.6010369410239793
+      },
+      "y": {
+        "paragraph_end": {
+          "count": 346,
+          "total": 772,
+          "rate": 0.4481865284974093
+        },
+        "other_running_line": {
+          "count": 1266,
+          "total": 3346,
+          "rate": 0.3783622235505081
+        },
+        "odds_ratio": 1.3345865061840216
+      }
+    },
+    "by_illustration_section": {
+      "A": {
+        "lines": 56,
+        "paragraphs": 18,
+        "ends": 18
+      },
+      "B": {
+        "lines": 745,
+        "paragraphs": 87,
+        "ends": 87
+      },
+      "C": {
+        "lines": 96,
+        "paragraphs": 22,
+        "ends": 22
+      },
+      "H": {
+        "lines": 1608,
+        "paragraphs": 267,
+        "ends": 267
+      },
+      "P": {
+        "lines": 224,
+        "paragraphs": 47,
+        "ends": 47
+      },
+      "S": {
+        "lines": 1163,
+        "paragraphs": 298,
+        "ends": 298
+      },
+      "T": {
+        "lines": 226,
+        "paragraphs": 33,
+        "ends": 33
+      }
+    }
+  },
+  "quire20_star_boundary_audit": {
+    "status": "DESCRIPTIVE_STAR_VS_TRANSCRIBER_BOUNDARY_AUDIT",
+    "source": {
+      "title": "Quire 20 - the recipe section",
+      "url": "https://voynich.nu/q20/index.html",
+      "retrieved_utc": "2026-08-27",
+      "reported_total_stars": 324,
+      "notes": [
+        "The source describes 23 recipe pages and reports 324 marginal stars in total.",
+        "The page-level counts below were transcribed from the source descriptions.",
+        "These counts remain secondary observations until checked against Yale images."
+      ]
+    },
+    "source_sha256": "2620ff35455db98bbc9baed8eaf5e0a79119a5a10c5b1480ef59e2e9ac917476",
+    "totals": {
+      "pages": 23,
+      "stars": 324,
+      "ZL3b_paragraph_starts": 285,
+      "stars_minus_ZL3b": 39,
+      "IT2a_paragraph_starts": 289,
+      "stars_minus_IT2a": 35,
+      "GC2a_paragraph_starts": 321,
+      "stars_minus_GC2a": 3,
+      "RF1b_paragraph_starts": 0,
+      "stars_minus_RF1b": 324
+    },
+    "pages": [
+      {
+        "page": "f103r",
+        "stars": 19,
+        "ZL3b_paragraph_starts": 18,
+        "IT2a_paragraph_starts": 18,
+        "GC2a_paragraph_starts": 19,
+        "RF1b_paragraph_starts": 0
+      },
+      {
+        "page": "f103v",
+        "stars": 14,
+        "ZL3b_paragraph_starts": 13,
+        "IT2a_paragraph_starts": 13,
+        "GC2a_paragraph_starts": 14,
+        "RF1b_paragraph_starts": 0
+      },
+      {
+        "page": "f104r",
+        "stars": 13,
+        "ZL3b_paragraph_starts": 13,
+        "IT2a_paragraph_starts": 13,
+        "GC2a_paragraph_starts": 13,
+        "RF1b_paragraph_starts": 0
+      },
+      {
+        "page": "f104v",
+        "stars": 13,
+        "ZL3b_paragraph_starts": 13,
+        "IT2a_paragraph_starts": 13,
+        "GC2a_paragraph_starts": 13,
+        "RF1b_paragraph_starts": 0
+      },
+      {
+        "page": "f105r",
+        "stars": 10,
+        "ZL3b_paragraph_starts": 10,
+        "IT2a_paragraph_starts": 12,
+        "GC2a_paragraph_starts": 11,
+        "RF1b_paragraph_starts": 0
+      },
+      {
+        "page": "f105v",
+        "stars": 10,
+        "ZL3b_paragraph_starts": 10,
+        "IT2a_paragraph_starts": 10,
+        "GC2a_paragraph_starts": 10,
+        "RF1b_paragraph_starts": 0
+      },
+      {
+        "page": "f106r",
+        "stars": 16,
+        "ZL3b_paragraph_starts": 15,
+        "IT2a_paragraph_starts": 15,
+        "GC2a_paragraph_starts": 15,
+        "RF1b_paragraph_starts": 0
+      },
+      {
+        "page": "f106v",
+        "stars": 14,
+        "ZL3b_paragraph_starts": 15,
+        "IT2a_paragraph_starts": 15,
+        "GC2a_paragraph_starts": 15,
+        "RF1b_paragraph_starts": 0
+      },
+      {
+        "page": "f107r",
+        "stars": 15,
+        "ZL3b_paragraph_starts": 14,
+        "IT2a_paragraph_starts": 15,
+        "GC2a_paragraph_starts": 15,
+        "RF1b_paragraph_starts": 0
+      },
+      {
+        "page": "f107v",
+        "stars": 15,
+        "ZL3b_paragraph_starts": 15,
+        "IT2a_paragraph_starts": 15,
+        "GC2a_paragraph_starts": 15,
+        "RF1b_paragraph_starts": 0
+      },
+      {
+        "page": "f108r",
+        "stars": 16,
+        "ZL3b_paragraph_starts": 14,
+        "IT2a_paragraph_starts": 16,
+        "GC2a_paragraph_starts": 15,
+        "RF1b_paragraph_starts": 0
+      },
+      {
+        "page": "f108v",
+        "stars": 16,
+        "ZL3b_paragraph_starts": 7,
+        "IT2a_paragraph_starts": 10,
+        "GC2a_paragraph_starts": 15,
+        "RF1b_paragraph_starts": 0
+      },
+      {
+        "page": "f111r",
+        "stars": 17,
+        "ZL3b_paragraph_starts": 6,
+        "IT2a_paragraph_starts": 6,
+        "GC2a_paragraph_starts": 16,
+        "RF1b_paragraph_starts": 0
+      },
+      {
+        "page": "f111v",
+        "stars": 19,
+        "ZL3b_paragraph_starts": 8,
+        "IT2a_paragraph_starts": 7,
+        "GC2a_paragraph_starts": 17,
+        "RF1b_paragraph_starts": 0
+      },
+      {
+        "page": "f112r",
+        "stars": 12,
+        "ZL3b_paragraph_starts": 11,
+        "IT2a_paragraph_starts": 10,
+        "GC2a_paragraph_starts": 12,
+        "RF1b_paragraph_starts": 0
+      },
+      {
+        "page": "f112v",
+        "stars": 13,
+        "ZL3b_paragraph_starts": 13,
+        "IT2a_paragraph_starts": 13,
+        "GC2a_paragraph_starts": 13,
+        "RF1b_paragraph_starts": 0
+      },
+      {
+        "page": "f113r",
+        "stars": 16,
+        "ZL3b_paragraph_starts": 16,
+        "IT2a_paragraph_starts": 16,
+        "GC2a_paragraph_starts": 17,
+        "RF1b_paragraph_starts": 0
+      },
+      {
+        "page": "f113v",
+        "stars": 15,
+        "ZL3b_paragraph_starts": 15,
+        "IT2a_paragraph_starts": 15,
+        "GC2a_paragraph_starts": 15,
+        "RF1b_paragraph_starts": 0
+      },
+      {
+        "page": "f114r",
+        "stars": 13,
+        "ZL3b_paragraph_starts": 13,
+        "IT2a_paragraph_starts": 12,
+        "GC2a_paragraph_starts": 13,
+        "RF1b_paragraph_starts": 0
+      },
+      {
+        "page": "f114v",
+        "stars": 12,
+        "ZL3b_paragraph_starts": 12,
+        "IT2a_paragraph_starts": 11,
+        "GC2a_paragraph_starts": 12,
+        "RF1b_paragraph_starts": 0
+      },
+      {
+        "page": "f115r",
+        "stars": 13,
+        "ZL3b_paragraph_starts": 13,
+        "IT2a_paragraph_starts": 13,
+        "GC2a_paragraph_starts": 13,
+        "RF1b_paragraph_starts": 0
+      },
+      {
+        "page": "f115v",
+        "stars": 13,
+        "ZL3b_paragraph_starts": 13,
+        "IT2a_paragraph_starts": 13,
+        "GC2a_paragraph_starts": 13,
+        "RF1b_paragraph_starts": 0
+      },
+      {
+        "page": "f116r",
+        "stars": 10,
+        "ZL3b_paragraph_starts": 8,
+        "IT2a_paragraph_starts": 8,
+        "GC2a_paragraph_starts": 10,
+        "RF1b_paragraph_starts": 0
+      }
+    ],
+    "interpretation_limit": "A star/paragraph count mismatch does not identify the unit's meaning; it shows that marginal stars and visually inferred paragraph gaps cannot be assumed to be the same segmentation layer."
+  },
+  "interpretation_limits": [
+    "Paragraph markers are transcriber decisions, not image-grounded truth.",
+    "A gallows association does not identify a phonetic value.",
+    "A paragraph-final glyph association must be separated from generic physical-line-final allography.",
+    "GC2a uses v101 and contributes boundary agreement only; its glyph strings are not pooled with EVA.",
+    "RF1b has no retained paragraph markers and cannot contribute to boundary agreement."
+  ]
+}

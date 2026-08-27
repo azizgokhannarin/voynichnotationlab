@@ -1,5 +1,20 @@
 # Changelog
 
+## v5.0.0 — 2026-08-27
+
+- pivoted the active program to mechanisms executable by a fifteenth-century human writer;
+- acquired and hash-locked three paragraph-preserving transcriptions plus the markerless RF1b reference;
+- preserved transcriber paragraph calls as annotations rather than image ground truth;
+- found direct gallows at 83.11% of ZL3b paragraph starts versus 8.64% of other lines;
+- independently replicated the result in IT2a at 81.22% versus 8.52%;
+- found no comparable paragraph-start enrichment for the user's nested bench-gallows construction;
+- retained nested gallows as evidence of a compositional graphic operation, not a sound assignment;
+- found EVA `m` less common at paragraph ends than at other physical line ends and rejected it as a paragraph stop;
+- identified `n` and `y` as limited paragraph-final follow-up candidates;
+- audited 324 Quire-20 stars against three sets of paragraph annotations and separated marginal items from visual paragraphs;
+- preregistered blind image-geometry annotation with initial glyphs and stars masked during boundary decisions;
+- opened no final-test page and made no language, content, authorship or decipherment claim.
+
 ## v4.9.1 — 2026-08-26
 
 - incorporated a five-model external methodological review without treating model consensus as manuscript evidence;

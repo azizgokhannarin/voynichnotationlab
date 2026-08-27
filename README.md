@@ -45,7 +45,7 @@ See [`experiments/`](experiments/).
 
 ## Research status
 
-**v4.9.1 — decision revision and transcription-robustness preregistration checkpoint.**
+**v5.0.0 — human-executable layout and paragraph scan checkpoint.**
 
 Direct language search is closed only for the frozen-unit, fixed-boundary, bounded-homophonic
 model class. H_C (hidden linguistic content), H_D (structured non-linguistic content) and H_G
@@ -57,10 +57,13 @@ while the Phase-20 conjunctive STOP rule could remain false indefinitely. The ge
 therefore cancelled as an evidential phase, legacy class-MI is retired as unreproducible, and the
 Phase-18 residual-capacity result is retained only as a weak one-sided, model-specific bound.
 
-The only authorized scientific gate is now transcription/palaeography robustness. Phase 21 freezes
-candidate sources, claim-level invariance criteria, boundary policies, adjudication rules and stop
-conditions, but does **not** authorize challenger Validation scoring. The next action is source
-acquisition and hash locking followed by parser/alignment and tolerance work on TRAIN only; a
-second analysis freeze is required before any challenger Validation result may be opened. Final-test
-pages remain sealed. H_C, H_D and H_G remain open and unranked; H_T remains an active confound. No
-decipherment claim is made.
+Phase 22 narrows the working prior to operations executable by a fifteenth-century human writer and
+starts with document layout rather than language assignment. An exploratory, transcriber-based scan
+finds a strong replicated association between direct gallows and paragraph starts, while showing
+that composite bench-gallows are not paragraph-specific and EVA `m` is a physical-line-final form,
+not paragraph punctuation. Quire-20 stars are treated as a separate item/subentry layer because
+they do not always match visual paragraph counts.
+
+The next authorized action is blind image-geometry adjudication with initial glyphs and marginal
+stars masked during primary boundary calls. No phonetic assignment, language mapping, authorship
+claim or final-test opening is authorized. No decipherment claim is made.

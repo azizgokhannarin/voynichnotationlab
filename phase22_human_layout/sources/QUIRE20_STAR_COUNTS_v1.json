@@ -1,0 +1,39 @@
+{
+  "status": "EXTERNAL_DESCRIPTIVE_SOURCE_NOT_IMAGE_ADJUDICATION",
+  "source": {
+    "title": "Quire 20 - the recipe section",
+    "url": "https://voynich.nu/q20/index.html",
+    "retrieved_utc": "2026-08-27",
+    "reported_total_stars": 324,
+    "notes": [
+      "The source describes 23 recipe pages and reports 324 marginal stars in total.",
+      "The page-level counts below were transcribed from the source descriptions.",
+      "These counts remain secondary observations until checked against Yale images."
+    ]
+  },
+  "page_star_counts": {
+    "f103r": 19,
+    "f103v": 14,
+    "f104r": 13,
+    "f104v": 13,
+    "f105r": 10,
+    "f105v": 10,
+    "f106r": 16,
+    "f106v": 14,
+    "f107r": 15,
+    "f107v": 15,
+    "f108r": 16,
+    "f108v": 16,
+    "f111r": 17,
+    "f111v": 19,
+    "f112r": 12,
+    "f112v": 13,
+    "f113r": 16,
+    "f113v": 15,
+    "f114r": 13,
+    "f114v": 12,
+    "f115r": 13,
+    "f115v": 13,
+    "f116r": 10
+  }
+}

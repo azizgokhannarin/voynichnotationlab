@@ -1,0 +1,50 @@
+{
+  "status": "SOURCE_PAYLOADS_ACQUIRED; IMAGE_MIRROR_DEVELOPMENT_ONLY",
+  "transcriptions": {
+    "ZL3b": {
+      "url": "https://www.voynich.nu/data/ZL3b-n.txt",
+      "sha256": "bf5b6d4ac1e3a51b1847a9c388318d609020441ccd56984c901c32b09beccafc",
+      "role": "primary EVA descriptive source with transcriber paragraph markers"
+    },
+    "IT2a": {
+      "url": "https://www.voynich.nu/data/IT2a-n.txt",
+      "sha256": "7f27a8b0feed8f6de0a99900df6bf912dd1d295c38e5f830bac8b41c3f536fb5",
+      "role": "independent EVA challenger"
+    },
+    "GC2a": {
+      "url": "https://www.voynich.nu/data/GC2a-n.txt",
+      "sha256": "b09570cb6c993bc2d87134d115e60a978650a8a6495483ddbb1f6005a586096f",
+      "role": "v101 boundary sensitivity source"
+    },
+    "RF1b_EVA": {
+      "url": "https://www.voynich.nu/data/RF1b-e.txt",
+      "sha256": "e7d3238e35743e06c63367a933909ec37b1e2de7ada3a1b449447eafa1918782",
+      "role": "legacy merged reference; paragraph markers absent"
+    }
+  },
+  "images": {
+    "authority": {
+      "institution": "Yale Beinecke Rare Book and Manuscript Library",
+      "catalog": "https://collections.library.yale.edu/catalog/2002046",
+      "role": "final image adjudication authority"
+    },
+    "development_mirror": {
+      "url": "https://archive.org/download/voynich-manuscript/Voynich-Manuscript_jp2.zip",
+      "sha256": "52bfb0a62b4ad94ba7b9f6aa533c8aaa8a344e73e2f34166eca5d2e20731748f",
+      "scan_count_in_zip": 209,
+      "limitations": "low-resolution watermarked mirror; geometry development only; not final adjudication"
+    }
+  },
+  "quire20_star_description": {
+    "url": "https://voynich.nu/q20/index.html",
+    "derived_file": "sources/QUIRE20_STAR_COUNTS_v1.json",
+    "derived_file_sha256": "2620ff35455db98bbc9baed8eaf5e0a79119a5a10c5b1480ef59e2e9ac917476",
+    "reported_total_stars": 324,
+    "role": "secondary page-level star counts pending Yale-image adjudication"
+  },
+  "user_observation": {
+    "filename": "user_composite_gallows_observation.png",
+    "sha256": "48fdf777aa8ccc9c4196db8afd6051d19cefa40989c6cee7f2cce172fdb65dd6",
+    "description": "two tall composite frames with ordinary-sized interior marks highlighted by the user"
+  }
+}

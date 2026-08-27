@@ -1,5 +1,19 @@
 # Roadmap
 
+## Phase 22 — Human-executable layout and paragraph structure
+
+- [x] Freeze a fifteenth-century human-executability prior
+- [x] Acquire and hash-lock paragraph-preserving transcriptions
+- [x] Separate transcriber boundaries from physical lines and glyph tests
+- [x] Replicate direct-gallows paragraph-start enrichment in ZL3b and IT2a
+- [x] Test the user's nested/composite gallows observation without assigning sounds
+- [x] Separate Quire-20 marginal stars from visual paragraph boundaries
+- [x] Reject EVA `m` as a paragraph-stop candidate
+- [ ] Blindly annotate TRAIN-page paragraph geometry with first glyphs and stars masked
+- [ ] Adjudicate difficult boundaries against Yale images
+- [ ] Test `n`/`y` paragraph-final enrichment after image-only boundary freeze
+- [ ] Freeze a paragraph/item-aware stream before any renewed language attack
+
 ## Phase 0 — Research hygiene
 - [x] Define working hypotheses
 - [x] Define falsification-first methodology
