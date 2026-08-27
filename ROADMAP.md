@@ -1,5 +1,19 @@
 # Roadmap
 
+## Phase 24 — Final synthesis and external visual validation
+
+- [x] Freeze H20: writing-as-image/private lossy visual mnemonic notation
+- [x] Separate the evidential hypothesis from an unproven author narrative
+- [x] Summarize successful, failed and non-discriminative experiments on the main README
+- [x] Preserve structured pseudo-writing as the explicit competing mechanism
+- [x] Freeze a blind normal/mirrored/disrupted human-perception protocol
+- [x] Freeze the local-copy versus distant-motif visual recurrence discriminator
+- [x] Freeze a held-out external source-manuscript challenge
+- [x] Stop unrestricted language, generator and surface-metric expansion
+- [ ] Acquire external palaeographic/manuscript collaborators and image resources
+- [ ] Run the visual protocol once under preregistered controls
+- [ ] Promote meaningful mnemonic notation only after held-out distant-motif prediction
+
 ## Phase 23 — Paragraph-final closure only
 
 - [x] Freeze the mandatory preceding-ending-conditioned closure hypothesis

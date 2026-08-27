@@ -1,12 +1,16 @@
 # Methodology
 
-## Current interpretation lock (v4.4.1)
+## Current interpretation lock (v6.0.0)
 
-Until the full-size control and the new raw-token control calibration are complete, H_C, H_D and
-H_G are retained as open hypothesis classes and are not ranked. Class-space measurements whose
-archived implementation fails regression may be preserved as historical observations but may not
-be transferred across corpora. No new language search, semantic/illustration crib, Voynich
-generator enrichment or latent-state addition is permitted during this lock.
+H20, writing-as-image/private lossy visual mnemonic notation, is the leading working hypothesis but
+is not a decipherment or established content class. Structured pseudo-writing remains its explicit
+competitor. No new unrestricted language search, generator enrichment, latent-state expansion or
+post-hoc surface metric is permitted. Only preregistered image-grounded tests that distinguish
+meaningful distant motif recurrence from local copy/modify and line-fit behaviour are authorised.
+
+Validation is development-tainted from repeated historical use. Final-test pages remain sealed
+until an external source or visual mechanism makes a directional prediction that was not used to
+construct it.
 
 ## Evidence levels
 

@@ -1,76 +1,133 @@
 # Voynich Notation Lab
 
-An open, hypothesis-driven research project on the Voynich Manuscript.
+An open, falsification-first investigation of the Voynich Manuscript.
 
-## Purpose
+## Current conclusion — v6.0.0
 
-This repository does **not** claim that the Voynich Manuscript has been deciphered. Its purpose is to document observations, formulate falsifiable hypotheses, design reproducible experiments, preserve negative results, and make the reasoning process auditable.
+This project does **not** claim a decipherment. After testing direct language mappings,
+surface-language order, procedural generators, recurrence, residual capacity, latent states,
+paragraph structure and paragraph-final punctuation, our leading working hypothesis is:
 
-The current working direction explores whether Voynichese may be a **personal visual/phonographic notation system** rather than a conventional cipher or ordinary alphabetic script.
+> **Voynichese is writing-as-image: a private, lossy visual mnemonic notation that imitates the
+> appearance and motor rhythm of Western/Latin-script handwriting without preserving an ordinary,
+> recoverable word-by-word language or classical cipher surface.**
 
-## Core research principles
+The writer may have used recurring graphic families to recall internally known words, sounds,
+phrases or concepts. Illustration, page location, paragraph geometry and memory may have supplied
+information that was never written explicitly. The underlying mental language need not have been
+Latin; the visible design may instead borrow the visual habits of Latin-script manuscript culture.
 
-1. Separate **observation**, **interpretation**, and **conclusion**.
-2. Every important hypothesis should have a stated falsification criterion.
-3. Do not assign phonetic values to glyphs prematurely.
-4. Treat page order and production chronology as different variables until demonstrated otherwise.
-5. Compare visual context, glyph position, recurrence, transitions, and chronology jointly.
-6. Preserve failed experiments and alternative explanations.
-7. Avoid claims about identity, gender, relationships, mental state, or motive unless supported by manuscript evidence.
+This model is human-executable in the fifteenth century. It requires no machine-scale cipher,
+large hidden key or modern algorithm: practiced motor chunks, visual analogy, abbreviation,
+local copy/modify behaviour and contextual memory are sufficient.
 
-## Initial research tracks
+## What “writing-as-image” means
 
-### 1. First two pages
-Analyze f1r and f1v as a possible calibration / system-formation region.
+The hypothesis is **not** that the marks are independent random doodles. The surface has stable
+graphic and layout organisation. It is also **not** a claim that the manuscript contains a
+recoverable plaintext under a normal substitution alphabet.
 
-### 2. Repeated persona / voice motifs
-Search for glyph or token motifs disproportionately associated with recurring human-figure contexts, especially the female-figure sections.
+| Ordinary writing/cipher | Writing-as-image hypothesis |
+|---|---|
+| Surface units preserve recoverable letters, words or codes | Surface units may be mixed visual reminders |
+| One mapping is expected to transfer across pages | Reading may depend on image, topic, position and memory |
+| Punctuation or grammar marks boundaries | Layout and decorated starts may supply boundaries |
+| Similar words follow linguistic morphology or formulas | Similar forms may also follow visual analogy and motor memory |
+| A reader with the key can reconstruct plaintext | The writer may have been the only fully equipped reader |
 
-### 3. Glyph and block segmentation
-Test whether single glyphs or recurring multi-glyph blocks behave more like phonemes, syllables, prosodic markers, or structural operators.
+A plausible but unproven production narrative is that the manuscript began as private notes and
+later acquired a more book-like presentation because the writer believed another suitably minded
+reader could understand it. This is an interpretation, not evidence about the writer's identity,
+diagnosis, speech or mental health.
 
-### 4. Conditional frequency analysis
-Measure frequency by token position, line position, page context, manuscript region, and neighboring glyphs—not only globally.
+## How the project reached this hypothesis
 
-### 5. Notation evolution
-Track the first appearance and later handwriting of glyphs/blocks to test whether the notation system appears to develop during manuscript production.
+| Stage | What we asked | What happened | Licensed conclusion |
+|---|---|---|---|
+| Early structural work | Are there stable glyph blocks and positional families? | `qo`, gallows families, terminal families and visible boundaries showed repeatable structure. | The surface is organised, not independent randomness. |
+| Phonetic anchors | Can pictures or familiar-looking strings provide direct words? | Candidate readings such as `daral = wine` failed counterexamples and boundary checks. | Visual resemblance is not a translation anchor. |
+| Terminal decomposition | Do raw word endings behave like ordinary morphology? | `{n,m,y,r,l,s,Ø}` exposed reusable stems, but ending choice was strongly affected by layout and manuscript state. | The terminal system is mixed graphic/structural, not a clean grammatical paradigm. |
+| Phase 13 | Does a bounded phonographic key recover German, Italian, French or Latin? | Language-model fit appeared, but held-out phrase order did not. Positive controls recovered their languages strongly. | Fixed units + fixed visible boundaries + bounded homophony are unsupported. This does not prove absence of hidden content. |
+| Phase 14 | Is a simple line-reset procedural generator sufficient? | It reproduced only 4 of 18 held-out metrics and failed vocabulary, near-neighbour and line-final behaviour. | A simple first-order generator is insufficient. |
+| Phase 15 | Do line-locality and short-range order distinguish language from generation? | Strongly rendered known Latin and real abbreviated medieval Latin reproduced the same broad signature. Legacy class-MI could not be reproduced. | These measurements describe the surface but do not identify content type; legacy class-MI was retired. |
+| Phase 16 | Where does exact-token recurrence live? | Tokens were strongly allocated to pages and physical lines, but reliable within-line identity order disappeared after fixing each line's inventory. | Allocation is real; ordinary long-range word order was not recovered. |
+| Phase 17 | Could structured non-language data look similar? | An unordered transaction/tally control reproduced the qualitative allocation-without-order phenotype at different magnitudes. | The phenotype cannot identify language, records or generation. |
+| Phase 18 | Is residual information capacity too low for hidden content? | A weak unigram/open-vocabulary model left a large one-sided upper bound with high escape rate. | Content-rich hidden material was not rejected, but the bound is not evidence for it. |
+| Phase 19 | Is there a transferable binary line state? | Raw gain was tiny; bootstrap and prequential/MDL gates failed. | The frozen binary line-state subclass is unsupported. |
+| Phase 20–21 | Was the internal statistical program still identifiable? | Reused Validation became development data; broad H_C/H_D/H_G classes could imitate one another; the generator ladder was cancelled. | Unbounded surface-model expansion was stopped; final-test remained sealed. |
+| Phase 22 | Are visible paragraphs real and how are they opened? | Direct gallows began 83.1% of transcriber paragraphs versus 8.6% of other lines; IT2a replicated 81.2% versus 8.5%. Stars and visual paragraphs were not identical layers. | Paragraph openings are strongly designed; marginal stars may mark items/subentries. |
+| Phase 23 | Is there a mandatory paragraph-final point hidden in terminal variants? | Real leave-one-page-out AUC was 0.524/0.556; permutation gates failed. An injected allomorph was recovered at about 0.999 AUC. | No single EVA terminal or bounded ending-conditioned mapping is a universal point. Paragraph closure is probably layout/start-marked. |
+| Perceptual distance check | Does the page retain Western-handwriting appearance when zoomed out? | Normal pages strongly looked like writing; mirrored pages retained much of the word texture but lost normal initial/reading-direction rhythm. No stable Latin words emerged. | The manuscript convincingly reproduces writing texture; this identifies a visual tradition, not a language. |
 
-## Working hypotheses
+## What worked, what failed, and what remains open
 
-See [`hypotheses/`](hypotheses/).
+### Durable observations
 
-## Experiments
+- The script is fluent and graphically practiced.
+- Visible word-like spacing is statistically meaningful as a surface boundary.
+- Token selection is page- and line-sensitive.
+- Near-neighbour visual/token families and productive variation are real surface features.
+- Tall/direct gallows have a strong paragraph-initial role.
+- EVA `m` is strongly physical-line-final but is not paragraph punctuation.
+- Paragraph-final `n`, then `y/r`, are descriptively enriched but do not form a mandatory stop.
+- Quire-20 stars may mark entries smaller than a visual paragraph.
 
-See [`experiments/`](experiments/).
+### Closed or retired bounded explanations
 
-## Research status
+- simple one-to-one or bounded-homophonic direct language mapping under frozen units/boundaries;
+- a simple first-order line-reset generator;
+- the frozen binary line-state model;
+- a universal point represented by one EVA terminal or a small preceding-ending-to-terminal table;
+- legacy class-MI as active evidence.
 
-**v5.1.0 — paragraph-closure allomorph checkpoint.**
+### Not established
 
-Direct language search is closed only for the frozen-unit, fixed-boundary, bounded-homophonic
-model class. H_C (hidden linguistic content), H_D (structured non-linguistic content) and H_G
-(autonomous procedural generation) remain open and deliberately unranked.
+- the underlying mental/spoken language;
+- any phonetic value for an EVA glyph;
+- a recoverable plaintext;
+- a conventional encryption key;
+- author identity, number of writers, diagnosis, motive or intended audience;
+- whether the visual notation recalled meaningful content or produced only structured pseudo-writing.
 
-An external five-model methodological review and an internal re-audit found that the proposed
-bounded-generator ladder could reject implementations without identifying broad content classes,
-while the Phase-20 conjunctive STOP rule could remain false indefinitely. The generator ladder is
-therefore cancelled as an evidential phase, legacy class-MI is retired as unreproducible, and the
-Phase-18 residual-capacity result is retained only as a weak one-sided, model-specific bound.
+## Final hypothesis: H20
 
-Phase 22 narrows the working prior to operations executable by a fifteenth-century human writer and
-starts with document layout rather than language assignment. An exploratory, transcriber-based scan
-finds a strong replicated association between direct gallows and paragraph starts, while showing
-that composite bench-gallows are not paragraph-specific and EVA `m` is a physical-line-final form,
-not paragraph punctuation. Quire-20 stars are treated as a separate item/subentry layer because
-they do not always match visual paragraph counts.
+The complete hypothesis and falsifiers are recorded in
+[`hypotheses/H20_writing_as_image_visual_mnemonic_notation.md`](hypotheses/H20_writing_as_image_visual_mnemonic_notation.md).
 
-The next authorized action is blind image-geometry adjudication with initial glyphs and marginal
-stars masked during primary boundary calls. No phonetic assignment, language mapping, authorship
-claim or final-test opening is authorized. No decipherment claim is made.
+Its most important discriminator is no longer another language model. It is the competition
+between two visual mechanisms:
 
-Phase 23 temporarily narrows the active target further to paragraph-final closure only. On frozen
-TRAIN pages, neither raw final glyphs nor the pre-existing `{n,m,y,r,l,s,Ø}` terminal family yields
-a transferable preceding-ending-conditioned paragraph stop. A deterministic injected positive
-control is recovered nearly perfectly, so the negative result is informative. The sole next target
-is blind image-level microallography of matched paragraph-final and other-line-final word endings;
-EVA may have collapsed a subtle hook, tail, loop or connection difference.
+1. **Meaningful mnemonic notation:** visual families recur across distant pages when the same
+   illustration motif, topic or source concept recurs.
+2. **Structured pseudo-writing:** visual families are explained primarily by immediately preceding
+   forms, motor memory and available line width.
+
+The external test protocol is documented in
+[`docs/EXTERNAL_VISUAL_MNEMONIC_TEST_PROTOCOL.md`](docs/EXTERNAL_VISUAL_MNEMONIC_TEST_PROTOCOL.md).
+
+## Evidence discipline
+
+1. Separate observation, interpretation, hypothesis, result and conclusion.
+2. Preserve negative results and counterexamples.
+3. Do not assign sounds from visual resemblance.
+4. Do not diagnose or invent a biography for the writer.
+5. Treat transcription decisions and proposed scribal hands as confounds.
+6. Keep Validation history explicit and final-test pages sealed.
+7. Do not call a visually compelling hypothesis a decipherment.
+
+## Repository map
+
+- `hypotheses/` — falsifiable mechanism hypotheses;
+- `observations/` — claim-limited surface observations;
+- `results/` — early structural experiments;
+- `phase13_*` through `phase23_*` — calibrated language, generation, audit, paragraph and punctuation tests;
+- `phase24_final_synthesis/` — v6.0.0 decision and claim ledger;
+- `docs/` — external test protocol, final Turkish synthesis and LinkedIn draft.
+
+## Current status
+
+`FINAL_LEADING_HYPOTHESIS_FROZEN; EXTERNAL_VISUAL_VALIDATION_INVITED`
+
+No additional language brute force, unrestricted generator search or post-hoc surface metric is
+authorised. Future work must make a preregistered visual prediction that distinguishes meaningful
+mnemonic notation from structured pseudo-writing.

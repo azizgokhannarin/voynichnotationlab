@@ -24,4 +24,7 @@ Evidence against this hypothesis would include:
 
 ## Status
 
-Open.
+`SUPERSEDED_AND_BROADENED_BY_H20`
+
+The purely phonographic framing became too narrow. H20 retains possible sound cues but permits
+mixed word-shape, concept, visual, prosodic and layout reminders in a lossy private notation.

@@ -1,0 +1,28 @@
+{
+  "version": "v6.0.0",
+  "date": "2026-08-27",
+  "status": "FINAL_LEADING_HYPOTHESIS_FROZEN; EXTERNAL_VISUAL_VALIDATION_INVITED",
+  "leading_hypothesis": {
+    "id": "H20",
+    "name": "writing as image / private lossy visual mnemonic notation",
+    "surface_claim": "The surface imitates Western/Latin-script handwriting texture without a demonstrated recoverable ordinary-language or classical-cipher mapping.",
+    "underlying_language": "UNIDENTIFIED_AND_NOT_REQUIRED_TO_BE_LATIN",
+    "meaning_status": "OPEN_BETWEEN_MEANINGFUL_MNEMONIC_AND_STRUCTURED_PSEUDOWRITING"
+  },
+  "licensed": [
+    "H20 is the leading working hypothesis, not a decipherment.",
+    "The surface is organised and designed rather than independent randomness.",
+    "Direct bounded language mapping and bounded paragraph-terminal point models are unsupported.",
+    "The next discriminator must be image-grounded and held-out."
+  ],
+  "prohibited": [
+    "author diagnosis or neurotype",
+    "named underlying language",
+    "phonetic glyph assignments",
+    "claim of decipherment",
+    "unrestricted additional model search"
+  ],
+  "next_test": "BLIND_VISUAL_LOCAL_COPY_VS_DISTANT_MOTIF_RECURRENCE",
+  "validation_history": "DEVELOPMENT_TAINTED",
+  "final_test": "SEALED"
+}

@@ -1,5 +1,23 @@
 # Changelog
 
+## v6.0.0 — 2026-08-27
+
+- consolidated the complete research journey and negative-result chain on the main README;
+- froze H20, writing-as-image/private lossy visual mnemonic notation, as the leading working hypothesis;
+- distinguished Western/Latin-script visual tradition from an unidentified underlying mental language;
+- preserved structured pseudo-writing as the explicit competing visual mechanism;
+- recorded private-notes-to-book-like-presentation only as an unproven production narrative;
+- prohibited diagnosis, neurotype, speech, identity and motive claims about the writer;
+- integrated the Phase-13 direct-mapping closure, Phase-14 generator failure, Phase-15
+  nondiscriminator, Phase-16 allocation result, Phase-18/19 limits and Phase-20/21 meta-audit;
+- integrated the replicated Phase-22 paragraph-initial gallows result and Quire-20 item-layer distinction;
+- integrated the Phase-23 failure to find a mandatory EVA paragraph point despite certified positive-control power;
+- recorded the normal-versus-mirrored distance-view observation as perceptual exploration, not language evidence;
+- froze three external tests: blind perception, local-copy versus distant-motif recurrence, and a held-out historical source challenge;
+- stopped unrestricted language brute force, generator enrichment and post-hoc metric production;
+- added a Turkish final synthesis and a publishable LinkedIn collaboration request;
+- kept final-test pages sealed and made no decipherment claim.
+
 ## v5.1.0 — 2026-08-27
 
 - restricted the active research target to a mandatory paragraph-final closure operation;
